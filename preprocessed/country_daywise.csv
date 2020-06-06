@@ -7681,7 +7681,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/10/20,Sri Lanka,1,0,1,0,0,0,0
 3/10/20,Sudan,0,0,0,0,0,0,0
 3/10/20,Suriname,0,0,0,0,0,0,0
-3/10/20,Sweden,355,0,1,354,341,0,1
+3/10/20,Sweden,355,0,0,355,341,0,0
 3/10/20,Switzerland,491,3,3,485,464,3,3
 3/10/20,Syria,0,0,0,0,0,0,0
 3/10/20,Taiwan*,47,1,17,29,7,0,8
@@ -7869,7 +7869,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/11/20,Sri Lanka,2,0,1,1,1,0,0
 3/11/20,Sudan,0,0,0,0,0,0,0
 3/11/20,Suriname,0,0,0,0,0,0,0
-3/11/20,Sweden,500,1,1,498,145,1,0
+3/11/20,Sweden,500,1,0,499,145,1,0
 3/11/20,Switzerland,652,4,4,644,161,1,1
 3/11/20,Syria,0,0,0,0,0,0,0
 3/11/20,Taiwan*,48,1,17,30,1,0,0
@@ -8057,7 +8057,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/12/20,Sri Lanka,2,0,1,1,0,0,0
 3/12/20,Sudan,0,0,0,0,0,0,0
 3/12/20,Suriname,0,0,0,0,0,0,0
-3/12/20,Sweden,599,1,1,597,99,0,0
+3/12/20,Sweden,599,1,0,598,99,0,0
 3/12/20,Switzerland,652,4,4,644,0,0,0
 3/12/20,Syria,0,0,0,0,0,0,0
 3/12/20,Taiwan*,49,1,20,28,1,0,3
@@ -8245,7 +8245,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/13/20,Sri Lanka,6,0,1,5,4,0,0
 3/13/20,Sudan,1,1,0,0,1,1,0
 3/13/20,Suriname,0,0,0,0,0,0,0
-3/13/20,Sweden,814,1,1,812,215,0,0
+3/13/20,Sweden,814,1,0,813,215,0,0
 3/13/20,Switzerland,1139,11,4,1124,487,7,0
 3/13/20,Syria,0,0,0,0,0,0,0
 3/13/20,Taiwan*,50,1,20,29,1,0,0
@@ -8433,7 +8433,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/14/20,Sri Lanka,10,0,1,9,4,0,0
 3/14/20,Sudan,1,1,0,0,0,0,0
 3/14/20,Suriname,1,0,0,1,1,0,0
-3/14/20,Sweden,961,2,1,958,147,1,0
+3/14/20,Sweden,961,2,0,959,147,1,0
 3/14/20,Switzerland,1359,13,4,1342,220,2,0
 3/14/20,Syria,0,0,0,0,0,0,0
 3/14/20,Taiwan*,53,1,20,32,3,0,0
@@ -8621,7 +8621,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/15/20,Sri Lanka,18,0,1,17,8,0,0
 3/15/20,Sudan,1,1,0,0,0,0,0
 3/15/20,Suriname,1,0,0,1,0,0,0
-3/15/20,Sweden,1022,3,1,1018,61,1,0
+3/15/20,Sweden,1022,3,0,1019,61,1,0
 3/15/20,Switzerland,2200,14,4,2182,841,1,0
 3/15/20,Syria,0,0,0,0,0,0,0
 3/15/20,Taiwan*,59,1,20,38,6,0,0
@@ -8809,7 +8809,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/16/20,Sri Lanka,28,0,1,27,10,0,0
 3/16/20,Sudan,1,1,0,0,0,0,0
 3/16/20,Suriname,1,0,0,1,0,0,0
-3/16/20,Sweden,1103,6,1,1096,81,3,0
+3/16/20,Sweden,1103,6,0,1097,81,3,0
 3/16/20,Switzerland,2200,14,4,2182,0,0,0
 3/16/20,Syria,0,0,0,0,0,0,0
 3/16/20,Taiwan*,67,1,20,46,8,0,0
@@ -8997,7 +8997,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/17/20,Sri Lanka,44,0,1,43,16,0,0
 3/17/20,Sudan,1,1,0,0,0,0,0
 3/17/20,Suriname,1,0,0,1,0,0,0
-3/17/20,Sweden,1190,7,1,1182,87,1,0
+3/17/20,Sweden,1190,7,0,1183,87,1,0
 3/17/20,Switzerland,2700,27,4,2669,500,13,0
 3/17/20,Syria,0,0,0,0,0,0,0
 3/17/20,Taiwan*,77,1,22,54,10,0,2
@@ -9185,7 +9185,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/18/20,Sri Lanka,51,0,1,50,7,0,0
 3/18/20,Sudan,2,1,0,1,1,0,0
 3/18/20,Suriname,1,0,0,1,0,0,0
-3/18/20,Sweden,1279,10,1,1268,89,3,0
+3/18/20,Sweden,1279,10,0,1269,89,3,0
 3/18/20,Switzerland,3028,28,15,2985,328,1,11
 3/18/20,Syria,0,0,0,0,0,0,0
 3/18/20,Taiwan*,100,1,22,77,23,0,0
@@ -9373,7 +9373,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/19/20,Sri Lanka,60,0,3,57,9,0,2
 3/19/20,Sudan,2,1,0,1,0,0,0
 3/19/20,Suriname,1,0,0,1,0,0,0
-3/19/20,Sweden,1439,11,16,1412,160,1,15
+3/19/20,Sweden,1439,11,0,1428,160,1,0
 3/19/20,Switzerland,4075,41,15,4019,1047,13,0
 3/19/20,Syria,0,0,0,0,0,0,0
 3/19/20,Taiwan*,108,1,26,81,8,0,4
@@ -9561,7 +9561,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/2/20,Sri Lanka,1,0,1,0,0,0,-2
 3/2/20,Sudan,0,0,0,0,0,-1,0
 3/2/20,Suriname,0,0,0,0,0,0,0
-3/2/20,Sweden,15,0,0,15,0,-11,-16
+3/2/20,Sweden,15,0,0,15,0,-11,0
 3/2/20,Switzerland,42,0,0,42,0,-41,-15
 3/2/20,Syria,0,0,0,0,0,0,0
 3/2/20,Taiwan*,41,1,12,28,0,0,-14
@@ -9749,7 +9749,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/20/20,Sri Lanka,73,0,3,70,72,0,2
 3/20/20,Sudan,2,1,0,1,2,1,0
 3/20/20,Suriname,4,0,0,4,4,0,0
-3/20/20,Sweden,1639,16,16,1607,1624,16,16
+3/20/20,Sweden,1639,16,0,1623,1624,16,0
 3/20/20,Switzerland,5294,54,15,5225,5252,54,15
 3/20/20,Syria,0,0,0,0,0,0,0
 3/20/20,Taiwan*,135,2,26,107,94,1,14
@@ -9937,7 +9937,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/21/20,Sri Lanka,77,0,1,76,4,0,-2
 3/21/20,Sudan,2,1,0,1,0,0,0
 3/21/20,Suriname,4,0,0,4,0,0,0
-3/21/20,Sweden,1763,20,16,1727,124,4,0
+3/21/20,Sweden,1763,20,0,1743,124,4,0
 3/21/20,Switzerland,6575,75,15,6485,1281,21,0
 3/21/20,Syria,0,0,0,0,0,0,0
 3/21/20,Taiwan*,153,2,28,123,18,0,2
@@ -10125,7 +10125,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/22/20,Sri Lanka,82,0,3,79,5,0,2
 3/22/20,Sudan,2,1,0,1,0,0,0
 3/22/20,Suriname,5,0,0,5,1,0,0
-3/22/20,Sweden,1934,21,16,1897,171,1,0
+3/22/20,Sweden,1934,21,0,1913,171,1,0
 3/22/20,Switzerland,7474,98,131,7245,899,23,116
 3/22/20,Syria,1,0,0,1,1,0,0
 3/22/20,Taiwan*,169,2,28,139,16,0,0
@@ -10313,7 +10313,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/23/20,Sri Lanka,97,0,3,94,15,0,0
 3/23/20,Sudan,2,1,0,1,0,0,0
 3/23/20,Suriname,5,0,0,5,0,0,0
-3/23/20,Sweden,2046,25,16,2005,112,4,0
+3/23/20,Sweden,2046,25,0,2021,112,4,0
 3/23/20,Switzerland,8795,120,131,8544,1321,22,0
 3/23/20,Syria,1,0,0,1,0,0,0
 3/23/20,Taiwan*,195,2,28,165,26,0,0
@@ -10501,7 +10501,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/24/20,Sri Lanka,102,0,2,100,5,0,-1
 3/24/20,Sudan,3,1,0,2,1,0,0
 3/24/20,Suriname,7,0,0,7,2,0,0
-3/24/20,Sweden,2286,36,16,2234,240,11,0
+3/24/20,Sweden,2286,36,0,2250,240,11,0
 3/24/20,Switzerland,9877,122,131,9624,1082,2,0
 3/24/20,Syria,1,0,0,1,0,0,0
 3/24/20,Taiwan*,215,2,29,184,20,0,1
@@ -10689,7 +10689,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/25/20,Sri Lanka,102,0,3,99,0,0,1
 3/25/20,Sudan,3,1,0,2,0,0,0
 3/25/20,Suriname,8,0,0,8,1,0,0
-3/25/20,Sweden,2526,62,16,2448,240,26,0
+3/25/20,Sweden,2526,62,0,2464,240,26,0
 3/25/20,Switzerland,10897,153,131,10613,1020,31,0
 3/25/20,Syria,5,0,0,5,4,0,0
 3/25/20,Taiwan*,235,2,29,204,20,0,0
@@ -10877,7 +10877,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/26/20,Sri Lanka,106,0,7,99,4,0,4
 3/26/20,Sudan,3,1,0,2,0,0,0
 3/26/20,Suriname,8,0,0,8,0,0,0
-3/26/20,Sweden,2840,77,16,2747,314,15,0
+3/26/20,Sweden,2840,77,0,2763,314,15,0
 3/26/20,Switzerland,11811,191,131,11489,914,38,0
 3/26/20,Syria,5,0,0,5,0,0,0
 3/26/20,Taiwan*,252,2,29,221,17,0,0
@@ -11065,7 +11065,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/27/20,Sri Lanka,106,0,7,99,0,0,0
 3/27/20,Sudan,3,1,0,2,0,0,0
 3/27/20,Suriname,8,0,0,8,0,0,0
-3/27/20,Sweden,3069,105,16,2948,229,28,0
+3/27/20,Sweden,3069,105,0,2964,229,28,0
 3/27/20,Switzerland,12928,231,1530,11167,1117,40,1399
 3/27/20,Syria,5,0,0,5,0,0,0
 3/27/20,Taiwan*,267,2,29,236,15,0,0
@@ -11253,7 +11253,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/28/20,Sri Lanka,113,1,9,103,7,1,2
 3/28/20,Sudan,5,1,0,4,2,0,0
 3/28/20,Suriname,8,0,0,8,0,0,0
-3/28/20,Sweden,3447,105,16,3326,378,0,0
+3/28/20,Sweden,3447,105,0,3342,378,0,0
 3/28/20,Switzerland,14076,264,1530,12282,1148,33,0
 3/28/20,Syria,5,0,0,5,0,0,0
 3/28/20,Taiwan*,283,2,30,251,16,0,1
@@ -11441,7 +11441,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/29/20,Sri Lanka,117,1,11,105,4,0,2
 3/29/20,Sudan,6,1,0,5,1,0,0
 3/29/20,Suriname,8,0,0,8,0,0,0
-3/29/20,Sweden,3700,110,16,3574,253,5,0
+3/29/20,Sweden,3700,110,0,3590,253,5,0
 3/29/20,Switzerland,14829,300,1595,12934,753,36,65
 3/29/20,Syria,9,1,0,8,4,1,0
 3/29/20,Taiwan*,298,2,30,266,15,0,0
@@ -11629,7 +11629,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/3/20,Sri Lanka,1,0,1,0,0,-1,-10
 3/3/20,Sudan,0,0,0,0,0,-1,0
 3/3/20,Suriname,0,0,0,0,0,0,0
-3/3/20,Sweden,21,0,0,21,0,-110,-16
+3/3/20,Sweden,21,0,0,21,0,-110,0
 3/3/20,Switzerland,56,0,2,54,0,-300,-1593
 3/3/20,Syria,0,0,0,0,0,-1,0
 3/3/20,Taiwan*,42,1,12,29,0,-1,-18
@@ -11817,7 +11817,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/30/20,Sri Lanka,122,2,15,105,121,2,14
 3/30/20,Sudan,6,2,0,4,6,2,0
 3/30/20,Suriname,8,0,0,8,8,0,0
-3/30/20,Sweden,4028,146,16,3866,4007,146,16
+3/30/20,Sweden,4028,146,0,3882,4007,146,0
 3/30/20,Switzerland,15922,359,1823,13740,15866,359,1821
 3/30/20,Syria,10,2,0,8,10,2,0
 3/30/20,Taiwan*,306,5,39,262,264,4,27
@@ -12005,7 +12005,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/31/20,Sri Lanka,143,2,17,124,21,0,2
 3/31/20,Sudan,7,2,1,4,1,0,1
 3/31/20,Suriname,9,0,0,9,1,0,0
-3/31/20,Sweden,4435,180,16,4239,407,34,0
+3/31/20,Sweden,4435,180,0,4255,407,34,0
 3/31/20,Switzerland,16605,433,1823,14349,683,74,0
 3/31/20,Syria,10,2,0,8,0,0,0
 3/31/20,Taiwan*,322,5,39,278,16,0,0
@@ -12193,7 +12193,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/4/20,Sri Lanka,1,0,1,0,0,-2,-16
 3/4/20,Sudan,0,0,0,0,0,-2,-1
 3/4/20,Suriname,0,0,0,0,0,0,0
-3/4/20,Sweden,35,0,0,35,0,-180,-16
+3/4/20,Sweden,35,0,0,35,0,-180,0
 3/4/20,Switzerland,90,0,3,87,0,-433,-1820
 3/4/20,Syria,0,0,0,0,0,-2,0
 3/4/20,Taiwan*,42,1,12,29,0,-4,-27
@@ -13133,7 +13133,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/9/20,Sri Lanka,1,0,1,0,0,0,0
 3/9/20,Sudan,0,0,0,0,0,0,0
 3/9/20,Suriname,0,0,0,0,0,0,0
-3/9/20,Sweden,248,0,1,247,45,0,1
+3/9/20,Sweden,248,0,0,248,45,0,0
 3/9/20,Switzerland,374,2,3,369,37,0,0
 3/9/20,Syria,0,0,0,0,0,0,0
 3/9/20,Taiwan*,45,1,15,29,0,0,2
@@ -13321,7 +13321,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/1/20,Sri Lanka,146,3,21,122,145,3,20
 4/1/20,Sudan,7,2,2,3,7,2,2
 4/1/20,Suriname,10,0,0,10,10,0,0
-4/1/20,Sweden,4947,239,103,4605,4699,239,102
+4/1/20,Sweden,4947,239,0,4708,4699,239,0
 4/1/20,Switzerland,17768,488,2967,14313,17394,486,2964
 4/1/20,Syria,10,2,0,8,10,2,0
 4/1/20,Taiwan*,329,5,39,285,284,4,24
@@ -13509,7 +13509,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/10/20,Sri Lanka,190,7,54,129,44,4,33
 4/10/20,Sudan,17,2,2,13,10,0,0
 4/10/20,Suriname,10,1,4,5,0,1,4
-4/10/20,Sweden,9685,870,381,8434,4738,631,278
+4/10/20,Sweden,9685,870,0,8815,4738,631,0
 4/10/20,Switzerland,24551,1002,11100,12449,6783,514,8133
 4/10/20,Syria,19,2,4,13,9,0,4
 4/10/20,Taiwan*,382,6,91,285,53,1,52
@@ -13697,7 +13697,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/11/20,Sri Lanka,198,7,54,137,8,0,0
 4/11/20,Sudan,19,2,2,15,2,0,0
 4/11/20,Suriname,10,1,4,5,0,0,0
-4/11/20,Sweden,10151,887,381,8883,466,17,0
+4/11/20,Sweden,10151,887,0,9264,466,17,0
 4/11/20,Switzerland,25107,1036,12100,11971,556,34,1000
 4/11/20,Syria,25,2,5,18,6,0,1
 4/11/20,Taiwan*,385,6,99,280,3,0,8
@@ -13885,7 +13885,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/12/20,Sri Lanka,210,7,56,147,12,0,2
 4/12/20,Sudan,19,2,2,15,0,0,0
 4/12/20,Suriname,10,1,4,5,0,0,0
-4/12/20,Sweden,10483,899,381,9203,332,12,0
+4/12/20,Sweden,10483,899,0,9584,332,12,0
 4/12/20,Switzerland,25415,1106,12700,11609,308,70,600
 4/12/20,Syria,25,2,5,18,0,0,0
 4/12/20,Taiwan*,388,6,109,273,3,0,10
@@ -14073,7 +14073,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/13/20,Sri Lanka,217,7,56,154,7,0,0
 4/13/20,Sudan,29,4,4,21,10,2,2
 4/13/20,Suriname,10,1,6,3,0,0,2
-4/13/20,Sweden,10948,919,381,9648,465,20,0
+4/13/20,Sweden,10948,919,0,10029,465,20,0
 4/13/20,Switzerland,25688,1138,13700,10850,273,32,1000
 4/13/20,Syria,25,2,5,18,0,0,0
 4/13/20,Taiwan*,393,6,109,278,5,0,0
@@ -14261,7 +14261,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/14/20,Sri Lanka,233,7,61,165,16,0,5
 4/14/20,Sudan,32,5,4,23,3,1,0
 4/14/20,Suriname,10,1,6,3,0,0,0
-4/14/20,Sweden,11445,1033,381,10031,497,114,0
+4/14/20,Sweden,11445,1033,0,10412,497,114,0
 4/14/20,Switzerland,25936,1174,13700,11062,248,36,0
 4/14/20,Syria,29,2,5,22,4,0,0
 4/14/20,Taiwan*,393,6,124,263,0,0,15
@@ -14449,7 +14449,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/15/20,Sri Lanka,238,7,63,168,5,0,2
 4/15/20,Sudan,32,5,4,23,0,0,0
 4/15/20,Suriname,10,1,6,3,0,0,0
-4/15/20,Sweden,11927,1203,381,10343,482,170,0
+4/15/20,Sweden,11927,1203,0,10724,482,170,0
 4/15/20,Switzerland,26336,1239,15400,9697,400,65,1700
 4/15/20,Syria,33,2,5,26,4,0,0
 4/15/20,Taiwan*,395,6,124,265,2,0,0
@@ -14637,7 +14637,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/16/20,Sri Lanka,238,7,68,163,0,0,5
 4/16/20,Sudan,32,5,4,23,0,0,0
 4/16/20,Suriname,10,1,6,3,0,0,0
-4/16/20,Sweden,12540,1333,550,10657,613,130,169
+4/16/20,Sweden,12540,1333,0,11207,613,130,0
 4/16/20,Switzerland,26732,1281,15900,9551,396,42,500
 4/16/20,Syria,33,2,5,26,0,0,0
 4/16/20,Taiwan*,395,6,155,234,0,0,31
@@ -14825,7 +14825,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/17/20,Sri Lanka,244,7,77,160,6,0,9
 4/17/20,Sudan,33,6,4,23,1,1,0
 4/17/20,Suriname,10,1,6,3,0,0,0
-4/17/20,Sweden,13216,1400,550,11266,676,67,0
+4/17/20,Sweden,13216,1400,0,11816,676,67,0
 4/17/20,Switzerland,27078,1327,16400,9351,346,46,500
 4/17/20,Syria,38,2,5,31,5,0,0
 4/17/20,Taiwan*,395,6,166,223,0,0,11
@@ -15013,7 +15013,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/18/20,Sri Lanka,254,7,86,161,10,0,9
 4/18/20,Sudan,66,10,6,50,33,4,2
 4/18/20,Suriname,10,1,6,3,0,0,0
-4/18/20,Sweden,13822,1511,550,11761,606,111,0
+4/18/20,Sweden,13822,1511,0,12311,606,111,0
 4/18/20,Switzerland,27404,1368,17100,8936,326,41,700
 4/18/20,Syria,38,2,5,31,0,0,0
 4/18/20,Taiwan*,398,6,178,214,3,0,12
@@ -15201,7 +15201,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/19/20,Sri Lanka,271,7,96,168,17,0,10
 4/19/20,Sudan,66,10,6,50,0,0,0
 4/19/20,Suriname,10,1,6,3,0,0,0
-4/19/20,Sweden,14385,1540,550,12295,563,29,0
+4/19/20,Sweden,14385,1540,0,12845,563,29,0
 4/19/20,Switzerland,27740,1393,17800,8547,336,25,700
 4/19/20,Syria,39,3,5,31,1,1,0
 4/19/20,Taiwan*,420,6,189,225,22,0,11
@@ -15389,7 +15389,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/2/20,Sri Lanka,151,4,21,126,0,-3,-75
 4/2/20,Sudan,8,2,2,4,0,-8,-4
 4/2/20,Suriname,10,0,0,10,0,-1,-6
-4/2/20,Sweden,5568,308,103,5157,0,-1232,-447
+4/2/20,Sweden,5568,308,0,5260,0,-1232,0
 4/2/20,Switzerland,18827,536,4013,14278,0,-857,-13787
 4/2/20,Syria,16,2,0,14,0,-1,-5
 4/2/20,Taiwan*,339,5,45,289,0,-1,-144
@@ -15577,7 +15577,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/20/20,Sri Lanka,304,7,98,199,153,3,77
 4/20/20,Sudan,107,12,8,87,99,10,6
 4/20/20,Suriname,10,1,6,3,0,1,6
-4/20/20,Sweden,14777,1580,550,12647,9209,1272,447
+4/20/20,Sweden,14777,1580,0,13197,9209,1272,0
 4/20/20,Switzerland,27944,1429,18600,7915,9117,893,14587
 4/20/20,Syria,39,3,5,31,23,1,5
 4/20/20,Taiwan*,422,6,203,213,83,1,158
@@ -15765,7 +15765,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/21/20,Sri Lanka,310,7,102,201,6,0,4
 4/21/20,Sudan,107,12,8,87,0,0,0
 4/21/20,Suriname,10,1,6,3,0,0,0
-4/21/20,Sweden,15322,1765,550,13007,545,185,0
+4/21/20,Sweden,15322,1765,0,13557,545,185,0
 4/21/20,Switzerland,28063,1478,19400,7185,119,49,800
 4/21/20,Syria,42,3,6,33,3,0,1
 4/21/20,Taiwan*,425,6,217,202,3,0,14
@@ -15953,7 +15953,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/22/20,Sri Lanka,330,7,105,218,20,0,3
 4/22/20,Sudan,140,13,12,115,33,1,4
 4/22/20,Suriname,10,1,6,3,0,0,0
-4/22/20,Sweden,16004,1937,550,13517,682,172,0
+4/22/20,Sweden,16004,1937,0,14067,682,172,0
 4/22/20,Switzerland,28268,1509,19900,6859,205,31,500
 4/22/20,Syria,42,3,6,33,0,0,0
 4/22/20,Taiwan*,426,6,236,184,1,0,19
@@ -16141,7 +16141,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/23/20,Sri Lanka,368,7,107,254,38,0,2
 4/23/20,Sudan,174,16,14,144,34,3,2
 4/23/20,Suriname,10,1,6,3,0,0,0
-4/23/20,Sweden,16755,2021,550,14184,751,84,0
+4/23/20,Sweden,16755,2021,0,14734,751,84,0
 4/23/20,Switzerland,28496,1549,20600,6347,228,40,700
 4/23/20,Syria,42,3,6,33,0,0,0
 4/23/20,Taiwan*,427,6,253,168,1,0,17
@@ -16329,7 +16329,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/24/20,Sri Lanka,420,7,109,304,52,0,2
 4/24/20,Sudan,174,16,14,144,0,0,0
 4/24/20,Suriname,10,1,7,2,0,0,1
-4/24/20,Sweden,17567,2152,1005,14410,812,131,455
+4/24/20,Sweden,17567,2152,0,15415,812,131,0
 4/24/20,Switzerland,28677,1589,21000,6088,181,40,400
 4/24/20,Syria,42,3,6,33,0,0,0
 4/24/20,Taiwan*,428,6,264,158,1,0,11
@@ -16517,7 +16517,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/25/20,Sri Lanka,460,7,118,335,40,0,9
 4/25/20,Sudan,213,17,19,177,39,1,5
 4/25/20,Suriname,10,1,7,2,0,0,0
-4/25/20,Sweden,18177,2192,1005,14980,610,40,0
+4/25/20,Sweden,18177,2192,0,15985,610,40,0
 4/25/20,Switzerland,28894,1599,21300,5995,217,10,300
 4/25/20,Syria,42,3,11,28,0,0,5
 4/25/20,Taiwan*,429,6,275,148,1,0,11
@@ -16705,7 +16705,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/26/20,Sri Lanka,523,7,120,396,63,0,2
 4/26/20,Sudan,237,21,20,196,24,4,1
 4/26/20,Suriname,10,1,7,2,0,0,0
-4/26/20,Sweden,18640,2194,1005,15441,463,2,0
+4/26/20,Sweden,18640,2194,0,16446,463,2,0
 4/26/20,Switzerland,29061,1610,21800,5651,167,11,500
 4/26/20,Syria,43,3,14,26,1,0,3
 4/26/20,Taiwan*,429,6,281,142,0,0,6
@@ -16893,7 +16893,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/27/20,Sri Lanka,588,7,126,455,65,0,6
 4/27/20,Sudan,275,22,21,232,38,1,1
 4/27/20,Suriname,10,1,7,2,0,0,0
-4/27/20,Sweden,18926,2274,1005,15647,286,80,0
+4/27/20,Sweden,18926,2274,0,16652,286,80,0
 4/27/20,Switzerland,29164,1665,22200,5299,103,55,400
 4/27/20,Syria,43,3,19,21,0,0,5
 4/27/20,Taiwan*,429,6,290,133,0,0,9
@@ -17081,7 +17081,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/28/20,Sri Lanka,619,7,134,478,31,0,8
 4/28/20,Sudan,318,25,31,262,43,3,10
 4/28/20,Suriname,10,1,7,2,0,0,0
-4/28/20,Sweden,19621,2355,1005,16261,695,81,0
+4/28/20,Sweden,19621,2355,0,17266,695,81,0
 4/28/20,Switzerland,29264,1699,22600,4965,100,34,400
 4/28/20,Syria,43,3,21,19,0,0,2
 4/28/20,Taiwan*,429,6,307,116,0,0,17
@@ -17269,7 +17269,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/29/20,Sri Lanka,649,7,136,506,30,0,2
 4/29/20,Sudan,375,28,32,315,57,3,1
 4/29/20,Suriname,10,1,8,1,0,0,1
-4/29/20,Sweden,20302,2462,1005,16835,681,107,0
+4/29/20,Sweden,20302,2462,0,17840,681,107,0
 4/29/20,Switzerland,29407,1716,22600,5091,143,17,0
 4/29/20,Syria,43,3,21,19,0,0,0
 4/29/20,Taiwan*,429,6,311,112,0,0,4
@@ -17457,7 +17457,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/3/20,Sri Lanka,159,4,24,131,0,-3,-112
 4/3/20,Sudan,10,2,2,6,0,-26,-30
 4/3/20,Suriname,10,1,0,9,0,0,-8
-4/3/20,Sweden,6131,358,205,5568,0,-2104,-800
+4/3/20,Sweden,6131,358,0,5773,0,-2104,0
 4/3/20,Switzerland,19606,591,4846,14169,0,-1125,-17754
 4/3/20,Syria,16,2,0,14,0,-1,-21
 4/3/20,Taiwan*,348,5,50,293,0,-1,-261
@@ -17645,7 +17645,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/30/20,Sri Lanka,663,7,154,502,504,3,130
 4/30/20,Sudan,442,31,39,372,432,29,37
 4/30/20,Suriname,10,1,8,1,0,0,8
-4/30/20,Sweden,21092,2586,1005,17501,14961,2228,800
+4/30/20,Sweden,21092,2586,0,18506,14961,2228,0
 4/30/20,Switzerland,29586,1737,23400,4449,9980,1146,18554
 4/30/20,Syria,43,3,21,19,27,1,21
 4/30/20,Taiwan*,429,6,322,101,81,1,272
@@ -17833,7 +17833,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/4/20,Sri Lanka,166,5,27,134,0,-2,-127
 4/4/20,Sudan,10,2,2,6,0,-29,-37
 4/4/20,Suriname,10,1,0,9,0,0,-8
-4/4/20,Sweden,6443,373,205,5865,0,-2213,-800
+4/4/20,Sweden,6443,373,0,6070,0,-2213,0
 4/4/20,Switzerland,20505,666,6415,13424,0,-1071,-16985
 4/4/20,Syria,16,2,2,12,0,-1,-19
 4/4/20,Taiwan*,355,5,50,300,0,-1,-272
@@ -18021,7 +18021,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/5/20,Sri Lanka,176,5,33,138,10,0,6
 4/5/20,Sudan,12,2,2,8,2,0,0
 4/5/20,Suriname,10,1,0,9,0,0,0
-4/5/20,Sweden,6830,401,205,6224,387,28,0
+4/5/20,Sweden,6830,401,0,6429,387,28,0
 4/5/20,Switzerland,21100,715,6415,13970,595,49,0
 4/5/20,Syria,19,2,2,15,3,0,0
 4/5/20,Taiwan*,363,5,50,308,8,0,0
@@ -18209,7 +18209,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/6/20,Sri Lanka,178,5,38,135,2,0,5
 4/6/20,Sudan,12,2,2,8,0,0,0
 4/6/20,Suriname,10,1,0,9,0,0,0
-4/6/20,Sweden,7206,477,205,6524,376,76,0
+4/6/20,Sweden,7206,477,0,6729,376,76,0
 4/6/20,Switzerland,21657,765,8056,12836,557,50,1641
 4/6/20,Syria,19,2,2,15,0,0,0
 4/6/20,Taiwan*,373,5,57,311,10,0,7
@@ -18397,7 +18397,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/7/20,Sri Lanka,185,6,42,137,7,1,4
 4/7/20,Sudan,14,2,2,10,2,0,0
 4/7/20,Suriname,10,1,0,9,0,0,0
-4/7/20,Sweden,7693,591,205,6897,487,114,0
+4/7/20,Sweden,7693,591,0,7102,487,114,0
 4/7/20,Switzerland,22253,821,8704,12728,596,56,648
 4/7/20,Syria,19,2,3,14,0,0,1
 4/7/20,Taiwan*,376,5,57,314,3,0,0
@@ -18585,7 +18585,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/8/20,Sri Lanka,189,7,44,138,4,1,2
 4/8/20,Sudan,14,2,2,10,0,0,0
 4/8/20,Suriname,10,1,3,6,0,0,3
-4/8/20,Sweden,8419,687,205,7527,726,96,0
+4/8/20,Sweden,8419,687,0,7732,726,96,0
 4/8/20,Switzerland,23280,895,9800,12585,1027,74,1096
 4/8/20,Syria,19,2,4,13,0,0,1
 4/8/20,Taiwan*,379,5,61,313,3,0,4
@@ -18773,7 +18773,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/9/20,Sri Lanka,190,7,49,134,1,0,5
 4/9/20,Sudan,15,2,2,11,1,0,0
 4/9/20,Suriname,10,1,4,5,0,0,1
-4/9/20,Sweden,9141,793,205,8143,722,106,0
+4/9/20,Sweden,9141,793,0,8348,722,106,0
 4/9/20,Switzerland,24051,948,10600,12503,771,53,800
 4/9/20,Syria,19,2,4,13,0,0,0
 4/9/20,Taiwan*,380,5,67,308,1,0,6
@@ -18961,7 +18961,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/1/20,Sri Lanka,690,7,162,521,500,0,113
 5/1/20,Sudan,533,36,46,451,518,34,44
 5/1/20,Suriname,10,1,8,1,0,0,4
-5/1/20,Sweden,21520,2653,1005,17862,12379,1860,800
+5/1/20,Sweden,21520,2653,0,18867,12379,1860,0
 5/1/20,Switzerland,29705,1754,23900,4051,5654,806,13300
 5/1/20,Syria,44,3,27,14,25,1,23
 5/1/20,Taiwan*,429,6,324,99,49,1,257
@@ -19149,7 +19149,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/10/20,Sri Lanka,863,9,321,533,173,2,159
 5/10/20,Sudan,1365,70,149,1146,832,34,103
 5/10/20,Suriname,10,1,9,0,0,0,1
-5/10/20,Sweden,26322,3225,4971,18126,4802,572,3966
+5/10/20,Sweden,26322,3225,0,23097,4802,572,0
 5/10/20,Switzerland,30305,1833,26600,1872,600,79,2700
 5/10/20,Syria,47,3,29,15,3,0,2
 5/10/20,Taiwan*,440,6,366,68,11,0,42
@@ -19337,7 +19337,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/11/20,Sri Lanka,869,9,343,517,6,0,22
 5/11/20,Sudan,1526,74,162,1290,161,4,13
 5/11/20,Suriname,10,1,9,0,0,0,0
-5/11/20,Sweden,26670,3256,4971,18443,348,31,0
+5/11/20,Sweden,26670,3256,0,23414,348,31,0
 5/11/20,Switzerland,30344,1845,26800,1699,39,12,200
 5/11/20,Syria,47,3,29,15,0,0,0
 5/11/20,Taiwan*,440,7,368,65,0,1,2
@@ -19525,7 +19525,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/12/20,Sri Lanka,889,9,366,514,20,0,23
 5/12/20,Sudan,1661,80,173,1408,135,6,11
 5/12/20,Suriname,10,1,9,0,0,0,0
-5/12/20,Sweden,27272,3313,4971,18988,602,57,0
+5/12/20,Sweden,27272,3313,0,23959,602,57,0
 5/12/20,Switzerland,30380,1867,26800,1713,36,22,0
 5/12/20,Syria,47,3,29,15,0,0,0
 5/12/20,Taiwan*,440,7,372,61,0,0,4
@@ -19713,7 +19713,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/13/20,Sri Lanka,915,9,382,524,26,0,16
 5/13/20,Sudan,1818,90,198,1530,157,10,25
 5/13/20,Suriname,10,1,9,0,0,0,0
-5/13/20,Sweden,27909,3460,4971,19478,637,147,0
+5/13/20,Sweden,27909,3460,0,24449,637,147,0
 5/13/20,Switzerland,30413,1870,27100,1443,33,3,300
 5/13/20,Syria,48,3,29,16,1,0,0
 5/13/20,Taiwan*,440,7,375,58,0,0,3
@@ -19901,7 +19901,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/14/20,Sri Lanka,925,9,445,471,10,0,63
 5/14/20,Sudan,1818,90,198,1530,0,0,0
 5/14/20,Suriname,10,1,9,0,0,0,0
-5/14/20,Sweden,28582,3529,4971,20082,673,69,0
+5/14/20,Sweden,28582,3529,0,25053,673,69,0
 5/14/20,Switzerland,30463,1872,27100,1491,50,2,0
 5/14/20,Syria,48,3,29,16,0,0,0
 5/14/20,Taiwan*,440,7,383,50,0,0,8
@@ -20089,7 +20089,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/15/20,Sri Lanka,935,9,477,449,10,0,32
 5/15/20,Sudan,1964,91,205,1668,146,1,7
 5/15/20,Suriname,10,1,9,0,0,0,0
-5/15/20,Sweden,29207,3646,4971,20590,625,117,0
+5/15/20,Sweden,29207,3646,0,25561,625,117,0
 5/15/20,Switzerland,30514,1878,27100,1536,51,6,0
 5/15/20,Syria,50,3,36,11,2,0,7
 5/15/20,Taiwan*,440,7,387,46,0,0,4
@@ -20277,7 +20277,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/16/20,Sri Lanka,960,9,520,431,25,0,43
 5/16/20,Sudan,2289,97,222,1970,325,6,17
 5/16/20,Suriname,10,1,9,0,0,0,0
-5/16/20,Sweden,29677,3674,4971,21032,470,28,0
+5/16/20,Sweden,29677,3674,0,26003,470,28,0
 5/16/20,Switzerland,30572,1879,27400,1293,58,1,300
 5/16/20,Syria,51,3,36,12,1,0,0
 5/16/20,Taiwan*,440,7,389,44,0,0,2
@@ -20465,7 +20465,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/17/20,Sri Lanka,981,9,538,434,21,0,18
 5/17/20,Sudan,2289,97,222,1970,0,0,0
 5/17/20,Suriname,10,1,9,0,0,0,0
-5/17/20,Sweden,30143,3679,4971,21493,466,5,0
+5/17/20,Sweden,30143,3679,0,26464,466,5,0
 5/17/20,Switzerland,30587,1881,27500,1206,15,2,100
 5/17/20,Syria,58,3,36,19,7,0,0
 5/17/20,Taiwan*,440,7,395,38,0,0,6
@@ -20653,7 +20653,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/18/20,Sri Lanka,992,9,559,424,11,0,21
 5/18/20,Sudan,2591,105,247,2239,302,8,25
 5/18/20,Suriname,11,1,9,1,1,0,0
-5/18/20,Sweden,30377,3698,4971,21708,234,19,0
+5/18/20,Sweden,30377,3698,0,26679,234,19,0
 5/18/20,Switzerland,30597,1886,27600,1111,10,5,100
 5/18/20,Syria,58,3,36,19,0,0,0
 5/18/20,Taiwan*,440,7,398,35,0,0,3
@@ -20841,7 +20841,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/19/20,Sri Lanka,1027,9,569,449,35,0,10
 5/19/20,Sudan,2728,111,286,2331,137,6,39
 5/19/20,Suriname,11,1,9,1,0,0,0
-5/19/20,Sweden,30799,3743,4971,22085,422,45,0
+5/19/20,Sweden,30799,3743,0,27056,422,45,0
 5/19/20,Switzerland,30618,1891,27700,1027,21,5,100
 5/19/20,Syria,58,3,36,19,0,0,0
 5/19/20,Taiwan*,440,7,398,35,0,0,0
@@ -21029,7 +21029,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/2/20,Sri Lanka,705,7,172,526,0,-2,-397
 5/2/20,Sudan,592,41,52,499,0,-70,-234
 5/2/20,Suriname,10,1,8,1,0,0,-1
-5/2/20,Sweden,22082,2669,1005,18408,0,-1074,-3966
+5/2/20,Sweden,22082,2669,0,19413,0,-1074,0
 5/2/20,Switzerland,29817,1762,24200,3855,0,-129,-3500
 5/2/20,Syria,44,3,27,14,0,0,-9
 5/2/20,Taiwan*,432,6,324,102,0,-1,-74
@@ -21217,7 +21217,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/20/20,Sri Lanka,1028,9,584,435,323,2,412
 5/20/20,Sudan,2728,111,286,2331,2136,70,234
 5/20/20,Suriname,11,1,9,1,1,0,1
-5/20/20,Sweden,31523,3831,4971,22721,9441,1162,3966
+5/20/20,Sweden,31523,3831,0,27692,9441,1162,0
 5/20/20,Switzerland,30658,1892,27800,966,841,130,3600
 5/20/20,Syria,58,3,36,19,14,0,9
 5/20/20,Taiwan*,440,7,398,35,8,1,74
@@ -21405,7 +21405,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/21/20,Sri Lanka,1055,9,604,442,27,0,20
 5/21/20,Sudan,3138,121,309,2708,410,10,23
 5/21/20,Suriname,11,1,9,1,0,0,0
-5/21/20,Sweden,32172,3871,4971,23330,649,40,0
+5/21/20,Sweden,32172,3871,0,28301,649,40,0
 5/21/20,Switzerland,30694,1898,27900,896,36,6,100
 5/21/20,Syria,58,3,36,19,0,0,0
 5/21/20,Taiwan*,440,7,398,35,0,0,0
@@ -21593,7 +21593,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/22/20,Sri Lanka,1068,9,620,439,13,0,16
 5/22/20,Sudan,3378,137,372,2869,240,16,63
 5/22/20,Suriname,11,1,9,1,0,0,0
-5/22/20,Sweden,32809,3925,4971,23913,637,54,0
+5/22/20,Sweden,32809,3925,0,28884,637,54,0
 5/22/20,Switzerland,30707,1903,27900,904,13,5,0
 5/22/20,Syria,59,4,37,18,1,1,1
 5/22/20,Taiwan*,441,7,408,26,1,0,10
@@ -21781,7 +21781,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/23/20,Sri Lanka,1089,9,660,420,21,0,40
 5/23/20,Sudan,3628,146,424,3058,250,9,52
 5/23/20,Suriname,11,1,9,1,0,0,0
-5/23/20,Sweden,33188,3992,4971,24225,379,67,0
+5/23/20,Sweden,33188,3992,0,29196,379,67,0
 5/23/20,Switzerland,30725,1905,28000,820,18,2,100
 5/23/20,Syria,70,4,37,29,11,0,0
 5/23/20,Taiwan*,441,7,411,23,0,0,3
@@ -21969,7 +21969,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/24/20,Sri Lanka,1141,9,674,458,52,0,14
 5/24/20,Sudan,3820,165,458,3197,192,19,34
 5/24/20,Suriname,11,1,9,1,0,0,0
-5/24/20,Sweden,33459,3998,4971,24490,271,6,0
+5/24/20,Sweden,33459,3998,0,29461,271,6,0
 5/24/20,Switzerland,30736,1906,28100,730,11,1,100
 5/24/20,Syria,86,4,41,41,16,0,4
 5/24/20,Taiwan*,441,7,414,20,0,0,3
@@ -22157,7 +22157,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/25/20,Sri Lanka,1182,10,695,477,41,1,21
 5/25/20,Sudan,3976,170,503,3303,156,5,45
 5/25/20,Suriname,11,1,9,1,0,0,0
-5/25/20,Sweden,33843,4029,4971,24843,384,31,0
+5/25/20,Sweden,33843,4029,0,29814,384,31,0
 5/25/20,Switzerland,30746,1913,28200,633,10,7,100
 5/25/20,Syria,106,4,41,61,20,0,0
 5/25/20,Taiwan*,441,7,415,19,0,0,1
@@ -22345,7 +22345,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/26/20,Sri Lanka,1319,10,712,597,137,0,17
 5/26/20,Sudan,3976,170,503,3303,0,0,0
 5/26/20,Suriname,11,1,9,1,0,0,0
-5/26/20,Sweden,34440,4125,4971,25344,597,96,0
+5/26/20,Sweden,34440,4125,0,30315,597,96,0
 5/26/20,Switzerland,30761,1915,28200,646,15,2,0
 5/26/20,Syria,121,4,41,76,15,0,0
 5/26/20,Taiwan*,441,7,416,18,0,0,1
@@ -22533,7 +22533,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/27/20,Sri Lanka,1469,10,732,727,150,0,20
 5/27/20,Sudan,4346,195,749,3402,370,25,246
 5/27/20,Suriname,12,1,9,2,1,0,0
-5/27/20,Sweden,35088,4220,4971,25897,648,95,0
+5/27/20,Sweden,35088,4220,0,30868,648,95,0
 5/27/20,Switzerland,30776,1917,28300,559,15,2,100
 5/27/20,Syria,121,4,43,74,0,0,2
 5/27/20,Taiwan*,441,7,419,15,0,0,3
@@ -22721,7 +22721,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/28/20,Sri Lanka,1530,10,745,775,61,0,13
 5/28/20,Sudan,4346,195,749,3402,0,0,0
 5/28/20,Suriname,12,1,9,2,0,0,0
-5/28/20,Sweden,35727,4266,4971,26490,639,46,0
+5/28/20,Sweden,35727,4266,0,31461,639,46,0
 5/28/20,Switzerland,30796,1919,28300,577,20,2,0
 5/28/20,Syria,122,4,43,75,1,0,0
 5/28/20,Taiwan*,441,7,420,14,0,0,1
@@ -22909,7 +22909,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/29/20,Sri Lanka,1558,10,754,794,28,0,9
 5/29/20,Sudan,4521,233,816,3472,175,38,67
 5/29/20,Suriname,12,1,9,2,0,0,0
-5/29/20,Sweden,36476,4350,4971,27155,749,84,0
+5/29/20,Sweden,36476,4350,0,32126,749,84,0
 5/29/20,Switzerland,30828,1919,28300,609,32,0,0
 5/29/20,Syria,122,4,43,75,0,0,0
 5/29/20,Taiwan*,442,7,420,15,1,0,0
@@ -23097,7 +23097,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/3/20,Sri Lanka,718,7,184,527,0,-3,-570
 5/3/20,Sudan,592,41,52,499,0,-192,-764
 5/3/20,Suriname,10,1,9,0,0,0,0
-5/3/20,Sweden,22317,2679,1005,18633,0,-1671,-3966
+5/3/20,Sweden,22317,2679,0,19638,0,-1671,0
 5/3/20,Switzerland,29905,1762,24500,3643,0,-157,-3800
 5/3/20,Syria,44,3,27,14,0,-1,-16
 5/3/20,Taiwan*,436,6,332,98,0,-1,-88
@@ -23285,7 +23285,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/30/20,Sri Lanka,1620,10,781,829,902,3,597
 5/30/20,Sudan,4800,262,1272,3266,4208,221,1220
 5/30/20,Suriname,14,1,9,4,4,0,0
-5/30/20,Sweden,37113,4395,4971,27747,14796,1716,3966
+5/30/20,Sweden,37113,4395,0,32718,14796,1716,0
 5/30/20,Switzerland,30845,1919,28400,526,940,157,3900
 5/30/20,Syria,122,4,43,75,78,1,16
 5/30/20,Taiwan*,442,7,421,14,6,1,89
@@ -23473,7 +23473,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/31/20,Sri Lanka,1633,10,801,822,13,0,20
 5/31/20,Sudan,5026,286,1423,3317,226,24,151
 5/31/20,Suriname,23,1,9,13,9,0,0
-5/31/20,Sweden,37542,4395,4971,28176,429,0,0
+5/31/20,Sweden,37542,4395,0,33147,429,0,0
 5/31/20,Switzerland,30862,1920,28500,442,17,1,100
 5/31/20,Syria,122,5,46,71,0,1,3
 5/31/20,Taiwan*,442,7,423,12,0,0,2
@@ -23661,7 +23661,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/4/20,Sri Lanka,751,8,194,549,0,-2,-607
 5/4/20,Sudan,678,41,61,576,0,-245,-1362
 5/4/20,Suriname,10,1,9,0,0,0,0
-5/4/20,Sweden,22721,2769,4074,15878,0,-1626,-897
+5/4/20,Sweden,22721,2769,0,19952,0,-1626,0
 5/4/20,Switzerland,29981,1784,25200,2997,0,-136,-3300
 5/4/20,Syria,44,3,27,14,0,-2,-19
 5/4/20,Taiwan*,438,6,334,98,0,-1,-89
@@ -23849,7 +23849,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/5/20,Sri Lanka,771,9,213,549,20,1,19
 5/5/20,Sudan,778,45,70,663,100,4,9
 5/5/20,Suriname,10,1,9,0,0,0,0
-5/5/20,Sweden,23216,2854,4074,16288,495,85,0
+5/5/20,Sweden,23216,2854,0,20362,495,85,0
 5/5/20,Switzerland,30009,1795,25400,2814,28,11,200
 5/5/20,Syria,44,3,27,14,0,0,0
 5/5/20,Taiwan*,438,6,334,98,0,0,0
@@ -24037,7 +24037,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/6/20,Sri Lanka,797,9,215,573,26,0,2
 5/6/20,Sudan,852,49,80,723,74,4,10
 5/6/20,Suriname,10,1,9,0,0,0,0
-5/6/20,Sweden,23918,2941,4074,16903,702,87,0
+5/6/20,Sweden,23918,2941,0,20977,702,87,0
 5/6/20,Switzerland,30060,1805,25700,2555,51,10,300
 5/6/20,Syria,45,3,27,15,1,0,0
 5/6/20,Taiwan*,439,6,339,94,1,0,5
@@ -24225,7 +24225,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/7/20,Sri Lanka,824,9,232,583,27,0,17
 5/7/20,Sudan,930,52,92,786,78,3,12
 5/7/20,Suriname,10,1,9,0,0,0,0
-5/7/20,Sweden,24623,3040,4971,16612,705,99,897
+5/7/20,Sweden,24623,3040,0,21583,705,99,0
 5/7/20,Switzerland,30126,1810,25900,2416,66,5,200
 5/7/20,Syria,45,3,27,15,0,0,0
 5/7/20,Taiwan*,440,6,347,87,1,0,8
@@ -24413,7 +24413,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/8/20,Sri Lanka,835,9,240,586,11,0,8
 5/8/20,Sudan,1111,59,102,950,181,7,10
 5/8/20,Suriname,10,1,9,0,0,0,0
-5/8/20,Sweden,25265,3175,4971,17119,642,135,0
+5/8/20,Sweden,25265,3175,0,22090,642,135,0
 5/8/20,Switzerland,30207,1823,26100,2284,81,13,200
 5/8/20,Syria,47,3,29,15,2,0,2
 5/8/20,Taiwan*,440,6,355,79,0,0,8
@@ -24601,7 +24601,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/9/20,Sri Lanka,847,9,260,578,12,0,20
 5/9/20,Sudan,1164,64,119,981,53,5,17
 5/9/20,Suriname,10,1,9,0,0,0,0
-5/9/20,Sweden,25921,3220,4971,17730,656,45,0
+5/9/20,Sweden,25921,3220,0,22701,656,45,0
 5/9/20,Switzerland,30251,1830,26400,2021,44,7,300
 5/9/20,Syria,47,3,29,15,0,0,0
 5/9/20,Taiwan*,440,6,361,73,0,0,6
@@ -24789,7 +24789,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/1/20,Sri Lanka,1643,11,811,821,796,2,551
 6/1/20,Sudan,5173,298,1522,3353,4009,234,1403
 6/1/20,Suriname,44,1,9,34,34,0,0
-6/1/20,Sweden,37814,4403,4971,28440,11893,1183,0
+6/1/20,Sweden,37814,4403,0,33411,11893,1183,0
 6/1/20,Switzerland,30871,1920,28500,451,620,90,2100
 6/1/20,Syria,123,5,46,72,76,2,17
 6/1/20,Taiwan*,443,7,427,9,3,1,66
@@ -24850,7 +24850,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/2/20,Canada,93959,7476,50725,35758,671,72,634
 6/2/20,Central African Republic,1069,4,23,1042,0,0,0
 6/2/20,Chad,803,66,562,175,13,0,23
-6/2/20,Chile,108686,1188,21325,86173,3528,75,-23621
+6/2/20,Chile,108686,1188,86173,21325,3528,75,41227
 6/2/20,China,84161,4638,79400,123,7,0,2
 6/2/20,Colombia,30593,1014,9689,19890,1209,51,1305
 6/2/20,Comoros,132,2,27,103,26,0,1
@@ -24977,7 +24977,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/2/20,Sri Lanka,1683,11,823,849,40,0,12
 6/2/20,Sudan,5310,307,1625,3378,137,9,103
 6/2/20,Suriname,54,1,9,44,10,0,0
-6/2/20,Sweden,38589,4468,0,34121,775,65,-4971
+6/2/20,Sweden,38589,4468,0,34121,775,65,0
 6/2/20,Switzerland,30874,1920,28500,454,3,0,0
 6/2/20,Syria,123,6,50,67,0,1,4
 6/2/20,Taiwan*,443,7,427,9,0,0,0
@@ -25003,3 +25003,567 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/2/20,Yemen,399,87,15,297,45,3,1
 6/2/20,Zambia,1089,7,912,170,0,0,0
 6/2/20,Zimbabwe,206,4,29,173,3,0,0
+6/3/20,Afghanistan,17267,294,1522,15451,758,24,72
+6/3/20,Albania,1184,33,898,253,20,0,7
+6/3/20,Algeria,9733,673,6218,2842,107,6,151
+6/3/20,Andorra,851,51,735,65,7,0,2
+6/3/20,Angola,86,4,18,64,0,0,0
+6/3/20,Antigua and Barbuda,26,3,20,3,0,0,0
+6/3/20,Argentina,19268,583,5896,12789,949,14,187
+6/3/20,Armenia,10524,170,3454,6900,515,12,27
+6/3/20,Australia,7240,102,6648,490,11,0,12
+6/3/20,Austria,16771,670,15672,429,12,1,43
+6/3/20,Azerbaijan,6260,76,3665,2519,325,5,101
+6/3/20,Bahamas,102,11,55,36,0,0,6
+6/3/20,Bahrain,12815,20,7410,5385,504,1,3
+6/3/20,Bangladesh,55140,746,11590,42804,2695,37,470
+6/3/20,Barbados,92,7,81,4,0,0,5
+6/3/20,Belarus,45116,248,20171,24697,861,5,976
+6/3/20,Belgium,58685,9522,15959,33204,70,17,25
+6/3/20,Belize,18,2,16,0,0,0,0
+6/3/20,Benin,244,3,148,93,0,0,0
+6/3/20,Bhutan,47,0,9,38,0,0,0
+6/3/20,Bolivia,11638,400,1507,9731,647,24,209
+6/3/20,Bosnia and Herzegovina,2551,157,1939,455,16,0,29
+6/3/20,Botswana,40,1,23,16,0,0,0
+6/3/20,Brazil,584016,32548,238617,312851,28633,1349,14979
+6/3/20,Brunei,141,2,138,1,0,0,0
+6/3/20,Bulgaria,2560,146,1206,1208,22,2,83
+6/3/20,Burkina Faso,884,53,753,78,3,0,33
+6/3/20,Burma,233,6,145,82,1,0,2
+6/3/20,Burundi,63,1,33,29,0,0,0
+6/3/20,Cabo Verde,477,5,238,234,11,0,1
+6/3/20,Cambodia,125,0,123,2,0,0,0
+6/3/20,Cameroon,6585,200,3676,2709,0,0,0
+6/3/20,Canada,94641,7579,51506,35556,682,103,781
+6/3/20,Central African Republic,1173,4,23,1146,104,0,0
+6/3/20,Chad,820,66,590,164,17,0,28
+6/3/20,Chile,113628,1275,90748,21605,4942,87,4575
+6/3/20,China,84160,4638,79404,118,0,0,4
+6/3/20,Colombia,31935,1057,11171,19707,1342,43,1482
+6/3/20,Comoros,132,2,27,103,0,0,0
+6/3/20,Congo (Brazzaville),611,20,179,412,0,0,0
+6/3/20,Congo (Kinshasa),3495,75,492,2928,169,3,10
+6/3/20,Costa Rica,1157,10,685,462,52,0,3
+6/3/20,Cote d'Ivoire,3110,35,1530,1545,86,2,29
+6/3/20,Croatia,2246,103,2095,48,0,0,7
+6/3/20,Cuba,2107,83,1830,194,15,0,3
+6/3/20,Cyprus,958,17,790,151,6,0,0
+6/3/20,Czechia,9438,325,6749,2364,74,2,63
+6/3/20,Denmark,11971,580,10750,641,37,0,63
+6/3/20,Diamond Princess,712,13,651,48,0,0,0
+6/3/20,Djibouti,3935,26,1636,2273,156,1,29
+6/3/20,Dominica,18,0,16,2,0,0,0
+6/3/20,Dominican Republic,18040,516,11224,6300,288,1,149
+6/3/20,Ecuador,40966,3486,20019,17461,552,48,0
+6/3/20,Egypt,28615,1088,7350,20177,1079,36,523
+6/3/20,El Salvador,2705,51,1186,1468,52,2,26
+6/3/20,Equatorial Guinea,1306,12,200,1094,0,0,0
+6/3/20,Eritrea,39,0,39,0,0,0,0
+6/3/20,Estonia,1880,69,1650,161,10,1,18
+6/3/20,Eswatini,295,3,201,91,1,0,3
+6/3/20,Ethiopia,1486,17,246,1223,142,3,15
+6/3/20,Fiji,18,0,15,3,0,0,0
+6/3/20,Finland,6911,321,5500,1090,24,1,0
+6/3/20,France,192330,29024,69573,93733,3880,81,643
+6/3/20,Gabon,2902,20,801,2081,99,0,22
+6/3/20,Gambia,26,1,20,5,1,0,0
+6/3/20,Georgia,800,13,640,147,4,0,6
+6/3/20,Germany,184121,8602,167453,8066,242,39,844
+6/3/20,Ghana,8548,38,3132,5378,251,0,146
+6/3/20,Greece,2937,179,1374,1384,0,0,0
+6/3/20,Grenada,23,0,18,5,0,0,0
+6/3/20,Guatemala,5760,143,929,4688,174,20,105
+6/3/20,Guinea,3933,23,2332,1578,47,0,65
+6/3/20,Guinea-Bissau,1339,8,53,1278,0,0,0
+6/3/20,Guyana,153,12,70,71,0,0,0
+6/3/20,Haiti,2507,48,24,2435,281,3,0
+6/3/20,Holy See,12,0,2,10,0,0,0
+6/3/20,Honduras,5690,234,617,4839,163,9,54
+6/3/20,Hungary,3931,534,2190,1207,10,2,30
+6/3/20,Iceland,1806,10,1794,2,0,0,0
+6/3/20,India,216824,6088,104071,106665,9633,259,3786
+6/3/20,Indonesia,28233,1698,8406,18129,684,35,471
+6/3/20,Iran,160696,8012,125206,27478,3134,70,2129
+6/3/20,Iraq,8168,256,4095,3817,781,21,587
+6/3/20,Ireland,25111,1659,22698,754,45,1,609
+6/3/20,Israel,17377,291,14983,2103,92,1,43
+6/3/20,Italy,233836,33601,160938,39297,321,71,846
+6/3/20,Jamaica,591,10,361,220,1,1,5
+6/3/20,Japan,16867,905,14702,1260,30,3,117
+6/3/20,Jordan,757,9,561,187,2,0,12
+6/3/20,Kazakhstan,12067,48,6240,5779,496,4,299
+6/3/20,Kenya,2216,74,553,1589,123,3,54
+6/3/20,"Korea, South",11629,273,10499,857,39,0,32
+6/3/20,Kosovo,1142,30,871,241,78,0,42
+6/3/20,Kuwait,29359,230,15750,13379,710,4,1469
+6/3/20,Kyrgyzstan,1871,20,1265,586,26,3,46
+6/3/20,Laos,19,0,18,1,0,0,2
+6/3/20,Latvia,1079,24,760,295,8,0,0
+6/3/20,Lebanon,1256,27,724,505,14,0,5
+6/3/20,Lesotho,4,0,2,2,2,0,1
+6/3/20,Liberia,316,28,169,119,5,0,2
+6/3/20,Libya,196,5,52,139,14,0,0
+6/3/20,Liechtenstein,82,1,55,26,0,0,0
+6/3/20,Lithuania,1684,71,1260,353,2,0,11
+6/3/20,Luxembourg,4024,110,3861,53,4,0,13
+6/3/20,MS Zaandam,9,2,0,7,0,0,0
+6/3/20,Madagascar,908,6,195,707,63,0,10
+6/3/20,Malawi,369,4,51,314,11,0,9
+6/3/20,Malaysia,7970,115,6531,1324,93,0,61
+6/3/20,Maldives,1850,7,644,1199,9,0,36
+6/3/20,Mali,1386,79,788,519,35,1,19
+6/3/20,Malta,622,9,562,51,2,0,8
+6/3/20,Mauritania,745,34,57,654,77,3,2
+6/3/20,Mauritius,335,10,322,3,0,0,0
+6/3/20,Mexico,101238,11729,72680,16829,3912,1092,2931
+6/3/20,Moldova,8795,310,4863,3622,247,3,125
+6/3/20,Monaco,99,4,90,5,0,0,0
+6/3/20,Mongolia,185,0,44,141,0,0,0
+6/3/20,Montenegro,324,9,315,0,0,0,0
+6/3/20,Morocco,7922,206,6866,850,56,0,456
+6/3/20,Mozambique,316,2,109,205,9,0,11
+6/3/20,Namibia,25,0,16,9,0,0,0
+6/3/20,Nepal,2300,9,278,2013,201,1,12
+6/3/20,Netherlands,46939,5996,180,40763,87,10,0
+6/3/20,New Zealand,1504,22,1481,1,0,0,0
+6/3/20,Nicaragua,1118,46,370,702,0,0,0
+6/3/20,Niger,961,65,857,39,1,0,9
+6/3/20,Nigeria,11166,315,3329,7522,347,1,89
+6/3/20,North Macedonia,2492,145,1605,742,101,4,10
+6/3/20,Norway,8477,237,7727,513,22,0,0
+6/3/20,Oman,13537,67,2845,10625,738,8,33
+6/3/20,Pakistan,80463,1688,28923,49852,4065,67,1813
+6/3/20,Panama,14609,357,9519,4733,514,5,5
+6/3/20,Papua New Guinea,8,0,8,0,0,0,0
+6/3/20,Paraguay,1070,11,511,548,57,0,13
+6/3/20,Peru,178914,4894,72319,101701,8875,260,3062
+6/3/20,Philippines,19748,974,4153,14621,751,8,90
+6/3/20,Poland,24687,1115,12014,11558,292,23,288
+6/3/20,Portugal,33261,1447,20079,11735,366,11,210
+6/3/20,Qatar,62160,45,37542,24573,1901,2,1506
+6/3/20,Romania,19669,1296,13800,4573,152,8,274
+6/3/20,Russia,431715,5208,195559,230948,8529,177,8957
+6/3/20,Rwanda,397,2,271,124,13,0,2
+6/3/20,Saint Kitts and Nevis,15,0,15,0,0,0,0
+6/3/20,Saint Lucia,18,0,18,0,0,0,0
+6/3/20,Saint Vincent and the Grenadines,26,0,15,11,0,0,0
+6/3/20,San Marino,674,42,391,241,2,0,7
+6/3/20,Sao Tome and Principe,484,12,68,404,0,0,0
+6/3/20,Saudi Arabia,91182,579,68159,22444,2171,30,2369
+6/3/20,Senegal,3932,45,2063,1824,96,2,109
+6/3/20,Serbia,11523,245,6852,4426,69,0,86
+6/3/20,Seychelles,11,0,11,0,0,0,0
+6/3/20,Sierra Leone,909,47,491,371,13,1,11
+6/3/20,Singapore,36405,24,23582,12799,569,0,407
+6/3/20,Slovakia,1525,28,1375,122,3,0,3
+6/3/20,Slovenia,1477,109,1358,10,2,0,0
+6/3/20,Somalia,2146,79,406,1661,57,0,45
+6/3/20,South Africa,37525,792,19682,17051,1713,37,1369
+6/3/20,South Sudan,994,10,6,978,0,0,0
+6/3/20,Spain,240326,27128,150376,62822,394,1,0
+6/3/20,Sri Lanka,1749,11,836,902,66,0,13
+6/3/20,Sudan,5499,314,1711,3474,189,7,86
+6/3/20,Suriname,74,1,9,64,20,0,0
+6/3/20,Sweden,40803,4542,0,36261,2214,74,0
+6/3/20,Switzerland,30893,1921,28600,372,19,1,100
+6/3/20,Syria,123,6,53,64,0,0,3
+6/3/20,Taiwan*,443,7,428,8,0,0,1
+6/3/20,Tajikistan,4191,48,2347,1796,91,1,130
+6/3/20,Tanzania,509,21,183,305,0,0,0
+6/3/20,Thailand,3084,58,2968,58,1,0,2
+6/3/20,Timor-Leste,24,0,24,0,0,0,0
+6/3/20,Togo,452,13,236,203,7,0,6
+6/3/20,Trinidad and Tobago,117,8,108,1,0,0,0
+6/3/20,Tunisia,1087,49,965,73,1,1,0
+6/3/20,Turkey,166422,4609,130852,30961,867,24,931
+6/3/20,US,1851520,107175,479258,1265087,19699,995,15390
+6/3/20,Uganda,507,0,82,425,18,0,0
+6/3/20,Ukraine,25385,742,10838,13805,490,9,377
+6/3/20,United Arab Emirates,36359,270,19153,16936,571,1,427
+6/3/20,United Kingdom,281270,39811,1212,240247,1878,359,-12
+6/3/20,Uruguay,828,23,698,107,2,0,7
+6/3/20,Uzbekistan,3843,16,3014,813,83,1,106
+6/3/20,Venezuela,1952,20,334,1598,133,2,0
+6/3/20,Vietnam,328,0,302,26,0,0,4
+6/3/20,West Bank and Gaza,457,3,372,82,6,0,0
+6/3/20,Western Sahara,9,1,6,2,0,0,0
+6/3/20,Yemen,419,95,17,307,20,8,2
+6/3/20,Zambia,1089,7,912,170,0,0,0
+6/3/20,Zimbabwe,222,4,29,189,16,0,0
+6/4/20,Afghanistan,18054,300,1585,16169,787,6,63
+6/4/20,Albania,1197,33,898,266,13,0,0
+6/4/20,Algeria,9831,681,6297,2853,98,8,79
+6/4/20,Andorra,852,51,738,63,1,0,3
+6/4/20,Angola,86,4,18,64,0,0,0
+6/4/20,Antigua and Barbuda,26,3,20,3,0,0,0
+6/4/20,Argentina,20197,608,5993,13596,929,25,97
+6/4/20,Armenia,11221,176,3468,7577,697,6,14
+6/4/20,Australia,7247,102,6683,462,7,0,35
+6/4/20,Austria,16805,670,15717,418,34,0,45
+6/4/20,Azerbaijan,6522,78,3737,2707,262,2,72
+6/4/20,Bahamas,102,11,55,36,0,0,0
+6/4/20,Bahrain,13296,21,7728,5547,481,1,318
+6/4/20,Bangladesh,57563,781,12161,44621,2423,35,571
+6/4/20,Barbados,92,7,81,4,0,0,0
+6/4/20,Belarus,45981,253,21162,24566,865,5,991
+6/4/20,Belgium,58767,9548,16048,33171,82,26,89
+6/4/20,Belize,18,2,16,0,0,0,0
+6/4/20,Benin,261,3,151,107,17,0,3
+6/4/20,Bhutan,47,0,9,38,0,0,0
+6/4/20,Bolivia,12245,415,1658,10172,607,15,151
+6/4/20,Bosnia and Herzegovina,2594,159,1951,484,43,2,12
+6/4/20,Botswana,40,1,23,16,0,0,0
+6/4/20,Brazil,614941,34021,254963,325957,30925,1473,16346
+6/4/20,Brunei,141,2,138,1,0,0,0
+6/4/20,Bulgaria,2585,147,1322,1116,25,1,116
+6/4/20,Burkina Faso,885,53,760,72,1,0,7
+6/4/20,Burma,236,6,148,82,3,0,3
+6/4/20,Burundi,63,1,33,29,0,0,0
+6/4/20,Cabo Verde,502,5,239,258,25,0,1
+6/4/20,Cambodia,125,0,123,2,0,0,0
+6/4/20,Cameroon,6789,203,3705,2881,204,3,29
+6/4/20,Canada,95269,7717,52184,35368,628,138,678
+6/4/20,Central African Republic,1288,4,23,1261,115,0,0
+6/4/20,Chad,828,66,633,129,8,0,43
+6/4/20,Chile,118292,1356,95631,21305,4664,81,4883
+6/4/20,China,84171,4638,79415,118,11,0,11
+6/4/20,Colombia,33466,1099,12319,20048,1531,42,1148
+6/4/20,Comoros,132,2,55,75,0,0,28
+6/4/20,Congo (Brazzaville),611,20,179,412,0,0,0
+6/4/20,Congo (Kinshasa),3644,78,495,3071,149,3,3
+6/4/20,Costa Rica,1194,10,687,497,37,0,2
+6/4/20,Cote d'Ivoire,3262,35,1584,1643,152,0,54
+6/4/20,Croatia,2247,103,2105,39,1,0,10
+6/4/20,Cuba,2119,83,1839,197,12,0,9
+6/4/20,Cyprus,958,17,790,151,0,0,0
+6/4/20,Czechia,9494,326,6809,2359,56,1,60
+6/4/20,Denmark,12011,582,10820,609,40,2,70
+6/4/20,Diamond Princess,712,13,651,48,0,0,0
+6/4/20,Djibouti,4054,26,1685,2343,119,0,49
+6/4/20,Dominica,18,0,16,2,0,0,0
+6/4/20,Dominican Republic,18319,520,11474,6325,279,4,250
+6/4/20,Ecuador,40966,3486,20019,17461,0,0,0
+6/4/20,Egypt,29767,1126,7756,20885,1152,38,406
+6/4/20,El Salvador,2781,52,1214,1515,76,1,28
+6/4/20,Equatorial Guinea,1306,12,200,1094,0,0,0
+6/4/20,Eritrea,39,0,39,0,0,0,0
+6/4/20,Estonia,1890,69,1663,158,10,0,13
+6/4/20,Eswatini,300,3,201,96,5,0,0
+6/4/20,Ethiopia,1636,18,250,1368,150,1,4
+6/4/20,Fiji,18,0,18,0,0,0,3
+6/4/20,Finland,6911,322,5800,789,0,1,300
+6/4/20,France,189569,29068,70094,90407,0,44,521
+6/4/20,Gabon,2955,21,818,2116,53,1,17
+6/4/20,Gambia,26,1,20,5,0,0,0
+6/4/20,Georgia,801,13,644,144,1,0,4
+6/4/20,Germany,184472,8635,167909,7928,351,33,456
+6/4/20,Ghana,8885,38,3189,5658,337,0,57
+6/4/20,Greece,2952,180,1374,1398,15,1,0
+6/4/20,Grenada,23,0,18,5,0,0,0
+6/4/20,Guatemala,6154,158,979,5017,394,15,50
+6/4/20,Guinea,3991,23,2512,1456,58,0,180
+6/4/20,Guinea-Bissau,1339,8,53,1278,0,0,0
+6/4/20,Guyana,153,12,77,64,0,0,7
+6/4/20,Haiti,2640,50,24,2566,133,2,0
+6/4/20,Holy See,12,0,2,10,0,0,0
+6/4/20,Honduras,5880,243,648,4989,190,9,31
+6/4/20,Hungary,3954,539,2205,1210,23,5,15
+6/4/20,Iceland,1806,10,1794,2,0,0,0
+6/4/20,India,226713,6363,108450,111900,9889,275,4379
+6/4/20,Indonesia,28818,1721,8892,18205,585,23,486
+6/4/20,Iran,164270,8071,127485,28714,3574,59,2279
+6/4/20,Iraq,8840,271,4338,4231,672,15,243
+6/4/20,Ireland,25142,1664,22698,780,31,5,0
+6/4/20,Israel,17495,291,15013,2191,118,0,30
+6/4/20,Italy,234013,33689,161895,38429,177,88,957
+6/4/20,Jamaica,591,10,368,213,0,0,7
+6/4/20,Japan,16911,911,14785,1215,44,6,83
+6/4/20,Jordan,765,9,566,190,8,0,5
+6/4/20,Kazakhstan,12067,52,6606,5409,0,4,366
+6/4/20,Kenya,2340,78,592,1670,124,4,39
+6/4/20,"Korea, South",11668,273,10506,889,39,0,7
+6/4/20,Kosovo,1142,30,871,241,0,0,0
+6/4/20,Kuwait,29921,236,17223,12462,562,6,1473
+6/4/20,Kyrgyzstan,1899,20,1292,587,28,0,27
+6/4/20,Laos,19,0,18,1,0,0,0
+6/4/20,Latvia,1082,25,760,297,3,1,0
+6/4/20,Lebanon,1306,28,731,547,50,1,7
+6/4/20,Lesotho,4,0,2,2,0,0,0
+6/4/20,Liberia,321,28,175,118,5,0,6
+6/4/20,Libya,209,5,52,152,13,0,0
+6/4/20,Liechtenstein,82,1,55,26,0,0,0
+6/4/20,Lithuania,1687,71,1273,343,3,0,13
+6/4/20,Luxembourg,4027,110,3874,43,3,0,13
+6/4/20,MS Zaandam,9,2,0,7,0,0,0
+6/4/20,Madagascar,957,7,200,750,49,1,5
+6/4/20,Malawi,393,4,51,338,24,0,0
+6/4/20,Malaysia,8247,115,6559,1573,277,0,28
+6/4/20,Maldives,1872,7,648,1217,22,0,4
+6/4/20,Mali,1461,85,806,570,75,6,18
+6/4/20,Malta,622,9,576,37,0,0,14
+6/4/20,Mauritania,784,39,65,680,39,5,8
+6/4/20,Mauritius,335,10,322,3,0,0,0
+6/4/20,Mexico,105680,12545,74758,18377,4442,816,2078
+6/4/20,Moldova,9018,315,5009,3694,223,5,146
+6/4/20,Monaco,99,4,92,3,0,0,2
+6/4/20,Mongolia,186,0,65,121,1,0,21
+6/4/20,Montenegro,324,9,315,0,0,0,0
+6/4/20,Morocco,8003,208,7195,600,81,2,329
+6/4/20,Mozambique,352,2,114,236,36,0,5
+6/4/20,Namibia,25,0,16,9,0,0,0
+6/4/20,Nepal,2634,10,290,2334,334,1,12
+6/4/20,Netherlands,47148,6009,180,40959,209,13,0
+6/4/20,New Zealand,1504,22,1481,1,0,0,0
+6/4/20,Nicaragua,1118,46,370,702,0,0,0
+6/4/20,Niger,963,65,860,38,2,0,3
+6/4/20,Nigeria,11516,323,3535,7658,350,8,206
+6/4/20,North Macedonia,2611,147,1621,843,119,2,16
+6/4/20,Norway,8504,238,8138,128,27,1,411
+6/4/20,Oman,14316,67,3451,10798,779,0,606
+6/4/20,Pakistan,85264,1770,30128,53366,4801,82,1205
+6/4/20,Panama,15044,363,9619,5062,435,6,100
+6/4/20,Papua New Guinea,8,0,8,0,0,0,0
+6/4/20,Paraguay,1086,11,511,564,16,0,0
+6/4/20,Peru,183198,5031,76228,101939,4284,137,3909
+6/4/20,Philippines,20382,984,4248,15150,634,10,95
+6/4/20,Poland,25048,1117,12227,11704,361,2,213
+6/4/20,Portugal,33592,1455,20323,11814,331,8,244
+6/4/20,Qatar,63741,45,39468,24228,1581,0,1926
+6/4/20,Romania,19907,1305,13919,4683,238,9,119
+6/4/20,Russia,440538,5376,204197,230965,8823,168,8638
+6/4/20,Rwanda,410,2,280,128,13,0,9
+6/4/20,Saint Kitts and Nevis,15,0,15,0,0,0,0
+6/4/20,Saint Lucia,19,0,18,1,1,0,0
+6/4/20,Saint Vincent and the Grenadines,26,0,15,11,0,0,0
+6/4/20,San Marino,678,42,408,228,4,0,17
+6/4/20,Sao Tome and Principe,485,12,68,405,1,0,0
+6/4/20,Saudi Arabia,93157,611,68965,23581,1975,32,806
+6/4/20,Senegal,4021,45,2162,1814,89,0,99
+6/4/20,Serbia,11571,246,6910,4415,48,1,58
+6/4/20,Seychelles,11,0,11,0,0,0,0
+6/4/20,Sierra Leone,914,47,491,376,5,0,0
+6/4/20,Singapore,36922,24,23904,12994,517,0,322
+6/4/20,Slovakia,1526,28,1376,122,1,0,1
+6/4/20,Slovenia,1477,109,1359,9,0,0,1
+6/4/20,Somalia,2204,79,418,1707,58,0,12
+6/4/20,South Africa,40792,848,21311,18633,3267,56,1629
+6/4/20,South Sudan,994,10,6,978,0,0,0
+6/4/20,Spain,240660,27133,150376,63151,334,5,0
+6/4/20,Sri Lanka,1797,11,839,947,48,0,3
+6/4/20,Sudan,5714,333,1825,3556,215,19,114
+6/4/20,Suriname,82,1,9,72,8,0,0
+6/4/20,Sweden,41883,4562,0,37321,1080,20,0
+6/4/20,Switzerland,30913,1921,28600,392,20,0,0
+6/4/20,Syria,124,6,53,65,1,0,0
+6/4/20,Taiwan*,443,7,428,8,0,0,0
+6/4/20,Tajikistan,4289,48,2401,1840,98,0,54
+6/4/20,Tanzania,509,21,183,305,0,0,0
+6/4/20,Thailand,3101,58,2968,75,17,0,0
+6/4/20,Timor-Leste,24,0,24,0,0,0,0
+6/4/20,Togo,465,13,239,213,13,0,3
+6/4/20,Trinidad and Tobago,117,8,108,1,0,0,0
+6/4/20,Tunisia,1087,49,968,70,0,0,3
+6/4/20,Turkey,167410,4630,131778,31002,988,21,926
+6/4/20,US,1872660,108211,485002,1279447,21140,1036,5744
+6/4/20,Uganda,522,0,82,440,15,0,0
+6/4/20,Ukraine,25981,755,11468,13758,596,13,630
+6/4/20,United Arab Emirates,37018,273,19572,17173,659,3,419
+6/4/20,United Kingdom,283079,39987,1219,241873,1809,176,7
+6/4/20,Uruguay,832,23,709,100,4,0,11
+6/4/20,Uzbekistan,3939,16,3087,836,96,0,73
+6/4/20,Venezuela,2087,20,334,1733,135,0,0
+6/4/20,Vietnam,328,0,302,26,0,0,0
+6/4/20,West Bank and Gaza,464,3,377,84,7,0,5
+6/4/20,Western Sahara,9,1,6,2,0,0,0
+6/4/20,Yemen,453,103,17,333,34,8,0
+6/4/20,Zambia,1089,7,912,170,0,0,0
+6/4/20,Zimbabwe,237,4,31,202,15,0,2
+6/5/20,Afghanistan,18969,309,1762,16898,915,9,177
+6/5/20,Albania,1212,33,910,269,15,0,12
+6/5/20,Algeria,9935,690,6453,2792,104,9,156
+6/5/20,Andorra,852,51,741,60,0,0,3
+6/5/20,Angola,86,4,21,61,0,0,3
+6/5/20,Antigua and Barbuda,26,3,20,3,0,0,0
+6/5/20,Argentina,21037,632,6088,14317,840,24,95
+6/5/20,Armenia,11817,183,3513,8121,596,7,45
+6/5/20,Australia,7252,102,6688,462,5,0,5
+6/5/20,Austria,16843,672,15742,429,38,2,25
+6/5/20,Azerbaijan,6860,82,3871,2907,338,4,134
+6/5/20,Bahamas,102,11,55,36,0,0,0
+6/5/20,Bahrain,13835,22,8585,5228,539,1,857
+6/5/20,Bangladesh,60391,811,12804,46776,2828,30,643
+6/5/20,Barbados,92,7,81,4,0,0,0
+6/5/20,Belarus,46868,259,22066,24543,887,6,904
+6/5/20,Belgium,58907,9566,16112,33229,140,18,64
+6/5/20,Belize,19,2,16,1,1,0,0
+6/5/20,Benin,261,3,151,107,0,0,0
+6/5/20,Bhutan,48,0,11,37,1,0,2
+6/5/20,Bolivia,12728,427,1739,10562,483,12,81
+6/5/20,Bosnia and Herzegovina,2606,159,1968,479,12,0,17
+6/5/20,Botswana,40,1,23,16,0,0,0
+6/5/20,Brazil,614941,34021,0,580920,0,0,-254963
+6/5/20,Brunei,141,2,138,1,0,0,0
+6/5/20,Bulgaria,2627,159,1390,1078,42,12,68
+6/5/20,Burkina Faso,888,53,760,75,3,0,0
+6/5/20,Burma,236,6,151,79,0,0,3
+6/5/20,Burundi,63,1,33,29,0,0,0
+6/5/20,Cabo Verde,536,5,239,292,34,0,0
+6/5/20,Cambodia,125,0,123,2,0,0,0
+6/5/20,Cameroon,7392,205,4575,2612,603,2,870
+6/5/20,Canada,95947,7778,53074,35095,678,61,890
+6/5/20,Central African Republic,1451,4,29,1418,163,0,6
+6/5/20,Chad,836,68,657,111,8,2,24
+6/5/20,Chile,122499,1448,99358,21693,4207,92,3727
+6/5/20,China,84177,4638,79420,119,6,0,5
+6/5/20,Colombia,36759,1204,13670,21885,3293,105,1351
+6/5/20,Comoros,132,2,55,75,0,0,0
+6/5/20,Congo (Brazzaville),635,20,182,433,24,0,3
+6/5/20,Congo (Kinshasa),3764,81,512,3171,120,3,17
+6/5/20,Costa Rica,1228,10,695,523,34,0,8
+6/5/20,Cote d'Ivoire,3431,36,1604,1791,169,1,20
+6/5/20,Croatia,2247,103,2113,31,0,0,8
+6/5/20,Cuba,2133,83,1848,202,14,0,9
+6/5/20,Cyprus,960,17,807,136,2,0,17
+6/5/20,Czechia,9529,327,6881,2321,35,1,72
+6/5/20,Denmark,12075,586,10853,636,64,4,33
+6/5/20,Diamond Princess,712,13,651,48,0,0,0
+6/5/20,Djibouti,4123,26,1707,2390,69,0,22
+6/5/20,Dominica,18,0,16,2,0,0,0
+6/5/20,Dominican Republic,18708,525,11736,6447,389,5,262
+6/5/20,Ecuador,41575,3534,20568,17473,609,48,549
+6/5/20,Egypt,31115,1166,8158,21791,1348,40,402
+6/5/20,El Salvador,2849,53,1249,1547,68,1,35
+6/5/20,Equatorial Guinea,1306,12,200,1094,0,0,0
+6/5/20,Eritrea,39,0,39,0,0,0,0
+6/5/20,Estonia,1910,69,1667,174,20,0,4
+6/5/20,Eswatini,305,3,221,81,5,0,20
+6/5/20,Ethiopia,1805,19,262,1524,169,1,12
+6/5/20,Fiji,18,0,18,0,0,0,0
+6/5/20,Finland,6941,322,5800,819,30,0,0
+6/5/20,France,190180,29114,70622,90444,611,46,528
+6/5/20,Gabon,3101,21,833,2247,146,0,15
+6/5/20,Gambia,26,1,21,4,0,0,1
+6/5/20,Georgia,805,13,650,142,4,0,6
+6/5/20,Germany,184924,8658,168480,7786,452,23,571
+6/5/20,Ghana,9168,42,3457,5669,283,4,268
+6/5/20,Greece,2967,180,1374,1413,15,0,0
+6/5/20,Grenada,23,0,22,1,0,0,4
+6/5/20,Guatemala,6485,216,1053,5216,331,58,74
+6/5/20,Guinea,4060,23,2667,1370,69,0,155
+6/5/20,Guinea-Bissau,1368,12,153,1203,29,4,100
+6/5/20,Guyana,153,12,77,64,0,0,0
+6/5/20,Haiti,2740,50,24,2666,100,0,0
+6/5/20,Holy See,12,0,2,10,0,0,0
+6/5/20,Honduras,5971,248,677,5046,91,5,29
+6/5/20,Hungary,3970,542,2245,1183,16,3,40
+6/5/20,Iceland,1806,10,1794,2,0,0,0
+6/5/20,India,236184,6649,113233,116302,9471,286,4783
+6/5/20,Indonesia,29521,1770,9443,18308,703,49,551
+6/5/20,Iran,167156,8134,129741,29281,2886,63,2256
+6/5/20,Iraq,9846,285,4573,4988,1006,14,235
+6/5/20,Ireland,25163,1670,22698,795,21,6,0
+6/5/20,Israel,17562,291,15026,2245,67,0,13
+6/5/20,Italy,234531,33774,163781,36976,518,85,1886
+6/5/20,Jamaica,595,10,385,200,4,0,17
+6/5/20,Japan,16958,916,14925,1117,47,5,140
+6/5/20,Jordan,784,9,571,204,19,0,5
+6/5/20,Kazakhstan,12312,52,6903,5357,245,0,297
+6/5/20,Kenya,2474,79,643,1752,134,1,51
+6/5/20,"Korea, South",11719,273,10531,915,51,0,25
+6/5/20,Kosovo,1142,30,871,241,0,0,0
+6/5/20,Kuwait,30644,244,18277,12123,723,8,1054
+6/5/20,Kyrgyzstan,1936,22,1340,574,37,2,48
+6/5/20,Laos,19,0,18,1,0,0,0
+6/5/20,Latvia,1085,25,781,279,3,0,21
+6/5/20,Lebanon,1312,28,768,516,6,0,37
+6/5/20,Lesotho,4,0,2,2,0,0,0
+6/5/20,Liberia,334,30,176,128,13,2,1
+6/5/20,Libya,239,5,52,182,30,0,0
+6/5/20,Liechtenstein,82,1,55,26,0,0,0
+6/5/20,Lithuania,1694,71,1302,321,7,0,29
+6/5/20,Luxembourg,4032,110,3885,37,5,0,11
+6/5/20,MS Zaandam,9,2,0,7,0,0,0
+6/5/20,Madagascar,975,7,201,767,18,0,1
+6/5/20,Malawi,409,4,55,350,16,0,4
+6/5/20,Malaysia,8266,116,6610,1540,19,1,51
+6/5/20,Maldives,1883,7,717,1159,11,0,69
+6/5/20,Mali,1485,87,816,582,24,2,10
+6/5/20,Malta,625,9,583,33,3,0,7
+6/5/20,Mauritania,883,43,69,771,99,4,4
+6/5/20,Mauritius,337,10,324,3,2,0,2
+6/5/20,Mexico,110026,13170,77841,19015,4346,625,3083
+6/5/20,Moldova,9247,323,5240,3684,229,8,231
+6/5/20,Monaco,99,4,93,2,0,0,1
+6/5/20,Mongolia,191,0,70,121,5,0,5
+6/5/20,Montenegro,324,9,315,0,0,0,0
+6/5/20,Morocco,8071,208,7268,595,68,0,73
+6/5/20,Mozambique,354,2,119,233,2,0,5
+6/5/20,Namibia,25,0,16,9,0,0,0
+6/5/20,Nepal,2912,11,333,2568,278,1,43
+6/5/20,Netherlands,47358,6024,181,41153,210,15,1
+6/5/20,New Zealand,1504,22,1481,1,0,0,0
+6/5/20,Nicaragua,1118,46,370,702,0,0,0
+6/5/20,Niger,966,65,863,38,3,0,3
+6/5/20,Nigeria,11844,333,3696,7815,328,10,161
+6/5/20,North Macedonia,2790,149,1632,1009,179,2,11
+6/5/20,Norway,8522,238,8138,146,18,0,0
+6/5/20,Oman,15086,72,3451,11563,770,5,0
+6/5/20,Pakistan,89249,1838,31198,56213,3985,68,1070
+6/5/20,Panama,15463,370,9719,5374,419,7,100
+6/5/20,Papua New Guinea,8,0,8,0,0,0,0
+6/5/20,Paraguay,1087,11,516,560,1,0,5
+6/5/20,Peru,187400,5162,79214,103024,4202,131,2986
+6/5/20,Philippines,20626,987,4330,15309,244,3,82
+6/5/20,Poland,25410,1137,12410,11863,362,20,183
+6/5/20,Portugal,33969,1465,20526,11978,377,10,203
+6/5/20,Qatar,65495,49,40935,24511,1754,4,1467
+6/5/20,Romania,20103,1316,14145,4642,196,11,226
+6/5/20,Russia,449256,5520,212237,231499,8718,144,8040
+6/5/20,Rwanda,420,2,282,136,10,0,2
+6/5/20,Saint Kitts and Nevis,15,0,15,0,0,0,0
+6/5/20,Saint Lucia,19,0,18,1,0,0,0
+6/5/20,Saint Vincent and the Grenadines,26,0,15,11,0,0,0
+6/5/20,San Marino,680,42,428,210,2,0,20
+6/5/20,Sao Tome and Principe,499,12,68,419,14,0,0
+6/5/20,Saudi Arabia,95748,642,70616,24490,2591,31,1651
+6/5/20,Senegal,4155,45,2276,1834,134,0,114
+6/5/20,Serbia,11667,247,6931,4489,96,1,21
+6/5/20,Seychelles,11,0,11,0,0,0,0
+6/5/20,Sierra Leone,929,47,580,302,15,0,89
+6/5/20,Singapore,37183,24,24209,12950,261,0,305
+6/5/20,Slovakia,1526,28,1379,119,0,0,3
+6/5/20,Slovenia,1479,109,1359,11,2,0,0
+6/5/20,Somalia,2204,79,418,1707,0,0,0
+6/5/20,South Africa,43434,908,23088,19438,2642,60,1777
+6/5/20,South Sudan,994,10,6,978,0,0,0
+6/5/20,Spain,240978,27134,150376,63468,318,1,0
+6/5/20,Sri Lanka,1801,11,858,932,4,0,19
+6/5/20,Sudan,5865,347,1924,3594,151,14,99
+6/5/20,Suriname,90,1,9,80,8,0,0
+6/5/20,Sweden,42939,4639,0,38300,1056,77,0
+6/5/20,Switzerland,30936,1921,28600,415,23,0,0
+6/5/20,Syria,124,6,53,65,0,0,0
+6/5/20,Taiwan*,443,7,429,7,0,0,1
+6/5/20,Tajikistan,4370,48,2491,1831,81,0,90
+6/5/20,Tanzania,509,21,183,305,0,0,0
+6/5/20,Thailand,3102,58,2971,73,1,0,3
+6/5/20,Timor-Leste,24,0,24,0,0,0,0
+6/5/20,Togo,485,13,240,232,20,0,1
+6/5/20,Trinidad and Tobago,117,8,108,1,0,0,0
+6/5/20,Tunisia,1087,49,969,69,0,0,1
+6/5/20,Turkey,168340,4648,133400,30292,930,18,1622
+6/5/20,US,1897380,109132,491706,1296542,24720,921,6704
+6/5/20,Uganda,557,0,82,475,35,0,0
+6/5/20,Ukraine,26542,770,11815,13957,561,15,347
+6/5/20,United Arab Emirates,37642,274,20337,17031,624,1,765
+6/5/20,United Kingdom,284734,40344,1228,243162,1655,357,9
+6/5/20,Uruguay,834,23,721,90,2,0,12
+6/5/20,Uzbekistan,4007,16,3247,744,68,0,160
+6/5/20,Venezuela,2145,20,334,1791,58,0,0
+6/5/20,Vietnam,328,0,307,21,0,0,5
+6/5/20,West Bank and Gaza,464,3,377,84,0,0,0
+6/5/20,Western Sahara,9,1,6,2,0,0,0
+6/5/20,Yemen,469,111,23,335,16,8,6
+6/5/20,Zambia,1089,7,912,170,0,0,0
+6/5/20,Zimbabwe,265,4,33,228,28,0,2
