@@ -2245,7 +2245,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/10/20,Uganda,0,0,0,0,0,0,0
 2/10/20,Ukraine,0,0,0,0,0,0,0
 2/10/20,United Arab Emirates,8,0,0,8,4,0,0
-2/10/20,United Kingdom,8,0,0,8,6,0,0
+2/10/20,United Kingdom,14,0,0,14,12,0,0
 2/10/20,Uruguay,0,0,0,0,0,0,0
 2/10/20,Uzbekistan,0,0,0,0,0,0,0
 2/10/20,Venezuela,0,0,0,0,0,0,0
@@ -2433,7 +2433,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/11/20,Uganda,0,0,0,0,0,0,0
 2/11/20,Ukraine,0,0,0,0,0,0,0
 2/11/20,United Arab Emirates,8,0,0,8,0,0,0
-2/11/20,United Kingdom,8,0,0,8,0,0,0
+2/11/20,United Kingdom,15,0,0,15,1,0,0
 2/11/20,Uruguay,0,0,0,0,0,0,0
 2/11/20,Uzbekistan,0,0,0,0,0,0,0
 2/11/20,Venezuela,0,0,0,0,0,0,0
@@ -2621,7 +2621,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/12/20,Uganda,0,0,0,0,0,0,0
 2/12/20,Ukraine,0,0,0,0,0,0,0
 2/12/20,United Arab Emirates,8,0,1,7,0,0,1
-2/12/20,United Kingdom,9,0,1,8,1,0,1
+2/12/20,United Kingdom,16,0,1,15,1,0,1
 2/12/20,Uruguay,0,0,0,0,0,0,0
 2/12/20,Uzbekistan,0,0,0,0,0,0,0
 2/12/20,Venezuela,0,0,0,0,0,0,0
@@ -2809,7 +2809,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/13/20,Uganda,0,0,0,0,0,0,0
 2/13/20,Ukraine,0,0,0,0,0,0,0
 2/13/20,United Arab Emirates,8,0,1,7,0,0,0
-2/13/20,United Kingdom,9,0,1,8,0,0,0
+2/13/20,United Kingdom,17,0,1,16,1,0,0
 2/13/20,Uruguay,0,0,0,0,0,0,0
 2/13/20,Uzbekistan,0,0,0,0,0,0,0
 2/13/20,Venezuela,0,0,0,0,0,0,0
@@ -2997,7 +2997,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/14/20,Uganda,0,0,0,0,0,0,0
 2/14/20,Ukraine,0,0,0,0,0,0,0
 2/14/20,United Arab Emirates,8,0,1,7,0,0,0
-2/14/20,United Kingdom,9,0,1,8,0,0,0
+2/14/20,United Kingdom,18,0,1,17,1,0,0
 2/14/20,Uruguay,0,0,0,0,0,0,0
 2/14/20,Uzbekistan,0,0,0,0,0,0,0
 2/14/20,Venezuela,0,0,0,0,0,0,0
@@ -3185,7 +3185,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/15/20,Uganda,0,0,0,0,0,0,0
 2/15/20,Ukraine,0,0,0,0,0,0,0
 2/15/20,United Arab Emirates,8,0,3,5,0,0,2
-2/15/20,United Kingdom,9,0,1,8,0,0,0
+2/15/20,United Kingdom,18,0,1,17,0,0,0
 2/15/20,Uruguay,0,0,0,0,0,0,0
 2/15/20,Uzbekistan,0,0,0,0,0,0,0
 2/15/20,Venezuela,0,0,0,0,0,0,0
@@ -3373,7 +3373,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/16/20,Uganda,0,0,0,0,0,0,0
 2/16/20,Ukraine,0,0,0,0,0,0,0
 2/16/20,United Arab Emirates,9,0,4,5,1,0,1
-2/16/20,United Kingdom,9,0,8,1,0,0,7
+2/16/20,United Kingdom,18,0,8,10,0,0,7
 2/16/20,Uruguay,0,0,0,0,0,0,0
 2/16/20,Uzbekistan,0,0,0,0,0,0,0
 2/16/20,Venezuela,0,0,0,0,0,0,0
@@ -3561,7 +3561,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/17/20,Uganda,0,0,0,0,0,0,0
 2/17/20,Ukraine,0,0,0,0,0,0,0
 2/17/20,United Arab Emirates,9,0,4,5,0,0,0
-2/17/20,United Kingdom,9,0,8,1,0,0,0
+2/17/20,United Kingdom,19,0,8,11,1,0,0
 2/17/20,Uruguay,0,0,0,0,0,0,0
 2/17/20,Uzbekistan,0,0,0,0,0,0,0
 2/17/20,Venezuela,0,0,0,0,0,0,0
@@ -3749,7 +3749,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/18/20,Uganda,0,0,0,0,0,0,0
 2/18/20,Ukraine,0,0,0,0,0,0,0
 2/18/20,United Arab Emirates,9,0,4,5,0,0,0
-2/18/20,United Kingdom,9,0,8,1,0,0,0
+2/18/20,United Kingdom,19,0,8,11,0,0,0
 2/18/20,Uruguay,0,0,0,0,0,0,0
 2/18/20,Uzbekistan,0,0,0,0,0,0,0
 2/18/20,Venezuela,0,0,0,0,0,0,0
@@ -3937,7 +3937,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/19/20,Uganda,0,0,0,0,0,0,0
 2/19/20,Ukraine,0,0,0,0,0,0,0
 2/19/20,United Arab Emirates,9,0,4,5,0,0,0
-2/19/20,United Kingdom,9,0,8,1,0,0,0
+2/19/20,United Kingdom,20,0,8,12,1,0,0
 2/19/20,Uruguay,0,0,0,0,0,0,0
 2/19/20,Uzbekistan,0,0,0,0,0,0,0
 2/19/20,Venezuela,0,0,0,0,0,0,0
@@ -4313,7 +4313,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/20/20,Uganda,0,0,0,0,0,0,0
 2/20/20,Ukraine,0,0,0,0,0,0,0
 2/20/20,United Arab Emirates,9,0,4,5,4,0,4
-2/20/20,United Kingdom,9,0,8,1,7,0,8
+2/20/20,United Kingdom,22,0,8,14,20,0,8
 2/20/20,Uruguay,0,0,0,0,0,0,0
 2/20/20,Uzbekistan,0,0,0,0,0,0,0
 2/20/20,Venezuela,0,0,0,0,0,0,0
@@ -4501,7 +4501,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/21/20,Uganda,0,0,0,0,0,0,0
 2/21/20,Ukraine,0,0,0,0,0,0,0
 2/21/20,United Arab Emirates,9,0,4,5,0,0,0
-2/21/20,United Kingdom,9,0,8,1,0,0,0
+2/21/20,United Kingdom,23,0,8,15,1,0,0
 2/21/20,Uruguay,0,0,0,0,0,0,0
 2/21/20,Uzbekistan,0,0,0,0,0,0,0
 2/21/20,Venezuela,0,0,0,0,0,0,0
@@ -4689,7 +4689,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/22/20,Uganda,0,0,0,0,0,0,0
 2/22/20,Ukraine,0,0,0,0,0,0,0
 2/22/20,United Arab Emirates,13,0,4,9,4,0,0
-2/22/20,United Kingdom,9,0,8,1,0,0,0
+2/22/20,United Kingdom,23,0,8,15,0,0,0
 2/22/20,Uruguay,0,0,0,0,0,0,0
 2/22/20,Uzbekistan,0,0,0,0,0,0,0
 2/22/20,Venezuela,0,0,0,0,0,0,0
@@ -4877,7 +4877,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/23/20,Uganda,0,0,0,0,0,0,0
 2/23/20,Ukraine,0,0,0,0,0,0,0
 2/23/20,United Arab Emirates,13,0,4,9,0,0,0
-2/23/20,United Kingdom,9,0,8,1,0,0,0
+2/23/20,United Kingdom,28,0,8,20,5,0,0
 2/23/20,Uruguay,0,0,0,0,0,0,0
 2/23/20,Uzbekistan,0,0,0,0,0,0,0
 2/23/20,Venezuela,0,0,0,0,0,0,0
@@ -5065,7 +5065,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/24/20,Uganda,0,0,0,0,0,0,0
 2/24/20,Ukraine,0,0,0,0,0,0,0
 2/24/20,United Arab Emirates,13,0,4,9,0,0,0
-2/24/20,United Kingdom,13,0,8,5,4,0,0
+2/24/20,United Kingdom,30,0,8,22,2,0,0
 2/24/20,Uruguay,0,0,0,0,0,0,0
 2/24/20,Uzbekistan,0,0,0,0,0,0,0
 2/24/20,Venezuela,0,0,0,0,0,0,0
@@ -5253,7 +5253,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/25/20,Uganda,0,0,0,0,0,0,0
 2/25/20,Ukraine,0,0,0,0,0,0,0
 2/25/20,United Arab Emirates,13,0,4,9,0,0,0
-2/25/20,United Kingdom,13,0,8,5,0,0,0
+2/25/20,United Kingdom,34,0,8,26,4,0,0
 2/25/20,Uruguay,0,0,0,0,0,0,0
 2/25/20,Uzbekistan,0,0,0,0,0,0,0
 2/25/20,Venezuela,0,0,0,0,0,0,0
@@ -5441,7 +5441,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/26/20,Uganda,0,0,0,0,0,0,0
 2/26/20,Ukraine,0,0,0,0,0,0,0
 2/26/20,United Arab Emirates,13,0,4,9,0,0,0
-2/26/20,United Kingdom,13,0,8,5,0,0,0
+2/26/20,United Kingdom,37,0,8,29,3,0,0
 2/26/20,Uruguay,0,0,0,0,0,0,0
 2/26/20,Uzbekistan,0,0,0,0,0,0,0
 2/26/20,Venezuela,0,0,0,0,0,0,0
@@ -5629,7 +5629,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/27/20,Uganda,0,0,0,0,0,0,0
 2/27/20,Ukraine,0,0,0,0,0,0,0
 2/27/20,United Arab Emirates,13,0,4,9,0,0,0
-2/27/20,United Kingdom,15,0,8,7,2,0,0
+2/27/20,United Kingdom,44,0,8,36,7,0,0
 2/27/20,Uruguay,0,0,0,0,0,0,0
 2/27/20,Uzbekistan,0,0,0,0,0,0,0
 2/27/20,Venezuela,0,0,0,0,0,0,0
@@ -5817,7 +5817,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/28/20,Uganda,0,0,0,0,0,0,0
 2/28/20,Ukraine,0,0,0,0,0,0,0
 2/28/20,United Arab Emirates,19,0,5,14,6,0,1
-2/28/20,United Kingdom,20,0,8,12,5,0,0
+2/28/20,United Kingdom,56,0,8,48,12,0,0
 2/28/20,Uruguay,0,0,0,0,0,0,0
 2/28/20,Uzbekistan,0,0,0,0,0,0,0
 2/28/20,Venezuela,0,0,0,0,0,0,0
@@ -6005,7 +6005,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/29/20,Uganda,0,0,0,0,0,0,0
 2/29/20,Ukraine,0,0,0,0,0,0,0
 2/29/20,United Arab Emirates,21,0,5,16,2,0,0
-2/29/20,United Kingdom,23,0,8,15,3,0,0
+2/29/20,United Kingdom,61,0,8,53,5,0,0
 2/29/20,Uruguay,0,0,0,0,0,0,0
 2/29/20,Uzbekistan,0,0,0,0,0,0,0
 2/29/20,Venezuela,0,0,0,0,0,0,0
@@ -6193,7 +6193,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/3/20,Uganda,0,0,0,0,0,0,0
 2/3/20,Ukraine,0,0,0,0,0,0,0
 2/3/20,United Arab Emirates,5,0,0,5,0,0,-5
-2/3/20,United Kingdom,2,0,0,2,0,0,-8
+2/3/20,United Kingdom,8,0,0,8,0,0,-8
 2/3/20,Uruguay,0,0,0,0,0,0,0
 2/3/20,Uzbekistan,0,0,0,0,0,0,0
 2/3/20,Venezuela,0,0,0,0,0,0,0
@@ -6381,7 +6381,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/4/20,Uganda,0,0,0,0,0,0,0
 2/4/20,Ukraine,0,0,0,0,0,0,0
 2/4/20,United Arab Emirates,5,0,0,5,0,0,0
-2/4/20,United Kingdom,2,0,0,2,0,0,0
+2/4/20,United Kingdom,8,0,0,8,0,0,0
 2/4/20,Uruguay,0,0,0,0,0,0,0
 2/4/20,Uzbekistan,0,0,0,0,0,0,0
 2/4/20,Venezuela,0,0,0,0,0,0,0
@@ -6569,7 +6569,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/5/20,Uganda,0,0,0,0,0,0,0
 2/5/20,Ukraine,0,0,0,0,0,0,0
 2/5/20,United Arab Emirates,5,0,0,5,0,0,0
-2/5/20,United Kingdom,2,0,0,2,0,0,0
+2/5/20,United Kingdom,9,0,0,9,1,0,0
 2/5/20,Uruguay,0,0,0,0,0,0,0
 2/5/20,Uzbekistan,0,0,0,0,0,0,0
 2/5/20,Venezuela,0,0,0,0,0,0,0
@@ -6757,7 +6757,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/6/20,Uganda,0,0,0,0,0,0,0
 2/6/20,Ukraine,0,0,0,0,0,0,0
 2/6/20,United Arab Emirates,5,0,0,5,0,0,0
-2/6/20,United Kingdom,2,0,0,2,0,0,0
+2/6/20,United Kingdom,9,0,0,9,0,0,0
 2/6/20,Uruguay,0,0,0,0,0,0,0
 2/6/20,Uzbekistan,0,0,0,0,0,0,0
 2/6/20,Venezuela,0,0,0,0,0,0,0
@@ -6945,7 +6945,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/7/20,Uganda,0,0,0,0,0,0,0
 2/7/20,Ukraine,0,0,0,0,0,0,0
 2/7/20,United Arab Emirates,5,0,0,5,0,0,0
-2/7/20,United Kingdom,3,0,0,3,1,0,0
+2/7/20,United Kingdom,9,0,0,9,0,0,0
 2/7/20,Uruguay,0,0,0,0,0,0,0
 2/7/20,Uzbekistan,0,0,0,0,0,0,0
 2/7/20,Venezuela,0,0,0,0,0,0,0
@@ -7133,7 +7133,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/8/20,Uganda,0,0,0,0,0,0,0
 2/8/20,Ukraine,0,0,0,0,0,0,0
 2/8/20,United Arab Emirates,7,0,0,7,2,0,0
-2/8/20,United Kingdom,3,0,0,3,0,0,0
+2/8/20,United Kingdom,13,0,0,13,4,0,0
 2/8/20,Uruguay,0,0,0,0,0,0,0
 2/8/20,Uzbekistan,0,0,0,0,0,0,0
 2/8/20,Venezuela,0,0,0,0,0,0,0
@@ -7321,7 +7321,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/9/20,Uganda,0,0,0,0,0,0,0
 2/9/20,Ukraine,0,0,0,0,0,0,0
 2/9/20,United Arab Emirates,7,0,0,7,0,0,0
-2/9/20,United Kingdom,3,0,0,3,0,0,0
+2/9/20,United Kingdom,14,0,0,14,1,0,0
 2/9/20,Uruguay,0,0,0,0,0,0,0
 2/9/20,Uzbekistan,0,0,0,0,0,0,0
 2/9/20,Venezuela,0,0,0,0,0,0,0
@@ -7509,7 +7509,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/1/20,Uganda,0,0,0,0,0,0,0
 3/1/20,Ukraine,0,0,0,0,0,0,0
 3/1/20,United Arab Emirates,21,0,5,16,14,0,5
-3/1/20,United Kingdom,36,0,8,28,33,0,8
+3/1/20,United Kingdom,94,0,8,86,80,0,8
 3/1/20,Uruguay,0,0,0,0,0,0,0
 3/1/20,Uzbekistan,0,0,0,0,0,0,0
 3/1/20,Venezuela,0,0,0,0,0,0,0
@@ -7697,7 +7697,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/10/20,Uganda,0,0,0,0,0,0,0
 3/10/20,Ukraine,1,0,0,1,1,0,0
 3/10/20,United Arab Emirates,74,0,12,62,53,0,7
-3/10/20,United Kingdom,384,7,19,358,348,7,11
+3/10/20,United Kingdom,889,7,19,863,795,7,11
 3/10/20,Uruguay,0,0,0,0,0,0,0
 3/10/20,Uzbekistan,0,0,0,0,0,0,0
 3/10/20,Venezuela,0,0,0,0,0,0,0
@@ -7885,7 +7885,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/11/20,Uganda,0,0,0,0,0,0,0
 3/11/20,Ukraine,1,0,0,1,0,0,0
 3/11/20,United Arab Emirates,74,0,17,57,0,0,5
-3/11/20,United Kingdom,459,7,19,433,75,0,0
+3/11/20,United Kingdom,1301,7,19,1275,412,0,0
 3/11/20,Uruguay,0,0,0,0,0,0,0
 3/11/20,Uzbekistan,0,0,0,0,0,0,0
 3/11/20,Venezuela,0,0,0,0,0,0,0
@@ -8073,7 +8073,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/12/20,Uganda,0,0,0,0,0,0,0
 3/12/20,Ukraine,1,0,0,1,0,0,0
 3/12/20,United Arab Emirates,85,0,17,68,11,0,0
-3/12/20,United Kingdom,459,9,19,431,0,2,0
+3/12/20,United Kingdom,1790,9,19,1762,489,2,0
 3/12/20,Uruguay,0,0,0,0,0,0,0
 3/12/20,Uzbekistan,0,0,0,0,0,0,0
 3/12/20,Venezuela,0,0,0,0,0,0,0
@@ -8261,7 +8261,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/13/20,Uganda,0,0,0,0,0,0,0
 3/13/20,Ukraine,3,1,0,2,2,1,0
 3/13/20,United Arab Emirates,85,0,17,68,0,0,0
-3/13/20,United Kingdom,802,10,19,773,343,1,0
+3/13/20,United Kingdom,2270,10,19,2241,480,1,0
 3/13/20,Uruguay,4,0,0,4,4,0,0
 3/13/20,Uzbekistan,0,0,0,0,0,0,0
 3/13/20,Venezuela,0,0,0,0,0,0,0
@@ -8449,7 +8449,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/14/20,Uganda,0,0,0,0,0,0,0
 3/14/20,Ukraine,3,1,0,2,0,0,0
 3/14/20,United Arab Emirates,85,0,17,68,0,0,0
-3/14/20,United Kingdom,1144,28,19,1097,342,18,0
+3/14/20,United Kingdom,2634,28,19,2587,364,18,0
 3/14/20,Uruguay,6,0,0,6,2,0,0
 3/14/20,Uzbekistan,0,0,0,0,0,0,0
 3/14/20,Venezuela,2,0,0,2,2,0,0
@@ -8637,7 +8637,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/15/20,Uganda,0,0,0,0,0,0,0
 3/15/20,Ukraine,3,1,0,2,0,0,0
 3/15/20,United Arab Emirates,98,0,23,75,13,0,6
-3/15/20,United Kingdom,1145,43,19,1083,1,15,0
+3/15/20,United Kingdom,3077,43,19,3015,443,15,0
 3/15/20,Uruguay,8,0,0,8,2,0,0
 3/15/20,Uzbekistan,1,0,0,1,1,0,0
 3/15/20,Venezuela,10,0,0,10,8,0,0
@@ -8825,7 +8825,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/16/20,Uganda,0,0,0,0,0,0,0
 3/16/20,Ukraine,7,1,0,6,4,0,0
 3/16/20,United Arab Emirates,98,0,23,75,0,0,0
-3/16/20,United Kingdom,1551,66,21,1464,406,23,2
+3/16/20,United Kingdom,3692,66,21,3605,615,23,2
 3/16/20,Uruguay,29,0,0,29,21,0,0
 3/16/20,Uzbekistan,6,0,0,6,5,0,0
 3/16/20,Venezuela,17,0,0,17,7,0,0
@@ -9013,7 +9013,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/17/20,Uganda,0,0,0,0,0,0,0
 3/17/20,Ukraine,14,2,0,12,7,1,0
 3/17/20,United Arab Emirates,98,0,23,75,0,0,0
-3/17/20,United Kingdom,1960,82,53,1825,409,16,32
+3/17/20,United Kingdom,4462,82,53,4327,770,16,32
 3/17/20,Uruguay,50,0,0,50,21,0,0
 3/17/20,Uzbekistan,10,0,0,10,4,0,0
 3/17/20,Venezuela,33,0,0,33,16,0,0
@@ -9201,7 +9201,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/18/20,Uganda,0,0,0,0,0,0,0
 3/18/20,Ukraine,14,2,0,12,0,0,0
 3/18/20,United Arab Emirates,113,0,26,87,15,0,3
-3/18/20,United Kingdom,2642,116,67,2459,682,34,14
+3/18/20,United Kingdom,5467,116,67,5284,1005,34,14
 3/18/20,Uruguay,79,0,0,79,29,0,0
 3/18/20,Uzbekistan,15,0,0,15,5,0,0
 3/18/20,Venezuela,36,0,0,36,3,0,0
@@ -9389,7 +9389,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/19/20,Uganda,0,0,0,0,0,0,0
 3/19/20,Ukraine,16,2,0,14,2,0,0
 3/19/20,United Arab Emirates,140,0,31,109,27,0,5
-3/19/20,United Kingdom,2716,159,67,2490,74,43,0
+3/19/20,United Kingdom,6533,159,67,6307,1066,43,0
 3/19/20,Uruguay,94,0,0,94,15,0,0
 3/19/20,Uzbekistan,23,0,0,23,8,0,0
 3/19/20,Venezuela,42,0,0,42,6,0,0
@@ -9577,7 +9577,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/2/20,Uganda,0,0,0,0,0,0,0
 3/2/20,Ukraine,0,0,0,0,0,-2,0
 3/2/20,United Arab Emirates,21,0,5,16,0,0,-26
-3/2/20,United Kingdom,40,0,8,32,0,-159,-59
+3/2/20,United Kingdom,134,0,8,126,0,-159,-59
 3/2/20,Uruguay,0,0,0,0,0,0,0
 3/2/20,Uzbekistan,0,0,0,0,0,0,0
 3/2/20,Venezuela,0,0,0,0,0,0,0
@@ -9765,7 +9765,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/20/20,Uganda,0,0,0,0,0,0,0
 3/20/20,Ukraine,29,3,0,26,29,3,0
 3/20/20,United Arab Emirates,140,2,31,107,119,2,26
-3/20/20,United Kingdom,4014,195,67,3752,3974,195,59
+3/20/20,United Kingdom,7791,195,67,7529,7657,195,59
 3/20/20,Uruguay,110,0,0,110,110,0,0
 3/20/20,Uzbekistan,33,0,0,33,33,0,0
 3/20/20,Venezuela,42,0,0,42,42,0,0
@@ -9953,7 +9953,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/21/20,Uganda,1,0,0,1,1,0,0
 3/21/20,Ukraine,47,3,1,43,18,0,1
 3/21/20,United Arab Emirates,153,2,38,113,13,0,7
-3/21/20,United Kingdom,5067,251,67,4749,1053,56,0
+3/21/20,United Kingdom,9006,251,67,8688,1215,56,0
 3/21/20,Uruguay,135,0,0,135,25,0,0
 3/21/20,Uzbekistan,43,0,0,43,10,0,0
 3/21/20,Venezuela,70,0,0,70,28,0,0
@@ -10141,7 +10141,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/22/20,Uganda,1,0,0,1,0,0,0
 3/22/20,Ukraine,73,3,1,69,26,0,0
 3/22/20,United Arab Emirates,153,2,38,113,0,0,0
-3/22/20,United Kingdom,5745,286,67,5392,678,35,0
+3/22/20,United Kingdom,10395,286,67,10042,1389,35,0
 3/22/20,Uruguay,158,0,0,158,23,0,0
 3/22/20,Uzbekistan,43,0,0,43,0,0,0
 3/22/20,Venezuela,70,0,15,55,0,0,15
@@ -10329,7 +10329,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/23/20,Uganda,9,0,0,9,8,0,0
 3/23/20,Ukraine,73,3,1,69,0,0,0
 3/23/20,United Arab Emirates,198,2,38,158,45,0,0
-3/23/20,United Kingdom,6726,360,67,6299,981,74,0
+3/23/20,United Kingdom,12744,360,67,12317,2349,74,0
 3/23/20,Uruguay,162,0,0,162,4,0,0
 3/23/20,Uzbekistan,46,0,0,46,3,0,0
 3/23/20,Venezuela,77,0,15,62,7,0,0
@@ -10517,7 +10517,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/24/20,Uganda,9,0,0,9,0,0,0
 3/24/20,Ukraine,97,3,1,93,24,0,0
 3/24/20,United Arab Emirates,248,2,45,201,50,0,7
-3/24/20,United Kingdom,8164,509,140,7515,1438,149,73
+3/24/20,United Kingdom,15126,509,140,14477,2382,149,73
 3/24/20,Uruguay,189,0,0,189,27,0,0
 3/24/20,Uzbekistan,50,0,0,50,4,0,0
 3/24/20,Venezuela,84,0,15,69,7,0,0
@@ -10705,7 +10705,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/25/20,Uganda,14,0,0,14,5,0,0
 3/25/20,Ukraine,145,5,1,139,48,2,0
 3/25/20,United Arab Emirates,333,2,52,279,85,0,7
-3/25/20,United Kingdom,9640,695,140,8805,1476,186,0
+3/25/20,United Kingdom,17843,695,140,17008,2717,186,0
 3/25/20,Uruguay,217,0,0,217,28,0,0
 3/25/20,Uzbekistan,60,0,0,60,10,0,0
 3/25/20,Venezuela,91,0,15,76,7,0,0
@@ -10893,7 +10893,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/26/20,Uganda,14,0,0,14,0,0,0
 3/26/20,Ukraine,196,5,1,190,51,0,0
 3/26/20,United Arab Emirates,333,2,52,279,0,0,0
-3/26/20,United Kingdom,11812,879,150,10783,2172,184,10
+3/26/20,United Kingdom,20970,879,150,19941,3127,184,10
 3/26/20,Uruguay,238,0,0,238,21,0,0
 3/26/20,Uzbekistan,75,0,0,75,15,0,0
 3/26/20,Venezuela,107,0,15,92,16,0,0
@@ -11081,7 +11081,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/27/20,Uganda,23,0,0,23,9,0,0
 3/27/20,Ukraine,310,5,5,300,114,0,4
 3/27/20,United Arab Emirates,405,2,52,351,72,0,0
-3/27/20,United Kingdom,14745,1163,151,13431,2933,284,1
+3/27/20,United Kingdom,24219,1163,151,22905,3249,284,1
 3/27/20,Uruguay,274,0,0,274,36,0,0
 3/27/20,Uzbekistan,88,1,5,82,13,1,5
 3/27/20,Venezuela,107,1,31,75,0,1,16
@@ -11269,7 +11269,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/28/20,Uganda,30,0,0,30,7,0,0
 3/28/20,Ukraine,356,9,5,342,46,4,0
 3/28/20,United Arab Emirates,468,2,52,414,63,0,0
-3/28/20,United Kingdom,17312,1457,151,15704,2567,294,0
+3/28/20,United Kingdom,27062,1457,151,25454,2843,294,0
 3/28/20,Uruguay,303,1,0,302,29,1,0
 3/28/20,Uzbekistan,104,2,5,97,16,1,0
 3/28/20,Venezuela,119,2,39,78,12,1,8
@@ -11457,7 +11457,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/29/20,Uganda,33,0,0,33,3,0,0
 3/29/20,Ukraine,475,10,6,459,119,1,1
 3/29/20,United Arab Emirates,570,3,58,509,102,1,6
-3/29/20,United Kingdom,19780,1672,151,17957,2468,215,0
+3/29/20,United Kingdom,29954,1672,151,28131,2892,215,0
 3/29/20,Uruguay,309,1,0,308,6,0,0
 3/29/20,Uzbekistan,144,2,7,135,40,0,2
 3/29/20,Venezuela,119,2,39,78,0,0,0
@@ -11645,7 +11645,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/3/20,Uganda,0,0,0,0,0,0,0
 3/3/20,Ukraine,1,0,0,1,0,-10,-6
 3/3/20,United Arab Emirates,27,0,5,22,0,-3,-53
-3/3/20,United Kingdom,51,0,8,43,0,-1672,-143
+3/3/20,United Kingdom,189,0,8,181,0,-1672,-143
 3/3/20,Uruguay,0,0,0,0,0,-1,0
 3/3/20,Uzbekistan,0,0,0,0,0,-2,-7
 3/3/20,Venezuela,0,0,0,0,0,-2,-39
@@ -11833,7 +11833,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/30/20,Uganda,33,0,0,33,33,0,0
 3/30/20,Ukraine,548,13,8,527,547,13,8
 3/30/20,United Arab Emirates,611,5,61,545,584,5,56
-3/30/20,United Kingdom,22453,2046,171,20236,22402,2046,163
+3/30/20,United Kingdom,34281,2046,171,32064,34092,2046,163
 3/30/20,Uruguay,320,1,0,319,320,1,0
 3/30/20,Uzbekistan,149,2,7,140,149,2,7
 3/30/20,Venezuela,135,3,39,93,135,3,39
@@ -12021,7 +12021,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/31/20,Uganda,44,0,0,44,11,0,0
 3/31/20,Ukraine,645,17,10,618,97,4,2
 3/31/20,United Arab Emirates,664,6,61,597,53,1,0
-3/31/20,United Kingdom,25481,2429,179,22873,3028,383,8
+3/31/20,United Kingdom,38815,2429,179,36207,4534,383,8
 3/31/20,Uruguay,338,1,41,296,18,0,41
 3/31/20,Uzbekistan,172,2,7,163,23,0,0
 3/31/20,Venezuela,135,3,39,93,0,0,0
@@ -12209,7 +12209,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/4/20,Uganda,0,0,0,0,0,0,0
 3/4/20,Ukraine,1,0,0,1,0,-17,-10
 3/4/20,United Arab Emirates,27,0,5,22,0,-6,-56
-3/4/20,United Kingdom,86,0,8,78,0,-2429,-171
+3/4/20,United Kingdom,246,0,8,238,0,-2429,-171
 3/4/20,Uruguay,0,0,0,0,0,-1,-41
 3/4/20,Uzbekistan,0,0,0,0,0,-2,-7
 3/4/20,Venezuela,0,0,0,0,0,-3,-39
@@ -12397,7 +12397,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/5/20,Uganda,0,0,0,0,0,0,0
 3/5/20,Ukraine,1,0,0,1,0,0,0
 3/5/20,United Arab Emirates,29,0,5,24,2,0,0
-3/5/20,United Kingdom,116,0,8,108,30,0,0
+3/5/20,United Kingdom,295,0,8,287,49,0,0
 3/5/20,Uruguay,0,0,0,0,0,0,0
 3/5/20,Uzbekistan,0,0,0,0,0,0,0
 3/5/20,Venezuela,0,0,0,0,0,0,0
@@ -12585,7 +12585,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/6/20,Uganda,0,0,0,0,0,0,0
 3/6/20,Ukraine,1,0,0,1,0,0,0
 3/6/20,United Arab Emirates,29,0,5,24,0,0,0
-3/6/20,United Kingdom,164,1,8,155,48,1,0
+3/6/20,United Kingdom,374,1,8,365,79,1,0
 3/6/20,Uruguay,0,0,0,0,0,0,0
 3/6/20,Uzbekistan,0,0,0,0,0,0,0
 3/6/20,Venezuela,0,0,0,0,0,0,0
@@ -12773,7 +12773,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/7/20,Uganda,0,0,0,0,0,0,0
 3/7/20,Ukraine,1,0,0,1,0,0,0
 3/7/20,United Arab Emirates,45,0,7,38,16,0,2
-3/7/20,United Kingdom,207,2,18,187,43,1,10
+3/7/20,United Kingdom,429,2,18,409,55,1,10
 3/7/20,Uruguay,0,0,0,0,0,0,0
 3/7/20,Uzbekistan,0,0,0,0,0,0,0
 3/7/20,Venezuela,0,0,0,0,0,0,0
@@ -12961,7 +12961,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/8/20,Uganda,0,0,0,0,0,0,0
 3/8/20,Ukraine,1,0,0,1,0,0,0
 3/8/20,United Arab Emirates,45,0,7,38,0,0,0
-3/8/20,United Kingdom,274,2,18,254,67,0,0
+3/8/20,United Kingdom,483,2,18,463,54,0,0
 3/8/20,Uruguay,0,0,0,0,0,0,0
 3/8/20,Uzbekistan,0,0,0,0,0,0,0
 3/8/20,Venezuela,0,0,0,0,0,0,0
@@ -13149,7 +13149,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/9/20,Uganda,0,0,0,0,0,0,0
 3/9/20,Ukraine,1,0,0,1,0,0,0
 3/9/20,United Arab Emirates,45,0,7,38,0,0,0
-3/9/20,United Kingdom,322,3,18,301,48,1,0
+3/9/20,United Kingdom,630,3,18,609,147,1,0
 3/9/20,Uruguay,0,0,0,0,0,0,0
 3/9/20,Uzbekistan,0,0,0,0,0,0,0
 3/9/20,Venezuela,0,0,0,0,0,0,0
@@ -13337,7 +13337,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/1/20,Uganda,44,0,0,44,44,0,0
 4/1/20,Ukraine,794,20,13,761,793,20,13
 4/1/20,United Arab Emirates,814,8,61,745,769,8,54
-4/1/20,United Kingdom,29865,3100,179,26586,29543,3097,161
+4/1/20,United Kingdom,43789,3100,179,40510,43159,3097,161
 4/1/20,Uruguay,350,2,62,286,350,2,62
 4/1/20,Uzbekistan,181,2,12,167,181,2,12
 4/1/20,Venezuela,143,3,41,99,143,3,41
@@ -13525,7 +13525,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/10/20,Uganda,53,0,0,53,9,0,0
 4/10/20,Ukraine,2203,69,61,2073,1409,49,48
 4/10/20,United Arab Emirates,3360,16,418,2926,2546,8,357
-4/10/20,United Kingdom,74605,10776,588,63241,44740,7676,409
+4/10/20,United Kingdom,86660,10776,588,75296,42871,7676,409
 4/10/20,Uruguay,494,7,214,273,144,5,152
 4/10/20,Uzbekistan,624,3,42,579,443,1,30
 4/10/20,Venezuela,171,9,84,78,28,6,43
@@ -13713,7 +13713,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/11/20,Uganda,53,0,4,49,0,0,4
 4/11/20,Ukraine,2511,73,79,2359,308,4,18
 4/11/20,United Arab Emirates,3736,20,588,3128,376,4,170
-4/11/20,United Kingdom,79874,11616,622,67636,5269,840,34
+4/11/20,United Kingdom,90273,11616,622,78035,3613,840,34
 4/11/20,Uruguay,501,7,224,270,7,0,10
 4/11/20,Uzbekistan,767,4,42,721,143,1,0
 4/11/20,Venezuela,175,9,93,73,4,0,9
@@ -13901,7 +13901,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/12/20,Uganda,54,0,4,50,1,0,0
 4/12/20,Ukraine,2777,83,89,2605,266,10,10
 4/12/20,United Arab Emirates,4123,22,680,3421,387,2,92
-4/12/20,United Kingdom,85206,12302,626,72278,5332,686,4
+4/12/20,United Kingdom,93812,12302,626,80884,3539,686,4
 4/12/20,Uruguay,480,7,231,242,0,0,7
 4/12/20,Uzbekistan,865,4,66,795,98,0,24
 4/12/20,Venezuela,181,9,93,79,6,0,0
@@ -14089,7 +14089,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/13/20,Uganda,54,0,7,47,0,0,3
 4/13/20,Ukraine,3102,93,97,2912,325,10,8
 4/13/20,United Arab Emirates,4521,25,852,3644,398,3,172
-4/13/20,United Kingdom,89570,13047,304,76219,4364,745,-322
+4/13/20,United Kingdom,98017,13047,304,84666,4205,745,-322
 4/13/20,Uruguay,483,8,248,227,3,1,17
 4/13/20,Uzbekistan,998,4,85,909,133,0,19
 4/13/20,Venezuela,189,9,110,70,8,0,17
@@ -14277,7 +14277,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/14/20,Uganda,55,0,8,47,1,0,1
 4/14/20,Ukraine,3372,98,119,3155,270,5,22
 4/14/20,United Arab Emirates,4933,28,933,3972,412,3,81
-4/14/20,United Kingdom,94845,14095,323,80427,5275,1048,19
+4/14/20,United Kingdom,102365,14095,323,87947,4348,1048,19
 4/14/20,Uruguay,492,8,260,224,9,0,12
 4/14/20,Uzbekistan,1165,4,99,1062,167,0,14
 4/14/20,Venezuela,189,9,110,70,0,0,0
@@ -14465,7 +14465,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/15/20,Uganda,55,0,12,43,0,0,4
 4/15/20,Ukraine,3764,108,143,3513,392,10,24
 4/15/20,United Arab Emirates,5365,33,1034,4298,432,5,101
-4/15/20,United Kingdom,99483,14941,368,84174,4638,846,45
+4/15/20,United Kingdom,107465,14941,368,92156,5100,846,45
 4/15/20,Uruguay,493,9,272,212,1,1,12
 4/15/20,Uzbekistan,1302,4,107,1191,137,0,8
 4/15/20,Venezuela,197,9,111,77,8,0,1
@@ -14653,7 +14653,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/16/20,Uganda,55,0,20,35,0,0,8
 4/16/20,Ukraine,4161,116,186,3859,397,8,43
 4/16/20,United Arab Emirates,5825,35,1095,4695,460,2,61
-4/16/20,United Kingdom,104145,15974,375,87796,4662,1033,7
+4/16/20,United Kingdom,112808,15974,375,96459,5343,1033,7
 4/16/20,Uruguay,502,9,286,207,9,0,14
 4/16/20,Uzbekistan,1349,4,129,1216,47,0,22
 4/16/20,Venezuela,204,9,111,84,7,0,0
@@ -14841,7 +14841,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/17/20,Uganda,56,0,20,36,1,0,0
 4/17/20,Ukraine,4662,125,246,4291,501,9,60
 4/17/20,United Arab Emirates,6302,37,1188,5077,477,2,93
-4/17/20,United Kingdom,109769,16910,394,92465,5624,936,19
+4/17/20,United Kingdom,117798,16910,394,100494,4990,936,19
 4/17/20,Uruguay,508,9,294,205,6,0,8
 4/17/20,Uzbekistan,1405,4,156,1245,56,0,27
 4/17/20,Venezuela,204,9,111,84,0,0,0
@@ -15029,7 +15029,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/18/20,Uganda,55,0,22,33,0,0,2
 4/18/20,Ukraine,5106,133,275,4698,444,8,29
 4/18/20,United Arab Emirates,6302,37,1188,5077,0,0,0
-4/18/20,United Kingdom,115314,18028,414,96872,5545,1118,20
+4/18/20,United Kingdom,122534,18028,414,104092,4736,1118,20
 4/18/20,Uruguay,517,9,298,210,9,0,4
 4/18/20,Uzbekistan,1490,5,194,1291,85,1,38
 4/18/20,Venezuela,227,9,113,105,23,0,2
@@ -15217,7 +15217,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/19/20,Uganda,55,0,28,27,0,0,6
 4/19/20,Ukraine,5449,141,347,4961,343,8,72
 4/19/20,United Arab Emirates,6781,41,1286,5454,479,4,98
-4/19/20,United Kingdom,121172,18527,436,102209,5858,499,22
+4/19/20,United Kingdom,126394,18527,436,107431,3860,499,22
 4/19/20,Uruguay,528,10,298,220,11,1,0
 4/19/20,Uzbekistan,1565,5,225,1335,75,0,31
 4/19/20,Venezuela,256,9,117,130,29,0,4
@@ -15405,7 +15405,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/2/20,Uganda,45,0,0,45,0,0,-28
 4/2/20,Ukraine,897,22,19,856,0,-119,-328
 4/2/20,United Arab Emirates,1024,8,96,920,0,-33,-1190
-4/2/20,United Kingdom,34173,3752,192,30229,0,-14775,-244
+4/2/20,United Kingdom,48718,3752,192,44774,0,-14775,-244
 4/2/20,Uruguay,369,4,68,297,0,-6,-230
 4/2/20,Uzbekistan,205,2,25,178,0,-3,-200
 4/2/20,Venezuela,146,5,43,98,0,-4,-74
@@ -15593,7 +15593,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/20/20,Uganda,56,0,38,18,11,0,38
 4/20/20,Ukraine,5710,151,359,5200,4813,129,340
 4/20/20,United Arab Emirates,7265,43,1360,5862,6241,35,1264
-4/20/20,United Kingdom,125856,19092,446,106318,91683,15340,254
+4/20/20,United Kingdom,131260,19092,446,111722,82542,15340,254
 4/20/20,Uruguay,535,10,313,212,166,6,245
 4/20/20,Uzbekistan,1627,5,261,1361,1422,3,236
 4/20/20,Venezuela,256,9,117,130,110,4,74
@@ -15781,7 +15781,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/21/20,Uganda,61,0,38,23,5,0,0
 4/21/20,Ukraine,6125,161,367,5597,415,10,8
 4/21/20,United Arab Emirates,7755,46,1443,6266,490,3,83
-4/21/20,United Kingdom,130172,20264,638,109270,4316,1172,192
+4/21/20,United Kingdom,136035,20264,638,115133,4775,1172,192
 4/21/20,Uruguay,543,12,324,207,8,2,11
 4/21/20,Uzbekistan,1678,6,357,1315,51,1,96
 4/21/20,Venezuela,285,10,117,158,29,1,0
@@ -15969,7 +15969,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/22/20,Uganda,63,0,45,18,2,0,7
 4/22/20,Ukraine,6592,174,424,5994,467,13,57
 4/22/20,United Arab Emirates,8238,52,1546,6640,483,6,103
-4/22/20,United Kingdom,134638,21111,683,112844,4466,847,45
+4/22/20,United Kingdom,141540,21111,683,119746,5505,847,45
 4/22/20,Uruguay,549,12,337,200,6,0,13
 4/22/20,Uzbekistan,1716,7,450,1259,38,1,93
 4/22/20,Venezuela,288,10,122,156,3,0,5
@@ -16157,7 +16157,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/23/20,Uganda,74,0,46,28,11,0,1
 4/23/20,Ukraine,7170,187,504,6479,578,13,80
 4/23/20,United Arab Emirates,8756,56,1637,7063,518,4,91
-4/23/20,United Kingdom,139246,21840,712,116694,4608,729,29
+4/23/20,United Kingdom,146708,21840,712,124156,5168,729,29
 4/23/20,Uruguay,557,12,354,191,8,0,17
 4/23/20,Uzbekistan,1758,7,561,1190,42,0,111
 4/23/20,Venezuela,311,10,126,175,23,0,4
@@ -16345,7 +16345,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/24/20,Uganda,75,0,46,29,1,0,0
 4/24/20,Ukraine,7647,201,782,6664,477,14,278
 4/24/20,United Arab Emirates,9281,64,1760,7457,525,8,123
-4/24/20,United Kingdom,144640,22853,724,121063,5394,1013,12
+4/24/20,United Kingdom,151689,22853,724,128112,4981,1013,12
 4/24/20,Uruguay,563,12,369,182,6,0,15
 4/24/20,Uzbekistan,1804,8,621,1175,46,1,60
 4/24/20,Venezuela,318,10,132,176,7,0,6
@@ -16533,7 +16533,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/25/20,Uganda,75,0,46,29,0,0,0
 4/25/20,Ukraine,8125,201,782,7142,478,0,0
 4/25/20,United Arab Emirates,9813,71,1887,7855,532,7,127
-4/25/20,United Kingdom,149569,23697,774,125098,4929,844,50
+4/25/20,United Kingdom,155453,23697,774,130982,3764,844,50
 4/25/20,Uruguay,596,14,370,212,33,2,1
 4/25/20,Uzbekistan,1862,8,707,1147,58,0,86
 4/25/20,Venezuela,323,10,132,181,5,0,0
@@ -16721,7 +16721,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/26/20,Uganda,79,0,46,33,4,0,0
 4/26/20,Ukraine,8617,209,840,7568,492,8,58
 4/26/20,United Arab Emirates,10349,76,1978,8295,536,5,91
-4/26/20,United Kingdom,154037,24117,778,129142,4468,420,4
+4/26/20,United Kingdom,158926,24117,778,134031,3473,420,4
 4/26/20,Uruguay,606,15,375,216,10,1,5
 4/26/20,Uzbekistan,1869,8,789,1072,7,0,82
 4/26/20,Venezuela,325,10,137,178,2,0,5
@@ -16909,7 +16909,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/27/20,Uganda,79,0,47,32,0,0,1
 4/27/20,Ukraine,9009,220,864,7925,392,11,24
 4/27/20,United Arab Emirates,10839,82,2090,8667,490,6,112
-4/27/20,United Kingdom,158348,24458,807,133083,4311,341,29
+4/27/20,United Kingdom,163630,24458,807,138365,4704,341,29
 4/27/20,Uruguay,620,15,386,219,14,0,11
 4/27/20,Uzbekistan,1904,8,892,1004,35,0,103
 4/27/20,Venezuela,329,10,142,177,4,0,5
@@ -17097,7 +17097,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/28/20,Uganda,79,0,52,27,0,0,5
 4/28/20,Ukraine,9410,239,992,8179,401,19,128
 4/28/20,United Arab Emirates,11380,89,2181,9110,541,7,91
-4/28/20,United Kingdom,162350,25369,813,136168,4002,911,6
+4/28/20,United Kingdom,168357,25369,813,142175,4727,911,6
 4/28/20,Uruguay,625,15,394,216,5,0,8
 4/28/20,Uzbekistan,1939,8,992,939,35,0,100
 4/28/20,Venezuela,329,10,142,177,0,0,0
@@ -17285,7 +17285,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/29/20,Uganda,81,0,52,29,2,0,0
 4/29/20,Ukraine,9866,250,1103,8513,456,11,111
 4/29/20,United Arab Emirates,11929,98,2329,9502,549,9,148
-4/29/20,United Kingdom,166441,26166,857,139418,4091,797,44
+4/29/20,United Kingdom,173807,26166,857,146784,5450,797,44
 4/29/20,Uruguay,630,15,412,203,5,0,18
 4/29/20,Uzbekistan,2002,9,1096,897,63,1,104
 4/29/20,Venezuela,331,10,142,179,2,0,0
@@ -17473,7 +17473,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/3/20,Uganda,48,0,0,48,0,0,-52
 4/3/20,Ukraine,1072,27,22,1023,0,-223,-1081
 4/3/20,United Arab Emirates,1264,9,108,1147,0,-89,-2221
-4/3/20,United Kingdom,38689,4467,208,34014,0,-21699,-649
+4/3/20,United Kingdom,53699,4467,208,49024,0,-21699,-649
 4/3/20,Uruguay,386,4,86,296,0,-11,-326
 4/3/20,Uzbekistan,227,2,25,200,0,-7,-1071
 4/3/20,Venezuela,153,7,52,94,0,-3,-90
@@ -17661,7 +17661,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/30/20,Uganda,83,0,52,31,35,0,52
 4/30/20,Ukraine,10406,261,1238,8907,9334,234,1216
 4/30/20,United Arab Emirates,12481,105,2429,9947,11217,96,2321
-4/30/20,United Kingdom,172481,26842,859,144780,133792,22375,651
+4/30/20,United Kingdom,178771,26842,859,151070,125072,22375,651
 4/30/20,Uruguay,643,17,417,209,257,13,331
 4/30/20,Uzbekistan,2039,9,1133,897,1812,7,1108
 4/30/20,Venezuela,333,16,142,175,180,9,90
@@ -17849,7 +17849,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/4/20,Uganda,48,0,0,48,0,0,-52
 4/4/20,Ukraine,1225,32,25,1168,0,-229,-1213
 4/4/20,United Arab Emirates,1505,10,125,1370,0,-95,-2304
-4/4/20,United Kingdom,42477,5228,215,37034,0,-21614,-644
+4/4/20,United Kingdom,57772,5228,215,52329,0,-21614,-644
 4/4/20,Uruguay,400,5,93,302,0,-12,-324
 4/4/20,Uzbekistan,266,2,25,239,0,-7,-1108
 4/4/20,Venezuela,155,7,52,96,0,-9,-90
@@ -18037,7 +18037,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/5/20,Uganda,52,0,0,52,4,0,0
 4/5/20,Ukraine,1308,37,28,1243,83,5,3
 4/5/20,United Arab Emirates,1799,10,144,1645,294,0,19
-4/5/20,United Kingdom,48436,5874,229,42333,5959,646,14
+4/5/20,United Kingdom,61422,5874,229,55319,3650,646,14
 4/5/20,Uruguay,406,6,104,296,6,1,11
 4/5/20,Uzbekistan,342,2,30,310,76,0,5
 4/5/20,Venezuela,159,7,52,100,4,0,0
@@ -18225,7 +18225,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/6/20,Uganda,52,0,0,52,0,0,0
 4/6/20,Ukraine,1319,38,28,1253,11,1,0
 4/6/20,United Arab Emirates,2076,11,167,1898,277,1,23
-4/6/20,United Kingdom,52279,6445,287,45547,3843,571,58
+4/6/20,United Kingdom,66738,6445,287,60006,5316,571,58
 4/6/20,Uruguay,415,6,123,286,9,0,19
 4/6/20,Uzbekistan,457,2,30,425,115,0,0
 4/6/20,Venezuela,165,7,65,93,6,0,13
@@ -18413,7 +18413,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/7/20,Uganda,52,0,0,52,0,0,0
 4/7/20,Ukraine,1462,45,28,1389,143,7,0
 4/7/20,United Arab Emirates,2359,12,186,2161,283,1,19
-4/7/20,United Kingdom,55949,7483,325,48141,3670,1038,38
+4/7/20,United Kingdom,72224,7483,325,64416,5486,1038,38
 4/7/20,Uruguay,424,7,150,267,9,1,27
 4/7/20,Uzbekistan,520,2,30,488,63,0,0
 4/7/20,Venezuela,165,7,65,93,0,0,0
@@ -18601,7 +18601,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/8/20,Uganda,53,0,0,53,1,0,0
 4/8/20,Ukraine,1668,52,35,1581,206,7,7
 4/8/20,United Arab Emirates,2659,12,239,2408,300,0,53
-4/8/20,United Kingdom,61474,8519,345,52610,5525,1036,20
+4/8/20,United Kingdom,77387,8519,345,68523,5163,1036,20
 4/8/20,Uruguay,456,7,192,257,32,0,42
 4/8/20,Uzbekistan,545,3,30,512,25,1,0
 4/8/20,Venezuela,167,9,65,93,2,2,0
@@ -18789,7 +18789,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/9/20,Uganda,53,0,0,53,0,0,0
 4/9/20,Ukraine,1892,57,45,1790,224,5,10
 4/9/20,United Arab Emirates,2990,14,268,2708,331,2,29
-4/9/20,United Kingdom,65872,9623,359,55890,4398,1104,14
+4/9/20,United Kingdom,82293,9623,359,72311,4906,1104,14
 4/9/20,Uruguay,473,7,206,260,17,0,14
 4/9/20,Uzbekistan,582,3,38,541,37,0,8
 4/9/20,Venezuela,171,9,84,78,4,0,19
@@ -18977,7 +18977,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/1/20,Uganda,85,0,52,33,32,0,52
 5/1/20,Ukraine,10861,272,1413,9176,8969,215,1368
 5/1/20,United Arab Emirates,13038,111,2543,10384,10048,97,2275
-5/1/20,United Kingdom,178685,27583,892,150210,112813,17960,533
+5/1/20,United Kingdom,183501,27583,892,155026,101208,17960,533
 5/1/20,Uruguay,648,17,435,196,175,10,229
 5/1/20,Uzbekistan,2086,9,1212,865,1504,6,1174
 5/1/20,Venezuela,335,10,148,177,164,1,64
@@ -19165,7 +19165,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/10/20,Uganda,121,0,55,66,36,0,3
 5/10/20,Ukraine,15232,391,3060,11781,4371,119,1647
 5/10/20,United Arab Emirates,18198,198,4804,13196,5160,87,2261
-5/10/20,United Kingdom,220449,31930,1002,187517,41764,4347,110
+5/10/20,United Kingdom,211911,31930,1002,178979,28410,4347,110
 5/10/20,Uruguay,707,19,517,171,59,2,82
 5/10/20,Uzbekistan,2418,10,1881,527,332,1,669
 5/10/20,Venezuela,414,10,193,211,79,0,45
@@ -19353,7 +19353,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/11/20,Uganda,121,0,55,66,0,0,0
 5/11/20,Ukraine,15648,408,3288,11952,416,17,228
 5/11/20,United Arab Emirates,18878,201,5381,13296,680,3,577
-5/11/20,United Kingdom,224332,32141,1015,191176,3883,211,13
+5/11/20,United Kingdom,215500,32141,1015,182344,3589,211,13
 5/11/20,Uruguay,711,19,523,169,4,0,6
 5/11/20,Uzbekistan,2486,10,1988,488,68,0,107
 5/11/20,Venezuela,422,10,205,207,8,0,12
@@ -19541,7 +19541,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/12/20,Uganda,129,0,55,74,8,0,0
 5/12/20,Ukraine,16023,425,3373,12225,375,17,85
 5/12/20,United Arab Emirates,19661,203,6012,13446,783,2,631
-5/12/20,United Kingdom,227741,32769,1023,193949,3409,628,8
+5/12/20,United Kingdom,218895,32769,1023,185103,3395,628,8
 5/12/20,Uruguay,717,19,532,166,6,0,9
 5/12/20,Uzbekistan,2519,10,2010,499,33,0,22
 5/12/20,Venezuela,423,10,220,193,1,0,15
@@ -19729,7 +19729,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/13/20,Uganda,139,0,55,84,10,0,0
 5/13/20,Ukraine,16425,439,3716,12270,402,14,343
 5/13/20,United Arab Emirates,20386,206,6523,13657,725,3,511
-5/13/20,United Kingdom,230985,33264,1032,196689,3244,495,9
+5/13/20,United Kingdom,222195,33264,1032,187899,3300,495,9
 5/13/20,Uruguay,719,19,545,155,2,0,13
 5/13/20,Uzbekistan,2612,11,2076,525,93,1,66
 5/13/20,Venezuela,423,10,220,193,0,0,0
@@ -19917,7 +19917,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/14/20,Uganda,160,0,63,97,21,0,8
 5/14/20,Ukraine,16847,456,4143,12248,422,17,427
 5/14/20,United Arab Emirates,21084,208,6930,13946,698,2,407
-5/14/20,United Kingdom,234440,33693,1043,199704,3455,429,11
+5/14/20,United Kingdom,224813,33693,1043,190077,2618,429,11
 5/14/20,Uruguay,724,19,547,158,5,0,2
 5/14/20,Uzbekistan,2645,11,2136,498,33,0,60
 5/14/20,Venezuela,455,10,220,225,32,0,0
@@ -20105,7 +20105,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/15/20,Uganda,203,0,63,140,43,0,0
 5/15/20,Ukraine,17330,476,4473,12381,483,20,330
 5/15/20,United Arab Emirates,21831,210,7328,14293,747,2,398
-5/15/20,United Kingdom,238004,34078,1047,202879,3564,385,4
+5/15/20,United Kingdom,227334,34078,1047,192209,2521,385,4
 5/15/20,Uruguay,732,19,553,160,8,0,6
 5/15/20,Uzbekistan,2686,11,2158,517,41,0,22
 5/15/20,Venezuela,459,10,229,220,4,0,9
@@ -20293,7 +20293,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/16/20,Uganda,227,0,63,164,24,0,0
 5/16/20,Ukraine,17858,497,4906,12455,528,21,433
 5/16/20,United Arab Emirates,22627,214,7931,14482,796,4,603
-5/16/20,United Kingdom,241461,34546,1058,205857,3457,468,11
+5/16/20,United Kingdom,229406,34546,1058,193802,2072,468,11
 5/16/20,Uruguay,733,19,558,156,1,0,5
 5/16/20,Uzbekistan,2738,11,2213,514,52,0,55
 5/16/20,Venezuela,504,10,241,253,45,0,12
@@ -20481,7 +20481,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/17/20,Uganda,227,0,63,164,0,0,0
 5/17/20,Ukraine,18291,514,5116,12661,433,17,210
 5/17/20,United Arab Emirates,23358,220,8512,14626,731,6,581
-5/17/20,United Kingdom,244995,34716,1058,209221,3534,170,0
+5/17/20,United Kingdom,231232,34716,1058,195458,1826,170,0
 5/17/20,Uruguay,734,20,564,150,1,1,6
 5/17/20,Uzbekistan,2753,12,2247,494,15,1,34
 5/17/20,Venezuela,541,10,241,290,37,0,0
@@ -20669,7 +20669,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/18/20,Uganda,248,0,63,185,21,0,0
 5/18/20,Ukraine,18616,535,5276,12805,325,21,160
 5/18/20,United Arab Emirates,24190,224,9577,14389,832,4,1065
-5/18/20,United Kingdom,247709,34876,1090,211743,2714,160,32
+5/18/20,United Kingdom,233809,34876,1090,197843,2577,160,32
 5/18/20,Uruguay,737,20,569,148,3,0,5
 5/18/20,Uzbekistan,2791,13,2314,464,38,1,67
 5/18/20,Venezuela,618,10,253,355,77,0,12
@@ -20857,7 +20857,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/19/20,Uganda,260,0,63,197,12,0,0
 5/19/20,Ukraine,18876,548,5632,12696,260,13,356
 5/19/20,United Arab Emirates,25063,227,10791,14045,873,3,1214
-5/19/20,United Kingdom,250138,35422,1099,213617,2429,546,9
+5/19/20,United Kingdom,236867,35422,1099,200346,3058,546,9
 5/19/20,Uruguay,738,20,579,139,1,0,10
 5/19/20,Uzbekistan,2855,13,2338,504,64,0,24
 5/19/20,Venezuela,749,10,253,486,131,0,0
@@ -21045,7 +21045,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/2/20,Uganda,88,0,52,36,0,0,-11
 5/2/20,Ukraine,11411,279,1498,9634,0,-269,-4134
 5/2/20,United Arab Emirates,13599,119,2664,10816,0,-108,-8127
-5/2/20,United Kingdom,183500,28205,896,154399,0,-7217,-203
+5/2/20,United Kingdom,186731,28205,896,157630,0,-7217,-203
 5/2/20,Uruguay,652,17,440,195,0,-3,-139
 5/2/20,Uzbekistan,2118,9,1271,838,0,-4,-1067
 5/2/20,Venezuela,345,10,148,187,0,0,-105
@@ -21233,7 +21233,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/20/20,Uganda,264,0,65,199,176,0,13
 5/20/20,Ukraine,19230,564,5955,12711,7819,285,4457
 5/20/20,United Arab Emirates,26004,233,11809,13962,12405,114,9145
-5/20/20,United Kingdom,249619,35786,1116,212717,66119,7581,220
+5/20/20,United Kingdom,239579,35786,1116,202677,52848,7581,220
 5/20/20,Uruguay,746,20,588,138,94,3,148
 5/20/20,Uzbekistan,2939,13,2372,554,821,4,1101
 5/20/20,Venezuela,824,10,262,552,479,0,114
@@ -21421,7 +21421,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/21/20,Uganda,160,0,66,94,0,0,1
 5/21/20,Ukraine,19706,579,6227,12900,476,15,272
 5/21/20,United Arab Emirates,26898,237,12755,13906,894,4,946
-5/21/20,United Kingdom,252246,36124,1134,214988,2627,338,18
+5/21/20,United Kingdom,242133,36124,1134,204875,2554,338,18
 5/21/20,Uruguay,749,20,594,135,3,0,6
 5/21/20,Uzbekistan,2964,13,2407,544,25,0,35
 5/21/20,Venezuela,882,10,262,610,58,0,0
@@ -21609,7 +21609,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/22/20,Uganda,175,0,68,107,15,0,2
 5/22/20,Ukraine,20148,588,6585,12975,442,9,358
 5/22/20,United Arab Emirates,27892,241,13798,13853,994,4,1043
-5/22/20,United Kingdom,255544,36475,1142,217927,3298,351,8
+5/22/20,United Kingdom,244174,36475,1142,206557,2041,351,8
 5/22/20,Uruguay,753,20,603,130,4,0,9
 5/22/20,Uzbekistan,3028,13,2492,523,64,0,85
 5/22/20,Venezuela,944,10,262,672,62,0,0
@@ -21797,7 +21797,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/23/20,Uganda,198,0,68,130,23,0,0
 5/23/20,Ukraine,20580,605,6929,13046,432,17,344
 5/23/20,United Arab Emirates,28704,244,14495,13965,812,3,697
-5/23/20,United Kingdom,258504,36757,1149,220598,2960,282,7
+5/23/20,United Kingdom,245682,36757,1149,207776,1508,282,7
 5/23/20,Uruguay,764,22,616,126,11,2,13
 5/23/20,Uzbekistan,3115,13,2532,570,87,0,40
 5/23/20,Venezuela,1010,10,262,738,66,0,0
@@ -21985,7 +21985,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/24/20,Uganda,198,0,68,130,0,0,0
 5/24/20,Ukraine,20986,617,7108,13261,406,12,179
 5/24/20,United Arab Emirates,29485,245,15056,14184,781,1,561
-5/24/20,United Kingdom,260916,36875,1151,222890,2412,118,2
+5/24/20,United Kingdom,247037,36875,1151,209011,1355,118,2
 5/24/20,Uruguay,769,22,618,129,5,0,2
 5/24/20,Uzbekistan,3164,13,2565,586,49,0,33
 5/24/20,Venezuela,1121,10,262,849,111,0,0
@@ -22173,7 +22173,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/25/20,Uganda,222,0,69,153,24,0,1
 5/25/20,Ukraine,21245,623,7234,13388,259,6,126
 5/25/20,United Arab Emirates,30307,248,15657,14402,822,3,601
-5/25/20,United Kingdom,262547,36996,1161,224390,1631,121,10
+5/25/20,United Kingdom,248650,36996,1161,210493,1613,121,10
 5/25/20,Uruguay,787,22,629,136,18,0,11
 5/25/20,Uzbekistan,3189,13,2607,569,25,0,42
 5/25/20,Venezuela,1177,10,302,865,56,0,40
@@ -22361,7 +22361,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/26/20,Uganda,253,0,69,184,31,0,0
 5/26/20,Ukraine,21584,644,7575,13365,339,21,341
 5/26/20,United Arab Emirates,31086,253,15982,14851,779,5,325
-5/26/20,United Kingdom,266599,37130,1161,228308,4052,134,0
+5/26/20,United Kingdom,250309,37130,1161,212018,1659,134,0
 5/26/20,Uruguay,789,22,638,129,2,0,9
 5/26/20,Uzbekistan,3290,14,2636,640,101,1,29
 5/26/20,Venezuela,1211,11,302,898,34,1,0
@@ -22549,7 +22549,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/27/20,Uganda,281,0,69,212,28,0,0
 5/27/20,Ukraine,21905,658,7995,13252,321,14,420
 5/27/20,United Arab Emirates,31969,255,16371,15343,883,2,389
-5/27/20,United Kingdom,268619,37542,1166,229911,2020,412,5
+5/27/20,United Kingdom,252118,37542,1166,213410,1809,412,5
 5/27/20,Uruguay,803,22,650,131,14,0,12
 5/27/20,Uzbekistan,3369,14,2668,687,79,0,32
 5/27/20,Venezuela,1245,11,302,932,34,0,0
@@ -22737,7 +22737,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/28/20,Uganda,317,0,69,248,36,0,0
 5/28/20,Ukraine,22382,669,8439,13274,477,11,444
 5/28/20,United Arab Emirates,32532,258,16685,15589,563,3,314
-5/28/20,United Kingdom,270508,37919,1167,231422,1889,377,1
+5/28/20,United Kingdom,253854,37919,1167,214768,1736,377,1
 5/28/20,Uruguay,811,22,654,135,8,0,4
 5/28/20,Uzbekistan,3444,14,2694,736,75,0,26
 5/28/20,Venezuela,1325,11,302,1012,80,0,0
@@ -22925,7 +22925,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/29/20,Uganda,329,0,72,257,12,0,3
 5/29/20,Ukraine,22811,679,8934,13198,429,10,495
 5/29/20,United Arab Emirates,33170,260,17097,15813,638,2,412
-5/29/20,United Kingdom,272607,38243,1172,233192,2099,324,5
+5/29/20,United Kingdom,255362,38243,1172,215947,1508,324,5
 5/29/20,Uruguay,816,22,680,114,5,0,26
 5/29/20,Uzbekistan,3468,14,2728,726,24,0,34
 5/29/20,Venezuela,1370,14,302,1054,45,3,0
@@ -23113,7 +23113,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/3/20,Uganda,89,0,52,37,0,0,-20
 5/3/20,Ukraine,11913,288,1548,10077,0,-391,-7386
 5/3/20,United Arab Emirates,14163,126,2763,11274,0,-134,-14334
-5/3/20,United Kingdom,187842,28520,901,158421,0,-9723,-271
+5/3/20,United Kingdom,189708,28520,901,160287,0,-9723,-271
 5/3/20,Uruguay,655,17,442,196,0,-5,-238
 5/3/20,Uzbekistan,2149,10,1319,820,0,-4,-1409
 5/3/20,Venezuela,357,10,158,189,0,-4,-144
@@ -23301,7 +23301,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/30/20,Uganda,413,0,72,341,324,0,20
 5/30/20,Ukraine,23204,696,9311,13197,11291,408,7763
 5/30/20,United Arab Emirates,33896,262,17546,16088,19733,136,14783
-5/30/20,United Kingdom,274219,38458,1187,234574,86377,9938,286
+5/30/20,United Kingdom,256469,38458,1187,216824,66761,9938,286
 5/30/20,Uruguay,821,22,682,117,166,5,240
 5/30/20,Uzbekistan,3546,14,2783,749,1397,4,1464
 5/30/20,Venezuela,1459,14,302,1143,1102,4,144
@@ -23489,7 +23489,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/31/20,Uganda,417,0,72,345,4,0,0
 5/31/20,Ukraine,23672,708,9538,13426,468,12,227
 5/31/20,United Arab Emirates,34557,264,17932,16361,661,2,386
-5/31/20,United Kingdom,276156,38571,1190,236395,1937,113,3
+5/31/20,United Kingdom,257539,38571,1190,217778,1070,113,3
 5/31/20,Uruguay,823,22,685,116,2,0,3
 5/31/20,Uzbekistan,3623,15,2837,771,77,1,54
 5/31/20,Venezuela,1510,14,302,1194,51,0,0
@@ -23677,7 +23677,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/4/20,Uganda,97,0,55,42,0,0,-17
 5/4/20,Ukraine,12331,303,1619,10409,0,-405,-7919
 5/4/20,United Arab Emirates,14730,137,2966,11627,0,-127,-14966
-5/4/20,United Kingdom,191832,28809,910,162113,0,-9762,-280
+5/4/20,United Kingdom,193091,28809,910,163372,0,-9762,-280
 5/4/20,Uruguay,657,17,447,193,0,-5,-238
 5/4/20,Uzbekistan,2189,10,1405,774,0,-5,-1432
 5/4/20,Venezuela,357,10,158,189,0,-4,-144
@@ -23865,7 +23865,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/5/20,Uganda,98,0,55,43,1,0,0
 5/5/20,Ukraine,12697,316,1875,10506,366,13,256
 5/5/20,United Arab Emirates,15192,146,3153,11893,462,9,187
-5/5/20,United Kingdom,196243,29501,926,165816,4411,692,16
+5/5/20,United Kingdom,196780,29501,926,166353,3689,692,16
 5/5/20,Uruguay,670,17,468,185,13,0,21
 5/5/20,Uzbekistan,2207,10,1501,696,18,0,96
 5/5/20,Venezuela,361,10,158,193,4,0,0
@@ -24053,7 +24053,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/6/20,Uganda,100,0,55,45,2,0,0
 5/6/20,Ukraine,13184,327,2097,10760,487,11,222
 5/6/20,United Arab Emirates,15738,157,3359,12222,546,11,206
-5/6/20,United Kingdom,202359,30150,934,171275,6116,649,8
+5/6/20,United Kingdom,200616,30150,934,169532,3836,649,8
 5/6/20,Uruguay,673,17,486,170,3,0,18
 5/6/20,Uzbekistan,2233,10,1577,646,26,0,76
 5/6/20,Venezuela,379,10,176,193,18,0,18
@@ -24241,7 +24241,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/7/20,Uganda,101,0,55,46,1,0,0
 5/7/20,Ukraine,13691,340,2396,10955,507,13,299
 5/7/20,United Arab Emirates,16240,165,3572,12503,502,8,213
-5/7/20,United Kingdom,207977,30689,970,176318,5618,539,36
+5/7/20,United Kingdom,204387,30689,970,172728,3771,539,36
 5/7/20,Uruguay,684,17,492,175,11,0,6
 5/7/20,Uzbekistan,2298,10,1656,632,65,0,79
 5/7/20,Venezuela,381,10,185,186,2,0,9
@@ -24429,7 +24429,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/8/20,Uganda,101,0,55,46,0,0,0
 5/8/20,Ukraine,14195,361,2706,11128,504,21,310
 5/8/20,United Arab Emirates,16793,174,3837,12782,553,9,265
-5/8/20,United Kingdom,212629,31316,997,180316,4652,627,27
+5/8/20,United Kingdom,207439,31316,997,175126,3052,627,27
 5/8/20,Uruguay,694,18,506,170,10,1,14
 5/8/20,Uzbekistan,2325,10,1775,540,27,0,119
 5/8/20,Venezuela,388,10,190,188,7,0,5
@@ -24617,7 +24617,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/9/20,Uganda,116,0,55,61,15,0,0
 5/9/20,Ukraine,14710,376,2909,11425,515,15,203
 5/9/20,United Arab Emirates,17417,185,4295,12937,624,11,458
-5/9/20,United Kingdom,216525,31662,1001,183862,3896,346,4
+5/9/20,United Kingdom,209589,31662,1001,176926,2150,346,4
 5/9/20,Uruguay,702,18,513,171,8,0,7
 5/9/20,Uzbekistan,2349,10,1846,493,24,0,71
 5/9/20,Venezuela,402,10,190,202,14,0,0
@@ -24805,7 +24805,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/1/20,Uganda,457,0,72,385,341,0,17
 6/1/20,Ukraine,24562,724,10053,13785,9852,348,7144
 6/1/20,United Arab Emirates,35192,266,18338,16588,17775,81,14043
-6/1/20,United Kingdom,277736,39127,1221,237388,61211,7465,220
+6/1/20,United Kingdom,258983,39127,1221,218635,49394,7465,220
 6/1/20,Uruguay,825,23,689,113,123,5,176
 6/1/20,Uzbekistan,3702,15,2859,828,1353,5,1013
 6/1/20,Venezuela,1662,17,302,1343,1260,7,112
@@ -24993,7 +24993,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/10/20,Uganda,665,0,119,546,208,0,47
 6/10/20,Ukraine,29015,841,13257,14917,4453,117,3204
 6/10/20,United Arab Emirates,40507,284,24017,16206,5315,18,5679
-6/10/20,United Kingdom,291588,41213,1269,249106,13852,2086,48
+6/10/20,United Kingdom,269101,41213,1269,226619,10118,2086,48
 6/10/20,Uruguay,847,23,758,66,22,0,69
 6/10/20,Uzbekistan,4623,19,3532,1072,921,4,673
 6/10/20,Venezuela,2738,23,487,2228,1076,6,185
@@ -25181,7 +25181,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/11/20,Uganda,679,0,161,518,14,0,42
 6/11/20,Ukraine,29706,864,13642,15200,691,23,385
 6/11/20,United Arab Emirates,40986,286,25234,15466,479,2,1217
-6/11/20,United Kingdom,292860,41364,1278,250218,1272,151,9
+6/11/20,United Kingdom,270108,41364,1278,227466,1007,151,9
 6/11/20,Uruguay,847,23,772,52,0,0,14
 6/11/20,Uzbekistan,4741,19,3637,1085,118,0,105
 6/11/20,Venezuela,2814,23,487,2304,76,0,0
@@ -25369,7 +25369,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/12/20,Uganda,686,0,161,525,7,0,0
 6/12/20,Ukraine,30415,880,14075,15460,709,16,433
 6/12/20,United Arab Emirates,41499,287,25946,15266,513,1,712
-6/12/20,United Kingdom,294402,41566,1282,251554,1542,202,4
+6/12/20,United Kingdom,271162,41566,1282,228314,1054,202,4
 6/12/20,Uruguay,847,23,780,44,0,0,8
 6/12/20,Uzbekistan,4869,19,3758,1092,128,0,121
 6/12/20,Venezuela,2879,23,487,2369,65,0,0
@@ -25553,11 +25553,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/13/20,Trinidad and Tobago,117,8,109,0,0,0,0
 6/13/20,Tunisia,1094,49,995,50,1,0,0
 6/13/20,Turkey,176677,4792,150087,21798,1459,14,985
-6/13/20,US,2074542,116082,556606,1401854,25556,748,9220
+6/13/20,US,2074542,116084,556606,1401852,25556,750,9220
 6/13/20,Uganda,694,0,219,475,8,0,58
 6/13/20,Ukraine,31177,890,14489,15798,762,10,414
 6/13/20,United Arab Emirates,41990,288,26761,14941,491,1,815
-6/13/20,United Kingdom,295828,41747,1283,252798,1426,181,1
+6/13/20,United Kingdom,272050,41747,1283,229020,888,181,1
 6/13/20,Uruguay,847,23,784,40,0,0,4
 6/13/20,Uzbekistan,4966,19,3874,1073,97,0,116
 6/13/20,Venezuela,2904,24,487,2393,25,1,0
@@ -25741,11 +25741,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/14/20,Trinidad and Tobago,123,8,109,6,6,0,0
 6/14/20,Tunisia,1096,49,998,49,2,0,3
 6/14/20,Turkey,178239,4807,151417,22015,1562,15,1330
-6/14/20,US,2094366,116378,561816,1416172,19824,296,5210
+6/14/20,US,2094366,116382,561816,1416168,19824,298,5210
 6/14/20,Uganda,696,0,240,456,2,0,21
 6/14/20,Ukraine,31851,899,14596,16356,674,9,107
 6/14/20,United Arab Emirates,42294,289,27462,14543,304,1,701
-6/14/20,United Kingdom,297342,41783,1283,254276,1514,36,0
+6/14/20,United Kingdom,272857,41783,1283,229791,807,36,0
 6/14/20,Uruguay,848,23,788,37,1,0,4
 6/14/20,Uzbekistan,5080,19,3943,1118,114,0,69
 6/14/20,Venezuela,2978,25,835,2118,74,1,348
@@ -25929,11 +25929,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/15/20,Trinidad and Tobago,123,8,109,6,0,0,0
 6/15/20,Tunisia,1110,49,999,62,14,0,1
 6/15/20,Turkey,179831,4825,152364,22642,1592,18,947
-6/15/20,US,2114026,116769,576334,1420923,19660,391,14518
+6/15/20,US,2114026,116773,576334,1420919,19660,391,14518
 6/15/20,Uganda,705,0,299,406,9,0,59
 6/15/20,Ukraine,32536,911,14771,16854,685,12,175
 6/15/20,United Arab Emirates,42636,291,28129,14216,342,2,667
-6/15/20,United Kingdom,298315,41821,1284,255210,973,38,1
+6/15/20,United Kingdom,273888,41821,1284,230783,1031,38,1
 6/15/20,Uruguay,848,23,792,33,0,0,4
 6/15/20,Uzbekistan,5263,19,4019,1225,183,0,76
 6/15/20,Venezuela,3062,26,835,2201,84,1,0
@@ -26117,11 +26117,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/16/20,Trinidad and Tobago,123,8,109,6,0,0,0
 6/16/20,Tunisia,1125,49,1002,74,15,0,3
 6/16/20,Turkey,181298,4842,153379,23077,1467,17,1015
-6/16/20,US,2137731,117607,583503,1436621,23705,838,7169
+6/16/20,US,2137731,117612,583503,1436616,23705,839,7169
 6/16/20,Uganda,724,0,351,373,19,0,52
 6/16/20,Ukraine,33209,922,15054,17233,673,11,283
 6/16/20,United Arab Emirates,42982,293,28861,13828,346,2,732
-6/16/20,United Kingdom,299600,42054,1293,256253,1285,233,9
+6/16/20,United Kingdom,274971,42054,1293,231624,1083,233,9
 6/16/20,Uruguay,849,24,801,24,1,1,9
 6/16/20,Uzbekistan,5493,19,4096,1378,230,0,77
 6/16/20,Venezuela,3150,27,835,2288,88,1,0
@@ -26305,11 +26305,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/17/20,Trinidad and Tobago,123,8,109,6,0,0,0
 6/17/20,Tunisia,1128,50,1004,74,3,1,2
 6/17/20,Turkey,182727,4861,154640,23226,1429,19,1261
-6/17/20,US,2163290,118357,592191,1452742,25559,750,8688
+6/17/20,US,2163290,118363,592191,1452736,25559,751,8688
 6/17/20,Uganda,732,0,420,312,8,0,69
 6/17/20,Ukraine,33986,953,15485,17548,777,31,431
 6/17/20,United Arab Emirates,43364,295,29537,13532,382,2,676
-6/17/20,United Kingdom,300717,42238,1304,257175,1117,184,11
+6/17/20,United Kingdom,275970,42238,1304,232428,999,184,11
 6/17/20,Uruguay,849,24,810,15,0,0,9
 6/17/20,Uzbekistan,5682,19,4131,1532,189,0,35
 6/17/20,Venezuela,3386,28,835,2523,236,1,0
@@ -26493,11 +26493,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/18/20,Trinidad and Tobago,123,8,109,6,0,0,0
 6/18/20,Tunisia,1132,50,1006,76,4,0,2
 6/18/20,Turkey,184031,4882,156022,23127,1304,21,1382
-6/18/20,US,2191099,119061,599115,1472923,27809,704,6924
+6/18/20,US,2191099,119067,599115,1472917,27809,704,6924
 6/18/20,Uganda,741,0,486,255,9,0,66
 6/18/20,Ukraine,34833,976,16001,17856,847,23,516
 6/18/20,United Arab Emirates,43752,298,30241,13213,388,3,704
-6/18/20,United Kingdom,301935,42373,1313,258249,1218,135,9
+6/18/20,United Kingdom,276990,42373,1313,233304,1020,135,9
 6/18/20,Uruguay,850,24,814,12,1,0,4
 6/18/20,Uzbekistan,5767,19,4166,1582,85,0,35
 6/18/20,Venezuela,3483,28,835,2620,97,0,0
@@ -26681,11 +26681,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/19/20,Trinidad and Tobago,123,8,109,6,0,0,0
 6/19/20,Tunisia,1146,50,1014,82,14,0,8
 6/19/20,Turkey,185245,4905,157516,22824,1214,23,1494
-6/19/20,US,2222579,119733,606715,1496131,31480,672,7600
+6/19/20,US,2222579,119739,606715,1496125,31480,672,7600
 6/19/20,Uganda,755,0,492,263,14,0,6
 6/19/20,Ukraine,35755,995,16588,18172,922,19,587
 6/19/20,United Arab Emirates,44145,300,30996,12849,393,2,755
-6/19/20,United Kingdom,303285,42546,1319,259420,1350,173,6
+6/19/20,United Kingdom,277974,42546,1319,234109,984,173,6
 6/19/20,Uruguay,853,24,814,15,3,0,0
 6/19/20,Uzbekistan,5946,19,4273,1654,179,0,107
 6/19/20,Venezuela,3591,30,835,2726,108,2,0
@@ -26869,11 +26869,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/2/20,Trinidad and Tobago,117,8,108,1,0,0,-1
 6/2/20,Tunisia,1086,48,965,73,0,-2,-49
 6/2/20,Turkey,165555,4585,129921,31049,0,-320,-27595
-6/2/20,US,1837371,107169,463868,1266334,0,-12564,-142847
+6/2/20,US,1837371,107169,463868,1266334,0,-12570,-142847
 6/2/20,Uganda,489,0,82,407,0,0,-410
 6/2/20,Ukraine,24895,733,10461,13701,0,-262,-6127
 6/2/20,United Arab Emirates,35788,269,18726,16793,0,-31,-12270
-6/2/20,United Kingdom,279392,39452,1224,238716,0,-3094,-95
+6/2/20,United Kingdom,260453,39452,1224,219777,0,-3094,-95
 6/2/20,Uruguay,826,23,691,112,0,-1,-123
 6/2/20,Uzbekistan,3760,15,2908,837,0,-4,-1365
 6/2/20,Venezuela,1819,18,334,1467,0,-12,-501
@@ -27057,11 +27057,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/20/20,Trinidad and Tobago,123,8,109,6,6,0,1
 6/20/20,Tunisia,1156,50,1017,89,70,2,52
 6/20/20,Turkey,186493,4927,158828,22738,20938,342,28907
-6/20/20,US,2255327,120340,617460,1517527,417956,13171,153592
+6/20/20,US,2255327,120349,617460,1517518,417956,13180,153592
 6/20/20,Uganda,763,0,492,271,274,0,410
 6/20/20,Ukraine,36615,1004,16974,18637,11720,271,6513
 6/20/20,United Arab Emirates,44533,301,31754,12478,8745,32,13028
-6/20/20,United Kingdom,304580,42674,1319,260587,25188,3222,95
+6/20/20,United Kingdom,278640,42674,1319,234647,18187,3222,95
 6/20/20,Uruguay,859,25,815,19,33,2,124
 6/20/20,Uzbekistan,6153,19,4290,1844,2393,4,1382
 6/20/20,Venezuela,3789,33,835,2921,1970,15,501
@@ -27245,11 +27245,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/21/20,Trinidad and Tobago,123,8,109,6,0,0,0
 6/21/20,Tunisia,1157,50,1020,87,1,0,3
 6/21/20,Turkey,187685,4950,160240,22495,1192,23,1412
-6/21/20,US,2281766,120593,622133,1539040,26439,253,4673
+6/21/20,US,2281766,120604,622133,1539029,26439,255,4673
 6/21/20,Uganda,770,0,578,192,7,0,86
 6/21/20,Ukraine,37361,1012,17078,19271,746,8,104
 6/21/20,United Arab Emirates,44925,302,32415,12208,392,1,661
-6/21/20,United Kingdom,305803,42717,1319,261767,1223,43,0
+6/21/20,United Kingdom,279264,42717,1319,235228,624,43,0
 6/21/20,Uruguay,876,25,814,37,17,0,-1
 6/21/20,Uzbekistan,6315,19,4377,1919,162,0,87
 6/21/20,Venezuela,3917,33,835,3049,128,0,0
@@ -27433,11 +27433,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/22/20,Trinidad and Tobago,123,8,109,6,0,0,0
 6/22/20,Tunisia,1159,50,1020,89,2,0,0
 6/22/20,Turkey,188897,4974,161533,22390,1212,24,1293
-6/22/20,US,2312302,120999,640198,1551105,30536,406,18065
+6/22/20,US,2312302,121010,640198,1551094,30536,406,18065
 6/22/20,Uganda,774,0,631,143,4,0,53
 6/22/20,Ukraine,38056,1022,17211,19823,695,10,133
 6/22/20,United Arab Emirates,45303,303,33046,11954,378,1,631
-6/22/20,United Kingdom,306761,42731,1322,262708,958,14,3
+6/22/20,United Kingdom,280156,42731,1322,236103,892,14,3
 6/22/20,Uruguay,882,25,815,42,6,0,1
 6/22/20,Uzbekistan,6461,19,4450,1992,146,0,73
 6/22/20,Venezuela,4048,35,1327,2686,131,2,492
@@ -27621,11 +27621,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/23/20,Trinidad and Tobago,123,8,109,6,0,0,0
 6/23/20,Tunisia,1159,50,1023,86,0,0,3
 6/23/20,Turkey,190165,5001,162848,22316,1268,27,1315
-6/23/20,US,2347491,121834,647548,1578109,35189,835,7350
+6/23/20,US,2347491,121847,647548,1578096,35189,837,7350
 6/23/20,Uganda,797,0,699,98,23,0,68
 6/23/20,Ukraine,38901,1045,17538,20318,845,23,327
 6/23/20,United Arab Emirates,45683,305,33703,11675,380,2,657
-6/23/20,United Kingdom,307682,43011,1330,263341,921,280,8
+6/23/20,United Kingdom,281038,43011,1330,236697,882,280,8
 6/23/20,Uruguay,885,25,815,45,3,0,0
 6/23/20,Uzbekistan,6662,19,4560,2083,201,0,110
 6/23/20,Venezuela,4187,35,1327,2825,139,0,0
@@ -27809,11 +27809,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/24/20,Trinidad and Tobago,123,8,109,6,0,0,0
 6/24/20,Tunisia,1160,50,1023,87,1,0,0
 6/24/20,Turkey,191657,5025,164234,22398,1492,24,1386
-6/24/20,US,2382426,122590,656161,1603675,34935,756,8613
+6/24/20,US,2382426,122604,656161,1603661,34935,757,8613
 6/24/20,Uganda,805,0,717,88,8,0,18
 6/24/20,Ukraine,39852,1061,18009,20782,951,16,471
 6/24/20,United Arab Emirates,46133,307,34405,11421,450,2,702
-6/24/20,United Kingdom,308337,43165,1345,263827,655,154,15
+6/24/20,United Kingdom,281815,43165,1345,237305,777,154,15
 6/24/20,Uruguay,902,26,815,61,17,1,0
 6/24/20,Uzbekistan,6990,19,4685,2286,328,0,125
 6/24/20,Venezuela,4366,38,1327,3001,179,3,0
@@ -27997,11 +27997,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/25/20,Trinidad and Tobago,123,8,109,6,0,0,0
 6/25/20,Tunisia,1162,50,1023,89,2,0,0
 6/25/20,Turkey,193115,5046,165706,22363,1458,21,1472
-6/25/20,US,2422299,125012,663562,1633725,39873,2422,7401
+6/25/20,US,2422299,125026,663562,1633711,39873,2422,7401
 6/25/20,Uganda,821,0,731,90,16,0,14
 6/25/20,Ukraine,40854,1078,18365,21411,1002,17,356
 6/25/20,United Arab Emirates,46563,308,35165,11090,430,1,760
-6/25/20,United Kingdom,309455,43314,1361,264780,1118,149,16
+6/25/20,United Kingdom,282512,43314,1361,237837,697,149,16
 6/25/20,Uruguay,907,26,818,63,5,0,3
 6/25/20,Uzbekistan,7177,20,4877,2280,187,1,192
 6/25/20,Venezuela,4563,39,1327,3197,197,1,0
@@ -28185,11 +28185,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/26/20,Trinidad and Tobago,124,8,109,7,1,0,0
 6/26/20,Tunisia,1164,50,1023,91,2,0,0
 6/26/20,Turkey,194511,5065,167198,22248,1396,19,1492
-6/26/20,US,2467554,125618,670809,1671127,45255,606,7247
+6/26/20,US,2467554,125631,670809,1671114,45255,605,7247
 6/26/20,Uganda,833,0,761,72,12,0,30
 6/26/20,Ukraine,41975,1097,18927,21951,1121,19,562
 6/26/20,United Arab Emirates,46973,310,35469,11194,410,2,304
-6/26/20,United Kingdom,310836,43498,1363,265975,1381,184,2
+6/26/20,United Kingdom,283151,43498,1363,238290,639,184,2
 6/26/20,Uruguay,919,26,818,75,12,0,0
 6/26/20,Uzbekistan,7427,20,5038,2369,250,0,161
 6/26/20,Venezuela,4779,41,1327,3411,216,2,0
@@ -28373,11 +28373,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/27/20,Trinidad and Tobago,126,8,109,9,2,0,0
 6/27/20,Tunisia,1168,50,1025,93,4,0,2
 6/27/20,Turkey,195883,5082,169182,21619,1372,17,1984
-6/27/20,US,2510259,126109,679308,1704842,42705,491,8499
+6/27/20,US,2510259,126120,679308,1704831,42705,489,8499
 6/27/20,Uganda,848,0,761,87,15,0,0
 6/27/20,Ukraine,42932,1121,19350,22461,957,24,423
 6/27/20,United Arab Emirates,47360,311,35834,11215,387,1,365
-6/27/20,United Kingdom,311727,43598,1364,266765,891,100,1
+6/27/20,United Kingdom,283785,43598,1364,238823,634,100,1
 6/27/20,Uruguay,924,26,818,80,5,0,0
 6/27/20,Uzbekistan,7682,20,5240,2422,255,0,202
 6/27/20,Venezuela,5130,42,1327,3761,351,1,0
@@ -28561,11 +28561,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/28/20,Trinidad and Tobago,126,8,109,9,0,0,0
 6/28/20,Tunisia,1169,50,1029,90,1,0,4
 6/28/20,Turkey,197239,5097,170595,21547,1356,15,1413
-6/28/20,US,2549187,126349,685164,1737674,38928,240,5856
+6/28/20,US,2549294,126360,685164,1737770,39035,240,5856
 6/28/20,Uganda,859,0,794,65,11,0,33
 6/28/20,Ukraine,43856,1142,19585,23129,924,21,235
 6/28/20,United Arab Emirates,47797,313,36411,11073,437,2,577
-6/28/20,United Kingdom,312640,43634,1364,267642,913,36,0
+6/28/20,United Kingdom,284192,43634,1364,239194,407,36,0
 6/28/20,Uruguay,929,27,818,84,5,1,0
 6/28/20,Uzbekistan,7948,22,5329,2597,266,2,89
 6/28/20,Venezuela,5297,44,1649,3604,167,2,322
@@ -28749,11 +28749,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/29/20,Trinidad and Tobago,126,8,109,9,0,0,0
 6/29/20,Tunisia,1172,50,1029,93,3,0,0
 6/29/20,Turkey,198613,5115,171809,21689,1374,18,1214
-6/29/20,US,2590178,126698,705203,1758277,40991,349,20039
+6/29/20,US,2590668,126711,705203,1758754,41374,351,20039
 6/29/20,Uganda,870,0,808,62,11,0,14
 6/29/20,Ukraine,44538,1161,19679,23698,682,19,94
 6/29/20,United Arab Emirates,48246,314,37076,10856,449,1,665
-6/29/20,United Kingdom,313470,43659,1368,268443,830,25,4
+6/29/20,United Kingdom,284812,43659,1368,239785,620,25,4
 6/29/20,Uruguay,932,27,822,83,3,0,4
 6/29/20,Uzbekistan,8222,23,5496,2703,274,1,167
 6/29/20,Venezuela,5530,48,1649,3833,233,4,0
@@ -28937,11 +28937,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/3/20,Trinidad and Tobago,117,8,108,1,0,0,-1
 6/3/20,Tunisia,1087,49,965,73,0,-1,-64
 6/3/20,Turkey,166422,4609,130852,30961,0,-506,-40957
-6/3/20,US,1857329,108159,479258,1269912,0,-18539,-225945
+6/3/20,US,1857329,108159,479258,1269912,0,-18552,-225945
 6/3/20,Uganda,507,0,82,425,0,0,-726
 6/3/20,Ukraine,25385,742,10838,13805,0,-419,-8841
 6/3/20,United Arab Emirates,36359,270,19153,16936,0,-44,-17923
-6/3/20,United Kingdom,281270,39811,1212,240247,0,-3848,-156
+6/3/20,United Kingdom,261802,39811,1212,220779,0,-3848,-156
 6/3/20,Uruguay,828,23,698,107,0,-4,-124
 6/3/20,Uzbekistan,3843,16,3014,813,0,-7,-2482
 6/3/20,Venezuela,1952,20,334,1598,0,-28,-1315
@@ -29125,11 +29125,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/30/20,Trinidad and Tobago,130,8,113,9,13,0,5
 6/30/20,Tunisia,1174,50,1031,93,87,1,66
 6/30/20,Turkey,199906,5131,173111,21664,33484,522,42259
-6/30/20,US,2635603,127417,720631,1787555,778274,19258,241373
+6/30/20,US,2636414,127432,720631,1788351,779085,19273,241373
 6/30/20,Uganda,889,0,819,70,382,0,737
 6/30/20,Ukraine,45254,1173,19792,24289,19869,431,8954
 6/30/20,United Arab Emirates,48667,315,37566,10786,12308,45,18413
-6/30/20,United Kingdom,314160,43815,1370,268975,32890,4004,158
+6/30/20,United Kingdom,285216,43815,1370,240031,23414,4004,158
 6/30/20,Uruguay,936,27,824,85,108,4,126
 6/30/20,Uzbekistan,8503,26,5682,2795,4660,10,2668
 6/30/20,Venezuela,5832,51,1649,4132,3880,31,1315
@@ -29313,11 +29313,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/4/20,Trinidad and Tobago,117,8,108,1,0,0,-5
 6/4/20,Tunisia,1087,49,968,70,0,-1,-63
 6/4/20,Turkey,167410,4630,131778,31002,0,-501,-41333
-6/4/20,US,1878680,109168,485002,1284510,0,-18249,-235629
+6/4/20,US,1878680,109168,485002,1284510,0,-18264,-235629
 6/4/20,Uganda,522,0,82,440,0,0,-737
 6/4/20,Ukraine,25981,755,11468,13758,0,-418,-8324
 6/4/20,United Arab Emirates,37018,273,19572,17173,0,-42,-17994
-6/4/20,United Kingdom,283079,39987,1219,241873,0,-3828,-151
+6/4/20,United Kingdom,263040,39987,1219,221834,0,-3828,-151
 6/4/20,Uruguay,832,23,709,100,0,-4,-115
 6/4/20,Uzbekistan,3939,16,3087,836,0,-10,-2595
 6/4/20,Venezuela,2087,20,334,1733,0,-31,-1315
@@ -29505,7 +29505,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/5/20,Uganda,557,0,82,475,35,0,0
 6/5/20,Ukraine,26542,770,11815,13957,561,15,347
 6/5/20,United Arab Emirates,37642,274,20337,17031,624,1,765
-6/5/20,United Kingdom,284734,40344,1228,243162,1655,357,9
+6/5/20,United Kingdom,264150,40344,1228,222578,1110,357,9
 6/5/20,Uruguay,834,23,721,90,2,0,12
 6/5/20,Uzbekistan,4007,16,3247,744,68,0,160
 6/5/20,Venezuela,2145,20,334,1791,58,0,0
@@ -29693,7 +29693,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/6/20,Uganda,593,0,82,511,36,0,0
 6/6/20,Ukraine,27101,785,12265,14051,559,15,450
 6/6/20,United Arab Emirates,38268,275,21061,16932,626,1,724
-6/6/20,United Kingdom,286294,40548,1230,244516,1560,204,2
+6/6/20,United Kingdom,264944,40548,1230,223166,794,204,2
 6/6/20,Uruguay,845,23,726,96,11,0,5
 6/6/20,Uzbekistan,4094,17,3268,809,87,1,21
 6/6/20,Venezuela,2316,22,385,1909,171,2,51
@@ -29881,7 +29881,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/7/20,Uganda,616,0,96,520,23,0,14
 6/7/20,Ukraine,27599,796,12513,14290,498,11,248
 6/7/20,United Arab Emirates,38808,276,21806,16726,540,1,745
-6/7/20,United Kingdom,287621,40625,1239,245757,1327,77,9
+6/7/20,United Kingdom,265662,40625,1239,223798,718,77,9
 6/7/20,Uruguay,845,23,730,92,0,0,4
 6/7/20,Uzbekistan,4331,17,3354,960,237,0,86
 6/7/20,Venezuela,2377,22,487,1868,61,0,102
@@ -30069,7 +30069,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/8/20,Uganda,646,0,103,543,30,0,7
 6/8/20,Ukraine,28077,805,12657,14615,478,9,144
 6/8/20,United Arab Emirates,39376,281,22275,16820,568,5,469
-6/8/20,United Kingdom,288834,40680,1255,246899,1213,55,16
+6/8/20,United Kingdom,266756,40680,1255,224821,1094,55,16
 6/8/20,Uruguay,845,23,738,84,0,0,8
 6/8/20,Uzbekistan,4440,18,3357,1065,109,1,3
 6/8/20,Venezuela,2473,22,487,1964,96,0,0
@@ -30257,7 +30257,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/9/20,Uganda,657,0,118,539,11,0,15
 6/9/20,Ukraine,28479,818,12892,14769,402,13,235
 6/9/20,United Arab Emirates,39904,283,22740,16881,528,2,465
-6/9/20,United Kingdom,290581,40968,1257,248356,1747,288,2
+6/9/20,United Kingdom,267915,40968,1257,225690,1159,288,2
 6/9/20,Uruguay,846,23,754,69,1,0,16
 6/9/20,Uzbekistan,4520,18,3459,1043,80,0,102
 6/9/20,Venezuela,2632,23,487,2122,159,1,0
@@ -30356,7 +30356,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/1/20,Jamaica,707,10,555,142,102,0,150
 7/1/20,Japan,18838,976,16563,1299,1727,56,1422
 7/1/20,Jordan,1133,9,886,238,288,0,229
-7/1/20,Kazakhstan,42574,188,25319,17067,29500,127,17304
+7/1/20,Kazakhstan,41065,188,14059,26818,27991,127,6044
 7/1/20,Kenya,6673,149,2089,4435,3684,61,1216
 7/1/20,"Korea, South",12904,282,11684,938,1002,6,1073
 7/1/20,Kosovo,2991,54,1644,1293,1728,23,732
@@ -30441,11 +30441,11 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/1/20,Trinidad and Tobago,130,8,115,7,13,0,6
 7/1/20,Tunisia,1175,50,1038,87,88,1,56
 7/1/20,Turkey,201098,5150,175422,20526,28984,421,30824
-7/1/20,US,2686258,128062,729994,1828202,706350,15348,205139
+7/1/20,US,2687588,128105,729994,1829489,707680,15391,205139
 7/1/20,Uganda,893,0,837,56,236,0,719
 7/1/20,Ukraine,45924,1188,20244,24492,17445,370,7352
 7/1/20,United Arab Emirates,49069,316,38160,10593,9165,33,15420
-7/1/20,United Kingdom,314992,43991,1372,269629,24411,3023,115
+7/1/20,United Kingdom,285279,43991,1372,239916,17364,3023,115
 7/1/20,Uruguay,943,28,825,90,97,5,71
 7/1/20,Uzbekistan,8781,26,5847,2908,4261,8,2388
 7/1/20,Venezuela,6062,54,1649,4359,3430,31,1162
@@ -30455,3 +30455,379 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/1/20,Yemen,1190,318,504,368,666,191,481
 7/1/20,Zambia,1632,30,1348,254,432,20,436
 7/1/20,Zimbabwe,605,7,166,432,291,3,120
+7/2/20,Afghanistan,32022,807,16041,15174,186,33,390
+7/2/20,Albania,2662,69,1559,1034,82,4,43
+7/2/20,Algeria,14657,928,10342,3387,385,8,302
+7/2/20,Andorra,855,52,800,3,0,0,1
+7/2/20,Angola,315,17,97,201,24,2,0
+7/2/20,Antigua and Barbuda,69,3,23,43,0,0,1
+7/2/20,Argentina,69941,1385,24186,44370,2744,34,1146
+7/2/20,Armenia,26658,459,15036,11163,593,6,473
+7/2/20,Australia,8066,104,7130,832,65,0,40
+7/2/20,Austria,17941,705,16514,722,68,0,23
+7/2/20,Azerbaijan,18684,228,10425,8031,572,8,364
+7/2/20,Bahamas,104,11,89,4,0,0,0
+7/2/20,Bahrain,27837,94,22583,5160,423,2,635
+7/2/20,Bangladesh,153277,1926,66442,84909,4019,38,4334
+7/2/20,Barbados,97,7,90,0,0,0,0
+7/2/20,Belarus,62698,405,48738,13555,274,7,1185
+7/2/20,Belgium,61598,9761,17044,34793,89,7,23
+7/2/20,Belize,28,2,18,8,0,0,0
+7/2/20,Benin,1199,21,333,845,0,0,0
+7/2/20,Bhutan,77,0,50,27,0,0,0
+7/2/20,Bolivia,35528,1271,10358,23899,1301,70,594
+7/2/20,Bosnia and Herzegovina,4788,189,2515,2084,182,1,83
+7/2/20,Botswana,227,1,28,198,0,0,0
+7/2/20,Brazil,1496858,61884,957692,477282,48105,1252,140050
+7/2/20,Brunei,141,3,138,0,0,0,0
+7/2/20,Bulgaria,5315,232,2802,2281,161,0,80
+7/2/20,Burkina Faso,967,53,846,68,5,0,8
+7/2/20,Burma,304,6,223,75,1,0,1
+7/2/20,Burundi,170,1,115,54,0,0,0
+7/2/20,Cabo Verde,1301,15,629,657,34,0,0
+7/2/20,Cambodia,141,0,131,10,0,0,0
+7/2/20,Cameroon,12592,313,10100,2179,0,0,0
+7/2/20,Canada,106643,8700,69872,28071,355,22,475
+7/2/20,Central African Republic,3788,47,810,2931,43,0,23
+7/2/20,Chad,868,74,785,9,2,0,0
+7/2/20,Chile,284541,5920,249247,29374,2498,167,3804
+7/2/20,China,84830,4641,79665,524,14,0,15
+7/2/20,Colombia,102261,3650,43481,55130,4171,162,1338
+7/2/20,Comoros,303,7,200,96,0,0,0
+7/2/20,Congo (Brazzaville),1382,41,486,855,0,0,0
+7/2/20,Congo (Kinshasa),7189,176,2317,4696,67,1,532
+7/2/20,Costa Rica,4023,18,1589,2416,270,1,73
+7/2/20,Cote d'Ivoire,9992,68,4660,5264,290,0,279
+7/2/20,Croatia,2912,110,2155,647,81,2,0
+7/2/20,Cuba,2353,86,2221,46,5,0,3
+7/2/20,Cyprus,999,19,833,147,0,0,0
+7/2/20,Czechia,12178,353,7822,4003,132,4,25
+7/2/20,Denmark,13015,606,11969,440,21,0,76
+7/2/20,Diamond Princess,712,13,651,48,0,0,0
+7/2/20,Djibouti,4715,55,4564,96,11,0,14
+7/2/20,Dominica,18,0,18,0,0,0,0
+7/2/20,Dominican Republic,34197,765,18141,15291,810,11,237
+7/2/20,Ecuador,59468,4639,28032,26797,1211,63,145
+7/2/20,Egypt,71299,3120,19288,48891,1485,86,407
+7/2/20,El Salvador,7000,191,4115,2694,264,9,151
+7/2/20,Equatorial Guinea,3071,51,842,2178,1070,19,327
+7/2/20,Eritrea,215,0,56,159,12,0,0
+7/2/20,Estonia,1990,69,1842,79,1,0,6
+7/2/20,Eswatini,873,11,452,410,33,0,34
+7/2/20,Ethiopia,5846,103,2430,3313,0,0,0
+7/2/20,Fiji,18,0,18,0,0,0,0
+7/2/20,Finland,7241,328,6700,213,5,0,0
+7/2/20,France,203640,29878,76927,96835,659,14,253
+7/2/20,Gabon,5513,42,2508,2963,0,0,0
+7/2/20,Gambia,55,2,27,26,6,0,0
+7/2/20,Georgia,939,15,817,107,8,0,23
+7/2/20,Germany,196370,9006,179800,7564,477,11,700
+7/2/20,Ghana,18134,117,13550,4467,0,0,0
+7/2/20,Greece,3458,192,1374,1892,26,0,0
+7/2/20,Grenada,23,0,23,0,0,0,0
+7/2/20,Guatemala,20072,843,3279,15950,1061,26,48
+7/2/20,Guinea,5450,33,4392,1025,46,0,46
+7/2/20,Guinea-Bissau,1654,24,317,1313,0,0,0
+7/2/20,Guyana,250,14,117,119,2,1,1
+7/2/20,Haiti,6101,110,1141,4850,61,3,109
+7/2/20,Holy See,12,0,12,0,0,0,0
+7/2/20,Honduras,21120,591,2190,18339,858,49,67
+7/2/20,Hungary,4166,587,2721,858,9,1,7
+7/2/20,Iceland,1850,10,1828,12,3,0,5
+7/2/20,India,625544,18213,379892,227439,20903,379,20032
+7/2/20,Indonesia,59394,2987,26667,29740,1624,53,1072
+7/2/20,Iran,232863,11106,194098,27659,2652,148,2611
+7/2/20,Iraq,53708,2160,27912,23636,2184,110,1645
+7/2/20,Ireland,25489,1738,23364,387,12,0,0
+7/2/20,Israel,27047,324,17547,9176,790,2,95
+7/2/20,Italy,240961,34818,191083,15060,201,30,366
+7/2/20,Jamaica,715,10,560,145,8,0,5
+7/2/20,Japan,19055,977,16615,1463,217,1,52
+7/2/20,Jordan,1136,9,889,238,3,0,3
+7/2/20,Kazakhstan,42574,188,14777,27609,1509,0,718
+7/2/20,Kenya,6941,152,2109,4680,268,3,20
+7/2/20,"Korea, South",12967,282,11759,926,63,0,75
+7/2/20,Kosovo,3064,55,1707,1302,73,1,63
+7/2/20,Kuwait,47859,359,38390,9110,919,1,675
+7/2/20,Kyrgyzstan,6767,76,2655,4036,506,10,125
+7/2/20,Laos,19,0,19,0,0,0,0
+7/2/20,Latvia,1122,30,988,104,1,0,14
+7/2/20,Lebanon,1796,35,1242,519,8,1,19
+7/2/20,Lesotho,35,0,11,24,0,0,0
+7/2/20,Liberia,819,37,338,444,15,0,3
+7/2/20,Libya,891,26,224,641,17,1,1
+7/2/20,Liechtenstein,83,1,81,1,1,0,0
+7/2/20,Lithuania,1825,78,1536,211,7,0,12
+7/2/20,Luxembourg,4395,110,4012,273,50,0,9
+7/2/20,MS Zaandam,9,2,0,7,0,0,0
+7/2/20,Madagascar,2403,24,1040,1339,100,2,34
+7/2/20,Malawi,1342,16,271,1055,77,0,11
+7/2/20,Malaysia,8643,121,8437,85,3,0,62
+7/2/20,Maldives,2400,10,1969,421,18,1,15
+7/2/20,Mali,2260,117,1502,641,58,1,19
+7/2/20,Malta,671,9,649,13,0,0,2
+7/2/20,Mauritania,4606,129,1727,2750,134,0,50
+7/2/20,Mauritius,341,10,330,1,0,0,4
+7/2/20,Mexico,238511,29189,183757,25565,6741,679,5231
+7/2/20,Moldova,17150,560,9846,6744,252,11,252
+7/2/20,Monaco,106,4,95,7,3,0,0
+7/2/20,Mongolia,220,0,179,41,0,0,2
+7/2/20,Montenegro,616,12,315,289,40,0,0
+7/2/20,Morocco,12969,229,9090,3650,333,1,64
+7/2/20,Mozambique,918,6,249,663,15,0,1
+7/2/20,Namibia,293,0,24,269,8,0,0
+7/2/20,Nepal,14519,31,5320,9168,473,1,664
+7/2/20,Netherlands,50546,6132,186,44228,63,0,0
+7/2/20,New Zealand,1530,22,1490,18,0,0,0
+7/2/20,Nicaragua,2519,83,1238,1198,0,0,0
+7/2/20,Niger,1081,68,959,54,6,1,16
+7/2/20,Nigeria,27110,616,10801,15693,626,13,649
+7/2/20,North Macedonia,6625,321,2748,3556,171,15,150
+7/2/20,Norway,8902,251,8138,513,6,0,0
+7/2/20,Oman,42555,188,25318,17049,1361,3,1156
+7/2/20,Pakistan,221896,4551,113623,103722,4087,78,8929
+7/2/20,Panama,35237,667,16445,18125,774,22,500
+7/2/20,Papua New Guinea,11,0,8,3,0,0,0
+7/2/20,Paraguay,2303,19,1108,1176,43,0,6
+7/2/20,Peru,292004,10045,182097,99862,3527,185,3852
+7/2/20,Philippines,38805,1274,10673,26858,294,4,235
+7/2/20,Poland,35146,1492,22209,11445,371,15,418
+7/2/20,Portugal,42782,1587,28097,13098,328,8,299
+7/2/20,Qatar,97897,118,86597,11182,894,3,2632
+7/2/20,Romania,27746,1687,19363,6696,450,20,49
+7/2/20,Russia,660231,9668,428276,222287,6752,147,6041
+7/2/20,Rwanda,1063,3,493,567,21,0,13
+7/2/20,Saint Kitts and Nevis,15,0,15,0,0,0,0
+7/2/20,Saint Lucia,19,0,19,0,0,0,0
+7/2/20,Saint Vincent and the Grenadines,29,0,29,0,0,0,0
+7/2/20,San Marino,698,42,656,0,0,0,0
+7/2/20,Sao Tome and Principe,717,13,260,444,2,0,8
+7/2/20,Saudi Arabia,197608,1752,137669,58187,3383,54,4909
+7/2/20,Senegal,7054,121,4599,2334,129,5,54
+7/2/20,Serbia,15195,287,12912,1996,359,6,140
+7/2/20,Seychelles,81,0,11,70,0,0,0
+7/2/20,Sierra Leone,1518,60,1007,451,20,0,8
+7/2/20,Singapore,44310,26,39429,4855,188,0,418
+7/2/20,Slovakia,1700,28,1466,206,13,0,0
+7/2/20,Slovenia,1634,111,1384,139,21,0,0
+7/2/20,Somalia,2944,90,951,1903,20,0,19
+7/2/20,South Africa,168061,2844,81999,83218,8728,95,5974
+7/2/20,South Sudan,2021,38,333,1650,0,0,0
+7/2/20,Spain,250103,28368,150376,71359,444,4,0
+7/2/20,Sri Lanka,2066,11,1827,228,12,0,79
+7/2/20,Sudan,9573,602,4606,4365,0,0,0
+7/2/20,Suriname,547,13,252,282,12,0,10
+7/2/20,Sweden,70639,5411,0,65228,947,41,0
+7/2/20,Switzerland,31967,1965,29200,802,116,0,0
+7/2/20,Syria,312,9,113,190,19,0,3
+7/2/20,Taiwan*,448,7,438,3,1,0,0
+7/2/20,Tajikistan,6058,52,4690,1316,53,0,63
+7/2/20,Tanzania,509,21,183,305,0,0,0
+7/2/20,Thailand,3179,58,3059,62,6,0,0
+7/2/20,Timor-Leste,24,0,24,0,0,0,0
+7/2/20,Togo,667,14,424,229,6,0,10
+7/2/20,Trinidad and Tobago,130,8,115,7,0,0,0
+7/2/20,Tunisia,1178,50,1039,89,3,0,1
+7/2/20,Turkey,202284,5167,176965,20152,1186,17,1543
+7/2/20,US,2742049,128803,781970,1831276,54461,698,51976
+7/2/20,Uganda,902,0,847,55,9,0,10
+7/2/20,Ukraine,46821,1200,20755,24866,897,12,511
+7/2/20,United Arab Emirates,49469,317,38664,10488,400,1,504
+7/2/20,United Kingdom,285285,44080,1373,239832,6,89,1
+7/2/20,Uruguay,947,28,828,91,4,0,3
+7/2/20,Uzbekistan,9078,27,6034,3017,297,1,187
+7/2/20,Venezuela,6273,57,2100,4116,211,3,451
+7/2/20,Vietnam,355,0,340,15,0,0,4
+7/2/20,West Bank and Gaza,3080,9,460,2611,322,1,0
+7/2/20,Western Sahara,10,1,8,1,0,0,0
+7/2/20,Yemen,1221,325,513,383,31,7,9
+7/2/20,Zambia,1632,30,1348,254,0,0,0
+7/2/20,Zimbabwe,617,7,173,437,12,0,7
+7/3/20,Afghanistan,32324,819,17331,14174,302,12,1290
+7/3/20,Albania,2752,72,1592,1088,90,3,33
+7/3/20,Algeria,15070,937,10832,3301,413,9,490
+7/3/20,Andorra,855,52,800,3,0,0,0
+7/3/20,Angola,328,18,107,203,13,1,10
+7/3/20,Antigua and Barbuda,68,3,23,42,0,0,0
+7/3/20,Argentina,72786,1437,25224,46125,2845,52,1038
+7/3/20,Armenia,27320,469,15484,11367,662,10,448
+7/3/20,Australia,8260,104,7319,837,194,0,189
+7/3/20,Austria,18050,705,16558,787,109,0,44
+7/3/20,Azerbaijan,19267,235,10820,8212,583,7,395
+7/3/20,Bahamas,104,11,89,4,0,0,0
+7/3/20,Bahrain,28410,95,23318,4997,573,1,735
+7/3/20,Bangladesh,156391,1968,68048,86375,3114,42,1606
+7/3/20,Barbados,97,7,90,0,0,0,0
+7/3/20,Belarus,62997,412,49909,12676,299,7,1171
+7/3/20,Belgium,61727,9765,17073,34889,129,4,29
+7/3/20,Belize,30,2,19,9,2,0,1
+7/3/20,Benin,1199,21,333,845,0,0,0
+7/3/20,Bhutan,77,0,50,27,0,0,0
+7/3/20,Bolivia,36818,1320,10766,24732,1290,49,408
+7/3/20,Bosnia and Herzegovina,4962,191,2550,2221,174,2,35
+7/3/20,Botswana,277,1,29,247,50,0,1
+7/3/20,Brazil,1539081,61884,984615,492582,42223,0,26923
+7/3/20,Brunei,141,3,138,0,0,0,0
+7/3/20,Bulgaria,5497,239,2892,2366,182,7,90
+7/3/20,Burkina Faso,980,53,852,75,13,0,6
+7/3/20,Burma,306,6,237,63,2,0,14
+7/3/20,Burundi,191,1,118,72,21,0,3
+7/3/20,Cabo Verde,1382,15,629,738,81,0,0
+7/3/20,Cambodia,141,0,131,10,0,0,0
+7/3/20,Cameroon,12592,313,10100,2179,0,0,0
+7/3/20,Canada,106962,8722,70232,28008,319,22,360
+7/3/20,Central African Republic,3918,48,859,3011,130,1,49
+7/3/20,Chad,871,74,786,11,3,0,1
+7/3/20,Chile,288089,6051,253343,28695,3548,131,4096
+7/3/20,China,84838,4641,79680,517,8,0,15
+7/3/20,Colombia,106392,3851,44606,57935,4131,201,1125
+7/3/20,Comoros,309,7,241,61,6,0,41
+7/3/20,Congo (Brazzaville),1557,44,501,1012,175,3,15
+7/3/20,Congo (Kinshasa),7311,179,2684,4448,122,3,367
+7/3/20,Costa Rica,4311,18,1657,2636,288,0,68
+7/3/20,Cote d'Ivoire,10244,70,4726,5448,252,2,66
+7/3/20,Croatia,3008,112,2168,728,96,2,13
+7/3/20,Cuba,2361,86,2224,51,8,0,3
+7/3/20,Cyprus,999,19,839,141,0,0,6
+7/3/20,Czechia,12319,353,7848,4118,141,0,26
+7/3/20,Denmark,13032,606,12017,409,17,0,48
+7/3/20,Diamond Princess,712,13,651,48,0,0,0
+7/3/20,Djibouti,4736,55,4580,101,21,0,16
+7/3/20,Dominica,18,0,18,0,0,0,0
+7/3/20,Dominican Republic,35148,775,18392,15981,951,10,251
+7/3/20,Ecuador,60657,4700,28391,27566,1189,61,359
+7/3/20,Egypt,72711,3201,19690,49820,1412,81,402
+7/3/20,El Salvador,7267,202,4268,2797,267,11,153
+7/3/20,Equatorial Guinea,3071,51,842,2178,0,0,0
+7/3/20,Eritrea,215,0,56,159,0,0,0
+7/3/20,Estonia,1991,69,1859,63,1,0,17
+7/3/20,Eswatini,909,13,515,381,36,2,63
+7/3/20,Ethiopia,5846,103,2430,3313,0,0,0
+7/3/20,Fiji,18,0,18,0,0,0,0
+7/3/20,Finland,7242,329,6700,213,1,1,0
+7/3/20,France,204222,29896,77185,97141,582,18,258
+7/3/20,Gabon,5620,44,2555,3021,107,2,47
+7/3/20,Gambia,55,2,27,26,0,0,0
+7/3/20,Georgia,943,15,821,107,4,0,4
+7/3/20,Germany,196780,9010,180300,7470,410,4,500
+7/3/20,Ghana,19388,117,14330,4941,1254,0,780
+7/3/20,Greece,3486,192,1374,1920,28,0,0
+7/3/20,Grenada,23,0,23,0,0,0,0
+7/3/20,Guatemala,21293,880,3315,17098,1221,37,36
+7/3/20,Guinea,5521,33,4446,1042,71,0,54
+7/3/20,Guinea-Bissau,1765,25,676,1064,111,1,359
+7/3/20,Guyana,256,14,117,125,6,0,0
+7/3/20,Haiti,6230,110,1286,4834,129,0,145
+7/3/20,Holy See,12,0,12,0,0,0,0
+7/3/20,Honduras,22116,605,2250,19261,996,14,60
+7/3/20,Hungary,4172,588,2752,832,6,1,31
+7/3/20,Iceland,1855,10,1832,13,5,0,4
+7/3/20,India,648315,18655,394227,235433,22771,442,14335
+7/3/20,Indonesia,60695,3036,27568,30091,1301,49,901
+7/3/20,Iran,235429,11260,196446,27723,2566,154,2348
+7/3/20,Iraq,56020,2262,29600,24158,2312,102,1688
+7/3/20,Ireland,25498,1740,23364,394,9,2,0
+7/3/20,Israel,28055,326,17669,10060,1008,2,122
+7/3/20,Italy,241184,34833,191467,14884,223,15,384
+7/3/20,Jamaica,721,10,565,146,6,0,5
+7/3/20,Japan,19185,977,16721,1487,130,0,106
+7/3/20,Jordan,1147,10,897,240,11,1,8
+7/3/20,Kazakhstan,45719,188,15276,30255,3145,0,499
+7/3/20,Kenya,7188,154,2148,4886,247,2,39
+7/3/20,"Korea, South",13030,283,11811,936,63,1,52
+7/3/20,Kosovo,3064,55,1707,1302,0,0,0
+7/3/20,Kuwait,48672,360,39276,9036,813,1,886
+7/3/20,Kyrgyzstan,6878,76,2671,4131,111,0,16
+7/3/20,Laos,19,0,19,0,0,0,0
+7/3/20,Latvia,1122,30,997,95,0,0,9
+7/3/20,Lebanon,1830,35,1292,503,34,0,50
+7/3/20,Lesotho,35,0,11,24,0,0,0
+7/3/20,Liberia,833,37,346,450,14,0,8
+7/3/20,Libya,918,27,230,661,27,1,6
+7/3/20,Liechtenstein,83,1,81,1,0,0,0
+7/3/20,Lithuania,1828,79,1539,210,3,1,3
+7/3/20,Luxembourg,4447,110,4016,321,52,0,4
+7/3/20,MS Zaandam,9,2,0,7,0,0,0
+7/3/20,Madagascar,2512,26,1057,1429,109,2,17
+7/3/20,Malawi,1498,16,317,1165,156,0,46
+7/3/20,Malaysia,8648,121,8446,81,5,0,9
+7/3/20,Maldives,2410,10,1976,424,10,0,7
+7/3/20,Mali,2285,117,1507,661,25,0,5
+7/3/20,Malta,672,9,650,13,1,0,1
+7/3/20,Mauritania,4705,129,1765,2811,99,0,38
+7/3/20,Mauritius,341,10,330,1,0,0,0
+7/3/20,Mexico,245251,29843,189345,26063,6740,654,5588
+7/3/20,Moldova,17445,572,10093,6780,295,12,247
+7/3/20,Monaco,106,4,95,7,0,0,0
+7/3/20,Mongolia,220,0,183,37,0,0,4
+7/3/20,Montenegro,663,13,315,335,47,1,0
+7/3/20,Morocco,13288,230,9160,3898,319,1,70
+7/3/20,Mozambique,939,6,249,684,21,0,0
+7/3/20,Namibia,350,0,25,325,57,0,1
+7/3/20,Nepal,15259,32,6143,9084,740,1,823
+7/3/20,Netherlands,50546,6132,186,44228,0,0,0
+7/3/20,New Zealand,1530,22,1490,18,0,0,0
+7/3/20,Nicaragua,2519,83,1238,1198,0,0,0
+7/3/20,Niger,1082,68,963,51,1,0,4
+7/3/20,Nigeria,27564,628,11069,15867,454,12,268
+7/3/20,North Macedonia,6787,328,2876,3583,162,7,128
+7/3/20,Norway,8921,251,8138,532,19,0,0
+7/3/20,Oman,43929,193,26169,17567,1374,5,851
+7/3/20,Pakistan,221896,4551,113623,103722,0,0,0
+7/3/20,Panama,35995,698,16945,18352,758,31,500
+7/3/20,Papua New Guinea,11,0,8,3,0,0,0
+7/3/20,Paraguay,2349,19,1113,1217,46,0,5
+7/3/20,Peru,295599,10226,185852,99521,3595,181,3755
+7/3/20,Philippines,40336,1280,11073,27983,1531,6,400
+7/3/20,Poland,35405,1507,22651,11247,259,15,442
+7/3/20,Portugal,43156,1598,28424,13134,374,11,327
+7/3/20,Qatar,98653,121,88583,9949,756,3,1986
+7/3/20,Romania,28166,1708,19545,6913,420,21,182
+7/3/20,Russia,666941,9844,437155,219942,6710,176,8879
+7/3/20,Rwanda,1081,3,512,566,18,0,19
+7/3/20,Saint Kitts and Nevis,15,0,15,0,0,0,0
+7/3/20,Saint Lucia,22,0,19,3,3,0,0
+7/3/20,Saint Vincent and the Grenadines,29,0,29,0,0,0,0
+7/3/20,San Marino,698,42,656,0,0,0,0
+7/3/20,Sao Tome and Principe,719,13,267,439,2,0,7
+7/3/20,Saudi Arabia,201801,1802,140614,59385,4193,50,2945
+7/3/20,Senegal,7164,125,4666,2373,110,4,67
+7/3/20,Serbia,15504,298,13064,2142,309,11,152
+7/3/20,Seychelles,81,0,11,70,0,0,0
+7/3/20,Sierra Leone,1524,62,1042,420,6,2,35
+7/3/20,Singapore,44479,26,39769,4684,169,0,340
+7/3/20,Slovakia,1720,28,1466,226,20,0,0
+7/3/20,Slovenia,1650,111,1384,155,16,0,0
+7/3/20,Somalia,2944,90,951,1903,0,0,0
+7/3/20,South Africa,177124,2952,86298,87874,9063,108,4299
+7/3/20,South Sudan,2021,38,333,1650,0,0,0
+7/3/20,Spain,250545,28385,150376,71784,442,17,0
+7/3/20,Sri Lanka,2069,11,1863,195,3,0,36
+7/3/20,Sudan,9663,604,4624,4435,90,2,18
+7/3/20,Suriname,561,13,267,281,14,0,15
+7/3/20,Sweden,71419,5420,0,65999,780,9,0
+7/3/20,Switzerland,32101,1965,29200,936,134,0,0
+7/3/20,Syria,328,10,123,195,16,1,10
+7/3/20,Taiwan*,449,7,438,4,1,0,0
+7/3/20,Tajikistan,6058,52,4690,1316,0,0,0
+7/3/20,Tanzania,509,21,183,305,0,0,0
+7/3/20,Thailand,3180,58,3066,56,1,0,7
+7/3/20,Timor-Leste,24,0,24,0,0,0,0
+7/3/20,Togo,671,14,424,233,4,0,0
+7/3/20,Trinidad and Tobago,130,8,115,7,0,0,0
+7/3/20,Tunisia,1181,50,1045,86,3,0,6
+7/3/20,Turkey,203456,5186,178278,19992,1172,19,1313
+7/3/20,US,2794153,129434,790404,1874315,52104,631,8434
+7/3/20,Uganda,911,0,849,62,9,0,2
+7/3/20,Ukraine,47705,1227,21296,25182,884,27,541
+7/3/20,United Arab Emirates,50141,318,39153,10670,672,1,489
+7/3/20,United Kingdom,285787,44216,1375,240196,502,136,2
+7/3/20,Uruguay,952,28,837,87,5,0,9
+7/3/20,Uzbekistan,9396,29,6251,3116,318,2,217
+7/3/20,Venezuela,6537,59,2100,4378,264,2,0
+7/3/20,Vietnam,355,0,340,15,0,0,0
+7/3/20,West Bank and Gaza,3334,11,463,2860,254,2,3
+7/3/20,Western Sahara,10,1,8,1,0,0,0
+7/3/20,Yemen,1240,335,536,369,19,10,23
+7/3/20,Zambia,1632,30,1348,254,0,0,0
+7/3/20,Zimbabwe,625,7,176,442,8,0,3
