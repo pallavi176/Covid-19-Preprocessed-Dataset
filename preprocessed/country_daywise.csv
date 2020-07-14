@@ -2342,7 +2342,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/11/20,Israel,0,0,0,0,0,0,0
 2/11/20,Italy,3,0,0,3,0,0,0
 2/11/20,Jamaica,0,0,0,0,0,0,0
-2/11/20,Japan,26,0,9,17,0,0,5
+2/11/20,Japan,27,0,9,18,1,0,5
 2/11/20,Jordan,0,0,0,0,0,0,0
 2/11/20,Kazakhstan,0,0,0,0,0,0,0
 2/11/20,Kenya,0,0,0,0,0,0,0
@@ -2530,7 +2530,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/12/20,Israel,0,0,0,0,0,0,0
 2/12/20,Italy,3,0,0,3,0,0,0
 2/12/20,Jamaica,0,0,0,0,0,0,0
-2/12/20,Japan,28,0,9,19,2,0,0
+2/12/20,Japan,28,0,9,19,1,0,0
 2/12/20,Jordan,0,0,0,0,0,0,0
 2/12/20,Kazakhstan,0,0,0,0,0,0,0
 2/12/20,Kenya,0,0,0,0,0,0,0
@@ -2718,7 +2718,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/13/20,Israel,0,0,0,0,0,0,0
 2/13/20,Italy,3,0,0,3,0,0,0
 2/13/20,Jamaica,0,0,0,0,0,0,0
-2/13/20,Japan,28,1,9,18,0,1,0
+2/13/20,Japan,33,1,9,23,5,1,0
 2/13/20,Jordan,0,0,0,0,0,0,0
 2/13/20,Kazakhstan,0,0,0,0,0,0,0
 2/13/20,Kenya,0,0,0,0,0,0,0
@@ -2906,7 +2906,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/14/20,Israel,0,0,0,0,0,0,0
 2/14/20,Italy,3,0,0,3,0,0,0
 2/14/20,Jamaica,0,0,0,0,0,0,0
-2/14/20,Japan,29,1,9,19,1,0,0
+2/14/20,Japan,43,1,9,33,10,0,0
 2/14/20,Jordan,0,0,0,0,0,0,0
 2/14/20,Kazakhstan,0,0,0,0,0,0,0
 2/14/20,Kenya,0,0,0,0,0,0,0
@@ -3094,7 +3094,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/15/20,Israel,0,0,0,0,0,0,0
 2/15/20,Italy,3,0,0,3,0,0,0
 2/15/20,Jamaica,0,0,0,0,0,0,0
-2/15/20,Japan,43,1,12,30,14,0,3
+2/15/20,Japan,54,1,12,41,11,0,3
 2/15/20,Jordan,0,0,0,0,0,0,0
 2/15/20,Kazakhstan,0,0,0,0,0,0,0
 2/15/20,Kenya,0,0,0,0,0,0,0
@@ -3282,7 +3282,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/16/20,Israel,0,0,0,0,0,0,0
 2/16/20,Italy,3,0,0,3,0,0,0
 2/16/20,Jamaica,0,0,0,0,0,0,0
-2/16/20,Japan,59,1,12,46,16,0,0
+2/16/20,Japan,60,1,12,47,6,0,0
 2/16/20,Jordan,0,0,0,0,0,0,0
 2/16/20,Kazakhstan,0,0,0,0,0,0,0
 2/16/20,Kenya,0,0,0,0,0,0,0
@@ -3470,7 +3470,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/17/20,Israel,0,0,0,0,0,0,0
 2/17/20,Italy,3,0,0,3,0,0,0
 2/17/20,Jamaica,0,0,0,0,0,0,0
-2/17/20,Japan,66,1,12,53,7,0,0
+2/17/20,Japan,67,1,12,54,7,0,0
 2/17/20,Jordan,0,0,0,0,0,0,0
 2/17/20,Kazakhstan,0,0,0,0,0,0,0
 2/17/20,Kenya,0,0,0,0,0,0,0
@@ -3658,7 +3658,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/18/20,Israel,0,0,0,0,0,0,0
 2/18/20,Italy,3,0,0,3,0,0,0
 2/18/20,Jamaica,0,0,0,0,0,0,0
-2/18/20,Japan,74,1,13,60,8,0,1
+2/18/20,Japan,79,2,13,64,12,1,1
 2/18/20,Jordan,0,0,0,0,0,0,0
 2/18/20,Kazakhstan,0,0,0,0,0,0,0
 2/18/20,Kenya,0,0,0,0,0,0,0
@@ -3846,7 +3846,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/19/20,Israel,0,0,0,0,0,0,0
 2/19/20,Italy,3,0,0,3,0,0,0
 2/19/20,Jamaica,0,0,0,0,0,0,0
-2/19/20,Japan,84,1,18,65,10,0,5
+2/19/20,Japan,85,2,18,65,6,0,5
 2/19/20,Jordan,0,0,0,0,0,0,0
 2/19/20,Kazakhstan,0,0,0,0,0,0,0
 2/19/20,Kenya,0,0,0,0,0,0,0
@@ -4034,7 +4034,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/2/20,Israel,0,0,0,0,0,0,0
 2/2/20,Italy,2,0,0,2,0,0,0
 2/2/20,Jamaica,0,0,0,0,0,0,0
-2/2/20,Japan,20,0,1,19,0,-1,-17
+2/2/20,Japan,20,0,1,19,0,-2,-17
 2/2/20,Jordan,0,0,0,0,0,0,0
 2/2/20,Kazakhstan,0,0,0,0,0,0,0
 2/2/20,Kenya,0,0,0,0,0,0,0
@@ -4222,7 +4222,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/20/20,Israel,0,0,0,0,0,0,0
 2/20/20,Italy,3,0,0,3,1,0,0
 2/20/20,Jamaica,0,0,0,0,0,0,0
-2/20/20,Japan,94,1,18,75,74,1,17
+2/20/20,Japan,95,2,18,75,75,2,17
 2/20/20,Jordan,0,0,0,0,0,0,0
 2/20/20,Kazakhstan,0,0,0,0,0,0,0
 2/20/20,Kenya,0,0,0,0,0,0,0
@@ -4410,7 +4410,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/21/20,Israel,1,0,0,1,1,0,0
 2/21/20,Italy,20,1,0,19,17,1,0
 2/21/20,Jamaica,0,0,0,0,0,0,0
-2/21/20,Japan,105,1,22,82,11,0,4
+2/21/20,Japan,112,2,22,88,17,0,4
 2/21/20,Jordan,0,0,0,0,0,0,0
 2/21/20,Kazakhstan,0,0,0,0,0,0,0
 2/21/20,Kenya,0,0,0,0,0,0,0
@@ -4598,7 +4598,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/22/20,Israel,1,0,0,1,0,0,0
 2/22/20,Italy,62,2,1,59,42,1,1
 2/22/20,Jamaica,0,0,0,0,0,0,0
-2/22/20,Japan,122,1,22,99,17,0,0
+2/22/20,Japan,137,2,22,113,25,0,0
 2/22/20,Jordan,0,0,0,0,0,0,0
 2/22/20,Kazakhstan,0,0,0,0,0,0,0
 2/22/20,Kenya,0,0,0,0,0,0,0
@@ -4786,7 +4786,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/23/20,Israel,1,0,0,1,0,0,0
 2/23/20,Italy,155,3,2,150,93,1,1
 2/23/20,Jamaica,0,0,0,0,0,0,0
-2/23/20,Japan,147,1,22,124,25,0,0
+2/23/20,Japan,149,2,22,125,12,0,0
 2/23/20,Jordan,0,0,0,0,0,0,0
 2/23/20,Kazakhstan,0,0,0,0,0,0,0
 2/23/20,Kenya,0,0,0,0,0,0,0
@@ -4974,7 +4974,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/24/20,Israel,1,0,0,1,0,0,0
 2/24/20,Italy,229,7,1,221,74,4,-1
 2/24/20,Jamaica,0,0,0,0,0,0,0
-2/24/20,Japan,159,1,22,136,12,0,0
+2/24/20,Japan,160,2,22,136,11,0,0
 2/24/20,Jordan,0,0,0,0,0,0,0
 2/24/20,Kazakhstan,0,0,0,0,0,0,0
 2/24/20,Kenya,0,0,0,0,0,0,0
@@ -5162,7 +5162,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/25/20,Israel,1,0,0,1,0,0,0
 2/25/20,Italy,322,10,1,311,93,3,0
 2/25/20,Jamaica,0,0,0,0,0,0,0
-2/25/20,Japan,170,1,22,147,11,0,0
+2/25/20,Japan,173,3,22,148,13,1,0
 2/25/20,Jordan,0,0,0,0,0,0,0
 2/25/20,Kazakhstan,0,0,0,0,0,0,0
 2/25/20,Kenya,0,0,0,0,0,0,0
@@ -5350,7 +5350,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/26/20,Israel,2,0,0,2,1,0,0
 2/26/20,Italy,453,12,3,438,131,2,2
 2/26/20,Jamaica,0,0,0,0,0,0,0
-2/26/20,Japan,189,2,22,165,19,1,0
+2/26/20,Japan,192,3,22,167,19,0,0
 2/26/20,Jordan,0,0,0,0,0,0,0
 2/26/20,Kazakhstan,0,0,0,0,0,0,0
 2/26/20,Kenya,0,0,0,0,0,0,0
@@ -5538,7 +5538,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/27/20,Israel,3,0,1,2,1,0,1
 2/27/20,Italy,655,17,45,593,202,5,42
 2/27/20,Jamaica,0,0,0,0,0,0,0
-2/27/20,Japan,214,4,22,188,25,2,0
+2/27/20,Japan,218,4,22,192,26,1,0
 2/27/20,Jordan,0,0,0,0,0,0,0
 2/27/20,Kazakhstan,0,0,0,0,0,0,0
 2/27/20,Kenya,0,0,0,0,0,0,0
@@ -5726,7 +5726,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/28/20,Israel,4,0,1,3,1,0,0
 2/28/20,Italy,888,21,46,821,233,4,1
 2/28/20,Jamaica,0,0,0,0,0,0,0
-2/28/20,Japan,228,4,22,202,14,0,0
+2/28/20,Japan,236,5,22,209,18,1,0
 2/28/20,Jordan,0,0,0,0,0,0,0
 2/28/20,Kazakhstan,0,0,0,0,0,0,0
 2/28/20,Kenya,0,0,0,0,0,0,0
@@ -5914,7 +5914,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/29/20,Israel,7,0,1,6,3,0,0
 2/29/20,Italy,1128,29,46,1053,240,8,0
 2/29/20,Jamaica,0,0,0,0,0,0,0
-2/29/20,Japan,241,5,32,204,13,1,10
+2/29/20,Japan,245,6,32,207,9,1,10
 2/29/20,Jordan,0,0,0,0,0,0,0
 2/29/20,Kazakhstan,0,0,0,0,0,0,0
 2/29/20,Kenya,0,0,0,0,0,0,0
@@ -6102,7 +6102,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/3/20,Israel,0,0,0,0,0,0,-1
 2/3/20,Italy,2,0,0,2,0,-29,-46
 2/3/20,Jamaica,0,0,0,0,0,0,0
-2/3/20,Japan,20,0,1,19,0,-5,-31
+2/3/20,Japan,20,0,1,19,0,-6,-31
 2/3/20,Jordan,0,0,0,0,0,0,0
 2/3/20,Kazakhstan,0,0,0,0,0,0,0
 2/3/20,Kenya,0,0,0,0,0,0,0
@@ -6478,7 +6478,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/5/20,Israel,0,0,0,0,0,0,0
 2/5/20,Italy,2,0,0,2,0,0,0
 2/5/20,Jamaica,0,0,0,0,0,0,0
-2/5/20,Japan,22,0,1,21,0,0,0
+2/5/20,Japan,23,0,1,22,1,0,0
 2/5/20,Jordan,0,0,0,0,0,0,0
 2/5/20,Kazakhstan,0,0,0,0,0,0,0
 2/5/20,Kenya,0,0,0,0,0,0,0
@@ -6666,7 +6666,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/6/20,Israel,0,0,0,0,0,0,0
 2/6/20,Italy,2,0,0,2,0,0,0
 2/6/20,Jamaica,0,0,0,0,0,0,0
-2/6/20,Japan,22,0,1,21,0,0,0
+2/6/20,Japan,23,0,1,22,0,0,0
 2/6/20,Jordan,0,0,0,0,0,0,0
 2/6/20,Kazakhstan,0,0,0,0,0,0,0
 2/6/20,Kenya,0,0,0,0,0,0,0
@@ -6854,7 +6854,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/7/20,Israel,0,0,0,0,0,0,0
 2/7/20,Italy,3,0,0,3,1,0,0
 2/7/20,Jamaica,0,0,0,0,0,0,0
-2/7/20,Japan,25,0,1,24,3,0,0
+2/7/20,Japan,23,0,1,22,0,0,0
 2/7/20,Jordan,0,0,0,0,0,0,0
 2/7/20,Kazakhstan,0,0,0,0,0,0,0
 2/7/20,Kenya,0,0,0,0,0,0,0
@@ -7042,7 +7042,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/8/20,Israel,0,0,0,0,0,0,0
 2/8/20,Italy,3,0,0,3,0,0,0
 2/8/20,Jamaica,0,0,0,0,0,0,0
-2/8/20,Japan,25,0,1,24,0,0,0
+2/8/20,Japan,24,0,1,23,1,0,0
 2/8/20,Jordan,0,0,0,0,0,0,0
 2/8/20,Kazakhstan,0,0,0,0,0,0,0
 2/8/20,Kenya,0,0,0,0,0,0,0
@@ -7230,7 +7230,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 2/9/20,Israel,0,0,0,0,0,0,0
 2/9/20,Italy,3,0,0,3,0,0,0
 2/9/20,Jamaica,0,0,0,0,0,0,0
-2/9/20,Japan,26,0,1,25,1,0,0
+2/9/20,Japan,24,0,1,23,0,0,0
 2/9/20,Jordan,0,0,0,0,0,0,0
 2/9/20,Kazakhstan,0,0,0,0,0,0,0
 2/9/20,Kenya,0,0,0,0,0,0,0
@@ -7418,7 +7418,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/1/20,Israel,10,0,1,9,10,0,1
 3/1/20,Italy,1694,34,83,1577,1691,34,83
 3/1/20,Jamaica,0,0,0,0,0,0,0
-3/1/20,Japan,256,6,32,218,230,6,31
+3/1/20,Japan,259,6,32,221,235,6,31
 3/1/20,Jordan,0,0,0,0,0,0,0
 3/1/20,Kazakhstan,0,0,0,0,0,0,0
 3/1/20,Kenya,0,0,0,0,0,0,0
@@ -7606,7 +7606,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/10/20,Israel,75,0,4,71,65,0,3
 3/10/20,Italy,10149,631,724,8794,8455,597,641
 3/10/20,Jamaica,0,0,0,0,0,0,0
-3/10/20,Japan,581,10,101,470,325,4,69
+3/10/20,Japan,585,13,101,471,326,7,69
 3/10/20,Jordan,1,0,0,1,1,0,0
 3/10/20,Kazakhstan,0,0,0,0,0,0,0
 3/10/20,Kenya,0,0,0,0,0,0,0
@@ -7794,7 +7794,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/11/20,Israel,79,0,4,75,4,0,0
 3/11/20,Italy,12462,827,1045,10590,2313,196,321
 3/11/20,Jamaica,1,0,0,1,1,0,0
-3/11/20,Japan,639,15,118,506,58,5,17
+3/11/20,Japan,640,15,118,507,55,2,17
 3/11/20,Jordan,1,0,0,1,0,0,0
 3/11/20,Kazakhstan,0,0,0,0,0,0,0
 3/11/20,Kenya,0,0,0,0,0,0,0
@@ -7982,7 +7982,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/12/20,Israel,100,0,4,96,21,0,0
 3/12/20,Italy,15113,1016,1045,13052,2651,189,0
 3/12/20,Jamaica,2,0,0,2,1,0,0
-3/12/20,Japan,639,16,118,505,0,1,0
+3/12/20,Japan,696,19,118,559,56,4,0
 3/12/20,Jordan,1,0,0,1,0,0,0
 3/12/20,Kazakhstan,0,0,0,0,0,0,0
 3/12/20,Kenya,0,0,0,0,0,0,0
@@ -8170,7 +8170,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/13/20,Israel,126,0,4,122,26,0,0
 3/13/20,Italy,17660,1266,1439,14955,2547,250,394
 3/13/20,Jamaica,8,0,0,8,6,0,0
-3/13/20,Japan,701,19,118,564,62,3,0
+3/13/20,Japan,733,21,118,594,37,2,0
 3/13/20,Jordan,1,0,1,0,0,0,1
 3/13/20,Kazakhstan,4,0,0,4,4,0,0
 3/13/20,Kenya,1,0,0,1,1,0,0
@@ -8358,7 +8358,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/14/20,Israel,155,0,4,151,29,0,0
 3/14/20,Italy,21157,1441,1966,17750,3497,175,527
 3/14/20,Jamaica,8,0,0,8,0,0,0
-3/14/20,Japan,773,22,118,633,72,3,0
+3/14/20,Japan,795,22,118,655,62,1,0
 3/14/20,Jordan,1,0,1,0,0,0,0
 3/14/20,Kazakhstan,6,0,0,6,2,0,0
 3/14/20,Kenya,1,0,0,1,0,0,0
@@ -8546,7 +8546,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/15/20,Israel,213,0,4,209,58,0,0
 3/15/20,Italy,24747,1809,2335,20603,3590,368,369
 3/15/20,Jamaica,10,0,0,10,2,0,0
-3/15/20,Japan,839,22,118,699,66,0,0
+3/15/20,Japan,826,24,118,684,31,2,0
 3/15/20,Jordan,8,0,1,7,7,0,0
 3/15/20,Kazakhstan,9,0,0,9,3,0,0
 3/15/20,Kenya,3,0,0,3,2,0,0
@@ -8734,7 +8734,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/16/20,Israel,218,0,4,214,5,0,0
 3/16/20,Italy,27980,2158,2749,23073,3233,349,414
 3/16/20,Jamaica,10,0,2,8,0,0,2
-3/16/20,Japan,839,27,144,668,0,5,26
+3/16/20,Japan,843,30,144,669,17,6,26
 3/16/20,Jordan,17,0,1,16,9,0,0
 3/16/20,Kazakhstan,10,0,0,10,1,0,0
 3/16/20,Kenya,3,0,0,3,0,0,0
@@ -8922,7 +8922,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/17/20,Israel,250,0,11,239,32,0,7
 3/17/20,Italy,31506,2503,2941,26062,3526,345,192
 3/17/20,Jamaica,12,0,2,10,2,0,0
-3/17/20,Japan,878,29,144,705,39,2,0
+3/17/20,Japan,893,30,144,719,50,0,0
 3/17/20,Jordan,34,0,1,33,17,0,0
 3/17/20,Kazakhstan,33,0,0,33,23,0,0
 3/17/20,Kenya,3,0,0,3,0,0,0
@@ -9110,7 +9110,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/18/20,Israel,304,0,11,293,54,0,0
 3/18/20,Italy,35713,2978,4025,28710,4207,475,1084
 3/18/20,Jamaica,13,0,2,11,1,0,0
-3/18/20,Japan,889,29,144,716,11,0,0
+3/18/20,Japan,928,32,144,752,35,2,0
 3/18/20,Jordan,52,0,1,51,18,0,0
 3/18/20,Kazakhstan,35,0,0,35,2,0,0
 3/18/20,Kenya,3,0,0,3,0,0,0
@@ -9298,7 +9298,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/19/20,Israel,427,0,11,416,123,0,0
 3/19/20,Italy,41035,3405,4440,33190,5322,427,415
 3/19/20,Jamaica,15,1,2,12,2,1,0
-3/19/20,Japan,924,29,150,745,35,0,6
+3/19/20,Japan,968,33,150,785,40,1,6
 3/19/20,Jordan,69,0,1,68,17,0,0
 3/19/20,Kazakhstan,44,0,0,44,9,0,0
 3/19/20,Kenya,7,0,0,7,4,0,0
@@ -9486,7 +9486,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/2/20,Israel,10,0,1,9,0,0,-10
 3/2/20,Italy,2036,52,149,1835,0,-3353,-4291
 3/2/20,Jamaica,0,0,0,0,0,-1,-2
-3/2/20,Japan,274,6,32,236,0,-23,-118
+3/2/20,Japan,278,6,32,240,0,-27,-118
 3/2/20,Jordan,0,0,0,0,0,0,-1
 3/2/20,Kazakhstan,0,0,0,0,0,0,0
 3/2/20,Kenya,0,0,0,0,0,0,0
@@ -9674,7 +9674,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/20/20,Israel,529,0,14,515,519,0,13
 3/20/20,Italy,47021,4032,4440,38549,44985,3980,4291
 3/20/20,Jamaica,16,1,2,13,16,1,2
-3/20/20,Japan,963,33,191,739,689,27,159
+3/20/20,Japan,1022,34,191,797,744,28,159
 3/20/20,Jordan,85,0,1,84,85,0,1
 3/20/20,Kazakhstan,49,3,0,46,49,3,0
 3/20/20,Kenya,7,0,0,7,7,0,0
@@ -9862,7 +9862,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/21/20,Israel,712,1,36,675,183,1,22
 3/21/20,Italy,53578,4825,6072,42681,6557,793,1632
 3/21/20,Jamaica,16,1,2,13,0,0,0
-3/21/20,Japan,1007,35,232,740,44,2,41
+3/21/20,Japan,1059,36,232,791,37,2,41
 3/21/20,Jordan,85,0,1,84,0,0,0
 3/21/20,Kazakhstan,53,0,0,53,4,-3,0
 3/21/20,Kenya,7,0,0,7,0,0,0
@@ -10050,7 +10050,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/22/20,Israel,883,1,37,845,171,0,1
 3/22/20,Italy,59138,5476,7024,46638,5560,651,952
 3/22/20,Jamaica,19,1,2,16,3,0,0
-3/22/20,Japan,1101,41,235,825,94,6,3
+3/22/20,Japan,1104,40,235,829,45,4,3
 3/22/20,Jordan,112,0,1,111,27,0,0
 3/22/20,Kazakhstan,60,0,0,60,7,0,0
 3/22/20,Kenya,15,0,0,15,8,0,0
@@ -10238,7 +10238,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/23/20,Israel,1071,1,37,1033,188,0,0
 3/23/20,Italy,63927,6077,7024,50826,4789,601,0
 3/23/20,Jamaica,19,1,2,16,0,0,0
-3/23/20,Japan,1128,42,235,851,27,1,0
+3/23/20,Japan,1144,41,235,868,40,1,0
 3/23/20,Jordan,127,0,1,126,15,0,0
 3/23/20,Kazakhstan,62,0,0,62,2,0,0
 3/23/20,Kenya,16,0,0,16,1,0,0
@@ -10426,7 +10426,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/24/20,Israel,1238,3,53,1182,167,2,16
 3/24/20,Italy,69176,6820,8326,54030,5249,743,1302
 3/24/20,Jamaica,21,1,2,18,2,0,0
-3/24/20,Japan,1193,43,285,865,65,1,50
+3/24/20,Japan,1217,42,285,890,73,1,50
 3/24/20,Jordan,154,0,1,153,27,0,0
 3/24/20,Kazakhstan,72,0,0,72,10,0,0
 3/24/20,Kenya,25,0,0,25,9,0,0
@@ -10614,7 +10614,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/25/20,Israel,2369,5,58,2306,1131,2,5
 3/25/20,Italy,74386,7503,9362,57521,5210,683,1036
 3/25/20,Jamaica,26,1,2,23,5,0,0
-3/25/20,Japan,1307,45,310,952,114,2,25
+3/25/20,Japan,1314,45,310,959,97,3,25
 3/25/20,Jordan,172,0,1,171,18,0,0
 3/25/20,Kazakhstan,81,0,0,81,9,0,0
 3/25/20,Kenya,28,0,1,27,3,0,1
@@ -10802,7 +10802,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/26/20,Israel,2693,8,68,2617,324,3,10
 3/26/20,Italy,80589,8215,10361,62013,6203,712,999
 3/26/20,Jamaica,26,1,2,23,0,0,0
-3/26/20,Japan,1387,47,359,981,80,2,49
+3/26/20,Japan,1416,47,359,1010,102,2,49
 3/26/20,Jordan,212,0,1,211,40,0,0
 3/26/20,Kazakhstan,111,1,2,108,30,1,2
 3/26/20,Kenya,31,1,1,29,3,1,0
@@ -10990,7 +10990,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/27/20,Israel,3035,12,79,2944,342,4,11
 3/27/20,Italy,86498,9134,10950,66414,5909,919,589
 3/27/20,Jamaica,26,1,2,23,0,0,0
-3/27/20,Japan,1468,49,372,1047,81,2,13
+3/27/20,Japan,1530,53,372,1105,114,6,13
 3/27/20,Jordan,235,1,18,216,23,1,17
 3/27/20,Kazakhstan,150,1,3,146,39,0,1
 3/27/20,Kenya,31,1,1,29,0,0,0
@@ -11178,7 +11178,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/28/20,Israel,3619,12,89,3518,584,0,10
 3/28/20,Italy,92472,10023,12384,70065,5974,889,1434
 3/28/20,Jamaica,30,1,2,27,4,0,0
-3/28/20,Japan,1693,52,404,1237,225,3,32
+3/28/20,Japan,1728,56,404,1268,198,3,32
 3/28/20,Jordan,246,1,18,227,11,0,0
 3/28/20,Kazakhstan,228,1,16,211,78,0,13
 3/28/20,Kenya,38,1,1,36,7,0,0
@@ -11366,7 +11366,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/29/20,Israel,4247,15,132,4100,628,3,43
 3/29/20,Italy,97689,10779,13030,73880,5217,756,646
 3/29/20,Jamaica,32,1,2,29,2,0,0
-3/29/20,Japan,1866,54,424,1388,173,2,20
+3/29/20,Japan,1907,63,424,1420,179,7,20
 3/29/20,Jordan,259,3,18,238,13,2,0
 3/29/20,Kazakhstan,284,1,20,263,56,0,4
 3/29/20,Kenya,42,1,1,40,4,0,0
@@ -11554,7 +11554,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/3/20,Israel,12,0,1,11,0,-15,-131
 3/3/20,Italy,2502,79,160,2263,0,-10700,-12870
 3/3/20,Jamaica,0,0,0,0,0,-1,-2
-3/3/20,Japan,293,6,43,244,0,-48,-381
+3/3/20,Japan,298,6,43,249,0,-57,-381
 3/3/20,Jordan,1,0,0,1,0,-3,-18
 3/3/20,Kazakhstan,0,0,0,0,0,-1,-20
 3/3/20,Kenya,0,0,0,0,0,-1,-1
@@ -11742,7 +11742,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/30/20,Israel,4695,16,161,4518,4683,16,160
 3/30/20,Italy,101739,11591,14620,75528,99237,11512,14460
 3/30/20,Jamaica,36,1,2,33,36,1,2
-3/30/20,Japan,1866,54,424,1388,1573,48,381
+3/30/20,Japan,2001,65,424,1512,1703,59,381
 3/30/20,Jordan,268,5,26,237,267,5,26
 3/30/20,Kazakhstan,302,1,21,280,302,1,21
 3/30/20,Kenya,50,1,1,48,50,1,1
@@ -11930,7 +11930,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/31/20,Israel,5358,20,224,5114,663,4,63
 3/31/20,Italy,105792,12428,15729,77635,4053,837,1109
 3/31/20,Jamaica,36,1,2,33,0,0,0
-3/31/20,Japan,1953,56,424,1473,87,2,0
+3/31/20,Japan,2255,67,424,1764,254,2,0
 3/31/20,Jordan,274,5,30,239,6,0,4
 3/31/20,Kazakhstan,343,2,24,317,41,1,3
 3/31/20,Kenya,59,1,1,57,9,0,0
@@ -12118,7 +12118,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/4/20,Israel,15,0,1,14,0,-20,-223
 3/4/20,Italy,3089,107,276,2706,0,-12321,-15453
 3/4/20,Jamaica,0,0,0,0,0,-1,-2
-3/4/20,Japan,331,6,43,282,0,-50,-381
+3/4/20,Japan,333,7,43,283,0,-60,-381
 3/4/20,Jordan,1,0,0,1,0,-5,-30
 3/4/20,Kazakhstan,0,0,0,0,0,-2,-24
 3/4/20,Kenya,0,0,0,0,0,-1,-1
@@ -12306,7 +12306,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/5/20,Israel,20,0,1,19,5,0,0
 3/5/20,Italy,3858,148,414,3296,769,41,138
 3/5/20,Jamaica,0,0,0,0,0,0,0
-3/5/20,Japan,360,6,43,311,29,0,0
+3/5/20,Japan,365,7,43,315,32,0,0
 3/5/20,Jordan,1,0,0,1,0,0,0
 3/5/20,Kazakhstan,0,0,0,0,0,0,0
 3/5/20,Kenya,0,0,0,0,0,0,0
@@ -12494,7 +12494,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/6/20,Israel,37,0,2,35,17,0,1
 3/6/20,Italy,4636,197,523,3916,778,49,109
 3/6/20,Jamaica,0,0,0,0,0,0,0
-3/6/20,Japan,420,6,46,368,60,0,3
+3/6/20,Japan,420,7,46,367,55,0,3
 3/6/20,Jordan,1,0,0,1,0,0,0
 3/6/20,Kazakhstan,0,0,0,0,0,0,0
 3/6/20,Kenya,0,0,0,0,0,0,0
@@ -12682,7 +12682,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/7/20,Israel,43,0,2,41,6,0,0
 3/7/20,Italy,5883,233,589,5061,1247,36,66
 3/7/20,Jamaica,0,0,0,0,0,0,0
-3/7/20,Japan,461,6,76,379,41,0,30
+3/7/20,Japan,466,7,76,383,46,0,30
 3/7/20,Jordan,1,0,0,1,0,0,0
 3/7/20,Kazakhstan,0,0,0,0,0,0,0
 3/7/20,Kenya,0,0,0,0,0,0,0
@@ -12870,7 +12870,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/8/20,Israel,61,0,2,59,18,0,0
 3/8/20,Italy,7375,366,622,6387,1492,133,33
 3/8/20,Jamaica,0,0,0,0,0,0,0
-3/8/20,Japan,502,6,76,420,41,0,0
+3/8/20,Japan,499,8,76,415,33,1,0
 3/8/20,Jordan,1,0,0,1,0,0,0
 3/8/20,Kazakhstan,0,0,0,0,0,0,0
 3/8/20,Kenya,0,0,0,0,0,0,0
@@ -13058,7 +13058,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/9/20,Israel,61,0,2,59,0,0,0
 3/9/20,Italy,9172,463,724,7985,1797,97,102
 3/9/20,Jamaica,0,0,0,0,0,0,0
-3/9/20,Japan,511,10,76,425,9,4,0
+3/9/20,Japan,527,10,76,441,28,2,0
 3/9/20,Jordan,1,0,0,1,0,0,0
 3/9/20,Kazakhstan,0,0,0,0,0,0,0
 3/9/20,Kenya,0,0,0,0,0,0,0
@@ -13246,7 +13246,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/1/20,Israel,6092,26,241,5825,6031,26,239
 4/1/20,Italy,110574,13155,16847,80572,101402,12692,16123
 4/1/20,Jamaica,44,3,2,39,44,3,2
-4/1/20,Japan,2178,57,472,1649,1667,47,396
+4/1/20,Japan,2535,72,472,1991,2008,62,396
 4/1/20,Jordan,278,5,36,237,277,5,36
 4/1/20,Kazakhstan,380,3,26,351,380,3,26
 4/1/20,Kenya,81,1,3,77,81,1,3
@@ -13434,7 +13434,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/10/20,Israel,10408,95,1183,9130,4316,69,942
 4/10/20,Italy,147577,18849,30455,98273,37003,5694,13608
 4/10/20,Jamaica,63,4,13,46,19,1,11
-4/10/20,Japan,5530,99,685,4746,3352,42,213
+4/10/20,Japan,6250,125,685,5440,3715,53,213
 4/10/20,Jordan,372,7,170,195,94,2,134
 4/10/20,Kazakhstan,812,10,64,738,432,7,38
 4/10/20,Kenya,189,7,22,160,108,6,19
@@ -13622,7 +13622,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/11/20,Israel,10743,101,1341,9301,335,6,158
 4/11/20,Italy,152271,19468,32534,100269,4694,619,2079
 4/11/20,Jamaica,65,4,13,48,2,0,0
-4/11/20,Japan,6005,99,762,5144,475,0,77
+4/11/20,Japan,6951,138,762,6051,701,13,77
 4/11/20,Jordan,381,7,177,197,9,0,7
 4/11/20,Kazakhstan,865,10,81,774,53,0,17
 4/11/20,Kenya,191,7,24,160,2,0,2
@@ -13810,7 +13810,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/12/20,Israel,11145,103,1627,9415,402,2,286
 4/12/20,Italy,156363,19899,34211,102253,4092,431,1677
 4/12/20,Jamaica,69,4,13,52,4,0,0
-4/12/20,Japan,6748,108,762,5878,743,9,0
+4/12/20,Japan,7473,147,762,6564,522,9,0
 4/12/20,Jordan,389,7,201,181,8,0,24
 4/12/20,Kazakhstan,951,10,99,842,86,0,18
 4/12/20,Kenya,197,8,25,164,6,1,1
@@ -13998,7 +13998,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/13/20,Israel,11586,116,1855,9615,441,13,228
 4/13/20,Italy,159516,20465,35435,103616,3153,566,1224
 4/13/20,Jamaica,73,4,19,50,4,0,6
-4/13/20,Japan,7370,123,784,6463,622,15,22
+4/13/20,Japan,7773,156,784,6833,300,9,22
 4/13/20,Jordan,391,7,215,169,2,0,14
 4/13/20,Kazakhstan,1091,12,138,941,140,2,39
 4/13/20,Kenya,208,9,40,159,11,1,15
@@ -14186,7 +14186,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/14/20,Israel,12046,123,2195,9728,460,7,340
 4/14/20,Italy,162488,21067,37130,104291,2972,602,1695
 4/14/20,Jamaica,73,4,19,50,0,0,0
-4/14/20,Japan,7645,143,799,6703,275,20,15
+4/14/20,Japan,8277,170,799,7308,504,14,15
 4/14/20,Jordan,397,7,235,155,6,0,20
 4/14/20,Kazakhstan,1232,14,203,1015,141,2,65
 4/14/20,Kenya,216,9,41,166,8,0,1
@@ -14374,7 +14374,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/15/20,Israel,12501,130,2563,9808,455,7,368
 4/15/20,Italy,165155,21645,38092,105418,2667,578,962
 4/15/20,Jamaica,125,5,21,99,52,1,2
-4/15/20,Japan,8100,146,853,7101,455,3,54
+4/15/20,Japan,8835,186,853,7796,558,16,54
 4/15/20,Jordan,401,7,250,144,4,0,15
 4/15/20,Kazakhstan,1295,16,240,1039,63,2,37
 4/15/20,Kenya,225,10,53,162,9,1,12
@@ -14562,7 +14562,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/16/20,Israel,12758,142,2818,9798,257,12,255
 4/16/20,Italy,168941,22170,40164,106607,3786,525,2072
 4/16/20,Jamaica,143,5,21,117,18,0,0
-4/16/20,Japan,8626,178,901,7547,526,32,48
+4/16/20,Japan,9398,204,901,8293,563,18,48
 4/16/20,Jordan,402,7,259,136,1,0,9
 4/16/20,Kazakhstan,1402,17,277,1108,107,1,37
 4/16/20,Kenya,234,11,53,170,9,1,0
@@ -14750,7 +14750,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/17/20,Israel,12982,151,3126,9705,224,9,308
 4/17/20,Italy,172434,22745,42727,106962,3493,575,2563
 4/17/20,Jamaica,143,5,25,113,0,0,4
-4/17/20,Japan,9787,190,935,8662,1161,12,34
+4/17/20,Japan,9958,217,935,8806,560,13,34
 4/17/20,Jordan,407,7,265,135,5,0,6
 4/17/20,Kazakhstan,1546,17,347,1182,144,0,70
 4/17/20,Kenya,246,11,53,182,12,0,0
@@ -14938,7 +14938,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/18/20,Israel,13265,164,3456,9645,283,13,330
 4/18/20,Italy,175925,23227,44927,107771,3491,482,2200
 4/18/20,Jamaica,163,5,25,133,20,0,0
-4/18/20,Japan,10296,222,1069,9005,509,32,134
+4/18/20,Japan,10548,236,1069,9243,590,19,134
 4/18/20,Jordan,413,7,269,137,6,0,4
 4/18/20,Kazakhstan,1615,17,377,1221,69,0,30
 4/18/20,Kenya,262,12,60,190,16,1,7
@@ -15126,7 +15126,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/19/20,Israel,13491,172,3754,9565,226,8,298
 4/19/20,Italy,178972,23660,47055,108257,3047,433,2128
 4/19/20,Jamaica,173,5,27,141,10,0,2
-4/19/20,Japan,10797,236,1159,9402,501,14,90
+4/19/20,Japan,10914,255,1159,9500,366,19,90
 4/19/20,Jordan,417,7,276,134,4,0,7
 4/19/20,Kazakhstan,1676,17,400,1259,61,0,23
 4/19/20,Kenya,270,14,67,189,8,2,7
@@ -15314,7 +15314,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/2/20,Israel,6857,36,338,6483,0,-136,-3416
 4/2/20,Italy,115242,13915,18278,83049,0,-9745,-28777
 4/2/20,Jamaica,47,3,2,42,0,-2,-25
-4/2/20,Japan,2495,62,472,1961,0,-174,-687
+4/2/20,Japan,2818,75,472,2271,0,-180,-687
 4/2/20,Jordan,299,5,45,249,0,-2,-231
 4/2/20,Kazakhstan,435,3,27,405,0,-14,-373
 4/2/20,Kenya,110,3,4,103,0,-11,-63
@@ -15502,7 +15502,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/20/20,Israel,13713,177,4049,9487,6856,141,3711
 4/20/20,Italy,181228,24114,48877,108237,65986,10199,30599
 4/20/20,Jamaica,223,5,27,191,176,2,25
-4/20/20,Japan,10797,236,1159,9402,8302,174,687
+4/20/20,Japan,11258,275,1159,9824,8440,200,687
 4/20/20,Jordan,425,7,282,136,126,2,237
 4/20/20,Kazakhstan,1852,19,447,1386,1417,16,420
 4/20/20,Kenya,281,14,69,198,171,11,65
@@ -15690,7 +15690,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/21/20,Israel,13942,184,4507,9251,229,7,458
 4/21/20,Italy,183957,24648,51600,107709,2729,534,2723
 4/21/20,Jamaica,223,6,27,190,0,1,0
-4/21/20,Japan,11135,263,1239,9633,338,27,80
+4/21/20,Japan,11641,303,1239,10099,383,28,80
 4/21/20,Jordan,428,7,297,124,3,0,15
 4/21/20,Kazakhstan,1995,19,489,1487,143,0,42
 4/21/20,Kenya,296,14,74,208,15,0,5
@@ -15878,7 +15878,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/22/20,Israel,14498,189,5215,9094,556,5,708
 4/22/20,Italy,187327,25085,54543,107699,3370,437,2943
 4/22/20,Jamaica,233,6,27,200,10,0,0
-4/22/20,Japan,11512,281,1356,9875,377,18,117
+4/22/20,Japan,12037,323,1356,10358,396,20,117
 4/22/20,Jordan,435,7,315,113,7,0,18
 4/22/20,Kazakhstan,2135,19,515,1601,140,0,26
 4/22/20,Kenya,303,14,74,215,7,0,0
@@ -16066,7 +16066,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/23/20,Israel,14803,192,5611,9000,305,3,396
 4/23/20,Italy,189973,25549,57576,106848,2646,464,3033
 4/23/20,Jamaica,257,6,28,223,24,0,1
-4/23/20,Japan,12368,328,1494,10546,856,47,138
+4/23/20,Japan,12469,351,1494,10624,432,28,138
 4/23/20,Jordan,437,7,318,112,2,0,3
 4/23/20,Kazakhstan,2289,20,560,1709,154,1,45
 4/23/20,Kenya,320,14,89,217,17,0,15
@@ -16254,7 +16254,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/24/20,Israel,15058,194,6003,8861,255,2,392
 4/24/20,Italy,192994,25969,60498,106527,3021,420,2922
 4/24/20,Jamaica,288,7,28,253,31,1,0
-4/24/20,Japan,12829,345,1530,10954,461,17,36
+4/24/20,Japan,12854,360,1530,10964,385,9,36
 4/24/20,Jordan,441,7,326,108,4,0,8
 4/24/20,Kazakhstan,2482,25,604,1853,193,5,44
 4/24/20,Kenya,336,14,94,228,16,0,5
@@ -16442,7 +16442,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/25/20,Israel,15298,199,6435,8664,240,5,432
 4/25/20,Italy,195351,26384,63120,105847,2357,415,2622
 4/25/20,Jamaica,305,7,28,270,17,0,0
-4/25/20,Japan,13231,360,1656,11215,402,15,126
+4/25/20,Japan,13186,379,1656,11151,332,19,126
 4/25/20,Jordan,444,7,332,105,3,0,6
 4/25/20,Kazakhstan,2601,25,646,1930,119,0,42
 4/25/20,Kenya,343,14,98,231,7,0,4
@@ -16630,7 +16630,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/26/20,Israel,15443,201,6731,8511,145,2,296
 4/26/20,Italy,197675,26644,64928,106103,2324,260,1808
 4/26/20,Jamaica,350,7,28,315,45,0,0
-4/26/20,Japan,13441,372,1809,11260,210,12,153
+4/26/20,Japan,13405,395,1809,11201,219,16,153
 4/26/20,Jordan,447,7,337,103,3,0,5
 4/26/20,Kazakhstan,2717,25,682,2010,116,0,36
 4/26/20,Kenya,355,14,106,235,12,0,8
@@ -16818,7 +16818,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/27/20,Israel,15555,204,7200,8151,112,3,469
 4/27/20,Italy,199414,26977,66624,105813,1739,333,1696
 4/27/20,Jamaica,364,7,29,328,14,0,1
-4/27/20,Japan,14153,385,1899,11869,712,13,90
+4/27/20,Japan,13576,417,1899,11260,171,22,90
 4/27/20,Jordan,449,7,342,100,2,0,5
 4/27/20,Kazakhstan,2835,25,720,2090,118,0,38
 4/27/20,Kenya,363,14,114,235,8,0,8
@@ -17006,7 +17006,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/28/20,Israel,15728,210,7746,7772,173,6,546
 4/28/20,Italy,201505,27359,68941,105205,2091,382,2317
 4/28/20,Jamaica,364,7,29,328,0,0,0
-4/28/20,Japan,13736,394,1899,11443,0,9,0
+4/28/20,Japan,13860,436,1899,11525,284,19,0
 4/28/20,Jordan,449,8,348,93,0,1,6
 4/28/20,Kazakhstan,3027,25,774,2228,192,0,54
 4/28/20,Kenya,374,14,124,236,11,0,10
@@ -17194,7 +17194,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/29/20,Israel,15834,215,8233,7386,106,5,487
 4/29/20,Italy,203591,27682,71252,104657,2086,323,2311
 4/29/20,Jamaica,396,7,29,360,32,0,0
-4/29/20,Japan,13895,413,2368,11114,159,19,469
+4/29/20,Japan,14076,454,2368,11254,216,18,469
 4/29/20,Jordan,451,8,356,87,2,0,8
 4/29/20,Kazakhstan,3138,25,819,2294,111,0,45
 4/29/20,Kenya,384,15,129,240,10,1,5
@@ -17382,7 +17382,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/3/20,Israel,7428,40,403,6985,0,-175,-7830
 4/3/20,Italy,119827,14681,19758,85388,0,-13001,-51494
 4/3/20,Jamaica,47,3,2,42,0,-4,-27
-4/3/20,Japan,2617,63,514,2040,0,-350,-1854
+4/3/20,Japan,3154,81,514,2559,0,-373,-1854
 4/3/20,Jordan,310,5,58,247,0,-3,-298
 4/3/20,Kazakhstan,464,6,29,429,0,-19,-790
 4/3/20,Kenya,122,4,4,114,0,-11,-125
@@ -17570,7 +17570,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/30/20,Israel,15946,222,8561,7163,8518,182,8158
 4/30/20,Italy,205463,27967,75945,101551,85636,13286,56187
 4/30/20,Jamaica,422,8,29,385,375,5,27
-4/30/20,Japan,14088,430,2460,11198,11471,367,1946
+4/30/20,Japan,14284,481,2460,11343,11130,400,1946
 4/30/20,Jordan,453,8,362,83,143,3,304
 4/30/20,Kazakhstan,3402,25,866,2511,2938,19,837
 4/30/20,Kenya,396,17,144,235,274,13,140
@@ -17758,7 +17758,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/4/20,Israel,7851,44,427,7380,0,-178,-8134
 4/4/20,Italy,124632,15362,20996,88274,0,-12605,-54949
 4/4/20,Jamaica,53,3,7,43,0,-5,-22
-4/4/20,Japan,3139,77,514,2548,0,-353,-1946
+4/4/20,Japan,3525,87,514,2924,0,-394,-1946
 4/4/20,Jordan,323,5,74,244,0,-3,-288
 4/4/20,Kazakhstan,531,5,36,490,0,-20,-830
 4/4/20,Kenya,126,4,4,118,0,-13,-140
@@ -17946,7 +17946,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/5/20,Israel,8430,49,477,7904,579,5,50
 4/5/20,Italy,128948,15887,21815,91246,4316,525,819
 4/5/20,Jamaica,58,3,8,47,5,0,1
-4/5/20,Japan,3139,77,514,2548,0,0,0
+4/5/20,Japan,3876,93,514,3269,351,6,0
 4/5/20,Jordan,345,5,110,230,22,0,36
 4/5/20,Kazakhstan,584,6,42,536,53,1,6
 4/5/20,Kenya,142,4,4,134,16,0,0
@@ -18134,7 +18134,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/6/20,Israel,8904,57,585,8262,474,8,108
 4/6/20,Italy,132547,16523,22837,93187,3599,636,1022
 4/6/20,Jamaica,58,3,8,47,0,0,0
-4/6/20,Japan,3654,85,575,2994,515,8,61
+4/6/20,Japan,4110,96,575,3439,234,3,61
 4/6/20,Jordan,349,6,126,217,4,1,16
 4/6/20,Kazakhstan,662,6,46,610,78,0,4
 4/6/20,Kenya,158,6,4,148,16,2,0
@@ -18322,7 +18322,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/7/20,Israel,9248,65,770,8413,344,8,185
 4/7/20,Italy,135586,17127,24392,94067,3039,604,1555
 4/7/20,Jamaica,63,3,8,52,5,0,0
-4/7/20,Japan,3906,92,592,3222,252,7,17
+4/7/20,Japan,4485,98,592,3795,375,2,17
 4/7/20,Jordan,353,6,138,209,4,0,12
 4/7/20,Kazakhstan,697,6,51,640,35,0,5
 4/7/20,Kenya,172,6,7,159,14,0,3
@@ -18510,7 +18510,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/8/20,Israel,9404,73,801,8530,156,8,31
 4/8/20,Italy,139422,17669,26491,95262,3836,542,2099
 4/8/20,Jamaica,63,4,10,49,0,1,2
-4/8/20,Japan,4257,93,622,3542,351,1,30
+4/8/20,Japan,5020,105,622,4293,535,7,30
 4/8/20,Jordan,358,6,150,202,5,0,12
 4/8/20,Kazakhstan,727,7,54,666,30,1,3
 4/8/20,Kenya,179,6,9,164,7,0,2
@@ -18698,7 +18698,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/9/20,Israel,9968,86,1011,8871,564,13,210
 4/9/20,Italy,143626,18279,28470,96877,4204,610,1979
 4/9/20,Jamaica,63,4,12,47,0,0,2
-4/9/20,Japan,4667,94,632,3941,410,1,10
+4/9/20,Japan,5614,113,632,4869,594,8,10
 4/9/20,Jordan,372,7,161,204,14,1,11
 4/9/20,Kazakhstan,781,8,60,713,54,1,6
 4/9/20,Kenya,184,7,12,165,5,1,3
@@ -18886,7 +18886,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/1/20,Israel,16101,225,9156,6720,6133,139,8145
 5/1/20,Italy,207428,28236,78249,100943,63802,9957,49779
 5/1/20,Jamaica,432,8,31,393,369,4,19
-5/1/20,Japan,14305,455,2975,10875,9638,361,2343
+5/1/20,Japan,14558,510,2975,11073,8944,397,2343
 5/1/20,Jordan,459,8,364,87,87,1,203
 5/1/20,Kazakhstan,3597,25,922,2650,2816,17,862
 5/1/20,Kenya,411,21,150,240,227,14,138
@@ -19074,7 +19074,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/10/20,Israel,16477,252,11430,4795,376,27,2274
 5/10/20,Italy,219070,30560,105186,83324,11642,2324,26937
 5/10/20,Jamaica,502,9,90,403,70,1,59
-5/10/20,Japan,15777,624,8127,7026,1472,169,5152
+5/10/20,Japan,15824,666,8127,7031,1266,156,5152
 5/10/20,Jordan,540,9,389,142,81,1,25
 5/10/20,Kazakhstan,5090,31,1941,3118,1493,6,1019
 5/10/20,Kenya,672,32,239,401,261,11,89
@@ -19262,7 +19262,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/11/20,Israel,16506,258,11843,4405,29,6,413
 5/11/20,Italy,219814,30739,106587,82488,744,179,1401
 5/11/20,Jamaica,505,9,90,406,3,0,0
-5/11/20,Japan,15847,633,8293,6921,70,9,166
+5/11/20,Japan,15861,685,8293,6883,37,19,166
 5/11/20,Jordan,562,9,390,163,22,0,1
 5/11/20,Kazakhstan,5207,32,2074,3101,117,1,133
 5/11/20,Kenya,700,33,251,416,28,1,12
@@ -19450,7 +19450,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/12/20,Israel,16529,260,12083,4186,23,2,240
 5/12/20,Italy,221216,30911,109039,81266,1402,172,2452
 5/12/20,Jamaica,507,9,100,398,2,0,10
-5/12/20,Japan,15968,657,8531,6780,121,24,238
+5/12/20,Japan,15948,707,8531,6710,87,22,238
 5/12/20,Jordan,576,9,390,177,14,0,0
 5/12/20,Kazakhstan,5279,32,2223,3024,72,0,149
 5/12/20,Kenya,715,36,259,420,15,3,8
@@ -19638,7 +19638,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/13/20,Israel,16548,264,12232,4052,19,4,149
 5/13/20,Italy,222104,31106,112541,78457,888,195,3502
 5/13/20,Jamaica,509,9,113,387,2,0,13
-5/13/20,Japan,16049,678,8920,6451,81,21,389
+5/13/20,Japan,15998,726,8920,6352,50,19,389
 5/13/20,Jordan,582,9,392,181,6,0,2
 5/13/20,Kazakhstan,5417,32,2408,2977,138,0,185
 5/13/20,Kenya,737,40,281,416,22,4,22
@@ -19826,7 +19826,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/14/20,Israel,16579,265,12521,3793,31,1,289
 5/14/20,Italy,223096,31368,115288,76440,992,262,2747
 5/14/20,Jamaica,509,9,118,382,0,0,5
-5/14/20,Japan,16120,697,9868,5555,71,19,948
+5/14/20,Japan,16096,742,9868,5486,98,16,948
 5/14/20,Jordan,586,9,393,184,4,0,1
 5/14/20,Kazakhstan,5571,32,2531,3008,154,0,123
 5/14/20,Kenya,758,42,284,432,21,2,3
@@ -20014,7 +20014,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/15/20,Israel,16589,266,12587,3736,10,1,66
 5/15/20,Italy,223885,31610,120205,72070,789,242,4917
 5/15/20,Jamaica,511,9,121,381,2,0,3
-5/15/20,Japan,16203,713,10338,5152,83,16,470
+5/15/20,Japan,16148,760,10338,5050,52,18,470
 5/15/20,Jordan,596,9,401,186,10,0,8
 5/15/20,Kazakhstan,5689,34,2707,2948,118,2,176
 5/15/20,Kenya,781,45,284,452,23,3,0
@@ -20202,7 +20202,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/16/20,Israel,16608,268,12855,3485,19,2,268
 5/16/20,Italy,224760,31763,122810,70187,875,153,2605
 5/16/20,Jamaica,517,9,121,387,6,0,0
-5/16/20,Japan,16237,725,10338,5174,34,12,0
+5/16/20,Japan,16202,778,10338,5086,54,18,0
 5/16/20,Jordan,607,9,404,194,11,0,3
 5/16/20,Kazakhstan,5850,34,2980,2836,161,0,273
 5/16/20,Kenya,830,50,301,479,49,5,17
@@ -20390,7 +20390,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/17/20,Israel,16617,272,12942,3403,9,4,87
 5/17/20,Italy,225435,31908,125176,68351,675,145,2366
 5/17/20,Jamaica,520,9,127,384,3,0,6
-5/17/20,Japan,16285,744,11153,4388,48,19,815
+5/17/20,Japan,16226,787,11153,4286,24,9,815
 5/17/20,Jordan,613,9,408,196,6,0,4
 5/17/20,Kazakhstan,6157,34,3256,2867,307,0,276
 5/17/20,Kenya,887,50,313,524,57,0,12
@@ -20578,7 +20578,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/18/20,Israel,16643,276,13253,3114,26,4,311
 5/18/20,Italy,225886,32007,127326,66553,451,99,2150
 5/18/20,Jamaica,520,9,131,380,0,0,4
-5/18/20,Japan,16305,749,11564,3992,20,5,411
+5/18/20,Japan,16259,796,11564,3899,33,9,411
 5/18/20,Jordan,629,9,413,207,16,0,5
 5/18/20,Kazakhstan,6751,35,3469,3247,594,1,213
 5/18/20,Kenya,912,50,336,526,25,0,23
@@ -20766,7 +20766,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/19/20,Israel,16659,278,13435,2946,16,2,182
 5/19/20,Italy,226699,32169,129401,65129,813,162,2075
 5/19/20,Jamaica,520,9,145,366,0,0,14
-5/19/20,Japan,16367,768,11564,4035,62,19,0
+5/19/20,Japan,16287,805,11564,3918,28,9,0
 5/19/20,Jordan,649,9,417,223,20,0,4
 5/19/20,Kazakhstan,6751,35,3598,3118,0,0,129
 5/19/20,Kenya,963,50,358,555,51,0,22
@@ -20954,7 +20954,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/2/20,Israel,16185,229,9593,6363,0,-49,-3842
 5/2/20,Italy,209328,28710,79914,100704,0,-3459,-49487
 5/2/20,Jamaica,463,8,33,422,0,-1,-112
-5/2/20,Japan,14571,474,3205,10892,0,-294,-8359
+5/2/20,Japan,14861,536,3205,11120,0,-269,-8359
 5/2/20,Jordan,460,9,367,84,0,0,-50
 5/2/20,Kazakhstan,3857,25,985,2847,0,-10,-2613
 5/2/20,Kenya,435,22,152,261,0,-28,-206
@@ -21142,7 +21142,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/20/20,Israel,16667,279,13504,2884,482,50,3911
 5/20/20,Italy,227364,32330,132282,62752,18036,3620,52368
 5/20/20,Jamaica,529,9,171,349,66,1,138
-5/20/20,Japan,16367,768,11564,4035,1796,294,8359
+5/20/20,Japan,16321,818,11564,3939,1460,282,8359
 5/20/20,Jordan,672,9,446,217,212,0,79
 5/20/20,Kazakhstan,6969,35,3734,3200,3112,10,2749
 5/20/20,Kenya,1029,50,366,613,594,28,214
@@ -21330,7 +21330,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/21/20,Israel,16683,279,13724,2680,16,0,220
 5/21/20,Italy,228006,32486,134560,60960,642,156,2278
 5/21/20,Jamaica,534,9,181,344,5,0,10
-5/21/20,Japan,16424,777,12672,2975,57,9,1108
+5/21/20,Japan,16362,826,12672,2864,41,8,1108
 5/21/20,Jordan,684,9,457,218,12,0,11
 5/21/20,Kazakhstan,7234,35,3843,3356,265,0,109
 5/21/20,Kenya,1109,50,375,684,80,0,9
@@ -21518,7 +21518,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/22/20,Israel,16690,279,13915,2496,7,0,191
 5/22/20,Italy,228658,32616,136720,59322,652,130,2160
 5/22/20,Jamaica,544,9,191,344,10,0,10
-5/22/20,Japan,16513,796,13005,2712,89,19,333
+5/22/20,Japan,16385,836,13005,2544,23,10,333
 5/22/20,Jordan,700,9,461,230,16,0,4
 5/22/20,Kazakhstan,7919,35,4096,3788,685,0,253
 5/22/20,Kenya,1161,50,380,731,52,0,5
@@ -21706,7 +21706,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/23/20,Israel,16712,279,14090,2343,22,0,175
 5/23/20,Italy,229327,32735,138840,57752,669,119,2120
 5/23/20,Jamaica,550,9,200,341,6,0,9
-5/23/20,Japan,16536,808,13244,2484,23,12,239
+5/23/20,Japan,16410,845,13244,2321,25,9,239
 5/23/20,Jordan,704,9,470,225,4,0,9
 5/23/20,Kazakhstan,7919,35,4214,3670,0,0,118
 5/23/20,Kenya,1192,50,380,762,31,0,0
@@ -21894,7 +21894,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/24/20,Israel,16717,279,14153,2285,5,0,63
 5/24/20,Italy,229858,32785,140479,56594,531,50,1639
 5/24/20,Jamaica,552,9,211,332,2,0,11
-5/24/20,Japan,16550,820,13413,2317,14,12,169
+5/24/20,Japan,16451,852,13413,2186,41,7,169
 5/24/20,Jordan,708,9,471,228,4,0,1
 5/24/20,Kazakhstan,8531,35,4352,4144,612,0,138
 5/24/20,Kenya,1214,51,383,780,22,1,3
@@ -22082,7 +22082,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/25/20,Israel,16734,281,14307,2146,17,2,154
 5/25/20,Italy,230158,32877,141981,55300,300,92,1502
 5/25/20,Jamaica,556,9,238,309,4,0,27
-5/25/20,Japan,16581,830,13612,2139,31,10,199
+5/25/20,Japan,16472,857,13612,2003,21,5,199
 5/25/20,Jordan,711,9,479,223,3,0,8
 5/25/20,Kazakhstan,8969,35,4515,4419,438,0,163
 5/25/20,Kenya,1286,52,402,832,72,1,19
@@ -22270,7 +22270,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/26/20,Israel,16757,281,14457,2019,23,0,150
 5/26/20,Italy,230555,32955,144658,52942,397,78,2677
 5/26/20,Jamaica,564,9,267,288,8,0,29
-5/26/20,Japan,16623,846,13810,1967,42,16,198
+5/26/20,Japan,16502,863,13810,1829,30,6,198
 5/26/20,Jordan,718,9,586,123,7,0,107
 5/26/20,Kazakhstan,8969,37,4613,4319,0,2,98
 5/26/20,Kenya,1348,52,405,891,62,0,3
@@ -22458,7 +22458,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/27/20,Israel,16793,281,14570,1942,36,0,113
 5/27/20,Italy,231139,33072,147101,50966,584,117,2443
 5/27/20,Jamaica,569,9,279,281,5,0,12
-5/27/20,Japan,16651,858,13973,1820,28,12,163
+5/27/20,Japan,16528,870,13973,1685,26,7,163
 5/27/20,Jordan,720,9,586,125,2,0,0
 5/27/20,Kazakhstan,9304,37,4768,4499,335,0,155
 5/27/20,Kenya,1471,55,408,1008,123,3,3
@@ -22646,7 +22646,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/28/20,Israel,16872,284,14679,1909,79,3,109
 5/28/20,Italy,231732,33142,150604,47986,593,70,3503
 5/28/20,Jamaica,569,9,284,276,0,0,5
-5/28/20,Japan,16598,881,14096,1621,0,23,123
+5/28/20,Japan,16598,881,14096,1621,70,11,123
 5/28/20,Jordan,728,9,497,222,8,0,-89
 5/28/20,Kazakhstan,9576,37,4900,4639,272,0,132
 5/28/20,Kenya,1618,58,421,1139,147,3,13
@@ -23022,7 +23022,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/3/20,Israel,16208,232,9749,6227,0,-52,-5027
 5/3/20,Italy,210717,28884,81654,100179,0,-4345,-71190
 5/3/20,Jamaica,469,9,38,422,0,0,-251
-5/3/20,Japan,14877,487,3981,10409,0,-400,-10232
+5/3/20,Japan,15061,560,3981,10520,0,-327,-10232
 5/3/20,Jordan,461,9,367,85,0,0,-140
 5/3/20,Kazakhstan,3920,27,1084,2809,0,-10,-3973
 5/3/20,Kenya,465,24,167,274,0,-38,-271
@@ -23210,7 +23210,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/30/20,Israel,17012,284,14811,1917,804,52,5062
 5/30/20,Italy,232664,33340,155633,43691,21947,4456,73979
 5/30/20,Jamaica,581,9,290,282,112,0,252
-5/30/20,Japan,16716,894,14267,1555,1839,407,10286
+5/30/20,Japan,16716,894,14267,1555,1655,334,10286
 5/30/20,Jordan,734,9,507,218,273,0,140
 5/30/20,Kazakhstan,10382,38,5220,5124,6462,11,4136
 5/30/20,Kenya,1888,63,464,1361,1423,39,297
@@ -23586,7 +23586,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/4/20,Israel,16246,235,10064,5947,0,-50,-4748
 5/4/20,Italy,211938,29079,82879,99980,0,-4336,-74628
 5/4/20,Jamaica,471,9,38,424,0,0,-273
-5/4/20,Japan,15078,536,4156,10386,0,-362,-10186
+5/4/20,Japan,15229,582,4156,10491,0,-316,-10186
 5/4/20,Jordan,465,9,370,86,0,0,-152
 5/4/20,Kazakhstan,4049,29,1173,2847,0,-11,-4231
 5/4/20,Kenya,490,24,173,293,0,-40,-305
@@ -23774,7 +23774,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/5/20,Israel,16289,238,10465,5586,43,3,401
 5/5/20,Italy,213013,29315,85231,98467,1075,236,2352
 5/5/20,Jamaica,473,9,56,408,2,0,18
-5/5/20,Japan,15253,556,4496,10201,175,20,340
+5/5/20,Japan,15354,593,4496,10265,125,11,340
 5/5/20,Jordan,471,9,375,87,6,0,5
 5/5/20,Kazakhstan,4205,29,1279,2897,156,0,106
 5/5/20,Kenya,535,24,182,329,45,0,9
@@ -23962,7 +23962,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/6/20,Israel,16310,239,10637,5434,21,1,172
 5/6/20,Italy,214457,29684,93245,91528,1444,369,8014
 5/6/20,Jamaica,478,9,57,412,5,0,1
-5/6/20,Japan,15253,556,4496,10201,0,0,0
+5/6/20,Japan,15455,605,4496,10354,101,12,0
 5/6/20,Jordan,473,9,377,87,2,0,2
 5/6/20,Kazakhstan,4422,30,1408,2984,217,1,129
 5/6/20,Kenya,582,26,190,366,47,2,8
@@ -24150,7 +24150,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/7/20,Israel,16381,240,10873,5268,71,1,236
 5/7/20,Italy,215858,29958,96276,89624,1401,274,3031
 5/7/20,Jamaica,488,9,58,421,10,0,1
-5/7/20,Japan,15477,577,4918,9982,224,21,422
+5/7/20,Japan,15553,617,4918,10018,98,12,422
 5/7/20,Jordan,494,9,381,104,21,0,4
 5/7/20,Kazakhstan,4578,30,1518,3030,156,0,110
 5/7/20,Kenya,607,29,197,381,25,3,7
@@ -24338,7 +24338,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/8/20,Israel,16436,245,11229,4962,55,5,356
 5/8/20,Italy,217185,30201,99023,87961,1327,243,2747
 5/8/20,Jamaica,490,9,62,419,2,0,4
-5/8/20,Japan,15575,590,5146,9839,98,13,228
+5/8/20,Japan,15640,634,5146,9860,87,17,228
 5/8/20,Jordan,508,9,385,114,14,0,4
 5/8/20,Kazakhstan,4834,31,1631,3172,256,1,113
 5/8/20,Kenya,621,29,202,390,14,0,5
@@ -24526,7 +24526,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/9/20,Israel,16454,247,11376,4831,18,2,147
 5/9/20,Italy,218268,30395,103031,84842,1083,194,4008
 5/9/20,Jamaica,490,9,62,419,0,0,0
-5/9/20,Japan,15663,607,5906,9150,88,17,760
+5/9/20,Japan,15755,654,5906,9195,115,20,760
 5/9/20,Jordan,522,9,387,126,14,0,2
 5/9/20,Kazakhstan,4975,31,1776,3168,141,0,145
 5/9/20,Kenya,649,30,207,412,28,1,5
@@ -24714,7 +24714,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/1/20,Israel,17169,285,14878,2006,715,38,3502
 6/1/20,Italy,233197,33475,158355,41367,14929,3080,55324
 6/1/20,Jamaica,588,9,322,257,98,0,260
-6/1/20,Japan,16787,899,14463,1425,1124,292,8557
+6/1/20,Japan,16787,899,14463,1425,1032,245,8557
 6/1/20,Jordan,746,9,535,202,224,0,148
 6/1/20,Kazakhstan,11308,41,5587,5680,6333,10,3811
 6/1/20,Kenya,2021,69,482,1470,1372,39,275
@@ -30455,194 +30455,946 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/1/20,Yemen,1190,318,504,368,666,191,481
 7/1/20,Zambia,1632,30,1348,254,432,20,436
 7/1/20,Zimbabwe,605,7,166,432,291,3,120
-7/2/20,Afghanistan,32022,807,16041,15174,186,33,390
-7/2/20,Albania,2662,69,1559,1034,82,4,43
-7/2/20,Algeria,14657,928,10342,3387,385,8,302
-7/2/20,Andorra,855,52,800,3,0,0,1
-7/2/20,Angola,315,17,97,201,24,2,0
-7/2/20,Antigua and Barbuda,69,3,23,43,0,0,1
-7/2/20,Argentina,69941,1385,24186,44370,2744,34,1146
-7/2/20,Armenia,26658,459,15036,11163,593,6,473
-7/2/20,Australia,8066,104,7130,832,65,0,40
-7/2/20,Austria,17941,705,16514,722,68,0,23
-7/2/20,Azerbaijan,18684,228,10425,8031,572,8,364
-7/2/20,Bahamas,104,11,89,4,0,0,0
-7/2/20,Bahrain,27837,94,22583,5160,423,2,635
-7/2/20,Bangladesh,153277,1926,66442,84909,4019,38,4334
+7/10/20,Afghanistan,34194,971,20882,12341,2358,197,5231
+7/10/20,Albania,3278,85,1875,1318,698,20,359
+7/10/20,Algeria,18242,996,13124,4122,3970,76,3084
+7/10/20,Andorra,855,52,803,0,0,0,4
+7/10/20,Angola,458,23,117,318,167,8,20
+7/10/20,Antigua and Barbuda,74,3,57,14,5,0,35
+7/10/20,Argentina,94060,1774,38984,53302,26863,423,15944
+7/10/20,Armenia,30903,546,18709,11648,4838,93,4146
+7/10/20,Australia,9553,107,7733,1713,1552,3,643
+7/10/20,Austria,18709,706,16808,1195,836,1,317
+7/10/20,Azerbaijan,22990,292,14093,8605,4878,72,4032
+7/10/20,Bahamas,108,11,89,8,4,0,0
+7/10/20,Bahrain,32039,104,27213,4722,4625,12,5265
+7/10/20,Bangladesh,178443,2275,86406,89762,29185,387,24298
+7/10/20,Barbados,98,7,90,1,1,0,0
+7/10/20,Belarus,64604,454,54254,9896,2180,56,6701
+7/10/20,Belgium,62357,9781,17179,35397,848,27,158
+7/10/20,Belize,37,2,20,15,9,0,2
+7/10/20,Benin,1285,23,333,929,86,2,0
+7/10/20,Bhutan,80,0,55,25,3,0,5
+7/10/20,Bolivia,45565,1702,13918,29945,11338,501,4154
+7/10/20,Bosnia and Herzegovina,6402,216,3037,3149,1796,28,605
+7/10/20,Botswana,314,1,31,282,87,0,3
+7/10/20,Brazil,1800827,70398,1217361,513068,352074,9766,399719
+7/10/20,Brunei,141,3,138,0,0,0,0
+7/10/20,Bulgaria,6964,267,3308,3389,1810,35,586
+7/10/20,Burkina Faso,1020,53,862,105,58,0,24
+7/10/20,Burma,326,6,256,64,23,0,34
+7/10/20,Burundi,191,1,118,72,21,0,3
+7/10/20,Cabo Verde,1591,19,730,842,324,4,101
+7/10/20,Cambodia,141,0,131,10,0,0,0
+7/10/20,Cameroon,14916,359,11525,3032,2324,46,1425
+7/10/20,Canada,108984,8811,72466,27707,2696,133,3069
+7/10/20,Central African Republic,4259,53,1142,3064,514,6,355
+7/10/20,Chad,874,74,789,11,8,0,4
+7/10/20,Chile,309274,6781,278053,24440,27231,1028,32610
+7/10/20,China,84992,4641,79802,549,176,0,152
+7/10/20,Colombia,133973,4985,56272,72716,35883,1497,14129
+7/10/20,Comoros,314,7,272,35,11,0,72
+7/10/20,Congo (Brazzaville),2028,47,589,1392,646,6,103
+7/10/20,Congo (Kinshasa),7905,189,3513,4203,783,14,1728
+7/10/20,Costa Rica,6845,26,2110,4709,3092,9,594
+7/10/20,Cote d'Ivoire,12052,81,6080,5891,2350,13,1699
+7/10/20,Croatia,3532,117,2377,1038,701,9,222
+7/10/20,Cuba,2413,86,2249,78,65,0,31
+7/10/20,Cyprus,1013,19,839,155,14,0,6
+7/10/20,Czechia,13001,352,8208,4441,955,3,411
+7/10/20,Denmark,13147,609,12278,260,153,3,385
+7/10/20,Diamond Princess,712,13,651,48,0,0,0
+7/10/20,Djibouti,4968,56,4689,223,264,1,139
+7/10/20,Dominica,18,0,18,0,0,0,0
+7/10/20,Dominican Republic,41915,864,20830,20221,8528,110,2926
+7/10/20,Ecuador,65018,4939,29577,30502,6761,363,1690
+7/10/20,Egypt,80235,3702,23274,53259,10421,668,4393
+7/10/20,El Salvador,9142,249,5428,3465,2406,67,1464
+7/10/20,Equatorial Guinea,3071,51,842,2178,1070,19,327
+7/10/20,Eritrea,232,0,107,125,29,0,51
+7/10/20,Estonia,2013,69,1894,50,24,0,58
+7/10/20,Eswatini,1257,18,633,606,417,7,215
+7/10/20,Ethiopia,7120,124,2430,4566,1274,21,0
+7/10/20,Fiji,26,0,18,8,8,0,0
+7/10/20,Finland,7279,329,6800,150,43,1,100
+7/10/20,France,208015,30007,78513,99495,5034,143,1839
+7/10/20,Gabon,5942,46,3004,2892,429,4,496
+7/10/20,Gambia,64,3,34,27,15,1,7
+7/10/20,Georgia,973,15,846,112,42,0,52
+7/10/20,Germany,199332,9063,184028,6241,3439,68,4928
+7/10/20,Ghana,23834,135,19212,4487,5700,18,5662
+7/10/20,Greece,3732,193,1374,2165,300,1,0
+7/10/20,Grenada,23,0,23,0,0,0,0
+7/10/20,Guatemala,27619,1139,4024,22456,8608,322,793
+7/10/20,Guinea,5969,37,4732,1200,565,4,386
+7/10/20,Guinea-Bissau,1842,26,773,1043,188,2,456
+7/10/20,Guyana,290,16,134,140,42,3,18
+7/10/20,Haiti,6617,135,2590,3892,577,28,1558
+7/10/20,Holy See,12,0,12,0,0,0,0
+7/10/20,Honduras,27053,750,2850,23453,6791,208,727
+7/10/20,Hungary,4223,593,2941,689,66,7,227
+7/10/20,Iceland,1886,10,1859,17,39,0,36
+7/10/20,India,820916,22123,515386,283407,216275,4289,155526
+7/10/20,Indonesia,72347,3469,33529,35349,14577,535,7934
+7/10/20,Iran,252720,12447,215015,25258,22509,1489,23528
+7/10/20,Iraq,72460,2960,41380,28120,20936,910,15113
+7/10/20,Ireland,25589,1744,23364,481,112,6,0
+7/10/20,Israel,36266,351,18613,17302,10009,29,1161
+7/10/20,Italy,242639,34938,194273,13428,1879,150,3556
+7/10/20,Jamaica,753,10,605,138,46,0,50
+7/10/20,Japan,21044,982,17494,2568,2206,6,931
+7/10/20,Jordan,1173,10,986,177,40,1,100
+7/10/20,Kazakhstan,56455,264,32500,23691,15390,76,18441
+7/10/20,Kenya,9448,181,2733,6534,2775,32,644
+7/10/20,"Korea, South",13373,288,12144,941,469,6,460
+7/10/20,Kosovo,4307,94,2095,2118,1316,40,451
+7/10/20,Kuwait,53580,383,43214,9983,6640,25,5499
+7/10/20,Kyrgyzstan,9910,125,3236,6549,3649,59,706
+7/10/20,Laos,19,0,19,0,0,0,0
+7/10/20,Latvia,1165,30,1019,116,44,0,45
+7/10/20,Lebanon,2082,36,1402,644,294,2,179
+7/10/20,Lesotho,184,1,26,157,149,1,15
+7/10/20,Liberia,963,47,400,516,159,10,65
+7/10/20,Libya,1342,38,307,997,468,13,84
+7/10/20,Liechtenstein,84,1,81,2,2,0,0
+7/10/20,Lithuania,1861,79,1569,213,43,1,45
+7/10/20,Luxembourg,4777,110,4086,581,432,0,83
+7/10/20,MS Zaandam,9,2,0,7,0,0,0
+7/10/20,Madagascar,4143,34,2183,1926,1840,12,1177
+7/10/20,Malawi,2069,31,379,1659,804,15,119
+7/10/20,Malaysia,8696,121,8511,64,56,0,136
+7/10/20,Maldives,2617,13,2238,366,235,4,284
+7/10/20,Mali,2404,121,1650,633,202,5,167
+7/10/20,Malta,674,9,658,7,3,0,11
+7/10/20,Mauritania,5203,146,2111,2946,731,17,434
+7/10/20,Mauritius,342,10,330,2,1,0,4
+7/10/20,Mexico,289174,34191,225356,29627,57404,5681,46830
+7/10/20,Moldova,18924,635,12188,6101,2026,86,2594
+7/10/20,Monaco,108,4,96,8,5,0,1
+7/10/20,Mongolia,227,0,200,27,7,0,23
+7/10/20,Montenegro,1019,19,320,680,443,7,5
+7/10/20,Morocco,15328,243,11827,3258,2692,15,2801
+7/10/20,Mozambique,1111,9,344,758,208,3,96
+7/10/20,Namibia,668,1,25,642,383,1,1
+7/10/20,Nepal,16649,35,8011,8603,2603,5,3355
+7/10/20,Netherlands,51055,6155,192,44708,572,23,6
+7/10/20,New Zealand,1543,22,1497,24,13,0,7
+7/10/20,Nicaragua,2846,91,1993,762,327,8,755
+7/10/20,Niger,1099,68,978,53,24,1,35
+7/10/20,Nigeria,31323,709,12795,17819,4839,106,2643
+7/10/20,North Macedonia,7777,368,3960,3449,1323,62,1362
+7/10/20,Norway,8974,252,8138,584,78,1,0
+7/10/20,Oman,53614,244,34225,19145,12420,59,10063
+7/10/20,Pakistan,246351,5123,153134,88094,28542,650,48440
+7/10/20,Panama,43257,863,21426,20968,8794,218,5481
+7/10/20,Papua New Guinea,11,0,8,3,0,0,0
+7/10/20,Paraguay,2736,20,1256,1460,476,1,154
+7/10/20,Peru,319646,11500,210638,97508,31169,1640,32393
+7/10/20,Philippines,52914,1360,13230,38324,14403,90,2792
+7/10/20,Poland,37216,1562,26048,9606,2441,85,4257
+7/10/20,Portugal,45679,1646,30350,13683,3225,67,2552
+7/10/20,Qatar,102630,146,98233,4251,5627,31,14268
+7/10/20,Romania,31381,1847,21129,8405,4085,180,1815
+7/10/20,Russia,712863,11000,488234,213629,59384,1479,65999
+7/10/20,Rwanda,1252,3,635,614,210,0,155
+7/10/20,Saint Kitts and Nevis,17,0,15,2,2,0,0
+7/10/20,Saint Lucia,22,0,19,3,3,0,0
+7/10/20,Saint Vincent and the Grenadines,29,0,29,0,0,0,0
+7/10/20,San Marino,699,42,656,1,1,0,0
+7/10/20,Sao Tome and Principe,727,14,284,429,12,1,32
+7/10/20,Saudi Arabia,226486,2151,163026,61309,32261,453,30266
+7/10/20,Senegal,7882,145,5311,2426,957,29,766
+7/10/20,Serbia,17728,370,13719,3639,2892,89,947
+7/10/20,Seychelles,100,0,11,89,19,0,0
+7/10/20,Sierra Leone,1613,63,1133,417,115,3,134
+7/10/20,Singapore,45614,26,41780,3808,1492,0,2769
+7/10/20,Slovakia,1870,28,1481,361,183,0,15
+7/10/20,Slovenia,1793,111,1429,253,180,0,45
+7/10/20,Somalia,3038,92,1209,1737,114,2,277
+7/10/20,South Africa,250687,3860,118232,128595,91354,1111,42207
+7/10/20,South Sudan,2021,38,333,1650,0,0,0
+7/10/20,Spain,253908,28403,150376,75129,4249,39,0
+7/10/20,Sri Lanka,2454,11,1980,463,400,0,232
+7/10/20,Sudan,10204,649,5277,4278,631,47,671
+7/10/20,Suriname,726,18,481,227,191,5,239
+7/10/20,Sweden,74898,5526,0,69372,5206,156,0
+7/10/20,Switzerland,32690,1966,29400,1324,839,1,200
+7/10/20,Syria,394,16,126,252,101,7,16
+7/10/20,Taiwan*,449,7,438,4,2,0,0
+7/10/20,Tajikistan,6457,55,5115,1287,452,3,488
+7/10/20,Tanzania,509,21,183,305,0,0,0
+7/10/20,Thailand,3202,58,3087,57,29,0,28
+7/10/20,Timor-Leste,24,0,24,0,0,0,0
+7/10/20,Togo,710,15,494,201,49,1,80
+7/10/20,Trinidad and Tobago,133,8,120,5,3,0,5
+7/10/20,Tunisia,1240,50,1067,123,65,0,29
+7/10/20,Turkey,210965,5323,191883,13759,9867,173,16461
+7/10/20,US,3184573,134092,983185,2067296,496985,5987,253191
+7/10/20,Uganda,1006,0,938,68,113,0,101
+7/10/20,Ukraine,53116,1362,25634,26120,7192,174,5390
+7/10/20,United Arab Emirates,54050,330,43969,9751,4981,14,5809
+7/10/20,United Kingdom,289678,44735,1378,243565,4399,744,6
+7/10/20,Uruguay,985,29,886,70,42,1,61
+7/10/20,Uzbekistan,12027,54,7530,4443,3246,28,1683
+7/10/20,Venezuela,8803,83,2671,6049,2741,29,1022
+7/10/20,Vietnam,370,0,350,20,15,0,14
+7/10/20,West Bank and Gaza,5551,27,536,4988,2793,19,76
+7/10/20,Western Sahara,10,1,8,1,0,0,0
+7/10/20,Yemen,1380,364,630,386,190,46,126
+7/10/20,Zambia,1895,42,1348,505,263,12,0
+7/10/20,Zimbabwe,942,13,320,609,337,6,154
+7/11/20,Afghanistan,34366,994,21135,12237,172,23,253
+7/11/20,Albania,3371,89,1881,1401,93,4,6
+7/11/20,Algeria,18712,1004,13124,4584,470,8,0
+7/11/20,Andorra,855,52,803,0,0,0,0
+7/11/20,Angola,462,23,118,321,4,0,1
+7/11/20,Antigua and Barbuda,74,3,57,14,0,0,0
+7/11/20,Argentina,97509,1810,41408,54291,3449,36,2424
+7/11/20,Armenia,31392,559,19419,11414,489,13,710
+7/11/20,Australia,9797,108,7727,1962,244,1,-6
+7/11/20,Austria,18783,706,16864,1213,74,0,56
+7/11/20,Azerbaijan,23521,298,14607,8616,531,6,514
+7/11/20,Bahamas,111,11,89,11,3,0,0
+7/11/20,Bahrain,32470,104,27828,4538,431,0,615
+7/11/20,Bangladesh,181129,2305,88034,90790,2686,30,1628
+7/11/20,Barbados,103,7,90,6,5,0,0
+7/11/20,Belarus,64767,459,54919,9389,163,5,665
+7/11/20,Belgium,62469,9782,17196,35491,112,1,17
+7/11/20,Belize,37,2,20,15,0,0,0
+7/11/20,Benin,1378,26,557,795,93,3,224
+7/11/20,Bhutan,82,0,57,25,2,0,2
+7/11/20,Bolivia,47200,1754,14333,31113,1635,52,415
+7/11/20,Bosnia and Herzegovina,6719,219,3078,3422,317,3,41
+7/11/20,Botswana,314,1,31,282,0,0,0
+7/11/20,Brazil,1839850,71469,1244088,524293,39023,1071,26727
+7/11/20,Brunei,141,3,138,0,0,0,0
+7/11/20,Bulgaria,7175,267,3311,3597,211,0,3
+7/11/20,Burkina Faso,1033,53,869,111,13,0,7
+7/11/20,Burma,330,6,260,64,4,0,4
+7/11/20,Burundi,191,1,118,72,0,0,0
+7/11/20,Cabo Verde,1623,19,748,856,32,0,18
+7/11/20,Cambodia,156,0,133,23,15,0,2
+7/11/20,Cameroon,15173,359,11928,2886,257,0,403
+7/11/20,Canada,109150,8818,72784,27548,166,7,318
+7/11/20,Central African Republic,4288,53,1145,3090,29,0,3
+7/11/20,Chad,874,74,790,10,0,0,1
+7/11/20,Chile,312029,6881,281114,24034,2755,100,3061
+7/11/20,China,85071,4641,79876,554,79,0,74
+7/11/20,Colombia,140776,5202,58800,76774,6803,217,2528
+7/11/20,Comoros,317,7,296,14,3,0,24
+7/11/20,Congo (Brazzaville),2028,47,589,1392,0,0,0
+7/11/20,Congo (Kinshasa),7971,189,3615,4167,66,0,102
+7/11/20,Costa Rica,7231,28,2220,4983,386,2,110
+7/11/20,Cote d'Ivoire,12443,82,6357,6004,391,1,277
+7/11/20,Croatia,3672,118,2466,1088,140,1,89
+7/11/20,Cuba,2420,87,2254,79,7,1,5
+7/11/20,Cyprus,1014,19,839,156,1,0,0
+7/11/20,Czechia,13115,352,8227,4536,114,0,19
+7/11/20,Denmark,13147,609,12278,260,0,0,0
+7/11/20,Diamond Princess,712,13,651,48,0,0,0
+7/11/20,Djibouti,4968,56,4689,223,0,0,0
+7/11/20,Dominica,18,0,18,0,0,0,0
+7/11/20,Dominican Republic,43114,880,20996,21238,1199,16,166
+7/11/20,Ecuador,67209,5031,30107,32071,2191,92,530
+7/11/20,Egypt,81158,3769,23876,53513,923,67,602
+7/11/20,El Salvador,9391,254,5516,3621,249,5,88
+7/11/20,Equatorial Guinea,3071,51,842,2178,0,0,0
+7/11/20,Eritrea,232,0,107,125,0,0,0
+7/11/20,Estonia,2014,69,1895,50,1,0,1
+7/11/20,Eswatini,1311,18,656,637,54,0,23
+7/11/20,Ethiopia,7402,124,2430,4848,282,0,0
+7/11/20,Fiji,26,0,18,8,0,0,0
+7/11/20,Finland,7291,329,6800,162,12,0,0
+7/11/20,France,208015,30007,78513,99495,0,0,0
+7/11/20,Gabon,5942,46,3004,2892,0,0,0
+7/11/20,Gambia,64,3,34,27,0,0,0
+7/11/20,Georgia,981,15,851,115,8,0,5
+7/11/20,Germany,199709,9070,184266,6373,377,7,238
+7/11/20,Ghana,24248,135,19831,4282,414,0,619
+7/11/20,Greece,3772,193,1374,2205,40,0,0
+7/11/20,Grenada,23,0,23,0,0,0,0
+7/11/20,Guatemala,28598,1172,4073,23353,979,33,49
+7/11/20,Guinea,6044,37,4802,1205,75,0,70
+7/11/20,Guinea-Bissau,1842,26,773,1043,0,0,0
+7/11/20,Guyana,291,17,148,126,1,1,14
+7/11/20,Haiti,6690,139,2590,3961,73,4,0
+7/11/20,Holy See,12,0,12,0,0,0,0
+7/11/20,Honduras,27583,771,2901,23911,530,21,51
+7/11/20,Hungary,4229,595,2974,660,6,2,33
+7/11/20,Iceland,1888,10,1860,18,2,0,1
+7/11/20,India,849522,22673,534618,292231,28606,550,19232
+7/11/20,Indonesia,74018,3535,34719,35764,1671,66,1190
+7/11/20,Iran,255117,12635,217666,24816,2397,188,2651
+7/11/20,Iraq,75194,3055,43079,29060,2734,95,1699
+7/11/20,Ireland,25611,1746,23364,501,22,2,0
+7/11/20,Israel,37464,354,18814,18296,1198,3,201
+7/11/20,Italy,242827,34945,194579,13303,188,7,306
+7/11/20,Jamaica,758,10,615,133,5,0,10
+7/11/20,Japan,21430,982,17494,2954,386,0,0
+7/11/20,Jordan,1176,10,991,175,3,0,5
+7/11/20,Kazakhstan,58253,264,33814,24175,1798,0,1314
+7/11/20,Kenya,9726,184,2832,6710,278,3,99
+7/11/20,"Korea, South",13417,289,12178,950,44,1,34
+7/11/20,Kosovo,4715,101,2227,2387,408,7,132
+7/11/20,Kuwait,54058,386,43961,9711,478,3,747
+7/11/20,Kyrgyzstan,10410,129,3253,7028,500,4,17
+7/11/20,Laos,19,0,19,0,0,0,0
+7/11/20,Latvia,1173,30,1019,124,8,0,0
+7/11/20,Lebanon,2168,36,1402,730,86,0,0
+7/11/20,Lesotho,184,1,26,157,0,0,0
+7/11/20,Liberia,998,47,420,531,35,0,20
+7/11/20,Libya,1389,38,340,1011,47,0,33
+7/11/20,Liechtenstein,84,1,81,2,0,0,0
+7/11/20,Lithuania,1865,79,1579,207,4,0,10
+7/11/20,Luxembourg,4842,110,4086,646,65,0,0
+7/11/20,MS Zaandam,9,2,0,7,0,0,0
+7/11/20,Madagascar,4578,34,2287,2257,435,0,104
+7/11/20,Malawi,2261,33,517,1711,192,2,138
+7/11/20,Malaysia,8704,122,8515,67,8,1,4
+7/11/20,Maldives,2664,13,2268,383,47,0,30
+7/11/20,Mali,2406,121,1683,602,2,0,33
+7/11/20,Malta,674,9,658,7,0,0,0
+7/11/20,Mauritania,5275,147,2160,2968,72,1,49
+7/11/20,Mauritius,342,10,330,2,0,0,0
+7/11/20,Mexico,295268,34730,229856,30682,6094,539,4500
+7/11/20,Moldova,19208,640,12456,6112,284,5,268
+7/11/20,Monaco,109,4,96,9,1,0,0
+7/11/20,Mongolia,230,0,202,28,3,0,2
+7/11/20,Montenegro,1164,23,325,816,145,4,5
+7/11/20,Morocco,15542,245,12065,3232,214,2,238
+7/11/20,Mozambique,1135,9,349,777,24,0,5
+7/11/20,Namibia,668,1,25,642,0,0,0
+7/11/20,Nepal,16719,38,8442,8239,70,3,431
+7/11/20,Netherlands,51136,6156,193,44787,81,1,1
+7/11/20,New Zealand,1544,22,1497,25,1,0,0
+7/11/20,Nicaragua,2846,91,1993,762,0,0,0
+7/11/20,Niger,1099,68,992,39,0,0,14
+7/11/20,Nigeria,31987,724,13103,18160,664,15,308
+7/11/20,North Macedonia,7975,376,4080,3519,198,8,120
+7/11/20,Norway,8977,252,8138,587,3,0,0
+7/11/20,Oman,54697,248,35255,19194,1083,4,1030
+7/11/20,Pakistan,248872,5197,156700,86975,2521,74,3566
+7/11/20,Panama,44332,893,22170,21269,1075,30,744
+7/11/20,Papua New Guinea,11,0,8,3,0,0,0
+7/11/20,Paraguay,2820,21,1261,1538,84,1,5
+7/11/20,Peru,322710,11682,214152,96876,3064,182,3514
+7/11/20,Philippines,54222,1372,14037,38813,1308,12,807
+7/11/20,Poland,37521,1568,26635,9318,305,6,587
+7/11/20,Portugal,46221,1654,30655,13912,542,8,305
+7/11/20,Qatar,103128,146,98934,4048,498,0,701
+7/11/20,Romania,32079,1871,21414,8794,698,24,285
+7/11/20,Russia,719449,11188,496594,211667,6586,188,8360
+7/11/20,Rwanda,1299,4,663,632,47,1,28
+7/11/20,Saint Kitts and Nevis,17,0,15,2,0,0,0
+7/11/20,Saint Lucia,22,0,19,3,0,0,0
+7/11/20,Saint Vincent and the Grenadines,29,0,29,0,0,0,0
+7/11/20,San Marino,699,42,656,1,0,0,0
+7/11/20,Sao Tome and Principe,727,14,284,429,0,0,0
+7/11/20,Saudi Arabia,229480,2181,165396,61903,2994,30,2370
+7/11/20,Senegal,8014,145,5381,2488,132,0,70
+7/11/20,Serbia,18073,382,13780,3911,345,12,61
+7/11/20,Seychelles,100,0,11,89,0,0,0
+7/11/20,Sierra Leone,1618,63,1141,414,5,0,8
+7/11/20,Singapore,45783,26,42026,3731,169,0,246
+7/11/20,Slovakia,1893,28,1493,372,23,0,12
+7/11/20,Slovenia,1827,111,1429,287,34,0,0
+7/11/20,Somalia,3051,92,1264,1695,13,0,55
+7/11/20,South Africa,264184,3971,127715,132498,13497,111,9483
+7/11/20,South Sudan,2021,38,333,1650,0,0,0
+7/11/20,Spain,253908,28403,150376,75129,0,0,0
+7/11/20,Sri Lanka,2511,11,1980,520,57,0,0
+7/11/20,Sudan,10250,650,5341,4259,46,1,64
+7/11/20,Suriname,741,18,495,228,15,0,14
+7/11/20,Sweden,74898,5526,0,69372,0,0,0
+7/11/20,Switzerland,32817,1968,29500,1349,127,2,100
+7/11/20,Syria,394,16,126,252,0,0,0
+7/11/20,Taiwan*,451,7,438,6,2,0,0
+7/11/20,Tajikistan,6506,55,5176,1275,49,0,61
+7/11/20,Tanzania,509,21,183,305,0,0,0
+7/11/20,Thailand,3216,58,3088,70,14,0,1
+7/11/20,Timor-Leste,24,0,24,0,0,0,0
+7/11/20,Togo,710,15,494,201,0,0,0
+7/11/20,Trinidad and Tobago,133,8,120,5,0,0,0
+7/11/20,Tunisia,1245,50,1076,119,5,0,9
+7/11/20,Turkey,211981,5344,193217,13420,1016,21,1334
+7/11/20,US,3245925,134777,995576,2115572,61352,685,12391
+7/11/20,Uganda,1013,0,952,61,7,0,14
+7/11/20,Ukraine,53941,1389,26513,26039,825,27,879
+7/11/20,United Arab Emirates,54453,331,44648,9474,403,1,679
+7/11/20,United Kingdom,290504,44883,1378,244243,826,148,0
+7/11/20,Uruguay,986,30,896,60,1,1,10
+7/11/20,Uzbekistan,12513,57,7723,4733,486,3,193
+7/11/20,Venezuela,9178,85,2671,6422,375,2,0
+7/11/20,Vietnam,370,0,350,20,0,0,0
+7/11/20,West Bank and Gaza,5931,33,536,5362,380,6,0
+7/11/20,Western Sahara,10,1,8,1,0,0,0
+7/11/20,Yemen,1389,365,642,382,9,1,12
+7/11/20,Zambia,1895,42,1348,505,0,0,0
+7/11/20,Zimbabwe,982,18,320,644,40,5,0
+7/12/20,Afghanistan,34451,1010,21216,12225,85,16,81
+7/12/20,Albania,3454,93,1946,1415,83,4,65
+7/12/20,Algeria,19195,1011,13743,4441,483,7,619
+7/12/20,Andorra,855,52,803,0,0,0,0
+7/12/20,Angola,506,26,118,362,44,3,0
+7/12/20,Antigua and Barbuda,74,3,57,14,0,0,0
+7/12/20,Argentina,100166,1845,42694,55627,2657,35,1286
+7/12/20,Armenia,31969,565,19633,11771,577,6,214
+7/12/20,Australia,9980,108,7769,2103,183,0,42
+7/12/20,Austria,18897,708,16952,1237,114,2,88
+7/12/20,Azerbaijan,24041,306,15093,8642,520,8,486
+7/12/20,Bahamas,111,11,89,11,0,0,0
+7/12/20,Bahrain,32941,108,28425,4408,471,4,597
+7/12/20,Bangladesh,183795,2352,93614,87829,2666,47,5580
+7/12/20,Barbados,103,7,90,6,0,0,0
+7/12/20,Belarus,64932,464,55380,9088,165,5,461
+7/12/20,Belgium,62707,9782,17196,35729,238,0,0
+7/12/20,Belize,37,2,20,15,0,0,0
+7/12/20,Benin,1378,26,557,795,0,0,0
+7/12/20,Bhutan,84,0,76,8,2,0,19
+7/12/20,Bolivia,48187,1807,14843,31537,987,53,510
+7/12/20,Bosnia and Herzegovina,6877,221,3115,3541,158,2,37
+7/12/20,Botswana,399,1,38,360,85,0,7
+7/12/20,Brazil,1864681,72100,1264843,527738,24831,631,20755
+7/12/20,Brunei,141,3,138,0,0,0,0
+7/12/20,Bulgaria,7252,268,3319,3665,77,1,8
+7/12/20,Burkina Faso,1036,53,869,114,3,0,0
+7/12/20,Burma,331,6,261,64,1,0,1
+7/12/20,Burundi,191,1,118,72,0,0,0
+7/12/20,Cabo Verde,1623,19,748,856,0,0,0
+7/12/20,Cambodia,156,0,133,23,0,0,0
+7/12/20,Cameroon,15173,359,11928,2886,0,0,0
+7/12/20,Canada,109348,8829,72954,27565,198,11,170
+7/12/20,Central African Republic,4288,53,1145,3090,0,0,0
+7/12/20,Chad,880,75,790,15,6,1,0
+7/12/20,Chile,315041,6979,283902,24160,3012,98,2788
+7/12/20,China,85117,4641,79907,569,46,0,31
+7/12/20,Colombia,145362,5426,61186,78750,4586,224,2386
+7/12/20,Comoros,317,7,296,14,0,0,0
+7/12/20,Congo (Brazzaville),2028,47,589,1392,0,0,0
+7/12/20,Congo (Kinshasa),8033,189,3615,4229,62,0,0
+7/12/20,Costa Rica,7596,30,2239,5327,365,2,19
+7/12/20,Cote d'Ivoire,12766,84,6654,6028,323,2,297
+7/12/20,Croatia,3722,119,2486,1117,50,1,20
+7/12/20,Cuba,2426,87,2258,81,6,0,4
+7/12/20,Cyprus,1021,19,839,163,7,0,0
+7/12/20,Czechia,13174,352,8247,4575,59,0,20
+7/12/20,Denmark,13147,609,12278,260,0,0,0
+7/12/20,Diamond Princess,712,13,651,48,0,0,0
+7/12/20,Djibouti,4972,56,4712,204,4,0,23
+7/12/20,Dominica,18,0,18,0,0,0,0
+7/12/20,Dominican Republic,44532,897,21459,22176,1418,17,463
+7/12/20,Ecuador,67870,5047,30283,32540,661,16,176
+7/12/20,Egypt,82070,3858,24419,53793,912,89,543
+7/12/20,El Salvador,9674,260,5634,3780,283,6,118
+7/12/20,Equatorial Guinea,3071,51,842,2178,0,0,0
+7/12/20,Eritrea,232,0,107,125,0,0,0
+7/12/20,Estonia,2014,69,1895,50,0,0,0
+7/12/20,Eswatini,1351,20,668,663,40,2,12
+7/12/20,Ethiopia,7560,127,2430,5003,158,3,0
+7/12/20,Fiji,26,0,18,8,0,0,0
+7/12/20,Finland,7294,329,6800,165,3,0,0
+7/12/20,France,208015,30007,78513,99495,0,0,0
+7/12/20,Gabon,5942,46,3004,2892,0,0,0
+7/12/20,Gambia,64,3,34,27,0,0,0
+7/12/20,Georgia,986,15,857,114,5,0,6
+7/12/20,Germany,199919,9071,184414,6434,210,1,148
+7/12/20,Ghana,24518,139,20187,4192,270,4,356
+7/12/20,Greece,3803,193,1374,2236,31,0,0
+7/12/20,Grenada,23,0,23,0,0,0,0
+7/12/20,Guatemala,29355,1219,4214,23922,757,47,141
+7/12/20,Guinea,6141,37,4862,1242,97,0,60
+7/12/20,Guinea-Bissau,1842,26,773,1043,0,0,0
+7/12/20,Guyana,297,17,154,126,6,0,6
+7/12/20,Haiti,6727,139,2924,3664,37,0,334
+7/12/20,Holy See,12,0,12,0,0,0,0
+7/12/20,Honduras,28090,774,2957,24359,507,3,56
+7/12/20,Hungary,4234,595,3036,603,5,0,62
+7/12/20,Iceland,1896,10,1865,21,8,0,5
+7/12/20,India,878254,23174,553471,301609,28732,501,18853
+7/12/20,Indonesia,75699,3606,35638,36455,1681,71,919
+7/12/20,Iran,257303,12829,219993,24481,2186,194,2327
+7/12/20,Iraq,77506,3150,44724,29632,2312,95,1645
+7/12/20,Ireland,25628,1746,23364,518,17,0,0
+7/12/20,Israel,38670,362,19008,19300,1206,8,194
+7/12/20,Italy,243061,34954,194928,13179,234,9,349
+7/12/20,Jamaica,758,10,620,128,0,0,5
+7/12/20,Japan,21841,983,17845,3013,411,1,351
+7/12/20,Jordan,1179,10,997,172,3,0,6
+7/12/20,Kazakhstan,58253,375,33814,24064,0,111,0
+7/12/20,Kenya,10105,185,2881,7039,379,1,49
+7/12/20,"Korea, South",13479,289,12204,986,62,0,26
+7/12/20,Kosovo,4931,102,2267,2562,216,1,40
+7/12/20,Kuwait,54894,390,44610,9894,836,4,649
+7/12/20,Kyrgyzstan,11117,147,3460,7510,707,18,207
+7/12/20,Laos,19,0,19,0,0,0,0
+7/12/20,Latvia,1173,30,1019,124,0,0,0
+7/12/20,Lebanon,2334,36,1420,878,166,0,18
+7/12/20,Lesotho,233,2,32,199,49,1,6
+7/12/20,Liberia,1010,51,423,536,12,4,3
+7/12/20,Libya,1433,39,341,1053,44,1,1
+7/12/20,Liechtenstein,84,1,81,2,0,0,0
+7/12/20,Lithuania,1869,79,1571,219,4,0,-8
+7/12/20,Luxembourg,4925,111,4086,728,83,1,0
+7/12/20,MS Zaandam,9,2,0,7,0,0,0
+7/12/20,Madagascar,4867,35,2378,2454,289,1,91
+7/12/20,Malawi,2364,38,557,1769,103,5,40
+7/12/20,Malaysia,8718,122,8519,77,14,0,4
+7/12/20,Maldives,2731,13,2284,434,67,0,16
+7/12/20,Mali,2411,121,1694,596,5,0,11
+7/12/20,Malta,674,9,660,5,0,0,2
+7/12/20,Mauritania,5355,147,2363,2845,80,0,203
+7/12/20,Mauritius,342,10,330,2,0,0,0
+7/12/20,Mexico,299750,35006,234905,29839,4482,276,5049
+7/12/20,Moldova,19382,642,12667,6073,174,2,211
+7/12/20,Monaco,109,4,97,8,0,0,1
+7/12/20,Mongolia,230,0,203,27,0,0,1
+7/12/20,Montenegro,1221,23,325,873,57,0,0
+7/12/20,Morocco,15745,250,12283,3212,203,5,218
+7/12/20,Mozambique,1157,9,364,784,22,0,15
+7/12/20,Namibia,785,1,26,758,117,0,1
+7/12/20,Nepal,16801,38,8589,8174,82,0,147
+7/12/20,Netherlands,51237,6156,193,44888,101,0,0
+7/12/20,New Zealand,1544,22,1497,25,0,0,0
+7/12/20,Nicaragua,2846,91,1993,762,0,0,0
+7/12/20,Niger,1099,68,992,39,0,0,0
+7/12/20,Nigeria,32558,740,13447,18371,571,16,344
+7/12/20,North Macedonia,8111,382,4203,3526,136,6,123
+7/12/20,Norway,8981,252,8138,591,4,0,0
+7/12/20,Oman,56015,257,36098,19660,1318,9,843
+7/12/20,Pakistan,251625,5266,161917,84442,2753,69,5217
+7/12/20,Panama,45633,909,23039,21685,1301,16,869
+7/12/20,Papua New Guinea,11,0,8,3,0,0,0
+7/12/20,Paraguay,2948,22,1275,1651,128,1,14
+7/12/20,Peru,326326,11870,217111,97345,3616,188,2959
+7/12/20,Philippines,56259,1534,16046,38679,2037,162,2009
+7/12/20,Poland,37891,1571,27148,9172,370,3,513
+7/12/20,Portugal,46512,1660,30907,13945,291,6,252
+7/12/20,Qatar,103598,147,99743,3708,470,1,809
+7/12/20,Romania,32535,1884,21545,9106,456,13,131
+7/12/20,Russia,726036,11318,500208,214510,6587,130,3614
+7/12/20,Rwanda,1337,4,684,649,38,0,21
+7/12/20,Saint Kitts and Nevis,17,0,15,2,0,0,0
+7/12/20,Saint Lucia,22,0,19,3,0,0,0
+7/12/20,Saint Vincent and the Grenadines,35,0,29,6,6,0,0
+7/12/20,San Marino,699,42,656,1,0,0,0
+7/12/20,Sao Tome and Principe,729,14,286,429,2,0,2
+7/12/20,Saudi Arabia,232259,2223,167138,62898,2779,42,1742
+7/12/20,Senegal,8135,148,5446,2541,121,3,65
+7/12/20,Serbia,18360,393,13876,4091,287,11,96
+7/12/20,Seychelles,100,0,11,89,0,0,0
+7/12/20,Sierra Leone,1635,63,1154,418,17,0,13
+7/12/20,Singapore,45961,26,42285,3650,178,0,259
+7/12/20,Slovakia,1901,28,1493,380,8,0,0
+7/12/20,Slovenia,1841,111,1469,261,14,0,40
+7/12/20,Somalia,3059,93,1264,1702,8,1,0
+7/12/20,South Africa,276242,4079,134874,137289,12058,108,7159
+7/12/20,South Sudan,2021,38,333,1650,0,0,0
+7/12/20,Spain,253908,28403,150376,75129,0,0,0
+7/12/20,Sri Lanka,2617,11,1981,625,106,0,1
+7/12/20,Sudan,10250,650,5341,4259,0,0,0
+7/12/20,Suriname,741,18,495,228,0,0,0
+7/12/20,Sweden,74898,5526,0,69372,0,0,0
+7/12/20,Switzerland,32883,1968,29600,1315,66,0,100
+7/12/20,Syria,394,16,126,252,0,0,0
+7/12/20,Taiwan*,451,7,438,6,0,0,0
+7/12/20,Tajikistan,6552,55,5228,1269,46,0,52
+7/12/20,Tanzania,509,21,183,305,0,0,0
+7/12/20,Thailand,3217,58,3088,71,1,0,0
+7/12/20,Timor-Leste,24,0,24,0,0,0,0
+7/12/20,Togo,720,15,513,192,10,0,19
+7/12/20,Trinidad and Tobago,133,8,120,5,0,0,0
+7/12/20,Tunisia,1263,50,1076,137,18,0,0
+7/12/20,Turkey,212993,5363,194515,13115,1012,19,1298
+7/12/20,US,3304942,135205,1006326,2163411,59017,428,10750
+7/12/20,Uganda,1025,0,972,53,12,0,20
+7/12/20,Ukraine,54647,1400,26971,26276,706,11,458
+7/12/20,United Arab Emirates,54854,333,45140,9381,401,2,492
+7/12/20,United Kingdom,291154,44904,1378,244872,650,21,0
+7/12/20,Uruguay,987,31,896,60,1,1,0
+7/12/20,Uzbekistan,12997,60,7852,5085,484,3,129
+7/12/20,Venezuela,9465,89,2671,6705,287,4,0
+7/12/20,Vietnam,372,0,350,22,2,0,0
+7/12/20,West Bank and Gaza,6230,36,942,5252,299,3,406
+7/12/20,Western Sahara,10,1,8,1,0,0,0
+7/12/20,Yemen,1465,417,659,389,76,52,17
+7/12/20,Zambia,1895,42,1412,441,0,0,64
+7/12/20,Zimbabwe,985,18,328,639,3,0,8
+7/13/20,Afghanistan,34455,1012,21254,12189,4,2,38
+7/13/20,Albania,3571,95,2014,1462,117,2,68
+7/13/20,Algeria,19689,1018,14019,4652,494,7,276
+7/13/20,Andorra,858,52,803,3,3,0,0
+7/13/20,Angola,525,26,118,381,19,0,0
+7/13/20,Antigua and Barbuda,74,3,57,14,0,0,0
+7/13/20,Argentina,103265,1903,44173,57189,3099,58,1479
+7/13/20,Armenia,32151,573,19865,11713,182,8,232
+7/13/20,Australia,10251,108,7835,2308,271,0,66
+7/13/20,Austria,18948,708,17000,1240,51,0,48
+7/13/20,Azerbaijan,24570,313,15640,8617,529,7,547
+7/13/20,Bahamas,113,11,91,11,2,0,2
+7/13/20,Bahrain,33476,109,29099,4268,535,1,674
+7/13/20,Bangladesh,186894,2391,98317,86186,3099,39,4703
+7/13/20,Barbados,103,7,90,6,0,0,0
+7/13/20,Belarus,65114,468,55492,9154,182,4,112
+7/13/20,Belgium,62707,9782,17196,35729,0,0,0
+7/13/20,Belize,37,2,20,15,0,0,0
+7/13/20,Benin,1378,26,557,795,0,0,0
+7/13/20,Bhutan,84,0,76,8,0,0,0
+7/13/20,Bolivia,49250,1866,15294,32090,1063,59,451
+7/13/20,Bosnia and Herzegovina,6981,226,3179,3576,104,5,64
+7/13/20,Botswana,399,1,38,360,0,0,0
+7/13/20,Brazil,1884967,72833,1291251,520883,20286,733,26408
+7/13/20,Brunei,141,3,138,0,0,0,0
+7/13/20,Bulgaria,7411,276,3517,3618,159,8,198
+7/13/20,Burkina Faso,1036,53,869,114,0,0,0
+7/13/20,Burma,336,6,261,69,5,0,0
+7/13/20,Burundi,269,1,207,61,78,0,89
+7/13/20,Cabo Verde,1698,19,748,931,75,0,0
+7/13/20,Cambodia,165,0,133,32,9,0,0
+7/13/20,Cameroon,15173,359,11928,2886,0,0,0
+7/13/20,Canada,109984,8836,73381,27767,636,7,427
+7/13/20,Central African Republic,4321,53,1208,3060,33,0,63
+7/13/20,Chad,880,75,792,13,0,0,2
+7/13/20,Chile,317657,7024,286556,24077,2616,45,2654
+7/13/20,China,85117,4641,79907,569,0,0,0
+7/13/20,Colombia,150445,5634,63451,81360,5083,208,2265
+7/13/20,Comoros,317,7,296,14,0,0,0
+7/13/20,Congo (Brazzaville),2028,47,589,1392,0,0,0
+7/13/20,Congo (Kinshasa),8075,190,3620,4265,42,1,5
+7/13/20,Costa Rica,8036,34,2304,5698,440,4,65
+7/13/20,Cote d'Ivoire,12872,84,6810,5978,106,0,156
+7/13/20,Croatia,3775,119,2514,1142,53,0,28
+7/13/20,Cuba,2428,87,2268,73,2,0,10
+7/13/20,Cyprus,1022,19,839,164,1,0,0
+7/13/20,Czechia,13238,353,8373,4512,64,1,126
+7/13/20,Denmark,13238,610,12331,297,91,1,53
+7/13/20,Diamond Princess,712,13,651,48,0,0,0
+7/13/20,Djibouti,4977,56,4729,192,5,0,17
+7/13/20,Dominica,18,0,18,0,0,0,0
+7/13/20,Dominican Republic,45506,903,22441,22162,974,6,982
+7/13/20,Ecuador,68459,5063,30369,33027,589,16,86
+7/13/20,Egypt,83001,3935,24975,54091,931,77,556
+7/13/20,El Salvador,9978,267,5732,3979,304,7,98
+7/13/20,Equatorial Guinea,3071,51,842,2178,0,0,0
+7/13/20,Eritrea,232,0,107,125,0,0,0
+7/13/20,Estonia,2014,69,1895,50,0,0,0
+7/13/20,Eswatini,1389,20,688,681,38,0,20
+7/13/20,Ethiopia,7766,128,2430,5208,206,1,0
+7/13/20,Fiji,26,0,18,8,0,0,0
+7/13/20,Finland,7295,329,6800,166,1,0,0
+7/13/20,France,209640,30032,78722,100886,1625,25,209
+7/13/20,Gabon,6026,46,3475,2505,84,0,471
+7/13/20,Gambia,64,3,34,27,0,0,0
+7/13/20,Georgia,995,15,857,123,9,0,0
+7/13/20,Germany,200180,9074,185100,6006,261,3,686
+7/13/20,Ghana,24988,139,21067,3782,470,0,880
+7/13/20,Greece,3826,193,1374,2259,23,0,0
+7/13/20,Grenada,23,0,23,0,0,0,0
+7/13/20,Guatemala,29742,1244,4321,24177,387,25,107
+7/13/20,Guinea,6141,37,4862,1242,0,0,0
+7/13/20,Guinea-Bissau,1842,26,773,1043,0,0,0
+7/13/20,Guyana,300,17,155,128,3,0,1
+7/13/20,Haiti,6727,141,3022,3564,0,2,98
+7/13/20,Holy See,12,0,12,0,0,0,0
+7/13/20,Honduras,28579,789,3123,24667,489,15,166
+7/13/20,Hungary,4247,595,3073,579,13,0,37
+7/13/20,Iceland,1900,10,1871,19,4,0,6
+7/13/20,India,906752,23727,571460,311565,28498,553,17989
+7/13/20,Indonesia,76981,3656,36689,36636,1282,50,1051
+7/13/20,Iran,259652,13032,222539,24081,2349,203,2546
+7/13/20,Iraq,79735,3250,46998,29487,2229,100,2274
+7/13/20,Ireland,25638,1746,23364,528,10,0,0
+7/13/20,Israel,40632,365,19395,20872,1962,3,387
+7/13/20,Italy,243230,34967,195106,13157,169,13,178
+7/13/20,Jamaica,759,10,628,121,1,0,8
+7/13/20,Japan,22125,984,18058,3083,284,1,213
+7/13/20,Jordan,1183,10,1008,165,4,0,11
+7/13/20,Kazakhstan,61755,375,35911,25469,3502,0,2097
+7/13/20,Kenya,10294,197,2946,7151,189,12,65
+7/13/20,"Korea, South",13512,289,12282,941,33,0,78
+7/13/20,Kosovo,5118,108,2370,2640,187,6,103
+7/13/20,Kuwait,55508,393,45356,9759,614,3,746
+7/13/20,Kyrgyzstan,11444,149,3538,7757,327,2,78
+7/13/20,Laos,19,0,19,0,0,0,0
+7/13/20,Latvia,1174,31,1019,124,1,1,0
+7/13/20,Lebanon,2419,36,1423,960,85,0,3
+7/13/20,Lesotho,245,3,33,209,12,1,1
+7/13/20,Liberia,1024,51,439,534,14,0,16
+7/13/20,Libya,1512,40,367,1105,79,1,26
+7/13/20,Liechtenstein,84,1,81,2,0,0,0
+7/13/20,Lithuania,1874,79,1571,224,5,0,0
+7/13/20,Luxembourg,4956,111,4183,662,31,0,97
+7/13/20,MS Zaandam,9,2,0,7,0,0,0
+7/13/20,Madagascar,5080,37,2494,2549,213,2,116
+7/13/20,Malawi,2430,39,747,1644,66,1,190
+7/13/20,Malaysia,8725,122,8520,83,7,0,1
+7/13/20,Maldives,2762,13,2290,459,31,0,6
+7/13/20,Mali,2412,121,1730,561,1,0,36
+7/13/20,Malta,674,9,660,5,0,0,0
+7/13/20,Mauritania,5446,147,2501,2798,91,0,138
+7/13/20,Mauritius,342,10,330,2,0,0,0
+7/13/20,Mexico,304435,35491,240101,28843,4685,485,5196
+7/13/20,Moldova,19439,649,12793,5997,57,7,126
+7/13/20,Monaco,109,4,97,8,0,0,0
+7/13/20,Mongolia,243,0,204,39,13,0,1
+7/13/20,Montenegro,1287,24,330,933,66,1,5
+7/13/20,Morocco,15936,255,12934,2747,191,5,651
+7/13/20,Mozambique,1219,9,369,841,62,0,5
+7/13/20,Namibia,861,1,28,832,76,0,2
+7/13/20,Nepal,16945,38,10294,6613,144,0,1705
+7/13/20,Netherlands,51308,6156,193,44959,71,0,0
+7/13/20,New Zealand,1545,22,1498,25,1,0,1
+7/13/20,Nicaragua,2846,91,1993,762,0,0,0
+7/13/20,Niger,1099,68,992,39,0,0,0
+7/13/20,Nigeria,33153,744,13671,18738,595,4,224
+7/13/20,North Macedonia,8197,385,4326,3486,86,3,123
+7/13/20,Norway,8984,253,8138,593,3,1,0
+7/13/20,Oman,58179,259,37257,20663,2164,2,1159
+7/13/20,Pakistan,253604,5320,170656,77628,1979,54,8739
+7/13/20,Panama,47173,932,23919,22322,1540,23,880
+7/13/20,Papua New Guinea,11,0,8,3,0,0,0
+7/13/20,Paraguay,2980,25,1293,1662,32,3,18
+7/13/20,Peru,330123,12054,221008,97061,3797,184,3897
+7/13/20,Philippines,57006,1599,20371,35036,747,65,4325
+7/13/20,Poland,38190,1576,27515,9099,299,5,367
+7/13/20,Portugal,46818,1662,31065,14091,306,2,158
+7/13/20,Qatar,104016,149,100627,3240,418,2,884
+7/13/20,Romania,32948,1901,21692,9355,413,17,147
+7/13/20,Russia,732547,11422,503168,217957,6511,104,2960
+7/13/20,Rwanda,1378,4,710,664,41,0,26
+7/13/20,Saint Kitts and Nevis,17,0,15,2,0,0,0
+7/13/20,Saint Lucia,22,0,19,3,0,0,0
+7/13/20,Saint Vincent and the Grenadines,35,0,29,6,0,0,0
+7/13/20,San Marino,699,42,656,1,0,0,0
+7/13/20,Sao Tome and Principe,732,14,286,432,3,0,0
+7/13/20,Saudi Arabia,235111,2243,169842,63026,2852,20,2704
+7/13/20,Senegal,8198,150,5514,2534,63,2,68
+7/13/20,Serbia,18639,405,13940,4294,279,12,64
+7/13/20,Seychelles,100,0,11,89,0,0,0
+7/13/20,Sierra Leone,1642,63,1175,404,7,0,21
+7/13/20,Singapore,46283,26,42541,3716,322,0,256
+7/13/20,Slovakia,1902,28,1493,381,1,0,0
+7/13/20,Slovenia,1849,111,1473,265,8,0,4
+7/13/20,Somalia,3072,93,1343,1636,13,0,79
+7/13/20,South Africa,287796,4172,138241,145383,11554,93,3367
+7/13/20,South Sudan,2148,41,333,1774,127,3,0
+7/13/20,Spain,255953,28406,150376,77171,2045,3,0
+7/13/20,Sri Lanka,2646,11,1981,654,29,0,0
+7/13/20,Sudan,10316,657,5403,4256,66,7,62
+7/13/20,Suriname,780,18,526,236,39,0,31
+7/13/20,Sweden,75826,5536,0,70290,928,10,0
+7/13/20,Switzerland,32946,1968,29600,1378,63,0,0
+7/13/20,Syria,417,19,136,262,23,3,10
+7/13/20,Taiwan*,451,7,438,6,0,0,0
+7/13/20,Tajikistan,6596,55,5278,1263,44,0,50
+7/13/20,Tanzania,509,21,183,305,0,0,0
+7/13/20,Thailand,3220,58,3090,72,3,0,2
+7/13/20,Timor-Leste,24,0,24,0,0,0,0
+7/13/20,Togo,721,15,517,189,1,0,4
+7/13/20,Trinidad and Tobago,133,8,124,1,0,0,4
+7/13/20,Tunisia,1302,50,1082,170,39,0,6
+7/13/20,Turkey,214001,5382,195671,12948,1008,19,1156
+7/13/20,US,3363056,135605,1031939,2195512,58114,400,25613
+7/13/20,Uganda,1029,0,977,52,4,0,5
+7/13/20,Ukraine,55285,1415,27356,26514,638,15,385
+7/13/20,United Arab Emirates,55198,334,45513,9351,344,1,373
+7/13/20,United Kingdom,291691,44915,1384,245392,537,11,6
+7/13/20,Uruguay,989,31,903,55,2,0,7
+7/13/20,Uzbekistan,13591,64,8030,5497,594,4,178
+7/13/20,Venezuela,9707,93,2671,6943,242,4,0
+7/13/20,Vietnam,373,0,352,21,1,0,2
+7/13/20,West Bank and Gaza,6566,39,1084,5443,336,3,142
+7/13/20,Western Sahara,10,1,8,1,0,0,0
+7/13/20,Yemen,1498,424,675,399,33,7,16
+7/13/20,Zambia,1895,42,1412,441,0,0,0
+7/13/20,Zimbabwe,1034,19,343,672,49,1,15
+7/2/20,Afghanistan,32022,807,16041,15174,0,-205,-5213
+7/2/20,Albania,2662,69,1559,1034,0,-26,-455
+7/2/20,Algeria,14657,928,10342,3387,0,-90,-3677
+7/2/20,Andorra,855,52,800,3,0,0,-3
+7/2/20,Angola,315,17,97,201,0,-9,-21
+7/2/20,Antigua and Barbuda,69,3,23,43,0,0,-34
+7/2/20,Argentina,69941,1385,24186,44370,0,-518,-19987
+7/2/20,Armenia,26658,459,15036,11163,0,-114,-4829
+7/2/20,Australia,8066,104,7130,832,0,-4,-705
+7/2/20,Austria,17941,705,16514,722,0,-3,-486
+7/2/20,Azerbaijan,18684,228,10425,8031,0,-85,-5215
+7/2/20,Bahamas,104,11,89,4,0,0,-2
+7/2/20,Bahrain,27837,94,22583,5160,0,-15,-6516
+7/2/20,Bangladesh,153277,1926,66442,84909,0,-465,-31875
 7/2/20,Barbados,97,7,90,0,0,0,0
-7/2/20,Belarus,62698,405,48738,13555,274,7,1185
-7/2/20,Belgium,61598,9761,17044,34793,89,7,23
-7/2/20,Belize,28,2,18,8,0,0,0
-7/2/20,Benin,1199,21,333,845,0,0,0
-7/2/20,Bhutan,77,0,50,27,0,0,0
-7/2/20,Bolivia,35528,1271,10358,23899,1301,70,594
-7/2/20,Bosnia and Herzegovina,4788,189,2515,2084,182,1,83
-7/2/20,Botswana,227,1,28,198,0,0,0
-7/2/20,Brazil,1496858,61884,957692,477282,48105,1252,140050
+7/2/20,Belarus,62698,405,48738,13555,0,-63,-6754
+7/2/20,Belgium,61598,9761,17044,34793,0,-21,-152
+7/2/20,Belize,28,2,18,8,0,0,-2
+7/2/20,Benin,1199,21,333,845,0,-5,-224
+7/2/20,Bhutan,77,0,50,27,0,0,-26
+7/2/20,Bolivia,35528,1271,10358,23899,0,-595,-4936
+7/2/20,Bosnia and Herzegovina,4788,189,2515,2084,0,-37,-664
+7/2/20,Botswana,227,1,28,198,0,0,-10
+7/2/20,Brazil,1496858,61884,957692,477282,0,-10949,-333559
 7/2/20,Brunei,141,3,138,0,0,0,0
-7/2/20,Bulgaria,5315,232,2802,2281,161,0,80
-7/2/20,Burkina Faso,967,53,846,68,5,0,8
-7/2/20,Burma,304,6,223,75,1,0,1
-7/2/20,Burundi,170,1,115,54,0,0,0
-7/2/20,Cabo Verde,1301,15,629,657,34,0,0
-7/2/20,Cambodia,141,0,131,10,0,0,0
-7/2/20,Cameroon,12592,313,10100,2179,0,0,0
-7/2/20,Canada,106643,8700,69872,28071,355,22,475
-7/2/20,Central African Republic,3788,47,810,2931,43,0,23
-7/2/20,Chad,868,74,785,9,2,0,0
-7/2/20,Chile,284541,5920,249247,29374,2498,167,3804
-7/2/20,China,84830,4641,79665,524,14,0,15
-7/2/20,Colombia,102261,3650,43481,55130,4171,162,1338
-7/2/20,Comoros,303,7,200,96,0,0,0
-7/2/20,Congo (Brazzaville),1382,41,486,855,0,0,0
-7/2/20,Congo (Kinshasa),7189,176,2317,4696,67,1,532
-7/2/20,Costa Rica,4023,18,1589,2416,270,1,73
-7/2/20,Cote d'Ivoire,9992,68,4660,5264,290,0,279
-7/2/20,Croatia,2912,110,2155,647,81,2,0
-7/2/20,Cuba,2353,86,2221,46,5,0,3
-7/2/20,Cyprus,999,19,833,147,0,0,0
-7/2/20,Czechia,12178,353,7822,4003,132,4,25
-7/2/20,Denmark,13015,606,11969,440,21,0,76
+7/2/20,Bulgaria,5315,232,2802,2281,0,-44,-715
+7/2/20,Burkina Faso,967,53,846,68,0,0,-23
+7/2/20,Burma,304,6,223,75,0,0,-38
+7/2/20,Burundi,170,1,115,54,0,0,-92
+7/2/20,Cabo Verde,1301,15,629,657,0,-4,-119
+7/2/20,Cambodia,141,0,131,10,0,0,-2
+7/2/20,Cameroon,12592,313,10100,2179,0,-46,-1828
+7/2/20,Canada,106643,8700,69872,28071,0,-136,-3509
+7/2/20,Central African Republic,3788,47,810,2931,0,-6,-398
+7/2/20,Chad,868,74,785,9,0,-1,-7
+7/2/20,Chile,284541,5920,249247,29374,0,-1104,-37309
+7/2/20,China,84830,4641,79665,524,0,0,-242
+7/2/20,Colombia,102261,3650,43481,55130,0,-1984,-19970
+7/2/20,Comoros,303,7,200,96,0,0,-96
+7/2/20,Congo (Brazzaville),1382,41,486,855,0,-6,-103
+7/2/20,Congo (Kinshasa),7189,176,2317,4696,0,-14,-1303
+7/2/20,Costa Rica,4023,18,1589,2416,0,-16,-715
+7/2/20,Cote d'Ivoire,9992,68,4660,5264,0,-16,-2150
+7/2/20,Croatia,2912,110,2155,647,0,-9,-359
+7/2/20,Cuba,2353,86,2221,46,0,-1,-47
+7/2/20,Cyprus,999,19,833,147,0,0,-6
+7/2/20,Czechia,12178,353,7822,4003,0,0,-551
+7/2/20,Denmark,13015,606,11969,440,0,-4,-362
 7/2/20,Diamond Princess,712,13,651,48,0,0,0
-7/2/20,Djibouti,4715,55,4564,96,11,0,14
+7/2/20,Djibouti,4715,55,4564,96,0,-1,-165
 7/2/20,Dominica,18,0,18,0,0,0,0
-7/2/20,Dominican Republic,34197,765,18141,15291,810,11,237
-7/2/20,Ecuador,59468,4639,28032,26797,1211,63,145
-7/2/20,Egypt,71299,3120,19288,48891,1485,86,407
-7/2/20,El Salvador,7000,191,4115,2694,264,9,151
-7/2/20,Equatorial Guinea,3071,51,842,2178,1070,19,327
-7/2/20,Eritrea,215,0,56,159,12,0,0
-7/2/20,Estonia,1990,69,1842,79,1,0,6
-7/2/20,Eswatini,873,11,452,410,33,0,34
-7/2/20,Ethiopia,5846,103,2430,3313,0,0,0
+7/2/20,Dominican Republic,34197,765,18141,15291,0,-138,-4300
+7/2/20,Ecuador,59468,4639,28032,26797,0,-424,-2337
+7/2/20,Egypt,71299,3120,19288,48891,0,-815,-5687
+7/2/20,El Salvador,7000,191,4115,2694,0,-76,-1617
+7/2/20,Equatorial Guinea,3071,51,842,2178,0,0,0
+7/2/20,Eritrea,215,0,56,159,0,0,-51
+7/2/20,Estonia,1990,69,1842,79,0,0,-53
+7/2/20,Eswatini,873,11,452,410,0,-9,-236
+7/2/20,Ethiopia,5846,103,2430,3313,0,-25,0
 7/2/20,Fiji,18,0,18,0,0,0,0
-7/2/20,Finland,7241,328,6700,213,5,0,0
-7/2/20,France,203640,29878,76927,96835,659,14,253
-7/2/20,Gabon,5513,42,2508,2963,0,0,0
-7/2/20,Gambia,55,2,27,26,6,0,0
-7/2/20,Georgia,939,15,817,107,8,0,23
-7/2/20,Germany,196370,9006,179800,7564,477,11,700
-7/2/20,Ghana,18134,117,13550,4467,0,0,0
-7/2/20,Greece,3458,192,1374,1892,26,0,0
+7/2/20,Finland,7241,328,6700,213,0,-1,-100
+7/2/20,France,203640,29878,76927,96835,0,-154,-1795
+7/2/20,Gabon,5513,42,2508,2963,0,-4,-967
+7/2/20,Gambia,55,2,27,26,0,-1,-7
+7/2/20,Georgia,939,15,817,107,0,0,-40
+7/2/20,Germany,196370,9006,179800,7564,0,-68,-5300
+7/2/20,Ghana,18134,117,13550,4467,0,-22,-7517
+7/2/20,Greece,3458,192,1374,1892,0,-1,0
 7/2/20,Grenada,23,0,23,0,0,0,0
-7/2/20,Guatemala,20072,843,3279,15950,1061,26,48
-7/2/20,Guinea,5450,33,4392,1025,46,0,46
-7/2/20,Guinea-Bissau,1654,24,317,1313,0,0,0
-7/2/20,Guyana,250,14,117,119,2,1,1
-7/2/20,Haiti,6101,110,1141,4850,61,3,109
+7/2/20,Guatemala,20072,843,3279,15950,0,-401,-1042
+7/2/20,Guinea,5450,33,4392,1025,0,-4,-470
+7/2/20,Guinea-Bissau,1654,24,317,1313,0,-2,-456
+7/2/20,Guyana,250,14,117,119,0,-3,-38
+7/2/20,Haiti,6101,110,1141,4850,0,-31,-1881
 7/2/20,Holy See,12,0,12,0,0,0,0
-7/2/20,Honduras,21120,591,2190,18339,858,49,67
-7/2/20,Hungary,4166,587,2721,858,9,1,7
-7/2/20,Iceland,1850,10,1828,12,3,0,5
-7/2/20,India,625544,18213,379892,227439,20903,379,20032
-7/2/20,Indonesia,59394,2987,26667,29740,1624,53,1072
-7/2/20,Iran,232863,11106,194098,27659,2652,148,2611
-7/2/20,Iraq,53708,2160,27912,23636,2184,110,1645
-7/2/20,Ireland,25489,1738,23364,387,12,0,0
-7/2/20,Israel,27047,324,17547,9176,790,2,95
-7/2/20,Italy,240961,34818,191083,15060,201,30,366
-7/2/20,Jamaica,715,10,560,145,8,0,5
-7/2/20,Japan,19055,977,16615,1463,217,1,52
-7/2/20,Jordan,1136,9,889,238,3,0,3
-7/2/20,Kazakhstan,42574,188,14777,27609,1509,0,718
-7/2/20,Kenya,6941,152,2109,4680,268,3,20
-7/2/20,"Korea, South",12967,282,11759,926,63,0,75
-7/2/20,Kosovo,3064,55,1707,1302,73,1,63
-7/2/20,Kuwait,47859,359,38390,9110,919,1,675
-7/2/20,Kyrgyzstan,6767,76,2655,4036,506,10,125
+7/2/20,Honduras,21120,591,2190,18339,0,-198,-933
+7/2/20,Hungary,4166,587,2721,858,0,-8,-352
+7/2/20,Iceland,1850,10,1828,12,0,0,-43
+7/2/20,India,625544,18213,379892,227439,0,-5514,-191568
+7/2/20,Indonesia,59394,2987,26667,29740,0,-669,-10022
+7/2/20,Iran,232863,11106,194098,27659,0,-1926,-28441
+7/2/20,Iraq,53708,2160,27912,23636,0,-1090,-19086
+7/2/20,Ireland,25489,1738,23364,387,0,-8,0
+7/2/20,Israel,27047,324,17547,9176,0,-41,-1848
+7/2/20,Italy,240961,34818,191083,15060,0,-149,-4023
+7/2/20,Jamaica,715,10,560,145,0,0,-68
+7/2/20,Japan,19055,977,16615,1463,0,-7,-1443
+7/2/20,Jordan,1136,9,889,238,0,-1,-119
+7/2/20,Kazakhstan,42574,188,14777,27609,0,-187,-21134
+7/2/20,Kenya,6941,152,2109,4680,0,-45,-837
+7/2/20,"Korea, South",12967,282,11759,926,0,-7,-523
+7/2/20,Kosovo,3064,55,1707,1302,0,-53,-663
+7/2/20,Kuwait,47859,359,38390,9110,0,-34,-6966
+7/2/20,Kyrgyzstan,6767,76,2655,4036,0,-73,-883
 7/2/20,Laos,19,0,19,0,0,0,0
-7/2/20,Latvia,1122,30,988,104,1,0,14
-7/2/20,Lebanon,1796,35,1242,519,8,1,19
-7/2/20,Lesotho,35,0,11,24,0,0,0
-7/2/20,Liberia,819,37,338,444,15,0,3
-7/2/20,Libya,891,26,224,641,17,1,1
-7/2/20,Liechtenstein,83,1,81,1,1,0,0
-7/2/20,Lithuania,1825,78,1536,211,7,0,12
-7/2/20,Luxembourg,4395,110,4012,273,50,0,9
+7/2/20,Latvia,1122,30,988,104,0,-1,-31
+7/2/20,Lebanon,1796,35,1242,519,0,-1,-181
+7/2/20,Lesotho,35,0,11,24,0,-3,-22
+7/2/20,Liberia,819,37,338,444,0,-14,-101
+7/2/20,Libya,891,26,224,641,0,-14,-143
+7/2/20,Liechtenstein,83,1,81,1,0,0,0
+7/2/20,Lithuania,1825,78,1536,211,0,-1,-35
+7/2/20,Luxembourg,4395,110,4012,273,0,-1,-171
 7/2/20,MS Zaandam,9,2,0,7,0,0,0
-7/2/20,Madagascar,2403,24,1040,1339,100,2,34
-7/2/20,Malawi,1342,16,271,1055,77,0,11
-7/2/20,Malaysia,8643,121,8437,85,3,0,62
-7/2/20,Maldives,2400,10,1969,421,18,1,15
-7/2/20,Mali,2260,117,1502,641,58,1,19
-7/2/20,Malta,671,9,649,13,0,0,2
-7/2/20,Mauritania,4606,129,1727,2750,134,0,50
-7/2/20,Mauritius,341,10,330,1,0,0,4
-7/2/20,Mexico,238511,29189,183757,25565,6741,679,5231
-7/2/20,Moldova,17150,560,9846,6744,252,11,252
-7/2/20,Monaco,106,4,95,7,3,0,0
-7/2/20,Mongolia,220,0,179,41,0,0,2
-7/2/20,Montenegro,616,12,315,289,40,0,0
-7/2/20,Morocco,12969,229,9090,3650,333,1,64
-7/2/20,Mozambique,918,6,249,663,15,0,1
-7/2/20,Namibia,293,0,24,269,8,0,0
-7/2/20,Nepal,14519,31,5320,9168,473,1,664
-7/2/20,Netherlands,50546,6132,186,44228,63,0,0
-7/2/20,New Zealand,1530,22,1490,18,0,0,0
-7/2/20,Nicaragua,2519,83,1238,1198,0,0,0
-7/2/20,Niger,1081,68,959,54,6,1,16
-7/2/20,Nigeria,27110,616,10801,15693,626,13,649
-7/2/20,North Macedonia,6625,321,2748,3556,171,15,150
-7/2/20,Norway,8902,251,8138,513,6,0,0
-7/2/20,Oman,42555,188,25318,17049,1361,3,1156
-7/2/20,Pakistan,221896,4551,113623,103722,4087,78,8929
-7/2/20,Panama,35237,667,16445,18125,774,22,500
+7/2/20,Madagascar,2403,24,1040,1339,0,-13,-1454
+7/2/20,Malawi,1342,16,271,1055,0,-23,-476
+7/2/20,Malaysia,8643,121,8437,85,0,-1,-83
+7/2/20,Maldives,2400,10,1969,421,0,-3,-321
+7/2/20,Mali,2260,117,1502,641,0,-4,-228
+7/2/20,Malta,671,9,649,13,0,0,-11
+7/2/20,Mauritania,4606,129,1727,2750,0,-18,-774
+7/2/20,Mauritius,341,10,330,1,0,0,0
+7/2/20,Mexico,238511,29189,183757,25565,0,-6302,-56344
+7/2/20,Moldova,17150,560,9846,6744,0,-89,-2947
+7/2/20,Monaco,106,4,95,7,0,0,-2
+7/2/20,Mongolia,220,0,179,41,0,0,-25
+7/2/20,Montenegro,616,12,315,289,0,-12,-15
+7/2/20,Morocco,12969,229,9090,3650,0,-26,-3844
+7/2/20,Mozambique,918,6,249,663,0,-3,-120
+7/2/20,Namibia,293,0,24,269,0,-1,-4
+7/2/20,Nepal,14519,31,5320,9168,0,-7,-4974
+7/2/20,Netherlands,50546,6132,186,44228,0,-24,-7
+7/2/20,New Zealand,1530,22,1490,18,0,0,-8
+7/2/20,Nicaragua,2519,83,1238,1198,0,-8,-755
+7/2/20,Niger,1081,68,959,54,0,0,-33
+7/2/20,Nigeria,27110,616,10801,15693,0,-128,-2870
+7/2/20,North Macedonia,6625,321,2748,3556,0,-64,-1578
+7/2/20,Norway,8902,251,8138,513,0,-2,0
+7/2/20,Oman,42555,188,25318,17049,0,-71,-11939
+7/2/20,Pakistan,221896,4551,113623,103722,0,-769,-57033
+7/2/20,Panama,35237,667,16445,18125,0,-265,-7474
 7/2/20,Papua New Guinea,11,0,8,3,0,0,0
-7/2/20,Paraguay,2303,19,1108,1176,43,0,6
-7/2/20,Peru,292004,10045,182097,99862,3527,185,3852
-7/2/20,Philippines,38805,1274,10673,26858,294,4,235
-7/2/20,Poland,35146,1492,22209,11445,371,15,418
-7/2/20,Portugal,42782,1587,28097,13098,328,8,299
-7/2/20,Qatar,97897,118,86597,11182,894,3,2632
-7/2/20,Romania,27746,1687,19363,6696,450,20,49
-7/2/20,Russia,660231,9668,428276,222287,6752,147,6041
-7/2/20,Rwanda,1063,3,493,567,21,0,13
+7/2/20,Paraguay,2303,19,1108,1176,0,-6,-185
+7/2/20,Peru,292004,10045,182097,99862,0,-2009,-38911
+7/2/20,Philippines,38805,1274,10673,26858,0,-325,-9698
+7/2/20,Poland,35146,1492,22209,11445,0,-84,-5306
+7/2/20,Portugal,42782,1587,28097,13098,0,-75,-2968
+7/2/20,Qatar,97897,118,86597,11182,0,-31,-14030
+7/2/20,Romania,27746,1687,19363,6696,0,-214,-2329
+7/2/20,Russia,660231,9668,428276,222287,0,-1754,-74892
+7/2/20,Rwanda,1063,3,493,567,0,-1,-217
 7/2/20,Saint Kitts and Nevis,15,0,15,0,0,0,0
 7/2/20,Saint Lucia,19,0,19,0,0,0,0
 7/2/20,Saint Vincent and the Grenadines,29,0,29,0,0,0,0
 7/2/20,San Marino,698,42,656,0,0,0,0
-7/2/20,Sao Tome and Principe,717,13,260,444,2,0,8
-7/2/20,Saudi Arabia,197608,1752,137669,58187,3383,54,4909
-7/2/20,Senegal,7054,121,4599,2334,129,5,54
-7/2/20,Serbia,15195,287,12912,1996,359,6,140
+7/2/20,Sao Tome and Principe,717,13,260,444,0,-1,-26
+7/2/20,Saudi Arabia,197608,1752,137669,58187,0,-491,-32173
+7/2/20,Senegal,7054,121,4599,2334,0,-29,-915
+7/2/20,Serbia,15195,287,12912,1996,0,-118,-1028
 7/2/20,Seychelles,81,0,11,70,0,0,0
-7/2/20,Sierra Leone,1518,60,1007,451,20,0,8
-7/2/20,Singapore,44310,26,39429,4855,188,0,418
-7/2/20,Slovakia,1700,28,1466,206,13,0,0
-7/2/20,Slovenia,1634,111,1384,139,21,0,0
-7/2/20,Somalia,2944,90,951,1903,20,0,19
-7/2/20,South Africa,168061,2844,81999,83218,8728,95,5974
-7/2/20,South Sudan,2021,38,333,1650,0,0,0
-7/2/20,Spain,250103,28368,150376,71359,444,4,0
-7/2/20,Sri Lanka,2066,11,1827,228,12,0,79
-7/2/20,Sudan,9573,602,4606,4365,0,0,0
-7/2/20,Suriname,547,13,252,282,12,0,10
-7/2/20,Sweden,70639,5411,0,65228,947,41,0
-7/2/20,Switzerland,31967,1965,29200,802,116,0,0
-7/2/20,Syria,312,9,113,190,19,0,3
-7/2/20,Taiwan*,448,7,438,3,1,0,0
-7/2/20,Tajikistan,6058,52,4690,1316,53,0,63
+7/2/20,Sierra Leone,1518,60,1007,451,0,-3,-168
+7/2/20,Singapore,44310,26,39429,4855,0,0,-3112
+7/2/20,Slovakia,1700,28,1466,206,0,0,-27
+7/2/20,Slovenia,1634,111,1384,139,0,0,-89
+7/2/20,Somalia,2944,90,951,1903,0,-3,-392
+7/2/20,South Africa,168061,2844,81999,83218,0,-1328,-56242
+7/2/20,South Sudan,2021,38,333,1650,0,-3,0
+7/2/20,Spain,250103,28368,150376,71359,0,-38,0
+7/2/20,Sri Lanka,2066,11,1827,228,0,0,-154
+7/2/20,Sudan,9573,602,4606,4365,0,-55,-797
+7/2/20,Suriname,547,13,252,282,0,-5,-274
+7/2/20,Sweden,70639,5411,0,65228,0,-125,0
+7/2/20,Switzerland,31967,1965,29200,802,0,-3,-400
+7/2/20,Syria,312,9,113,190,0,-10,-23
+7/2/20,Taiwan*,448,7,438,3,0,0,0
+7/2/20,Tajikistan,6058,52,4690,1316,0,-3,-588
 7/2/20,Tanzania,509,21,183,305,0,0,0
-7/2/20,Thailand,3179,58,3059,62,6,0,0
+7/2/20,Thailand,3179,58,3059,62,0,0,-31
 7/2/20,Timor-Leste,24,0,24,0,0,0,0
-7/2/20,Togo,667,14,424,229,6,0,10
-7/2/20,Trinidad and Tobago,130,8,115,7,0,0,0
-7/2/20,Tunisia,1178,50,1039,89,3,0,1
-7/2/20,Turkey,202284,5167,176965,20152,1186,17,1543
-7/2/20,US,2742049,128803,781970,1831276,54461,698,51976
-7/2/20,Uganda,902,0,847,55,9,0,10
-7/2/20,Ukraine,46821,1200,20755,24866,897,12,511
-7/2/20,United Arab Emirates,49469,317,38664,10488,400,1,504
-7/2/20,United Kingdom,285285,44080,1373,239832,6,89,1
-7/2/20,Uruguay,947,28,828,91,4,0,3
-7/2/20,Uzbekistan,9078,27,6034,3017,297,1,187
-7/2/20,Venezuela,6273,57,2100,4116,211,3,451
-7/2/20,Vietnam,355,0,340,15,0,0,4
-7/2/20,West Bank and Gaza,3080,9,460,2611,322,1,0
+7/2/20,Togo,667,14,424,229,0,-1,-93
+7/2/20,Trinidad and Tobago,130,8,115,7,0,0,-9
+7/2/20,Tunisia,1178,50,1039,89,0,0,-43
+7/2/20,Turkey,202284,5167,176965,20152,0,-215,-18706
+7/2/20,US,2742049,128803,781970,1831276,0,-6802,-249969
+7/2/20,Uganda,902,0,847,55,0,0,-130
+7/2/20,Ukraine,46821,1200,20755,24866,0,-215,-6601
+7/2/20,United Arab Emirates,49469,317,38664,10488,0,-17,-6849
+7/2/20,United Kingdom,285285,44080,1373,239832,0,-835,-11
+7/2/20,Uruguay,947,28,828,91,0,-3,-75
+7/2/20,Uzbekistan,9078,27,6034,3017,0,-37,-1996
+7/2/20,Venezuela,6273,57,2100,4116,0,-36,-571
+7/2/20,Vietnam,355,0,340,15,0,0,-12
+7/2/20,West Bank and Gaza,3080,9,460,2611,0,-30,-624
 7/2/20,Western Sahara,10,1,8,1,0,0,0
-7/2/20,Yemen,1221,325,513,383,31,7,9
-7/2/20,Zambia,1632,30,1348,254,0,0,0
-7/2/20,Zimbabwe,617,7,173,437,12,0,7
+7/2/20,Yemen,1221,325,513,383,0,-99,-162
+7/2/20,Zambia,1632,30,1348,254,0,-12,-64
+7/2/20,Zimbabwe,617,7,173,437,0,-12,-170
 7/3/20,Afghanistan,32324,819,17331,14174,302,12,1290
 7/3/20,Albania,2752,72,1592,1088,90,3,33
 7/3/20,Algeria,15070,937,10832,3301,413,9,490
@@ -30817,7 +31569,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/3/20,Trinidad and Tobago,130,8,115,7,0,0,0
 7/3/20,Tunisia,1181,50,1045,86,3,0,6
 7/3/20,Turkey,203456,5186,178278,19992,1172,19,1313
-7/3/20,US,2794153,129434,790404,1874315,52104,631,8434
+7/3/20,US,2795361,129442,790404,1875515,53312,639,8434
 7/3/20,Uganda,911,0,849,62,9,0,2
 7/3/20,Ukraine,47705,1227,21296,25182,884,27,541
 7/3/20,United Arab Emirates,50141,318,39153,10670,672,1,489
@@ -31005,7 +31757,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/4/20,Trinidad and Tobago,130,8,115,7,0,0,0
 7/4/20,Tunisia,1186,50,1046,90,5,0,1
 7/4/20,Turkey,204610,5206,179492,19912,1154,20,1214
-7/4/20,US,2839436,129676,894325,1815435,45283,242,103921
+7/4/20,US,2841241,129689,894325,1817227,45880,247,103921
 7/4/20,Uganda,927,0,868,59,16,0,19
 7/4/20,Ukraine,48628,1243,21907,25478,923,16,611
 7/4/20,United Arab Emirates,50857,321,39857,10679,716,3,704
@@ -31193,7 +31945,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/5/20,Trinidad and Tobago,133,8,115,10,3,0,0
 7/5/20,Tunisia,1188,50,1048,90,2,0,2
 7/5/20,Turkey,205758,5225,180680,19853,1148,19,1188
-7/5/20,US,2888635,129947,906763,1851925,49199,271,12438
+7/5/20,US,2891124,129960,906763,1854401,49883,271,12438
 7/5/20,Uganda,939,0,891,48,12,0,23
 7/5/20,Ukraine,49468,1265,22131,26072,840,22,224
 7/5/20,United Arab Emirates,51540,323,40297,10920,683,2,440
@@ -31207,3 +31959,755 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/5/20,Yemen,1265,338,552,375,17,1,15
 7/5/20,Zambia,1632,30,1348,254,0,0,0
 7/5/20,Zimbabwe,716,8,181,527,18,0,0
+7/6/20,Afghanistan,33190,898,20103,12189,239,34,737
+7/6/20,Albania,2964,79,1702,1183,71,3,45
+7/6/20,Algeria,16404,959,11884,3561,463,7,392
+7/6/20,Andorra,855,52,800,3,0,0,0
+7/6/20,Angola,346,19,108,219,0,0,0
+7/6/20,Antigua and Barbuda,70,3,23,44,2,0,0
+7/6/20,Argentina,80447,1582,28531,50334,2632,75,934
+7/6/20,Armenia,28936,491,16302,12143,330,7,162
+7/6/20,Australia,8755,106,7455,1194,172,0,35
+7/6/20,Austria,18365,706,16647,1012,85,0,32
+7/6/20,Azerbaijan,20837,258,12182,8397,513,8,440
+7/6/20,Bahamas,104,11,89,4,0,0,0
+7/6/20,Bahrain,29821,98,25178,4545,454,1,529
+7/6/20,Bangladesh,165618,2096,76149,87373,3201,44,3524
+7/6/20,Barbados,98,7,90,1,0,0,0
+7/6/20,Belarus,63804,429,51120,12255,250,6,249
+7/6/20,Belgium,62058,9774,17091,35193,42,3,0
+7/6/20,Belize,30,2,19,9,0,0,0
+7/6/20,Benin,1199,21,333,845,0,0,0
+7/6/20,Bhutan,80,0,53,27,0,0,0
+7/6/20,Bolivia,40509,1476,11929,27104,1212,42,262
+7/6/20,Bosnia and Herzegovina,5458,199,2598,2661,496,8,48
+7/6/20,Botswana,314,1,31,282,37,0,2
+7/6/20,Brazil,1623284,65487,1062542,495255,20229,620,33497
+7/6/20,Brunei,141,3,138,0,0,0,0
+7/6/20,Bulgaria,5914,250,3000,2664,174,4,85
+7/6/20,Burkina Faso,1000,53,858,89,13,0,4
+7/6/20,Burma,316,6,245,65,3,0,4
+7/6/20,Burundi,191,1,118,72,0,0,0
+7/6/20,Cabo Verde,1463,17,722,724,12,0,67
+7/6/20,Cambodia,141,0,131,10,0,0,0
+7/6/20,Cameroon,12592,313,10100,2179,0,0,0
+7/6/20,Canada,107815,8748,71141,27926,421,9,369
+7/6/20,Central African Republic,4033,52,970,3011,64,4,56
+7/6/20,Chad,872,74,787,11,0,0,0
+7/6/20,Chile,298557,6384,264378,27795,3025,76,3339
+7/6/20,China,84889,4641,79725,523,18,0,7
+7/6/20,Colombia,117412,4305,47961,65146,3727,127,1318
+7/6/20,Comoros,311,7,266,38,0,0,0
+7/6/20,Congo (Brazzaville),1557,44,501,1012,0,0,0
+7/6/20,Congo (Kinshasa),7432,182,3226,4024,21,0,42
+7/6/20,Costa Rica,5241,23,1776,3442,245,4,31
+7/6/20,Cote d'Ivoire,10966,75,5384,5507,194,1,317
+7/6/20,Croatia,3220,113,2210,897,69,0,14
+7/6/20,Cuba,2380,86,2234,60,8,0,5
+7/6/20,Cyprus,1004,19,839,146,1,0,0
+7/6/20,Czechia,12566,350,7873,4343,51,2,9
+7/6/20,Denmark,13079,607,12135,337,46,1,118
+7/6/20,Diamond Princess,712,13,651,48,0,0,0
+7/6/20,Djibouti,4822,55,4610,157,30,0,17
+7/6/20,Dominica,18,0,18,0,0,0,0
+7/6/20,Dominican Republic,38128,804,19489,17835,703,10,546
+7/6/20,Ecuador,62380,4821,28872,28687,422,40,150
+7/6/20,Egypt,76222,3422,21238,51562,969,79,512
+7/6/20,El Salvador,8027,223,4730,3074,250,6,157
+7/6/20,Equatorial Guinea,3071,51,842,2178,0,0,0
+7/6/20,Eritrea,215,0,56,159,0,0,0
+7/6/20,Estonia,1994,69,1875,50,1,0,1
+7/6/20,Eswatini,1011,13,564,434,23,0,17
+7/6/20,Ethiopia,5846,103,2430,3313,0,0,0
+7/6/20,Fiji,21,0,18,3,2,0,0
+7/6/20,Finland,7257,329,6700,228,4,0,0
+7/6/20,France,205597,29923,77444,98230,1375,27,259
+7/6/20,Gabon,5743,46,2574,3123,123,2,19
+7/6/20,Gambia,61,3,27,31,4,1,0
+7/6/20,Georgia,953,15,830,108,2,0,2
+7/6/20,Germany,198064,9022,182160,6882,541,-1,441
+7/6/20,Ghana,21077,129,16070,4878,992,7,1200
+7/6/20,Greece,3562,192,1374,1996,43,0,0
+7/6/20,Grenada,23,0,23,0,0,0,0
+7/6/20,Guatemala,23972,981,3429,19562,724,34,47
+7/6/20,Guinea,5610,34,4522,1054,0,0,0
+7/6/20,Guinea-Bissau,1790,25,760,1005,25,0,84
+7/6/20,Guyana,273,15,120,138,0,0,0
+7/6/20,Haiti,6371,113,1824,4434,38,0,275
+7/6/20,Holy See,12,0,12,0,0,0,0
+7/6/20,Honduras,24665,656,2585,21424,722,17,95
+7/6/20,Hungary,4189,589,2860,740,6,0,49
+7/6/20,Iceland,1866,10,1840,16,3,0,7
+7/6/20,India,719664,20159,439934,259571,22251,466,15501
+7/6/20,Indonesia,64958,3241,29919,31798,1209,70,814
+7/6/20,Iran,243051,11731,204083,27237,2613,160,2753
+7/6/20,Iraq,62275,2567,34741,24967,1796,94,1724
+7/6/20,Ireland,25531,1741,23364,426,4,0,0
+7/6/20,Israel,30749,334,18056,12359,791,3,106
+7/6/20,Italy,241819,34869,192241,14709,208,8,133
+7/6/20,Jamaica,737,10,591,136,5,0,7
+7/6/20,Japan,19848,978,17007,1863,180,1,137
+7/6/20,Jordan,1167,10,957,200,3,0,15
+7/6/20,Kazakhstan,49683,264,15860,33559,1109,76,0
+7/6/20,Kenya,8067,164,2414,5489,181,4,127
+7/6/20,"Korea, South",13181,285,11914,982,44,1,66
+7/6/20,Kosovo,3508,75,1902,1531,152,9,28
+7/6/20,Kuwait,50644,373,41001,9270,703,5,538
+7/6/20,Kyrgyzstan,8141,99,2916,5126,764,11,114
+7/6/20,Laos,19,0,19,0,0,0,0
+7/6/20,Latvia,1127,30,1000,97,3,0,0
+7/6/20,Lebanon,1885,36,1311,538,12,0,0
+7/6/20,Lesotho,91,0,11,80,12,0,0
+7/6/20,Liberia,891,39,377,475,17,2,0
+7/6/20,Libya,1117,34,269,814,71,2,8
+7/6/20,Liechtenstein,84,1,81,2,1,0,0
+7/6/20,Lithuania,1841,79,1547,215,5,0,2
+7/6/20,Luxembourg,4542,110,4016,416,20,0,0
+7/6/20,MS Zaandam,9,2,0,7,0,0,0
+7/6/20,Madagascar,3250,33,1135,2082,309,1,27
+7/6/20,Malawi,1742,19,317,1406,129,2,0
+7/6/20,Malaysia,8668,121,8476,71,5,0,11
+7/6/20,Maldives,2491,12,2113,366,23,1,64
+7/6/20,Mali,2331,119,1547,665,1,0,20
+7/6/20,Malta,672,9,652,11,0,0,0
+7/6/20,Mauritania,4948,133,1896,2919,69,3,52
+7/6/20,Mauritius,342,10,330,2,1,0,0
+7/6/20,Mexico,261750,31119,204826,25805,4902,480,4912
+7/6/20,Moldova,17906,592,11047,6267,92,7,329
+7/6/20,Monaco,108,4,95,9,0,0,0
+7/6/20,Mongolia,225,0,194,31,5,0,6
+7/6/20,Montenegro,841,14,315,512,60,0,0
+7/6/20,Morocco,14379,237,10173,3969,164,2,448
+7/6/20,Mozambique,1012,8,277,727,25,0,21
+7/6/20,Namibia,485,0,25,460,73,0,0
+7/6/20,Nepal,15964,35,6811,9118,180,1,264
+7/6/20,Netherlands,50870,6147,187,44536,36,1,0
+7/6/20,New Zealand,1536,22,1492,22,2,0,2
+7/6/20,Nicaragua,2519,83,1238,1198,0,0,0
+7/6/20,Niger,1093,68,968,57,5,0,3
+7/6/20,Nigeria,29286,654,11828,16804,575,9,163
+7/6/20,North Macedonia,7124,346,3199,3579,78,5,172
+7/6/20,Norway,8936,251,8138,547,6,0,0
+7/6/20,Oman,47735,218,29146,18371,1557,5,1229
+7/6/20,Pakistan,234509,4839,134957,94713,2691,77,3308
+7/6/20,Panama,39334,770,18036,20528,1185,23,50
+7/6/20,Papua New Guinea,11,0,8,3,0,0,0
+7/6/20,Paraguay,2456,20,1180,1256,29,0,14
+7/6/20,Peru,305703,10772,197619,97312,2985,183,3662
+7/6/20,Philippines,46333,1303,12185,32845,2079,6,243
+7/6/20,Poland,36155,1521,23966,10668,205,4,220
+7/6/20,Portugal,44129,1620,29166,13343,232,6,149
+7/6/20,Qatar,100345,133,93898,6314,546,5,1614
+7/6/20,Romania,29223,1768,20213,7242,250,18,187
+7/6/20,Russia,686852,10280,453570,223002,6569,135,3575
+7/6/20,Rwanda,1113,3,575,535,8,0,8
+7/6/20,Saint Kitts and Nevis,16,0,15,1,0,0,0
+7/6/20,Saint Lucia,22,0,19,3,0,0,0
+7/6/20,Saint Vincent and the Grenadines,29,0,29,0,0,0,0
+7/6/20,San Marino,698,42,656,0,0,0,0
+7/6/20,Sao Tome and Principe,721,13,269,439,1,0,1
+7/6/20,Saudi Arabia,213716,1968,149634,62114,4207,52,4398
+7/6/20,Senegal,7478,136,4870,2472,78,3,0
+7/6/20,Serbia,16420,317,13366,2737,289,6,99
+7/6/20,Seychelles,81,0,11,70,0,0,0
+7/6/20,Sierra Leone,1547,62,1086,399,5,0,24
+7/6/20,Singapore,44983,26,40717,4240,183,0,276
+7/6/20,Slovakia,1765,28,1466,271,1,0,0
+7/6/20,Slovenia,1716,111,1384,221,16,0,0
+7/6/20,Somalia,3006,92,1051,1863,9,0,37
+7/6/20,South Africa,205721,3310,97848,104563,8971,111,4533
+7/6/20,South Sudan,2021,38,333,1650,0,0,0
+7/6/20,Spain,251789,28388,150376,73025,1244,3,0
+7/6/20,Sri Lanka,2077,11,1917,149,1,0,14
+7/6/20,Sudan,9894,616,4899,4379,127,8,226
+7/6/20,Suriname,614,14,315,285,20,0,23
+7/6/20,Sweden,73061,5433,0,67628,1642,13,0
+7/6/20,Switzerland,32315,1965,29300,1050,47,0,0
+7/6/20,Syria,372,14,126,232,14,1,0
+7/6/20,Taiwan*,449,7,438,4,0,0,0
+7/6/20,Tajikistan,6262,53,4914,1295,49,0,56
+7/6/20,Tanzania,509,21,183,305,0,0,0
+7/6/20,Thailand,3195,58,3072,65,5,0,1
+7/6/20,Timor-Leste,24,0,24,0,0,0,0
+7/6/20,Togo,680,15,450,215,0,0,3
+7/6/20,Trinidad and Tobago,133,8,117,8,0,0,2
+7/6/20,Tunisia,1199,50,1049,100,11,0,1
+7/6/20,Turkey,206844,5241,182995,18608,1086,16,2315
+7/6/20,US,2936077,130285,924148,1881644,44953,325,17385
+7/6/20,Uganda,953,0,892,61,14,0,1
+7/6/20,Ukraine,50053,1278,22462,26313,585,13,331
+7/6/20,United Arab Emirates,52068,324,40721,11023,528,1,424
+7/6/20,United Kingdom,287290,44321,1375,241594,359,16,0
+7/6/20,Uruguay,960,29,858,73,4,1,9
+7/6/20,Uzbekistan,10362,37,6628,3697,342,3,44
+7/6/20,Venezuela,7411,68,2100,5243,242,3,0
+7/6/20,Vietnam,369,0,341,28,14,0,1
+7/6/20,West Bank and Gaza,4341,17,491,3833,64,1,0
+7/6/20,Western Sahara,10,1,8,1,0,0,0
+7/6/20,Yemen,1284,345,575,364,19,7,23
+7/6/20,Zambia,1632,30,1348,254,0,0,0
+7/6/20,Zimbabwe,734,9,197,528,18,1,16
+7/7/20,Afghanistan,33384,920,20179,12285,194,22,76
+7/7/20,Albania,3038,81,1744,1213,74,2,42
+7/7/20,Algeria,16879,968,12094,3817,475,9,210
+7/7/20,Andorra,855,52,800,3,0,0,0
+7/7/20,Angola,386,21,117,248,40,2,9
+7/7/20,Antigua and Barbuda,70,3,23,44,0,0,0
+7/7/20,Argentina,83426,1644,30095,51687,2979,62,1564
+7/7/20,Armenia,29285,503,16907,11875,349,12,605
+7/7/20,Australia,8886,106,7487,1293,131,0,32
+7/7/20,Austria,18421,706,16686,1029,56,0,39
+7/7/20,Azerbaijan,21374,265,12635,8474,537,7,453
+7/7/20,Bahamas,104,11,89,4,0,0,0
+7/7/20,Bahrain,30321,98,25570,4653,500,0,392
+7/7/20,Bangladesh,168645,2151,78102,88392,3027,55,1953
+7/7/20,Barbados,98,7,90,1,0,0,0
+7/7/20,Belarus,64003,436,51902,11665,199,7,782
+7/7/20,Belgium,62058,9774,17122,35162,0,0,31
+7/7/20,Belize,30,2,19,9,0,0,0
+7/7/20,Benin,1199,21,333,845,0,0,0
+7/7/20,Bhutan,80,0,55,25,0,0,2
+7/7/20,Bolivia,41545,1530,12398,27617,1036,54,469
+7/7/20,Bosnia and Herzegovina,5621,207,2693,2721,163,8,95
+7/7/20,Botswana,314,1,31,282,0,0,0
+7/7/20,Brazil,1668589,66741,1107012,494836,45305,1254,44470
+7/7/20,Brunei,141,3,138,0,0,0,0
+7/7/20,Bulgaria,6102,254,3037,2811,188,4,37
+7/7/20,Burkina Faso,1003,53,860,90,3,0,2
+7/7/20,Burma,316,6,245,65,0,0,0
+7/7/20,Burundi,191,1,118,72,0,0,0
+7/7/20,Cabo Verde,1499,18,724,757,36,1,2
+7/7/20,Cambodia,141,0,131,10,0,0,0
+7/7/20,Cameroon,14916,359,11525,3032,2324,46,1425
+7/7/20,Canada,108023,8765,71418,27840,208,17,277
+7/7/20,Central African Republic,4071,52,976,3043,38,0,6
+7/7/20,Chad,873,74,788,11,1,0,1
+7/7/20,Chile,301019,6434,268251,26334,2462,50,3873
+7/7/20,China,84917,4641,79754,522,28,0,29
+7/7/20,Colombia,120281,4452,50370,65459,2869,147,2409
+7/7/20,Comoros,311,7,266,38,0,0,0
+7/7/20,Congo (Brazzaville),1557,44,501,1012,0,0,0
+7/7/20,Congo (Kinshasa),7432,182,3226,4024,0,0,0
+7/7/20,Costa Rica,5486,23,1810,3653,245,0,34
+7/7/20,Cote d'Ivoire,11194,76,5487,5631,228,1,103
+7/7/20,Croatia,3272,113,2229,930,52,0,19
+7/7/20,Cuba,2395,86,2240,69,15,0,6
+7/7/20,Cyprus,1005,19,839,147,1,0,0
+7/7/20,Czechia,12685,351,7910,4424,119,1,37
+7/7/20,Denmark,13089,609,12184,296,10,2,49
+7/7/20,Diamond Princess,712,13,651,48,0,0,0
+7/7/20,Djibouti,4878,55,4621,202,56,0,11
+7/7/20,Dominica,18,0,18,0,0,0,0
+7/7/20,Dominican Republic,38430,821,19564,18045,302,17,75
+7/7/20,Ecuador,63245,4873,29071,29301,865,52,199
+7/7/20,Egypt,77279,3489,21718,52072,1057,67,480
+7/7/20,El Salvador,8307,229,4929,3149,280,6,199
+7/7/20,Equatorial Guinea,3071,51,842,2178,0,0,0
+7/7/20,Eritrea,215,0,56,159,0,0,0
+7/7/20,Estonia,1995,69,1880,46,1,0,5
+7/7/20,Eswatini,1056,14,570,472,45,1,6
+7/7/20,Ethiopia,5846,103,2430,3313,0,0,0
+7/7/20,Fiji,21,0,18,3,0,0,0
+7/7/20,Finland,7262,329,6700,233,5,0,0
+7/7/20,France,206072,29936,77780,98356,475,13,336
+7/7/20,Gabon,5743,46,2574,3123,0,0,0
+7/7/20,Gambia,61,3,27,31,0,0,0
+7/7/20,Georgia,958,15,838,105,5,0,8
+7/7/20,Germany,198343,9032,182661,6650,279,10,501
+7/7/20,Ghana,21968,129,17156,4683,891,0,1086
+7/7/20,Greece,3589,193,1374,2022,27,1,0
+7/7/20,Grenada,23,0,23,0,0,0,0
+7/7/20,Guatemala,24787,1004,3575,20208,815,23,146
+7/7/20,Guinea,5636,34,4542,1060,26,0,20
+7/7/20,Guinea-Bissau,1790,25,760,1005,0,0,0
+7/7/20,Guyana,284,16,125,143,11,1,5
+7/7/20,Haiti,6432,117,2080,4235,61,4,256
+7/7/20,Holy See,12,0,12,0,0,0,0
+7/7/20,Honduras,25428,677,2637,22114,763,21,52
+7/7/20,Hungary,4205,589,2874,742,16,0,14
+7/7/20,Iceland,1873,10,1847,16,7,0,7
+7/7/20,India,742417,20642,456831,264944,22753,483,16897
+7/7/20,Indonesia,66226,3309,30785,32132,1268,68,866
+7/7/20,Iran,245688,11931,207000,26757,2637,200,2917
+7/7/20,Iraq,64701,2685,36252,25764,2426,118,1511
+7/7/20,Ireland,25538,1742,23364,432,7,1,0
+7/7/20,Israel,32222,342,18227,13653,1473,8,171
+7/7/20,Italy,241956,34899,192815,14242,137,30,574
+7/7/20,Jamaica,745,10,599,136,8,0,8
+7/7/20,Japan,20055,981,17057,2017,207,3,50
+7/7/20,Jordan,1169,10,969,190,2,0,12
+7/7/20,Kazakhstan,51059,264,16298,34497,1376,0,438
+7/7/20,Kenya,8250,167,2504,5579,183,3,90
+7/7/20,"Korea, South",13244,285,11970,989,63,0,56
+7/7/20,Kosovo,3703,79,1946,1678,195,4,44
+7/7/20,Kuwait,51245,377,41515,9353,601,4,514
+7/7/20,Kyrgyzstan,8279,107,2967,5205,138,8,51
+7/7/20,Laos,19,0,19,0,0,0,0
+7/7/20,Latvia,1134,30,1008,96,7,0,8
+7/7/20,Lebanon,1907,36,1348,523,22,0,37
+7/7/20,Lesotho,91,0,11,80,0,0,0
+7/7/20,Liberia,917,41,394,482,26,2,17
+7/7/20,Libya,1182,35,295,852,65,1,26
+7/7/20,Liechtenstein,84,1,81,2,0,0,0
+7/7/20,Lithuania,1844,79,1547,218,3,0,0
+7/7/20,Luxembourg,4603,110,4056,437,61,0,40
+7/7/20,MS Zaandam,9,2,0,7,0,0,0
+7/7/20,Madagascar,3472,33,1187,2252,222,0,52
+7/7/20,Malawi,1818,19,317,1482,76,0,0
+7/7/20,Malaysia,8674,121,8481,72,6,0,5
+7/7/20,Maldives,2501,12,2158,331,10,0,45
+7/7/20,Mali,2348,119,1556,673,17,0,9
+7/7/20,Malta,673,9,653,11,1,0,1
+7/7/20,Mauritania,5024,135,1944,2945,76,2,48
+7/7/20,Mauritius,342,10,330,2,0,0,0
+7/7/20,Mexico,268008,32014,209437,26557,6258,895,4611
+7/7/20,Moldova,18141,603,11241,6297,235,11,194
+7/7/20,Monaco,108,4,95,9,0,0,0
+7/7/20,Mongolia,227,0,195,32,2,0,1
+7/7/20,Montenegro,907,17,320,570,66,3,5
+7/7/20,Morocco,14607,240,10639,3728,228,3,466
+7/7/20,Mozambique,1040,8,280,752,28,0,3
+7/7/20,Namibia,539,0,25,514,54,0,0
+7/7/20,Nepal,16168,35,7499,8634,204,0,688
+7/7/20,Netherlands,50907,6151,187,44569,37,4,0
+7/7/20,New Zealand,1537,22,1492,23,1,0,0
+7/7/20,Nicaragua,2846,91,1993,762,327,8,755
+7/7/20,Niger,1094,68,974,52,1,0,6
+7/7/20,Nigeria,29789,669,12108,17012,503,15,280
+7/7/20,North Macedonia,7244,351,3324,3569,120,5,125
+7/7/20,Norway,8947,251,8138,558,11,0,0
+7/7/20,Oman,48997,224,31000,17773,1262,6,1854
+7/7/20,Pakistan,237489,4922,140965,91602,2980,83,6008
+7/7/20,Panama,40291,799,18726,20766,957,29,690
+7/7/20,Papua New Guinea,11,0,8,3,0,0,0
+7/7/20,Paraguay,2502,20,1193,1289,46,0,13
+7/7/20,Peru,309278,10952,200938,97388,3575,180,3319
+7/7/20,Philippines,47873,1309,12386,34178,1540,6,201
+7/7/20,Poland,36412,1528,24238,10646,257,7,272
+7/7/20,Portugal,44416,1629,29445,13342,287,9,279
+7/7/20,Qatar,100945,134,94903,5908,600,1,1005
+7/7/20,Romania,29620,1799,20534,7287,397,31,321
+7/7/20,Russia,693215,10478,463103,219634,6363,198,9533
+7/7/20,Rwanda,1172,3,595,574,59,0,20
+7/7/20,Saint Kitts and Nevis,16,0,15,1,0,0,0
+7/7/20,Saint Lucia,22,0,19,3,0,0,0
+7/7/20,Saint Vincent and the Grenadines,29,0,29,0,0,0,0
+7/7/20,San Marino,698,42,656,0,0,0,0
+7/7/20,Sao Tome and Principe,724,13,279,432,3,0,10
+7/7/20,Saudi Arabia,217108,2017,154839,60252,3392,49,5205
+7/7/20,Senegal,7547,137,5023,2387,69,1,153
+7/7/20,Serbia,16719,330,13447,2942,299,13,81
+7/7/20,Seychelles,81,0,11,70,0,0,0
+7/7/20,Sierra Leone,1572,63,1088,421,25,1,2
+7/7/20,Singapore,45140,26,41002,4112,157,0,285
+7/7/20,Slovakia,1767,28,1473,266,2,0,7
+7/7/20,Slovenia,1739,111,1423,205,23,0,39
+7/7/20,Somalia,3015,92,1096,1827,9,0,45
+7/7/20,South Africa,215855,3502,102299,110054,10134,192,4451
+7/7/20,South Sudan,2021,38,333,1650,0,0,0
+7/7/20,Spain,252130,28392,150376,73362,341,4,0
+7/7/20,Sri Lanka,2081,11,1955,115,4,0,38
+7/7/20,Sudan,9997,622,5034,4341,103,6,135
+7/7/20,Suriname,634,15,405,214,20,1,90
+7/7/20,Sweden,73344,5447,0,67897,283,14,0
+7/7/20,Switzerland,32369,1966,29300,1103,54,1,0
+7/7/20,Syria,372,14,126,232,0,0,0
+7/7/20,Taiwan*,449,7,438,4,0,0,0
+7/7/20,Tajikistan,6315,53,4965,1297,53,0,51
+7/7/20,Tanzania,509,21,183,305,0,0,0
+7/7/20,Thailand,3197,58,3074,65,2,0,2
+7/7/20,Timor-Leste,24,0,24,0,0,0,0
+7/7/20,Togo,689,15,467,207,9,0,17
+7/7/20,Trinidad and Tobago,133,8,117,8,0,0,0
+7/7/20,Tunisia,1205,50,1049,106,6,0,0
+7/7/20,Turkey,207897,5260,185292,17345,1053,19,2297
+7/7/20,US,2996098,131480,936476,1928142,60021,1195,12328
+7/7/20,Uganda,971,0,896,75,18,0,4
+7/7/20,Ukraine,50622,1299,22970,26353,569,21,508
+7/7/20,United Arab Emirates,52600,326,41714,10560,532,2,993
+7/7/20,United Kingdom,287874,44476,1375,242023,584,155,0
+7/7/20,Uruguay,965,29,865,71,5,0,7
+7/7/20,Uzbekistan,10838,41,6811,3986,476,4,183
+7/7/20,Venezuela,7693,71,2100,5522,282,3,0
+7/7/20,Vietnam,369,0,342,27,0,0,1
+7/7/20,West Bank and Gaza,4647,18,494,4135,306,1,3
+7/7/20,Western Sahara,10,1,8,1,0,0,0
+7/7/20,Yemen,1297,348,591,358,13,3,16
+7/7/20,Zambia,1895,42,1348,505,263,12,0
+7/7/20,Zimbabwe,787,9,201,577,53,0,4
+7/8/20,Afghanistan,33594,936,20700,11958,210,16,521
+7/8/20,Albania,3106,83,1791,1232,68,2,47
+7/8/20,Algeria,17348,978,12329,4041,469,10,235
+7/8/20,Andorra,855,52,802,1,0,0,2
+7/8/20,Angola,386,21,117,248,0,0,0
+7/8/20,Antigua and Barbuda,70,3,23,44,0,0,0
+7/8/20,Argentina,87030,1694,36502,48834,3604,50,6407
+7/8/20,Armenia,29820,521,17427,11872,535,18,520
+7/8/20,Australia,9056,106,7573,1377,170,0,86
+7/8/20,Austria,18513,706,16721,1086,92,0,35
+7/8/20,Azerbaijan,21916,274,13100,8542,542,9,465
+7/8/20,Bahamas,106,11,89,6,2,0,0
+7/8/20,Bahrain,30931,98,26073,4760,610,0,503
+7/8/20,Bangladesh,172134,2197,80838,89099,3489,46,2736
+7/8/20,Barbados,98,7,90,1,0,0,0
+7/8/20,Belarus,64224,443,52854,10927,221,7,952
+7/8/20,Belgium,62123,9776,17138,35209,65,2,16
+7/8/20,Belize,30,2,19,9,0,0,0
+7/8/20,Benin,1199,21,333,845,0,0,0
+7/8/20,Bhutan,80,0,55,25,0,0,0
+7/8/20,Bolivia,42984,1577,12883,28524,1439,47,485
+7/8/20,Bosnia and Herzegovina,5869,209,2769,2891,248,2,76
+7/8/20,Botswana,314,1,31,282,0,0,0
+7/8/20,Brazil,1713160,67964,1139844,505352,44571,1223,32832
+7/8/20,Brunei,141,3,138,0,0,0,0
+7/8/20,Bulgaria,6342,259,3166,2917,240,5,129
+7/8/20,Burkina Faso,1003,53,861,89,0,0,1
+7/8/20,Burma,317,6,250,61,1,0,5
+7/8/20,Burundi,191,1,118,72,0,0,0
+7/8/20,Cabo Verde,1542,18,730,794,43,0,6
+7/8/20,Cambodia,141,0,131,10,0,0,0
+7/8/20,Cameroon,14916,359,11525,3032,0,0,0
+7/8/20,Canada,108334,8786,71805,27743,311,21,387
+7/8/20,Central African Republic,4109,52,1050,3007,38,0,74
+7/8/20,Chad,873,74,788,11,0,0,0
+7/8/20,Chile,303083,6573,271741,24769,2064,139,3490
+7/8/20,China,84950,4641,79802,507,33,0,48
+7/8/20,Colombia,124494,4606,51861,68027,4213,154,1491
+7/8/20,Comoros,313,7,272,34,2,0,6
+7/8/20,Congo (Brazzaville),1821,47,525,1249,264,3,24
+7/8/20,Congo (Kinshasa),7432,182,3226,4024,0,0,0
+7/8/20,Costa Rica,5836,25,1929,3882,350,2,119
+7/8/20,Cote d'Ivoire,11504,78,5571,5855,310,2,84
+7/8/20,Croatia,3325,114,2277,934,53,1,48
+7/8/20,Cuba,2399,86,2242,71,4,0,2
+7/8/20,Cyprus,1008,19,839,150,3,0,0
+7/8/20,Czechia,12814,351,8010,4453,129,0,100
+7/8/20,Denmark,13101,609,12202,290,12,0,18
+7/8/20,Diamond Princess,712,13,651,48,0,0,0
+7/8/20,Djibouti,4889,55,4644,190,11,0,23
+7/8/20,Dominica,18,0,18,0,0,0,0
+7/8/20,Dominican Republic,39588,829,20056,18703,1158,8,492
+7/8/20,Ecuador,63245,4873,29071,29301,0,0,0
+7/8/20,Egypt,78304,3564,22241,52499,1025,75,523
+7/8/20,El Salvador,8566,235,5133,3198,259,6,204
+7/8/20,Equatorial Guinea,3071,51,842,2178,0,0,0
+7/8/20,Eritrea,215,0,56,159,0,0,0
+7/8/20,Estonia,2003,69,1882,52,8,0,2
+7/8/20,Eswatini,1138,14,588,536,82,0,18
+7/8/20,Ethiopia,6774,120,2430,4224,928,17,0
+7/8/20,Fiji,21,0,18,3,0,0,0
+7/8/20,Finland,7265,329,6800,136,3,0,100
+7/8/20,France,206072,29936,77780,98356,0,0,0
+7/8/20,Gabon,5871,46,2682,3143,128,0,108
+7/8/20,Gambia,61,3,27,31,0,0,0
+7/8/20,Georgia,963,15,841,107,5,0,3
+7/8/20,Germany,198699,9046,183153,6500,356,14,492
+7/8/20,Ghana,22822,129,17564,5129,854,0,408
+7/8/20,Greece,3622,193,1374,2055,33,0,0
+7/8/20,Grenada,23,0,23,0,0,0,0
+7/8/20,Guatemala,25411,1053,3718,20640,624,49,143
+7/8/20,Guinea,5697,34,4577,1086,61,0,35
+7/8/20,Guinea-Bissau,1790,25,760,1005,0,0,0
+7/8/20,Guyana,284,16,125,143,0,0,0
+7/8/20,Haiti,6486,123,2181,4182,54,6,101
+7/8/20,Holy See,12,0,12,0,0,0,0
+7/8/20,Honduras,25978,694,2721,22563,550,17,84
+7/8/20,Hungary,4210,589,2885,736,5,0,11
+7/8/20,Iceland,1880,10,1850,20,7,0,3
+7/8/20,India,767296,21129,476378,269789,24879,487,19547
+7/8/20,Indonesia,68079,3359,31585,33135,1853,50,800
+7/8/20,Iran,248379,12084,209463,26832,2691,153,2463
+7/8/20,Iraq,67442,2779,37879,26784,2741,94,1627
+7/8/20,Ireland,25542,1738,23364,440,4,-4,0
+7/8/20,Israel,33557,344,18338,14875,1335,2,111
+7/8/20,Italy,242149,34914,193640,13595,193,15,825
+7/8/20,Jamaica,751,10,600,141,6,0,1
+7/8/20,Japan,20261,982,17057,2222,206,1,0
+7/8/20,Jordan,1169,10,977,182,0,0,8
+7/8/20,Kazakhstan,51059,264,35137,15658,0,0,18839
+7/8/20,Kenya,8528,169,2593,5766,278,2,89
+7/8/20,"Korea, South",13293,287,12019,987,49,2,49
+7/8/20,Kosovo,3886,82,2003,1801,183,3,57
+7/8/20,Kuwait,52007,379,42108,9520,762,2,593
+7/8/20,Kyrgyzstan,8847,116,3053,5678,568,9,86
+7/8/20,Laos,19,0,19,0,0,0,0
+7/8/20,Latvia,1141,30,1008,103,7,0,0
+7/8/20,Lebanon,1946,36,1368,542,39,0,20
+7/8/20,Lesotho,91,0,11,80,0,0,0
+7/8/20,Liberia,926,41,395,490,9,0,1
+7/8/20,Libya,1268,36,306,926,86,1,11
+7/8/20,Liechtenstein,84,1,81,2,0,0,0
+7/8/20,Lithuania,1854,79,1552,223,10,0,5
+7/8/20,Luxembourg,4650,110,4056,484,47,0,0
+7/8/20,MS Zaandam,9,2,0,7,0,0,0
+7/8/20,Madagascar,3573,33,1761,1779,101,0,574
+7/8/20,Malawi,1864,24,345,1495,46,5,28
+7/8/20,Malaysia,8677,121,8486,70,3,0,5
+7/8/20,Maldives,2517,13,2180,324,16,1,22
+7/8/20,Mali,2358,120,1597,641,10,1,41
+7/8/20,Malta,673,9,654,10,0,0,1
+7/8/20,Mauritania,5087,139,1994,2954,63,4,50
+7/8/20,Mauritius,342,10,330,2,0,0,0
+7/8/20,Mexico,275003,32796,214316,27891,6995,782,4879
+7/8/20,Moldova,18471,614,11549,6308,330,11,308
+7/8/20,Monaco,108,4,95,9,0,0,0
+7/8/20,Mongolia,227,0,197,30,0,0,2
+7/8/20,Montenegro,960,17,320,623,53,0,0
+7/8/20,Morocco,14771,242,11316,3213,164,2,677
+7/8/20,Mozambique,1071,8,337,726,31,0,57
+7/8/20,Namibia,593,0,25,568,54,0,0
+7/8/20,Nepal,16423,35,7752,8636,255,0,253
+7/8/20,Netherlands,50959,6154,187,44618,52,3,0
+7/8/20,New Zealand,1540,22,1494,24,3,0,2
+7/8/20,Nicaragua,2846,91,1993,762,0,0,0
+7/8/20,Niger,1097,68,976,53,3,0,2
+7/8/20,Nigeria,30249,684,12373,17192,460,15,265
+7/8/20,North Macedonia,7406,359,3554,3493,162,8,230
+7/8/20,Norway,8950,251,8138,561,3,0,0
+7/8/20,Oman,50207,233,32005,17969,1210,9,1005
+7/8/20,Pakistan,240848,4983,145311,90554,3359,61,4346
+7/8/20,Panama,41251,819,19469,20963,960,20,743
+7/8/20,Papua New Guinea,11,0,8,3,0,0,0
+7/8/20,Paraguay,2554,20,1212,1322,52,0,19
+7/8/20,Peru,312911,11133,204748,97030,3633,181,3810
+7/8/20,Philippines,50359,1314,12588,36457,2486,5,202
+7/8/20,Poland,36689,1542,24878,10269,277,14,640
+7/8/20,Portugal,44859,1631,29714,13514,443,2,269
+7/8/20,Qatar,101553,138,96107,5308,608,4,1204
+7/8/20,Romania,30175,1817,20799,7559,555,18,265
+7/8/20,Russia,699749,10650,471718,217381,6534,172,8615
+7/8/20,Rwanda,1194,3,610,581,22,0,15
+7/8/20,Saint Kitts and Nevis,16,0,15,1,0,0,0
+7/8/20,Saint Lucia,22,0,19,3,0,0,0
+7/8/20,Saint Vincent and the Grenadines,29,0,29,0,0,0,0
+7/8/20,San Marino,698,42,656,0,0,0,0
+7/8/20,Sao Tome and Principe,724,13,283,428,0,0,4
+7/8/20,Saudi Arabia,220144,2059,158050,60035,3036,42,3211
+7/8/20,Senegal,7657,141,5097,2419,110,4,74
+7/8/20,Serbia,17076,341,13562,3173,357,11,115
+7/8/20,Seychelles,91,0,11,80,10,0,0
+7/8/20,Sierra Leone,1584,63,1122,399,12,0,34
+7/8/20,Singapore,45298,26,41323,3949,158,0,321
+7/8/20,Slovakia,1798,28,1473,297,31,0,0
+7/8/20,Slovenia,1763,111,1429,223,24,0,6
+7/8/20,Somalia,3028,92,1147,1789,13,0,51
+7/8/20,South Africa,224665,3602,106842,114221,8810,100,4543
+7/8/20,South Sudan,2021,38,333,1650,0,0,0
+7/8/20,Spain,252513,28396,150376,73741,383,4,0
+7/8/20,Sri Lanka,2094,11,1967,116,13,0,12
+7/8/20,Sudan,10084,636,5074,4374,87,14,40
+7/8/20,Suriname,665,17,434,214,31,2,29
+7/8/20,Sweden,73858,5482,0,68376,514,35,0
+7/8/20,Switzerland,32498,1966,29400,1132,129,0,100
+7/8/20,Syria,372,14,126,232,0,0,0
+7/8/20,Taiwan*,449,7,438,4,0,0,0
+7/8/20,Tajikistan,6364,54,5011,1299,49,1,46
+7/8/20,Tanzania,509,21,183,305,0,0,0
+7/8/20,Thailand,3197,58,3074,65,0,0,0
+7/8/20,Timor-Leste,24,0,24,0,0,0,0
+7/8/20,Togo,695,15,475,205,6,0,8
+7/8/20,Trinidad and Tobago,133,8,117,8,0,0,0
+7/8/20,Tunisia,1221,50,1050,121,16,0,1
+7/8/20,Turkey,208938,5282,187511,16145,1041,22,2219
+7/8/20,US,3054699,132300,953462,1968937,58601,820,16986
+7/8/20,Uganda,977,0,904,73,6,0,8
+7/8/20,Ukraine,51457,1323,23912,26222,835,24,942
+7/8/20,United Arab Emirates,53045,327,42282,10436,445,1,568
+7/8/20,United Kingdom,288511,44602,1378,242531,637,126,3
+7/8/20,Uruguay,974,29,871,74,9,0,6
+7/8/20,Uzbekistan,11092,45,7060,3987,254,4,249
+7/8/20,Venezuela,8008,75,2100,5833,315,4,0
+7/8/20,Vietnam,369,0,347,22,0,0,5
+7/8/20,West Bank and Gaza,5029,20,494,4515,382,2,0
+7/8/20,Western Sahara,10,1,8,1,0,0,0
+7/8/20,Yemen,1318,351,595,372,21,3,4
+7/8/20,Zambia,1895,42,1348,505,0,0,0
+7/8/20,Zimbabwe,885,9,206,670,98,0,5
+7/9/20,Afghanistan,33908,957,20847,12104,314,21,147
+7/9/20,Albania,3188,83,1832,1273,82,0,41
+7/9/20,Algeria,17808,988,12637,4183,460,10,308
+7/9/20,Andorra,855,52,802,1,0,0,0
+7/9/20,Angola,396,22,117,257,10,1,0
+7/9/20,Antigua and Barbuda,73,3,57,13,3,0,34
+7/9/20,Argentina,90693,1720,38313,50660,3663,26,1811
+7/9/20,Armenia,30346,535,18000,11811,526,14,573
+7/9/20,Australia,9374,106,7576,1692,318,0,3
+7/9/20,Austria,18615,706,16758,1151,102,0,37
+7/9/20,Azerbaijan,22464,284,13591,8589,548,10,491
+7/9/20,Bahamas,107,11,89,7,1,0,0
+7/9/20,Bahrain,31528,103,26520,4905,597,5,447
+7/9/20,Bangladesh,175494,2238,84544,88712,3360,41,3706
+7/9/20,Barbados,98,7,90,1,0,0,0
+7/9/20,Belarus,64411,449,53609,10353,187,6,755
+7/9/20,Belgium,62210,9778,17159,35273,87,2,21
+7/9/20,Belize,30,2,19,9,0,0,0
+7/9/20,Benin,1285,23,333,929,86,2,0
+7/9/20,Bhutan,80,0,55,25,0,0,0
+7/9/20,Bolivia,44113,1638,13354,29121,1129,61,471
+7/9/20,Bosnia and Herzegovina,6086,214,2815,3057,217,5,46
+7/9/20,Botswana,314,1,31,282,0,0,0
+7/9/20,Brazil,1755779,69184,1171447,515148,42619,1220,31603
+7/9/20,Brunei,141,3,138,0,0,0,0
+7/9/20,Bulgaria,6672,262,3229,3181,330,3,63
+7/9/20,Burkina Faso,1005,53,862,90,2,0,1
+7/9/20,Burma,321,6,254,61,4,0,4
+7/9/20,Burundi,191,1,118,72,0,0,0
+7/9/20,Cabo Verde,1552,18,730,804,10,0,0
+7/9/20,Cambodia,141,0,131,10,0,0,0
+7/9/20,Cameroon,14916,359,11525,3032,0,0,0
+7/9/20,Canada,108656,8797,72095,27764,322,11,290
+7/9/20,Central African Republic,4200,52,1142,3006,91,0,92
+7/9/20,Chad,873,74,788,11,0,0,0
+7/9/20,Chile,306216,6682,274922,24612,3133,109,3181
+7/9/20,China,84992,4641,79802,549,42,0,0
+7/9/20,Colombia,128638,4791,53634,70213,4144,185,1773
+7/9/20,Comoros,314,7,272,35,1,0,0
+7/9/20,Congo (Brazzaville),1821,47,525,1249,0,0,0
+7/9/20,Congo (Kinshasa),7846,189,3513,4144,414,7,287
+7/9/20,Costa Rica,6485,25,2023,4437,649,0,94
+7/9/20,Cote d'Ivoire,11750,79,5752,5919,246,1,181
+7/9/20,Croatia,3416,115,2323,978,91,1,46
+7/9/20,Cuba,2403,86,2244,73,4,0,2
+7/9/20,Cyprus,1010,19,839,152,2,0,0
+7/9/20,Czechia,12919,352,8128,4439,105,1,118
+7/9/20,Denmark,13117,609,12246,262,16,0,44
+7/9/20,Diamond Princess,712,13,651,48,0,0,0
+7/9/20,Djibouti,4955,56,4671,228,66,1,27
+7/9/20,Dominica,18,0,18,0,0,0,0
+7/9/20,Dominican Republic,40790,842,20426,19522,1202,13,370
+7/9/20,Ecuador,64221,4900,29184,30137,976,27,113
+7/9/20,Egypt,79254,3617,22753,52884,950,53,512
+7/9/20,El Salvador,8844,243,5289,3312,278,8,156
+7/9/20,Equatorial Guinea,3071,51,842,2178,0,0,0
+7/9/20,Eritrea,232,0,107,125,17,0,51
+7/9/20,Estonia,2011,69,1889,53,8,0,7
+7/9/20,Eswatini,1213,17,609,587,75,3,21
+7/9/20,Ethiopia,6973,120,2430,4423,199,0,0
+7/9/20,Fiji,26,0,18,8,5,0,0
+7/9/20,Finland,7273,329,6800,144,8,0,0
+7/9/20,France,207356,29982,78295,99079,1284,46,515
+7/9/20,Gabon,5871,46,2682,3143,0,0,0
+7/9/20,Gambia,63,3,32,28,2,0,5
+7/9/20,Georgia,968,15,844,109,5,0,3
+7/9/20,Germany,199001,9057,183728,6216,302,11,575
+7/9/20,Ghana,23463,129,18622,4712,641,0,1058
+7/9/20,Greece,3672,193,1374,2105,50,0,0
+7/9/20,Grenada,23,0,23,0,0,0,0
+7/9/20,Guatemala,26658,1092,3797,21769,1247,39,79
+7/9/20,Guinea,5881,36,4672,1173,184,2,95
+7/9/20,Guinea-Bissau,1790,25,760,1005,0,0,0
+7/9/20,Guyana,286,16,125,145,2,0,0
+7/9/20,Haiti,6486,123,2181,4182,0,0,0
+7/9/20,Holy See,12,0,12,0,0,0,0
+7/9/20,Honduras,26384,704,2779,22901,406,10,58
+7/9/20,Hungary,4220,591,2887,742,10,2,2
+7/9/20,Iceland,1882,10,1854,18,2,0,4
+7/9/20,India,793802,21604,495513,276685,26506,475,19135
+7/9/20,Indonesia,70736,3417,32651,34668,2657,58,1066
+7/9/20,Iran,250458,12305,212176,25977,2079,221,2713
+7/9/20,Iraq,69612,2882,39502,27228,2170,103,1623
+7/9/20,Ireland,25565,1743,23364,458,23,5,0
+7/9/20,Israel,34825,348,18452,16025,1268,4,114
+7/9/20,Italy,242363,34926,193978,13459,214,12,338
+7/9/20,Jamaica,753,10,603,140,2,0,3
+7/9/20,Japan,20617,982,17412,2223,356,0,355
+7/9/20,Jordan,1169,10,982,177,0,0,5
+7/9/20,Kazakhstan,54747,264,35137,19346,3688,0,0
+7/9/20,Kenya,8975,173,2657,6145,447,4,64
+7/9/20,"Korea, South",13338,288,12065,985,45,1,46
+7/9/20,Kosovo,4100,86,2063,1951,214,4,60
+7/9/20,Kuwait,52840,382,42686,9772,833,3,578
+7/9/20,Kyrgyzstan,9358,122,3134,6102,511,6,81
+7/9/20,Laos,19,0,19,0,0,0,0
+7/9/20,Latvia,1154,30,1019,105,13,0,11
+7/9/20,Lebanon,2011,36,1368,607,65,0,0
+7/9/20,Lesotho,134,1,20,113,43,1,9
+7/9/20,Liberia,957,42,398,517,31,1,3
+7/9/20,Libya,1342,38,307,997,74,2,1
+7/9/20,Liechtenstein,84,1,81,2,0,0,0
+7/9/20,Lithuania,1857,79,1564,214,3,0,12
+7/9/20,Luxembourg,4719,110,4056,553,69,0,0
+7/9/20,MS Zaandam,9,2,0,7,0,0,0
+7/9/20,Madagascar,3782,33,1950,1799,209,0,189
+7/9/20,Malawi,1942,25,369,1548,78,1,24
+7/9/20,Malaysia,8683,121,8499,63,6,0,13
+7/9/20,Maldives,2553,13,2227,313,36,0,47
+7/9/20,Mali,2370,120,1621,629,12,0,24
+7/9/20,Malta,674,9,656,9,1,0,2
+7/9/20,Mauritania,5126,144,2026,2956,39,5,32
+7/9/20,Mauritius,342,10,330,2,0,0,0
+7/9/20,Mexico,282283,33526,219628,29129,7280,730,5312
+7/9/20,Moldova,18666,624,11936,6106,195,10,387
+7/9/20,Monaco,108,4,96,8,0,0,1
+7/9/20,Mongolia,227,0,197,30,0,0,0
+7/9/20,Montenegro,1019,19,320,680,59,2,0
+7/9/20,Morocco,15079,242,11447,3390,308,0,131
+7/9/20,Mozambique,1092,9,340,743,21,1,3
+7/9/20,Namibia,615,0,25,590,22,0,0
+7/9/20,Nepal,16531,35,7891,8605,108,0,139
+7/9/20,Netherlands,51013,6156,192,44665,54,2,5
+7/9/20,New Zealand,1542,22,1497,23,2,0,3
+7/9/20,Nicaragua,2846,91,1993,762,0,0,0
+7/9/20,Niger,1097,68,976,53,0,0,0
+7/9/20,Nigeria,30748,689,12546,17513,499,5,173
+7/9/20,North Macedonia,7572,362,3624,3586,166,3,70
+7/9/20,Norway,8965,252,8138,575,15,1,0
+7/9/20,Oman,51725,236,33021,18468,1518,3,1016
+7/9/20,Pakistan,243599,5058,149092,89449,2751,75,3781
+7/9/20,Panama,42216,839,20437,20940,965,20,968
+7/9/20,Papua New Guinea,11,0,8,3,0,0,0
+7/9/20,Paraguay,2638,20,1229,1389,84,0,17
+7/9/20,Peru,316448,11314,207802,97332,3537,181,3054
+7/9/20,Philippines,51754,1314,12813,37627,1395,0,225
+7/9/20,Poland,36951,1551,25477,9923,262,9,599
+7/9/20,Portugal,45277,1644,30049,13584,418,13,335
+7/9/20,Qatar,102110,142,97272,4696,557,4,1165
+7/9/20,Romania,30789,1834,20969,7986,614,17,170
+7/9/20,Russia,706240,10826,480494,214920,6491,176,8776
+7/9/20,Rwanda,1210,3,623,584,16,0,13
+7/9/20,Saint Kitts and Nevis,16,0,15,1,0,0,0
+7/9/20,Saint Lucia,22,0,19,3,0,0,0
+7/9/20,Saint Vincent and the Grenadines,29,0,29,0,0,0,0
+7/9/20,San Marino,699,42,656,1,1,0,0
+7/9/20,Sao Tome and Principe,726,14,283,429,2,1,0
+7/9/20,Saudi Arabia,223327,2100,161096,60131,3183,41,3046
+7/9/20,Senegal,7784,143,5169,2472,127,2,72
+7/9/20,Serbia,17342,352,13651,3339,266,11,89
+7/9/20,Seychelles,94,0,11,83,3,0,0
+7/9/20,Sierra Leone,1598,63,1123,412,14,0,1
+7/9/20,Singapore,45423,26,41645,3752,125,0,322
+7/9/20,Slovakia,1851,28,1477,346,53,0,4
+7/9/20,Slovenia,1776,111,1429,236,13,0,0
+7/9/20,Somalia,3038,92,1209,1737,10,0,62
+7/9/20,South Africa,238339,3720,113061,121558,13674,118,6219
+7/9/20,South Sudan,2021,38,333,1650,0,0,0
+7/9/20,Spain,253056,28401,150376,74279,543,5,0
+7/9/20,Sri Lanka,2154,11,1979,164,60,0,12
+7/9/20,Sudan,10158,641,5200,4317,74,5,126
+7/9/20,Suriname,694,17,456,221,29,0,22
+7/9/20,Sweden,74333,5500,0,68833,475,18,0
+7/9/20,Switzerland,32586,1966,29400,1220,88,0,0
+7/9/20,Syria,372,14,126,232,0,0,0
+7/9/20,Taiwan*,449,7,438,4,0,0,0
+7/9/20,Tajikistan,6410,54,5067,1289,46,0,56
+7/9/20,Tanzania,509,21,183,305,0,0,0
+7/9/20,Thailand,3202,58,3085,59,5,0,11
+7/9/20,Timor-Leste,24,0,24,0,0,0,0
+7/9/20,Togo,704,15,483,206,9,0,8
+7/9/20,Trinidad and Tobago,133,8,120,5,0,0,3
+7/9/20,Tunisia,1231,50,1055,126,10,0,5
+7/9/20,Turkey,209962,5300,190390,14272,1024,18,2879
+7/9/20,US,3117946,133290,969111,2015545,63247,990,15649
+7/9/20,Uganda,1000,0,908,92,23,0,4
+7/9/20,Ukraine,52285,1344,24606,26335,828,21,694
+7/9/20,United Arab Emirates,53577,328,43570,9679,532,1,1288
+7/9/20,United Kingdom,289154,44687,1378,243089,643,85,0
+7/9/20,Uruguay,977,29,878,70,3,0,7
+7/9/20,Uzbekistan,11564,51,7287,4226,472,6,227
+7/9/20,Venezuela,8372,80,2544,5748,364,5,444
+7/9/20,Vietnam,369,0,347,22,0,0,0
+7/9/20,West Bank and Gaza,5220,24,525,4671,191,4,31
+7/9/20,Western Sahara,10,1,8,1,0,0,0
+7/9/20,Yemen,1356,361,619,376,38,10,24
+7/9/20,Zambia,1895,42,1348,505,0,0,0
+7/9/20,Zimbabwe,885,9,206,670,0,0,0
