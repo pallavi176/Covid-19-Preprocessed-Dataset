@@ -8363,7 +8363,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/14/20,Kazakhstan,6,0,0,6,2,0,0
 3/14/20,Kenya,1,0,0,1,0,0,0
 3/14/20,"Korea, South",8086,72,510,7504,107,6,0
-3/14/20,Kosovo,0,0,0,0,0,0,0
+3/14/20,Kosovo,2,0,0,2,2,0,0
 3/14/20,Kuwait,104,0,5,99,24,0,0
 3/14/20,Kyrgyzstan,0,0,0,0,0,0,0
 3/14/20,Laos,0,0,0,0,0,0,0
@@ -8551,7 +8551,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/15/20,Kazakhstan,9,0,0,9,3,0,0
 3/15/20,Kenya,3,0,0,3,2,0,0
 3/15/20,"Korea, South",8162,75,510,7577,76,3,0
-3/15/20,Kosovo,0,0,0,0,0,0,0
+3/15/20,Kosovo,5,0,0,5,3,0,0
 3/15/20,Kuwait,112,0,5,107,8,0,0
 3/15/20,Kyrgyzstan,0,0,0,0,0,0,0
 3/15/20,Laos,0,0,0,0,0,0,0
@@ -8739,7 +8739,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/16/20,Kazakhstan,10,0,0,10,1,0,0
 3/16/20,Kenya,3,0,0,3,0,0,0
 3/16/20,"Korea, South",8236,75,1137,7024,74,0,627
-3/16/20,Kosovo,0,0,0,0,0,0,0
+3/16/20,Kosovo,13,0,0,13,8,0,0
 3/16/20,Kuwait,123,0,9,114,11,0,4
 3/16/20,Kyrgyzstan,0,0,0,0,0,0,0
 3/16/20,Laos,0,0,0,0,0,0,0
@@ -8927,7 +8927,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/17/20,Kazakhstan,33,0,0,33,23,0,0
 3/17/20,Kenya,3,0,0,3,0,0,0
 3/17/20,"Korea, South",8320,81,1407,6832,84,6,270
-3/17/20,Kosovo,0,0,0,0,0,0,0
+3/17/20,Kosovo,16,0,0,16,3,0,0
 3/17/20,Kuwait,130,0,9,121,7,0,0
 3/17/20,Kyrgyzstan,0,0,0,0,0,0,0
 3/17/20,Laos,0,0,0,0,0,0,0
@@ -9115,7 +9115,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/18/20,Kazakhstan,35,0,0,35,2,0,0
 3/18/20,Kenya,3,0,0,3,0,0,0
 3/18/20,"Korea, South",8413,84,1540,6789,93,3,133
-3/18/20,Kosovo,0,0,0,0,0,0,0
+3/18/20,Kosovo,19,0,0,19,3,0,0
 3/18/20,Kuwait,142,0,15,127,12,0,6
 3/18/20,Kyrgyzstan,3,0,0,3,3,0,0
 3/18/20,Laos,0,0,0,0,0,0,0
@@ -9303,7 +9303,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/19/20,Kazakhstan,44,0,0,44,9,0,0
 3/19/20,Kenya,7,0,0,7,4,0,0
 3/19/20,"Korea, South",8565,91,1540,6934,152,7,0
-3/19/20,Kosovo,0,0,0,0,0,0,0
+3/19/20,Kosovo,20,0,0,20,1,0,0
 3/19/20,Kuwait,148,0,18,130,6,0,3
 3/19/20,Kyrgyzstan,3,0,0,3,0,0,0
 3/19/20,Laos,0,0,0,0,0,0,0
@@ -9679,7 +9679,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/20/20,Kazakhstan,49,3,0,46,49,3,0
 3/20/20,Kenya,7,0,0,7,7,0,0
 3/20/20,"Korea, South",8652,94,1540,7018,4317,66,1510
-3/20/20,Kosovo,0,0,0,0,0,0,0
+3/20/20,Kosovo,21,0,0,21,21,0,0
 3/20/20,Kuwait,159,0,18,141,103,0,18
 3/20/20,Kyrgyzstan,6,0,0,6,6,0,0
 3/20/20,Laos,0,0,0,0,0,0,0
@@ -9867,7 +9867,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/21/20,Kazakhstan,53,0,0,53,4,-3,0
 3/21/20,Kenya,7,0,0,7,0,0,0
 3/21/20,"Korea, South",8799,102,1540,7157,147,8,0
-3/21/20,Kosovo,0,0,0,0,0,0,0
+3/21/20,Kosovo,24,0,0,24,3,0,0
 3/21/20,Kuwait,176,0,27,149,17,0,9
 3/21/20,Kyrgyzstan,14,0,0,14,8,0,0
 3/21/20,Laos,0,0,0,0,0,0,0
@@ -10055,7 +10055,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/22/20,Kazakhstan,60,0,0,60,7,0,0
 3/22/20,Kenya,15,0,0,15,8,0,0
 3/22/20,"Korea, South",8961,111,2909,5941,162,9,1369
-3/22/20,Kosovo,0,0,0,0,0,0,0
+3/22/20,Kosovo,31,0,0,31,7,0,0
 3/22/20,Kuwait,188,0,27,161,12,0,0
 3/22/20,Kyrgyzstan,14,0,0,14,0,0,0
 3/22/20,Laos,0,0,0,0,0,0,0
@@ -10243,7 +10243,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/23/20,Kazakhstan,62,0,0,62,2,0,0
 3/23/20,Kenya,16,0,0,16,1,0,0
 3/23/20,"Korea, South",8961,111,2909,5941,0,0,0
-3/23/20,Kosovo,0,0,0,0,0,0,0
+3/23/20,Kosovo,33,1,0,32,2,1,0
 3/23/20,Kuwait,189,0,27,162,1,0,0
 3/23/20,Kyrgyzstan,16,0,0,16,2,0,0
 3/23/20,Laos,0,0,0,0,0,0,0
@@ -10431,7 +10431,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/24/20,Kazakhstan,72,0,0,72,10,0,0
 3/24/20,Kenya,25,0,0,25,9,0,0
 3/24/20,"Korea, South",9037,120,3507,5410,76,9,598
-3/24/20,Kosovo,0,0,0,0,0,0,0
+3/24/20,Kosovo,61,1,0,60,28,0,0
 3/24/20,Kuwait,191,0,39,152,2,0,12
 3/24/20,Kyrgyzstan,42,0,0,42,26,0,0
 3/24/20,Laos,2,0,0,2,2,0,0
@@ -10619,7 +10619,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/25/20,Kazakhstan,81,0,0,81,9,0,0
 3/25/20,Kenya,28,0,1,27,3,0,1
 3/25/20,"Korea, South",9137,126,3730,5281,100,6,223
-3/25/20,Kosovo,0,0,0,0,0,0,0
+3/25/20,Kosovo,63,1,0,62,2,0,0
 3/25/20,Kuwait,195,0,43,152,4,0,4
 3/25/20,Kyrgyzstan,44,0,0,44,2,0,0
 3/25/20,Laos,3,0,0,3,1,0,0
@@ -10807,7 +10807,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/26/20,Kazakhstan,111,1,2,108,30,1,2
 3/26/20,Kenya,31,1,1,29,3,1,0
 3/26/20,"Korea, South",9241,131,4144,4966,104,5,414
-3/26/20,Kosovo,71,1,0,70,71,1,0
+3/26/20,Kosovo,71,1,0,70,8,0,0
 3/26/20,Kuwait,208,0,49,159,13,0,6
 3/26/20,Kyrgyzstan,44,0,0,44,0,0,0
 3/26/20,Laos,6,0,0,6,3,0,0
@@ -11183,7 +11183,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/28/20,Kazakhstan,228,1,16,211,78,0,13
 3/28/20,Kenya,38,1,1,36,7,0,0
 3/28/20,"Korea, South",9478,144,4811,4523,146,5,283
-3/28/20,Kosovo,91,1,1,89,5,0,0
+3/28/20,Kosovo,88,1,1,86,2,0,0
 3/28/20,Kuwait,235,0,64,171,10,0,7
 3/28/20,Kyrgyzstan,58,0,0,58,0,0,0
 3/28/20,Laos,8,0,0,8,2,0,0
@@ -11371,7 +11371,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/29/20,Kazakhstan,284,1,20,263,56,0,4
 3/29/20,Kenya,42,1,1,40,4,0,0
 3/29/20,"Korea, South",9583,152,5033,4398,105,8,222
-3/29/20,Kosovo,94,1,1,92,3,0,0
+3/29/20,Kosovo,91,1,1,89,3,0,0
 3/29/20,Kuwait,255,0,67,188,20,0,3
 3/29/20,Kyrgyzstan,84,0,0,84,26,0,0
 3/29/20,Laos,8,0,0,8,0,0,0
@@ -11935,7 +11935,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/31/20,Kazakhstan,343,2,24,317,41,1,3
 3/31/20,Kenya,59,1,1,57,9,0,0
 3/31/20,"Korea, South",9786,162,5408,4216,125,4,180
-3/31/20,Kosovo,112,1,6,105,18,0,5
+3/31/20,Kosovo,106,1,1,104,12,0,0
 3/31/20,Kuwait,289,0,73,216,23,0,1
 3/31/20,Kyrgyzstan,107,0,3,104,13,0,0
 3/31/20,Laos,9,0,0,9,1,0,0
@@ -12123,7 +12123,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 3/4/20,Kazakhstan,0,0,0,0,0,-2,-24
 3/4/20,Kenya,0,0,0,0,0,-1,-1
 3/4/20,"Korea, South",5621,35,41,5545,0,-127,-5367
-3/4/20,Kosovo,0,0,0,0,0,-1,-6
+3/4/20,Kosovo,0,0,0,0,0,-1,-1
 3/4/20,Kuwait,56,0,0,56,0,0,-73
 3/4/20,Kyrgyzstan,0,0,0,0,0,0,-3
 3/4/20,Laos,0,0,0,0,0,0,0
@@ -13251,7 +13251,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/1/20,Kazakhstan,380,3,26,351,380,3,26
 4/1/20,Kenya,81,1,3,77,81,1,3
 4/1/20,"Korea, South",9887,165,5567,4155,2409,112,5449
-4/1/20,Kosovo,125,1,10,114,125,1,10
+4/1/20,Kosovo,112,1,6,105,112,1,6
 4/1/20,Kuwait,317,0,80,237,253,0,79
 4/1/20,Kyrgyzstan,111,0,3,108,111,0,3
 4/1/20,Laos,10,0,0,10,10,0,0
@@ -13439,7 +13439,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/10/20,Kazakhstan,812,10,64,738,432,7,38
 4/10/20,Kenya,189,7,22,160,108,6,19
 4/10/20,"Korea, South",10450,208,7117,3125,563,43,1550
-4/10/20,Kosovo,250,7,52,191,125,6,42
+4/10/20,Kosovo,227,7,38,182,115,6,32
 4/10/20,Kuwait,993,1,123,869,676,1,43
 4/10/20,Kyrgyzstan,298,5,35,258,187,5,32
 4/10/20,Laos,16,0,0,16,6,0,0
@@ -13627,7 +13627,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/11/20,Kazakhstan,865,10,81,774,53,0,17
 4/11/20,Kenya,191,7,24,160,2,0,2
 4/11/20,"Korea, South",10480,211,7243,3026,30,3,126
-4/11/20,Kosovo,283,7,58,218,33,0,6
+4/11/20,Kosovo,250,7,52,191,23,0,14
 4/11/20,Kuwait,1154,1,133,1020,161,0,10
 4/11/20,Kyrgyzstan,339,5,44,290,41,0,9
 4/11/20,Laos,18,0,0,18,2,0,0
@@ -13815,7 +13815,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/12/20,Kazakhstan,951,10,99,842,86,0,18
 4/12/20,Kenya,197,8,25,164,6,1,1
 4/12/20,"Korea, South",10512,214,7368,2930,32,3,125
-4/12/20,Kosovo,283,7,58,218,0,0,0
+4/12/20,Kosovo,283,7,58,218,33,0,6
 4/12/20,Kuwait,1234,1,142,1091,80,0,9
 4/12/20,Kyrgyzstan,377,5,54,318,38,0,10
 4/12/20,Laos,19,0,0,19,1,0,0
@@ -14003,7 +14003,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/13/20,Kazakhstan,1091,12,138,941,140,2,39
 4/13/20,Kenya,208,9,40,159,11,1,15
 4/13/20,"Korea, South",10537,217,7447,2873,25,3,79
-4/13/20,Kosovo,283,7,58,218,0,0,0
+4/13/20,Kosovo,362,7,59,296,79,0,1
 4/13/20,Kuwait,1300,2,150,1148,66,1,8
 4/13/20,Kyrgyzstan,419,5,67,347,42,0,13
 4/13/20,Laos,19,0,0,19,0,0,0
@@ -14191,7 +14191,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/14/20,Kazakhstan,1232,14,203,1015,141,2,65
 4/14/20,Kenya,216,9,41,166,8,0,1
 4/14/20,"Korea, South",10564,222,7534,2808,27,5,87
-4/14/20,Kosovo,387,8,66,313,104,1,8
+4/14/20,Kosovo,377,8,63,306,15,1,4
 4/14/20,Kuwait,1355,3,176,1176,55,1,26
 4/14/20,Kyrgyzstan,430,5,71,354,11,0,4
 4/14/20,Laos,19,0,1,18,0,0,1
@@ -14379,7 +14379,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/15/20,Kazakhstan,1295,16,240,1039,63,2,37
 4/15/20,Kenya,225,10,53,162,9,1,12
 4/15/20,"Korea, South",10591,225,7616,2750,27,3,82
-4/15/20,Kosovo,387,8,66,313,0,0,0
+4/15/20,Kosovo,387,8,66,313,10,0,3
 4/15/20,Kuwait,1405,3,206,1196,50,0,30
 4/15/20,Kyrgyzstan,449,5,78,366,19,0,7
 4/15/20,Laos,19,0,1,18,0,0,0
@@ -14567,7 +14567,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/16/20,Kazakhstan,1402,17,277,1108,107,1,37
 4/16/20,Kenya,234,11,53,170,9,1,0
 4/16/20,"Korea, South",10613,229,7757,2627,22,4,141
-4/16/20,Kosovo,449,11,79,359,62,3,13
+4/16/20,Kosovo,423,9,71,343,36,1,5
 4/16/20,Kuwait,1524,3,225,1296,119,0,19
 4/16/20,Kyrgyzstan,466,5,91,370,17,0,13
 4/16/20,Laos,19,0,2,17,0,0,1
@@ -14755,7 +14755,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/17/20,Kazakhstan,1546,17,347,1182,144,0,70
 4/17/20,Kenya,246,11,53,182,12,0,0
 4/17/20,"Korea, South",10635,230,7829,2576,22,1,72
-4/17/20,Kosovo,480,12,84,384,31,1,5
+4/17/20,Kosovo,449,11,79,359,26,2,8
 4/17/20,Kuwait,1658,5,258,1395,134,2,33
 4/17/20,Kyrgyzstan,489,5,114,370,23,0,23
 4/17/20,Laos,19,0,2,17,0,0,0
@@ -14943,7 +14943,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/18/20,Kazakhstan,1615,17,377,1221,69,0,30
 4/18/20,Kenya,262,12,60,190,16,1,7
 4/18/20,"Korea, South",10653,232,7937,2484,18,2,108
-4/18/20,Kosovo,510,12,93,405,30,0,9
+4/18/20,Kosovo,480,12,84,384,31,1,5
 4/18/20,Kuwait,1751,6,280,1465,93,1,22
 4/18/20,Kyrgyzstan,506,5,130,371,17,0,16
 4/18/20,Laos,19,0,2,17,0,0,0
@@ -15131,7 +15131,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/19/20,Kazakhstan,1676,17,400,1259,61,0,23
 4/19/20,Kenya,270,14,67,189,8,2,7
 4/19/20,"Korea, South",10661,234,8042,2385,8,2,105
-4/19/20,Kosovo,561,12,102,447,51,0,9
+4/19/20,Kosovo,510,12,93,405,30,0,9
 4/19/20,Kuwait,1915,7,305,1603,164,1,25
 4/19/20,Kyrgyzstan,554,5,133,416,48,0,3
 4/19/20,Laos,19,0,2,17,0,0,0
@@ -15319,7 +15319,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/2/20,Kazakhstan,435,3,27,405,0,-14,-373
 4/2/20,Kenya,110,3,4,103,0,-11,-63
 4/2/20,"Korea, South",9976,169,5828,3979,0,-65,-2214
-4/2/20,Kosovo,125,1,10,114,0,-11,-92
+4/2/20,Kosovo,125,1,10,114,0,-11,-83
 4/2/20,Kuwait,342,0,81,261,0,-7,-224
 4/2/20,Kyrgyzstan,116,0,5,111,0,-5,-128
 4/2/20,Laos,10,0,0,10,0,0,-2
@@ -15507,7 +15507,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/20/20,Kazakhstan,1852,19,447,1386,1417,16,420
 4/20/20,Kenya,281,14,69,198,171,11,65
 4/20/20,"Korea, South",10674,236,8114,2324,698,67,2286
-4/20/20,Kosovo,598,15,123,460,473,14,113
+4/20/20,Kosovo,561,12,102,447,436,11,92
 4/20/20,Kuwait,1995,9,367,1619,1653,9,286
 4/20/20,Kyrgyzstan,568,7,201,360,452,7,196
 4/20/20,Laos,19,0,2,17,9,0,2
@@ -15695,7 +15695,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/21/20,Kazakhstan,1995,19,489,1487,143,0,42
 4/21/20,Kenya,296,14,74,208,15,0,5
 4/21/20,"Korea, South",10683,237,8213,2233,9,1,99
-4/21/20,Kosovo,604,18,128,458,6,3,5
+4/21/20,Kosovo,598,15,123,460,37,3,21
 4/21/20,Kuwait,2080,11,412,1657,85,2,45
 4/21/20,Kyrgyzstan,590,7,216,367,22,0,15
 4/21/20,Laos,19,0,2,17,0,0,0
@@ -15883,7 +15883,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/22/20,Kazakhstan,2135,19,515,1601,140,0,26
 4/22/20,Kenya,303,14,74,215,7,0,0
 4/22/20,"Korea, South",10694,238,8277,2179,11,1,64
-4/22/20,Kosovo,630,18,138,474,26,0,10
+4/22/20,Kosovo,604,18,128,458,6,3,5
 4/22/20,Kuwait,2248,13,443,1792,168,2,31
 4/22/20,Kyrgyzstan,612,7,254,351,22,0,38
 4/22/20,Laos,19,0,4,15,0,0,2
@@ -16071,7 +16071,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/23/20,Kazakhstan,2289,20,560,1709,154,1,45
 4/23/20,Kenya,320,14,89,217,17,0,15
 4/23/20,"Korea, South",10708,240,8501,1967,14,2,224
-4/23/20,Kosovo,669,19,159,491,39,1,21
+4/23/20,Kosovo,630,18,138,474,26,0,10
 4/23/20,Kuwait,2399,14,498,1887,151,1,55
 4/23/20,Kyrgyzstan,631,8,302,321,19,1,48
 4/23/20,Laos,19,0,4,15,0,0,0
@@ -16259,7 +16259,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/24/20,Kazakhstan,2482,25,604,1853,193,5,44
 4/24/20,Kenya,336,14,94,228,16,0,5
 4/24/20,"Korea, South",10718,240,8635,1843,10,0,134
-4/24/20,Kosovo,703,19,162,522,34,0,3
+4/24/20,Kosovo,669,19,159,491,39,1,21
 4/24/20,Kuwait,2614,15,613,1986,215,1,115
 4/24/20,Kyrgyzstan,665,8,345,312,34,0,43
 4/24/20,Laos,19,0,4,15,0,0,0
@@ -16447,7 +16447,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/25/20,Kazakhstan,2601,25,646,1930,119,0,42
 4/25/20,Kenya,343,14,98,231,7,0,4
 4/25/20,"Korea, South",10728,242,8717,1769,10,2,82
-4/25/20,Kosovo,731,20,165,546,28,1,3
+4/25/20,Kosovo,703,19,162,522,34,0,3
 4/25/20,Kuwait,2892,19,656,2217,278,4,43
 4/25/20,Kyrgyzstan,665,8,345,312,0,0,0
 4/25/20,Laos,19,0,7,12,0,0,3
@@ -16635,7 +16635,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/26/20,Kazakhstan,2717,25,682,2010,116,0,36
 4/26/20,Kenya,355,14,106,235,12,0,8
 4/26/20,"Korea, South",10738,243,8764,1731,10,1,47
-4/26/20,Kosovo,763,21,166,576,32,1,1
+4/26/20,Kosovo,731,20,165,546,28,1,3
 4/26/20,Kuwait,3075,20,806,2249,183,1,150
 4/26/20,Kyrgyzstan,682,8,370,304,17,0,25
 4/26/20,Laos,19,0,7,12,0,0,0
@@ -16823,7 +16823,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/27/20,Kazakhstan,2835,25,720,2090,118,0,38
 4/27/20,Kenya,363,14,114,235,8,0,8
 4/27/20,"Korea, South",10752,244,8854,1654,14,1,90
-4/27/20,Kosovo,780,22,201,557,17,1,35
+4/27/20,Kosovo,763,21,166,576,32,1,1
 4/27/20,Kuwait,3288,22,1012,2254,213,2,206
 4/27/20,Kyrgyzstan,695,8,395,292,13,0,25
 4/27/20,Laos,19,0,7,12,0,0,0
@@ -17011,7 +17011,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/28/20,Kazakhstan,3027,25,774,2228,192,0,54
 4/28/20,Kenya,374,14,124,236,11,0,10
 4/28/20,"Korea, South",10761,246,8922,1593,9,2,68
-4/28/20,Kosovo,790,22,232,536,10,0,31
+4/28/20,Kosovo,780,22,201,557,17,1,35
 4/28/20,Kuwait,3440,23,1176,2241,152,1,164
 4/28/20,Kyrgyzstan,708,8,416,284,13,0,21
 4/28/20,Laos,19,0,7,12,0,0,0
@@ -17199,7 +17199,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/29/20,Kazakhstan,3138,25,819,2294,111,0,45
 4/29/20,Kenya,384,15,129,240,10,1,5
 4/29/20,"Korea, South",10765,247,9059,1459,4,1,137
-4/29/20,Kosovo,799,22,249,528,9,0,17
+4/29/20,Kosovo,790,22,232,536,10,0,31
 4/29/20,Kuwait,3740,24,1389,2327,300,1,213
 4/29/20,Kyrgyzstan,729,8,437,284,21,0,21
 4/29/20,Laos,19,0,7,12,0,0,0
@@ -17387,7 +17387,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/3/20,Kazakhstan,464,6,29,429,0,-19,-790
 4/3/20,Kenya,122,4,4,114,0,-11,-125
 4/3/20,"Korea, South",10062,174,6021,3867,0,-73,-3038
-4/3/20,Kosovo,126,1,10,115,0,-21,-239
+4/3/20,Kosovo,126,1,10,115,0,-21,-222
 4/3/20,Kuwait,417,0,82,335,0,-24,-1307
 4/3/20,Kyrgyzstan,130,1,6,123,0,-7,-431
 4/3/20,Laos,10,0,0,10,0,0,-7
@@ -17575,7 +17575,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/30/20,Kazakhstan,3402,25,866,2511,2938,19,837
 4/30/20,Kenya,396,17,144,235,274,13,140
 4/30/20,"Korea, South",10774,248,9072,1454,712,74,3051
-4/30/20,Kosovo,806,22,271,513,680,21,261
+4/30/20,Kosovo,799,22,249,528,673,21,239
 4/30/20,Kuwait,4024,26,1539,2459,3607,26,1457
 4/30/20,Kyrgyzstan,746,8,462,276,616,7,456
 4/30/20,Laos,19,0,8,11,9,0,8
@@ -17763,7 +17763,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/4/20,Kazakhstan,531,5,36,490,0,-20,-830
 4/4/20,Kenya,126,4,4,118,0,-13,-140
 4/4/20,"Korea, South",10156,177,6325,3654,0,-71,-2747
-4/4/20,Kosovo,135,1,16,118,0,-21,-255
+4/4/20,Kosovo,135,1,16,118,0,-21,-233
 4/4/20,Kuwait,479,1,93,385,0,-25,-1446
 4/4/20,Kyrgyzstan,144,1,9,134,0,-7,-453
 4/4/20,Laos,10,0,0,10,0,0,-8
@@ -17951,7 +17951,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/5/20,Kazakhstan,584,6,42,536,53,1,6
 4/5/20,Kenya,142,4,4,134,16,0,0
 4/5/20,"Korea, South",10237,183,6463,3591,81,6,138
-4/5/20,Kosovo,145,1,23,121,10,0,7
+4/5/20,Kosovo,140,1,23,116,5,0,7
 4/5/20,Kuwait,556,1,99,456,77,0,6
 4/5/20,Kyrgyzstan,147,1,9,137,3,0,0
 4/5/20,Laos,11,0,0,11,1,0,0
@@ -18139,7 +18139,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/6/20,Kazakhstan,662,6,46,610,78,0,4
 4/6/20,Kenya,158,6,4,148,16,2,0
 4/6/20,"Korea, South",10284,186,6598,3500,47,3,135
-4/6/20,Kosovo,145,1,23,121,0,0,0
+4/6/20,Kosovo,145,1,23,121,5,0,0
 4/6/20,Kuwait,665,1,103,561,109,0,4
 4/6/20,Kyrgyzstan,216,4,33,179,69,3,24
 4/6/20,Laos,12,0,0,12,1,0,0
@@ -18327,7 +18327,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/7/20,Kazakhstan,697,6,51,640,35,0,5
 4/7/20,Kenya,172,6,7,159,14,0,3
 4/7/20,"Korea, South",10331,192,6694,3445,47,6,96
-4/7/20,Kosovo,170,4,24,142,25,3,1
+4/7/20,Kosovo,165,3,24,138,20,2,1
 4/7/20,Kuwait,743,1,105,637,78,0,2
 4/7/20,Kyrgyzstan,228,4,33,191,12,0,0
 4/7/20,Laos,14,0,0,14,2,0,0
@@ -18515,7 +18515,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/8/20,Kazakhstan,727,7,54,666,30,1,3
 4/8/20,Kenya,179,6,9,164,7,0,2
 4/8/20,"Korea, South",10384,200,6776,3408,53,8,82
-4/8/20,Kosovo,184,5,30,149,14,1,6
+4/8/20,Kosovo,184,5,30,149,19,2,6
 4/8/20,Kuwait,855,1,111,743,112,0,6
 4/8/20,Kyrgyzstan,270,4,33,233,42,0,0
 4/8/20,Laos,15,0,0,15,1,0,0
@@ -18703,7 +18703,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 4/9/20,Kazakhstan,781,8,60,713,54,1,6
 4/9/20,Kenya,184,7,12,165,5,1,3
 4/9/20,"Korea, South",10423,204,6973,3246,39,4,197
-4/9/20,Kosovo,184,5,30,149,0,0,0
+4/9/20,Kosovo,224,6,37,181,40,1,7
 4/9/20,Kuwait,910,1,111,798,55,0,0
 4/9/20,Kyrgyzstan,280,4,35,241,10,0,2
 4/9/20,Laos,16,0,0,16,1,0,0
@@ -18891,7 +18891,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/1/20,Kazakhstan,3597,25,922,2650,2816,17,862
 5/1/20,Kenya,411,21,150,240,227,14,138
 5/1/20,"Korea, South",10780,250,9123,1407,357,46,2150
-5/1/20,Kosovo,806,22,271,513,622,17,241
+5/1/20,Kosovo,806,22,271,513,582,16,234
 5/1/20,Kuwait,4377,30,1602,2745,3467,29,1491
 5/1/20,Kyrgyzstan,756,8,504,244,476,4,469
 5/1/20,Laos,19,0,8,11,3,0,8
@@ -19455,7 +19455,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/12/20,Kazakhstan,5279,32,2223,3024,72,0,149
 5/12/20,Kenya,715,36,259,420,15,3,8
 5/12/20,"Korea, South",10962,259,9695,1008,26,1,25
-5/12/20,Kosovo,919,29,671,219,35,1,16
+5/12/20,Kosovo,895,28,657,210,11,0,2
 5/12/20,Kuwait,10277,75,3101,7101,991,10,194
 5/12/20,Kyrgyzstan,1037,12,709,316,21,0,21
 5/12/20,Laos,19,0,13,6,0,0,0
@@ -19643,7 +19643,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/13/20,Kazakhstan,5417,32,2408,2977,138,0,185
 5/13/20,Kenya,737,40,281,416,22,4,22
 5/13/20,"Korea, South",10991,260,9762,969,29,1,67
-5/13/20,Kosovo,919,29,671,219,0,0,0
+5/13/20,Kosovo,919,29,671,219,24,1,14
 5/13/20,Kuwait,11028,82,3263,7683,751,7,162
 5/13/20,Kyrgyzstan,1044,12,726,306,7,0,17
 5/13/20,Laos,19,0,14,5,0,0,1
@@ -19831,7 +19831,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/14/20,Kazakhstan,5571,32,2531,3008,154,0,123
 5/14/20,Kenya,758,42,284,432,21,2,3
 5/14/20,"Korea, South",11018,260,9821,937,27,0,59
-5/14/20,Kosovo,944,29,690,225,25,0,19
+5/14/20,Kosovo,927,29,671,227,8,0,0
 5/14/20,Kuwait,11975,88,3451,8436,947,6,188
 5/14/20,Kyrgyzstan,1082,12,735,335,38,0,9
 5/14/20,Laos,19,0,14,5,0,0,0
@@ -20019,7 +20019,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/15/20,Kazakhstan,5689,34,2707,2948,118,2,176
 5/15/20,Kenya,781,45,284,452,23,3,0
 5/15/20,"Korea, South",11037,262,9851,924,19,2,30
-5/15/20,Kosovo,944,29,690,225,0,0,0
+5/15/20,Kosovo,945,29,690,226,18,0,19
 5/15/20,Kuwait,12860,96,3640,9124,885,8,189
 5/15/20,Kyrgyzstan,1111,14,745,352,29,2,10
 5/15/20,Laos,19,0,14,5,0,0,0
@@ -20207,7 +20207,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/16/20,Kazakhstan,5850,34,2980,2836,161,0,273
 5/16/20,Kenya,830,50,301,479,49,5,17
 5/16/20,"Korea, South",11050,262,9888,900,13,0,37
-5/16/20,Kosovo,944,29,690,225,0,0,0
+5/16/20,Kosovo,955,29,691,235,10,0,1
 5/16/20,Kuwait,13802,107,3843,9852,942,11,203
 5/16/20,Kyrgyzstan,1117,14,783,320,6,0,38
 5/16/20,Laos,19,0,14,5,0,0,0
@@ -20395,7 +20395,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/17/20,Kazakhstan,6157,34,3256,2867,307,0,276
 5/17/20,Kenya,887,50,313,524,57,0,12
 5/17/20,"Korea, South",11065,263,9904,898,15,1,16
-5/17/20,Kosovo,955,29,691,235,11,0,1
+5/17/20,Kosovo,978,29,713,236,23,0,22
 5/17/20,Kuwait,14850,112,4093,10645,1048,5,250
 5/17/20,Kyrgyzstan,1138,14,804,320,21,0,21
 5/17/20,Laos,19,0,14,5,0,0,0
@@ -20583,7 +20583,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/18/20,Kazakhstan,6751,35,3469,3247,594,1,213
 5/18/20,Kenya,912,50,336,526,25,0,23
 5/18/20,"Korea, South",11078,263,9938,877,13,0,34
-5/18/20,Kosovo,955,29,691,235,0,0,0
+5/18/20,Kosovo,985,29,736,220,7,0,23
 5/18/20,Kuwait,15691,118,4339,11234,841,6,246
 5/18/20,Kyrgyzstan,1216,14,827,375,78,0,23
 5/18/20,Laos,19,0,14,5,0,0,0
@@ -20771,7 +20771,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/19/20,Kazakhstan,6751,35,3598,3118,0,0,129
 5/19/20,Kenya,963,50,358,555,51,0,22
 5/19/20,"Korea, South",11110,263,10066,781,32,0,128
-5/19/20,Kosovo,989,29,769,191,34,0,78
+5/19/20,Kosovo,988,29,754,205,3,0,18
 5/19/20,Kuwait,16764,121,4681,11962,1073,3,342
 5/19/20,Kyrgyzstan,1243,14,898,331,27,0,71
 5/19/20,Laos,19,0,14,5,0,0,0
@@ -20959,7 +20959,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/2/20,Kazakhstan,3857,25,985,2847,0,-10,-2613
 5/2/20,Kenya,435,22,152,261,0,-28,-206
 5/2/20,"Korea, South",10793,250,9183,1360,0,-13,-883
-5/2/20,Kosovo,823,22,336,465,0,-7,-433
+5/2/20,Kosovo,813,22,298,493,0,-7,-456
 5/2/20,Kuwait,4619,33,1703,2883,0,-88,-2978
 5/2/20,Kyrgyzstan,769,8,527,234,0,-6,-371
 5/2/20,Laos,19,0,9,10,0,0,-5
@@ -21147,7 +21147,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/20/20,Kazakhstan,6969,35,3734,3200,3112,10,2749
 5/20/20,Kenya,1029,50,366,613,594,28,214
 5/20/20,"Korea, South",11122,264,10135,723,329,14,952
-5/20/20,Kosovo,989,29,769,191,166,7,433
+5/20/20,Kosovo,989,29,769,191,176,7,471
 5/20/20,Kuwait,17568,124,4885,12559,12949,91,3182
 5/20/20,Kyrgyzstan,1270,14,910,346,501,6,383
 5/20/20,Laos,19,0,14,5,0,0,5
@@ -22839,7 +22839,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/29/20,Kazakhstan,9932,37,5057,4838,356,0,157
 5/29/20,Kenya,1745,62,438,1245,127,4,17
 5/29/20,"Korea, South",11441,269,10398,774,39,0,35
-5/29/20,Kosovo,1048,30,801,217,0,0,0
+5/29/20,Kosovo,1052,30,820,202,4,0,19
 5/29/20,Kuwait,25184,194,9273,15717,1072,9,575
 5/29/20,Kyrgyzstan,1662,16,1088,558,68,0,22
 5/29/20,Laos,19,0,16,3,0,0,0
@@ -23027,7 +23027,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/3/20,Kazakhstan,3920,27,1084,2809,0,-10,-3973
 5/3/20,Kenya,465,24,167,274,0,-38,-271
 5/3/20,"Korea, South",10801,252,9217,1332,0,-17,-1181
-5/3/20,Kosovo,851,22,381,448,0,-8,-420
+5/3/20,Kosovo,823,22,336,465,0,-8,-484
 5/3/20,Kuwait,4983,38,1776,3169,0,-156,-7497
 5/3/20,Kyrgyzstan,795,10,564,221,0,-6,-524
 5/3/20,Laos,19,0,9,10,0,0,-7
@@ -23215,7 +23215,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/30/20,Kazakhstan,10382,38,5220,5124,6462,11,4136
 5/30/20,Kenya,1888,63,464,1361,1423,39,297
 5/30/20,"Korea, South",11468,270,10405,793,667,18,1188
-5/30/20,Kosovo,1064,30,829,205,213,8,448
+5/30/20,Kosovo,1064,30,829,205,241,8,493
 5/30/20,Kuwait,26192,205,10156,15831,21209,167,8380
 5/30/20,Kyrgyzstan,1722,16,1113,593,927,6,549
 5/30/20,Laos,19,0,16,3,0,0,7
@@ -23403,7 +23403,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/31/20,Kazakhstan,10858,40,5404,5414,476,2,184
 5/31/20,Kenya,1962,64,478,1420,74,1,14
 5/31/20,"Korea, South",11503,271,10422,810,35,1,17
-5/31/20,Kosovo,1064,30,829,205,0,0,0
+5/31/20,Kosovo,1070,30,841,199,6,0,12
 5/31/20,Kuwait,27043,212,11386,15445,851,7,1230
 5/31/20,Kyrgyzstan,1748,16,1170,562,26,0,57
 5/31/20,Laos,19,0,16,3,0,0,0
@@ -23591,7 +23591,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/4/20,Kazakhstan,4049,29,1173,2847,0,-11,-4231
 5/4/20,Kenya,490,24,173,293,0,-40,-305
 5/4/20,"Korea, South",10804,254,9283,1267,0,-17,-1139
-5/4/20,Kosovo,855,26,403,426,0,-4,-426
+5/4/20,Kosovo,851,22,381,448,0,-8,-460
 5/4/20,Kuwait,5278,40,1947,3291,0,-172,-9439
 5/4/20,Kyrgyzstan,830,10,575,245,0,-6,-595
 5/4/20,Laos,19,0,9,10,0,0,-7
@@ -23779,7 +23779,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/5/20,Kazakhstan,4205,29,1279,2897,156,0,106
 5/5/20,Kenya,535,24,182,329,45,0,9
 5/5/20,"Korea, South",10806,255,9333,1218,2,1,50
-5/5/20,Kosovo,856,26,490,340,1,0,87
+5/5/20,Kosovo,855,26,403,426,4,4,22
 5/5/20,Kuwait,5804,40,2032,3732,526,0,85
 5/5/20,Kyrgyzstan,843,11,600,232,13,1,25
 5/5/20,Laos,19,0,9,10,0,0,0
@@ -23967,7 +23967,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/6/20,Kazakhstan,4422,30,1408,2984,217,1,129
 5/6/20,Kenya,582,26,190,366,47,2,8
 5/6/20,"Korea, South",10810,256,9419,1135,4,1,86
-5/6/20,Kosovo,856,26,490,340,0,0,0
+5/6/20,Kosovo,856,26,490,340,1,0,87
 5/6/20,Kuwait,6289,42,2219,4028,485,2,187
 5/6/20,Kyrgyzstan,871,12,614,245,28,1,14
 5/6/20,Laos,19,0,10,9,0,0,1
@@ -24155,7 +24155,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/7/20,Kazakhstan,4578,30,1518,3030,156,0,110
 5/7/20,Kenya,607,29,197,381,25,3,7
 5/7/20,"Korea, South",10822,256,9484,1082,12,0,65
-5/7/20,Kosovo,861,27,562,272,5,1,72
+5/7/20,Kosovo,860,26,533,301,4,0,43
 5/7/20,Kuwait,6567,44,2381,4142,278,2,162
 5/7/20,Kyrgyzstan,895,12,637,246,24,0,23
 5/7/20,Laos,19,0,9,10,0,0,-1
@@ -24343,7 +24343,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/8/20,Kazakhstan,4834,31,1631,3172,256,1,113
 5/8/20,Kenya,621,29,202,390,14,0,5
 5/8/20,"Korea, South",10840,256,9568,1016,18,0,84
-5/8/20,Kosovo,861,27,562,272,0,0,0
+5/8/20,Kosovo,861,27,561,273,1,1,28
 5/8/20,Kuwait,7208,47,2466,4695,641,3,85
 5/8/20,Kyrgyzstan,906,12,650,244,11,0,13
 5/8/20,Laos,19,0,9,10,0,0,0
@@ -24531,7 +24531,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 5/9/20,Kazakhstan,4975,31,1776,3168,141,0,145
 5/9/20,Kenya,649,30,207,412,28,1,5
 5/9/20,"Korea, South",10874,256,9610,1008,34,0,42
-5/9/20,Kosovo,862,28,622,212,1,1,60
+5/9/20,Kosovo,862,28,622,212,1,1,61
 5/9/20,Kuwait,7623,49,2622,4952,415,2,156
 5/9/20,Kyrgyzstan,931,12,658,261,25,0,8
 5/9/20,Laos,19,0,13,6,0,0,4
@@ -24719,7 +24719,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/1/20,Kazakhstan,11308,41,5587,5680,6333,10,3811
 6/1/20,Kenya,2021,69,482,1470,1372,39,275
 6/1/20,"Korea, South",11541,272,10446,823,667,16,836
-6/1/20,Kosovo,1064,30,829,205,202,2,207
+6/1/20,Kosovo,1083,30,843,210,221,2,221
 6/1/20,Kuwait,27762,220,12899,14643,20139,171,10277
 6/1/20,Kyrgyzstan,1817,16,1181,620,886,4,523
 6/1/20,Laos,19,0,16,3,0,0,3
@@ -24907,7 +24907,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/10/20,Kazakhstan,13319,67,8345,4907,2011,26,2758
 6/10/20,Kenya,3094,89,1048,1957,1073,20,566
 6/10/20,"Korea, South",11947,276,10654,1017,406,4,208
-6/10/20,Kosovo,1298,31,913,354,234,1,84
+6/10/20,Kosovo,1269,31,912,326,186,1,69
 6/10/20,Kuwait,33823,275,23288,10260,6061,55,10389
 6/10/20,Kyrgyzstan,2093,26,1572,495,276,10,391
 6/10/20,Laos,19,0,19,0,0,0,3
@@ -25095,7 +25095,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/11/20,Kazakhstan,13872,67,8593,5212,553,0,248
 6/11/20,Kenya,3215,92,1092,2031,121,3,44
 6/11/20,"Korea, South",12003,277,10669,1057,56,1,15
-6/11/20,Kosovo,1326,31,921,374,28,0,8
+6/11/20,Kosovo,1298,31,913,354,29,0,1
 6/11/20,Kuwait,34432,279,24137,10016,609,4,849
 6/11/20,Kyrgyzstan,2166,26,1668,472,73,0,96
 6/11/20,Laos,19,0,19,0,0,0,0
@@ -25283,7 +25283,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/12/20,Kazakhstan,13872,70,8829,4973,0,3,236
 6/12/20,Kenya,3305,96,1164,2045,90,4,72
 6/12/20,"Korea, South",12051,277,10691,1083,48,0,22
-6/12/20,Kosovo,1326,31,921,374,0,0,0
+6/12/20,Kosovo,1326,31,921,374,28,0,8
 6/12/20,Kuwait,34952,285,25048,9619,520,6,911
 6/12/20,Kyrgyzstan,2166,26,1668,472,0,0,0
 6/12/20,Laos,19,0,19,0,0,0,0
@@ -25471,7 +25471,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/13/20,Kazakhstan,14238,73,8829,5336,366,3,0
 6/13/20,Kenya,3457,100,1221,2136,152,4,57
 6/13/20,"Korea, South",12085,277,10718,1090,34,0,27
-6/13/20,Kosovo,1437,32,928,477,111,1,7
+6/13/20,Kosovo,1384,31,921,432,58,0,0
 6/13/20,Kuwait,35466,289,25882,9295,514,4,834
 6/13/20,Kyrgyzstan,2207,27,1722,458,41,1,54
 6/13/20,Laos,19,0,19,0,0,0,0
@@ -25659,7 +25659,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/14/20,Kazakhstan,14496,77,9188,5231,258,4,359
 6/14/20,Kenya,3594,103,1253,2238,137,3,32
 6/14/20,"Korea, South",12121,277,10730,1114,36,0,12
-6/14/20,Kosovo,1437,32,928,477,0,0,0
+6/14/20,Kosovo,1437,32,928,477,53,1,7
 6/14/20,Kuwait,35920,296,26759,8865,454,7,877
 6/14/20,Kyrgyzstan,2285,27,1791,467,78,0,69
 6/14/20,Laos,19,0,19,0,0,0,0
@@ -26035,7 +26035,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/16/20,Kazakhstan,15542,88,9647,5807,350,7,259
 6/16/20,Kenya,3860,105,1328,2427,133,1,42
 6/16/20,"Korea, South",12198,279,10774,1145,43,1,14
-6/16/20,Kosovo,1486,33,953,500,0,0,0
+6/16/20,Kosovo,1615,33,963,619,129,0,10
 6/16/20,Kuwait,36958,303,28206,8449,527,5,675
 6/16/20,Kyrgyzstan,2562,30,1902,630,90,2,55
 6/16/20,Laos,19,0,19,0,0,0,0
@@ -26223,7 +26223,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/17/20,Kazakhstan,15877,97,9920,5860,335,9,273
 6/17/20,Kenya,4044,107,1353,2584,184,2,25
 6/17/20,"Korea, South",12257,280,10800,1177,59,1,26
-6/17/20,Kosovo,1486,33,953,500,0,0,0
+6/17/20,Kosovo,1756,34,968,754,141,1,5
 6/17/20,Kuwait,37533,306,28896,8331,575,3,690
 6/17/20,Kyrgyzstan,2657,31,1933,693,95,1,31
 6/17/20,Laos,19,0,19,0,0,0,0
@@ -26411,7 +26411,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/18/20,Kazakhstan,15877,100,10065,5712,0,3,145
 6/18/20,Kenya,4257,117,1459,2681,213,10,106
 6/18/20,"Korea, South",12306,280,10835,1191,49,0,35
-6/18/20,Kosovo,1486,33,953,500,0,0,0
+6/18/20,Kosovo,1833,34,968,831,77,0,0
 6/18/20,Kuwait,38074,308,29512,8254,541,2,616
 6/18/20,Kyrgyzstan,2657,31,1933,693,0,0,0
 6/18/20,Laos,19,0,19,0,0,0,0
@@ -26599,7 +26599,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/19/20,Kazakhstan,16779,113,10411,6255,902,13,346
 6/19/20,Kenya,4374,119,1550,2705,117,2,91
 6/19/20,"Korea, South",12373,280,10856,1237,67,0,21
-6/19/20,Kosovo,1486,33,953,500,0,0,0
+6/19/20,Kosovo,1916,34,973,909,83,0,5
 6/19/20,Kuwait,38678,313,30190,8175,604,5,678
 6/19/20,Kyrgyzstan,2789,32,1961,796,132,1,28
 6/19/20,Laos,19,0,19,0,0,0,0
@@ -26787,7 +26787,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/2/20,Kazakhstan,11571,44,5941,5586,0,-69,-4470
 6/2/20,Kenya,2093,71,499,1523,0,-48,-1051
 6/2/20,"Korea, South",11590,273,10467,850,0,-7,-389
-6/2/20,Kosovo,1064,30,829,205,0,-3,-124
+6/2/20,Kosovo,1110,30,843,237,0,-4,-130
 6/2/20,Kuwait,28649,226,14281,14142,0,-87,-15909
 6/2/20,Kyrgyzstan,1845,17,1219,609,0,-15,-742
 6/2/20,Laos,19,0,16,3,0,0,-3
@@ -26975,7 +26975,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/20/20,Kazakhstan,17225,118,10671,6436,5654,74,4730
 6/20/20,Kenya,4478,121,1586,2771,2385,50,1087
 6/20/20,"Korea, South",12421,280,10868,1273,831,7,401
-6/20/20,Kosovo,1486,33,953,500,422,3,124
+6/20/20,Kosovo,1998,34,980,984,888,4,137
 6/20/20,Kuwait,39145,319,30726,8100,10496,93,16445
 6/20/20,Kyrgyzstan,2981,35,1981,965,1136,18,762
 6/20/20,Laos,19,0,19,0,0,0,3
@@ -27163,7 +27163,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/21/20,Kazakhstan,17732,120,10897,6715,507,2,226
 6/21/20,Kenya,4738,123,1607,3008,260,2,21
 6/21/20,"Korea, South",12438,280,10881,1277,17,0,13
-6/21/20,Kosovo,1486,33,953,500,0,0,0
+6/21/20,Kosovo,2073,35,1018,1020,75,1,38
 6/21/20,Kuwait,39650,326,31240,8084,505,7,514
 6/21/20,Kyrgyzstan,3356,40,2021,1295,375,5,40
 6/21/20,Laos,19,0,19,0,0,0,0
@@ -27351,7 +27351,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/22/20,Kazakhstan,18231,127,11158,6946,499,7,261
 6/22/20,Kenya,4797,125,1680,2992,59,2,73
 6/22/20,"Korea, South",12484,281,10908,1295,46,1,27
-6/22/20,Kosovo,2169,37,1047,1085,683,4,94
+6/22/20,Kosovo,2169,36,1047,1086,96,1,29
 6/22/20,Kuwait,40291,330,31770,8191,641,4,530
 6/22/20,Kyrgyzstan,3356,40,2021,1295,0,0,0
 6/22/20,Laos,19,0,19,0,0,0,0
@@ -27539,7 +27539,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/23/20,Kazakhstan,18765,134,11514,7117,534,7,356
 6/23/20,Kenya,4952,128,1782,3042,155,3,102
 6/23/20,"Korea, South",12535,281,10930,1324,51,0,22
-6/23/20,Kosovo,2169,37,1047,1085,0,0,0
+6/23/20,Kosovo,2216,37,1069,1110,47,1,22
 6/23/20,Kuwait,41033,334,32304,8395,742,4,534
 6/23/20,Kyrgyzstan,3726,42,2082,1602,370,2,61
 6/23/20,Laos,19,0,19,0,0,0,0
@@ -27727,7 +27727,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/24/20,Kazakhstan,19285,136,11882,7267,520,2,368
 6/24/20,Kenya,5206,130,1823,3253,254,2,41
 6/24/20,"Korea, South",12563,282,10974,1307,28,1,44
-6/24/20,Kosovo,2169,37,1047,1085,0,0,0
+6/24/20,Kosovo,2268,38,1108,1122,52,1,39
 6/24/20,Kuwait,41879,337,32809,8733,846,3,505
 6/24/20,Kyrgyzstan,3954,43,2112,1799,228,1,30
 6/24/20,Laos,19,0,19,0,0,0,0
@@ -27915,7 +27915,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/25/20,Kazakhstan,19750,140,12220,7390,465,4,338
 6/25/20,Kenya,5384,132,1857,3395,178,2,34
 6/25/20,"Korea, South",12602,282,11172,1148,39,0,198
-6/25/20,Kosovo,2169,37,1047,1085,0,0,0
+6/25/20,Kosovo,2363,40,1171,1152,95,2,63
 6/25/20,Kuwait,42788,339,33367,9082,909,2,558
 6/25/20,Kyrgyzstan,4204,43,2162,1999,250,0,50
 6/25/20,Laos,19,0,19,0,0,0,0
@@ -28103,7 +28103,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/26/20,Kazakhstan,20319,150,12548,7621,569,10,328
 6/26/20,Kenya,5533,137,1905,3491,149,5,48
 6/26/20,"Korea, South",12653,282,11317,1054,51,0,145
-6/26/20,Kosovo,2169,37,1047,1085,0,0,0
+6/26/20,Kosovo,2432,42,1246,1144,69,2,75
 6/26/20,Kuwait,43703,341,33969,9393,915,2,602
 6/26/20,Kyrgyzstan,4446,46,2194,2206,242,3,32
 6/26/20,Laos,19,0,19,0,0,0,0
@@ -28291,7 +28291,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/27/20,Kazakhstan,20319,166,12738,7415,0,16,190
 6/27/20,Kenya,5811,141,1936,3734,278,4,31
 6/27/20,"Korea, South",12715,282,11364,1069,62,0,47
-6/27/20,Kosovo,2169,37,1047,1085,0,0,0
+6/27/20,Kosovo,2494,44,1307,1143,62,2,61
 6/27/20,Kuwait,44391,344,34586,9461,688,3,617
 6/27/20,Kyrgyzstan,4513,46,2212,2255,67,0,18
 6/27/20,Laos,19,0,19,0,0,0,0
@@ -28479,7 +28479,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/28/20,Kazakhstan,21327,178,12933,8216,1008,12,195
 6/28/20,Kenya,6070,143,1971,3956,259,2,35
 6/28/20,"Korea, South",12757,282,11429,1046,42,0,65
-6/28/20,Kosovo,2169,37,1047,1085,0,0,0
+6/28/20,Kosovo,2590,48,1394,1148,96,4,87
 6/28/20,Kuwait,44942,348,35494,9100,551,4,908
 6/28/20,Kyrgyzstan,5017,50,2294,2673,504,4,82
 6/28/20,Laos,19,0,19,0,0,0,0
@@ -28667,7 +28667,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/29/20,Kazakhstan,21819,188,13008,8623,492,10,75
 6/29/20,Kenya,6190,144,2013,4033,120,1,42
 6/29/20,"Korea, South",12800,282,11537,981,43,0,108
-6/29/20,Kosovo,2677,49,1425,1203,508,12,378
+6/29/20,Kosovo,2677,49,1425,1203,87,1,31
 6/29/20,Kuwait,45524,350,36313,8861,582,2,819
 6/29/20,Kyrgyzstan,5296,57,2370,2869,279,7,76
 6/29/20,Laos,19,0,19,0,0,0,0
@@ -28855,7 +28855,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/3/20,Kazakhstan,12067,48,6240,5779,0,-140,-6768
 6/3/20,Kenya,2216,74,553,1589,0,-70,-1460
 6/3/20,"Korea, South",11629,273,10499,857,0,-9,-1038
-6/3/20,Kosovo,1142,30,871,241,0,-19,-554
+6/3/20,Kosovo,1123,30,847,246,0,-19,-578
 6/3/20,Kuwait,29359,230,15750,13379,0,-120,-20563
 6/3/20,Kyrgyzstan,1871,20,1265,586,0,-37,-1105
 6/3/20,Laos,19,0,18,1,0,0,-1
@@ -29043,7 +29043,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/30/20,Kazakhstan,22308,188,13558,8562,10241,140,7318
 6/30/20,Kenya,6366,148,2039,4179,4150,74,1486
 6/30/20,"Korea, South",12850,282,11613,955,1221,9,1114
-6/30/20,Kosovo,2878,51,1577,1250,1736,21,706
+6/30/20,Kosovo,2799,49,1506,1244,1676,19,659
 6/30/20,Kuwait,46195,354,37030,8811,16836,124,21280
 6/30/20,Kyrgyzstan,5506,61,2443,3002,3635,41,1178
 6/30/20,Laos,19,0,19,0,0,0,1
@@ -29231,7 +29231,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/4/20,Kazakhstan,12067,52,6606,5409,0,-136,-6952
 6/4/20,Kenya,2340,78,592,1670,0,-70,-1447
 6/4/20,"Korea, South",11668,273,10506,889,0,-9,-1107
-6/4/20,Kosovo,1142,30,871,241,0,-21,-706
+6/4/20,Kosovo,1142,30,871,241,0,-19,-635
 6/4/20,Kuwait,29921,236,17223,12462,0,-118,-19807
 6/4/20,Kyrgyzstan,1899,20,1292,587,0,-41,-1151
 6/4/20,Laos,19,0,18,1,0,0,-1
@@ -29419,7 +29419,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/5/20,Kazakhstan,12312,52,6903,5357,245,0,297
 6/5/20,Kenya,2474,79,643,1752,134,1,51
 6/5/20,"Korea, South",11719,273,10531,915,51,0,25
-6/5/20,Kosovo,1142,30,871,241,0,0,0
+6/5/20,Kosovo,1147,30,874,243,5,0,3
 6/5/20,Kuwait,30644,244,18277,12123,723,8,1054
 6/5/20,Kyrgyzstan,1936,22,1340,574,37,2,48
 6/5/20,Laos,19,0,18,1,0,0,0
@@ -29607,7 +29607,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/6/20,Kazakhstan,12511,53,7135,5323,199,1,232
 6/6/20,Kenya,2600,83,706,1811,126,4,63
 6/6/20,"Korea, South",11776,273,10552,951,57,0,21
-6/6/20,Kosovo,1142,30,871,241,0,0,0
+6/6/20,Kosovo,1158,30,876,252,11,0,2
 6/6/20,Kuwait,31131,254,19282,11595,487,10,1005
 6/6/20,Kyrgyzstan,1974,22,1360,592,38,0,20
 6/6/20,Laos,19,0,18,1,0,0,0
@@ -29795,7 +29795,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/7/20,Kazakhstan,12694,56,7376,5262,183,3,241
 6/7/20,Kenya,2767,84,752,1931,167,1,46
 6/7/20,"Korea, South",11814,273,10563,978,38,0,11
-6/7/20,Kosovo,1142,30,871,241,0,0,0
+6/7/20,Kosovo,1194,30,884,280,36,0,8
 6/7/20,Kuwait,31848,264,20205,11379,717,10,923
 6/7/20,Kyrgyzstan,2007,22,1425,560,33,0,65
 6/7/20,Laos,19,0,18,1,0,0,0
@@ -29983,7 +29983,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/8/20,Kazakhstan,12859,56,7376,5427,165,0,0
 6/8/20,Kenya,2872,85,849,1938,105,1,97
 6/8/20,"Korea, South",11852,274,10589,989,38,1,26
-6/8/20,Kosovo,1263,31,912,320,121,1,41
+6/8/20,Kosovo,1234,31,890,313,40,1,6
 6/8/20,Kuwait,32510,269,21242,10999,662,5,1037
 6/8/20,Kyrgyzstan,2032,23,1445,564,25,1,20
 6/8/20,Laos,19,0,18,1,0,0,0
@@ -30171,7 +30171,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 6/9/20,Kazakhstan,13074,61,8015,4998,215,5,639
 6/9/20,Kenya,2989,88,873,2028,117,3,24
 6/9/20,"Korea, South",11902,276,10611,1015,50,2,22
-6/9/20,Kosovo,1263,31,912,320,0,0,0
+6/9/20,Kosovo,1263,31,912,320,29,0,22
 6/9/20,Kuwait,33140,273,22162,10705,630,4,920
 6/9/20,Kyrgyzstan,2055,24,1483,548,23,1,38
 6/9/20,Laos,19,0,19,0,0,0,1
@@ -30359,7 +30359,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/1/20,Kazakhstan,41065,188,14059,26818,27991,127,6044
 7/1/20,Kenya,6673,149,2089,4435,3684,61,1216
 7/1/20,"Korea, South",12904,282,11684,938,1002,6,1073
-7/1/20,Kosovo,2991,54,1644,1293,1728,23,732
+7/1/20,Kosovo,2878,51,1577,1250,1615,20,665
 7/1/20,Kuwait,46940,358,37715,8867,13800,85,15553
 7/1/20,Kyrgyzstan,6261,66,2530,3665,4206,42,1047
 7/1/20,Laos,19,0,19,0,0,0,0
@@ -30547,7 +30547,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/10/20,Kazakhstan,56455,264,32500,23691,15390,76,18441
 7/10/20,Kenya,9448,181,2733,6534,2775,32,644
 7/10/20,"Korea, South",13373,288,12144,941,469,6,460
-7/10/20,Kosovo,4307,94,2095,2118,1316,40,451
+7/10/20,Kosovo,4307,94,2095,2118,1429,43,518
 7/10/20,Kuwait,53580,383,43214,9983,6640,25,5499
 7/10/20,Kyrgyzstan,9910,125,3236,6549,3649,59,706
 7/10/20,Laos,19,0,19,0,0,0,0
@@ -30735,7 +30735,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/11/20,Kazakhstan,58253,264,33814,24175,1798,0,1314
 7/11/20,Kenya,9726,184,2832,6710,278,3,99
 7/11/20,"Korea, South",13417,289,12178,950,44,1,34
-7/11/20,Kosovo,4715,101,2227,2387,408,7,132
+7/11/20,Kosovo,4512,97,2156,2259,205,3,61
 7/11/20,Kuwait,54058,386,43961,9711,478,3,747
 7/11/20,Kyrgyzstan,10410,129,3253,7028,500,4,17
 7/11/20,Laos,19,0,19,0,0,0,0
@@ -30923,7 +30923,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/12/20,Kazakhstan,58253,375,33814,24064,0,111,0
 7/12/20,Kenya,10105,185,2881,7039,379,1,49
 7/12/20,"Korea, South",13479,289,12204,986,62,0,26
-7/12/20,Kosovo,4931,102,2267,2562,216,1,40
+7/12/20,Kosovo,4715,101,2227,2387,203,4,71
 7/12/20,Kuwait,54894,390,44610,9894,836,4,649
 7/12/20,Kyrgyzstan,11117,147,3460,7510,707,18,207
 7/12/20,Laos,19,0,19,0,0,0,0
@@ -31111,7 +31111,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/13/20,Kazakhstan,61755,375,35911,25469,3502,0,2097
 7/13/20,Kenya,10294,197,2946,7151,189,12,65
 7/13/20,"Korea, South",13512,289,12282,941,33,0,78
-7/13/20,Kosovo,5118,108,2370,2640,187,6,103
+7/13/20,Kosovo,4931,102,2267,2562,216,1,40
 7/13/20,Kuwait,55508,393,45356,9759,614,3,746
 7/13/20,Kyrgyzstan,11444,149,3538,7757,327,2,78
 7/13/20,Laos,19,0,19,0,0,0,0
@@ -31299,7 +31299,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/14/20,Kazakhstan,63514,375,38008,25131,1759,0,2097
 7/14/20,Kenya,10791,202,3017,7572,497,5,71
 7/14/20,"Korea, South",13551,289,12348,914,39,0,66
-7/14/20,Kosovo,5118,108,2370,2640,0,0,0
+7/14/20,Kosovo,5118,108,2370,2640,187,6,103
 7/14/20,Kuwait,56174,396,46161,9617,666,3,805
 7/14/20,Kyrgyzstan,11444,149,3538,7757,0,0,0
 7/14/20,Laos,19,0,19,0,0,0,0
@@ -31675,7 +31675,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/16/20,Kazakhstan,66895,375,40256,26264,1707,0,1190
 7/16/20,Kenya,11673,217,3638,7818,421,8,570
 7/16/20,"Korea, South",13672,293,12460,919,60,2,64
-7/16/20,Kosovo,5237,112,2462,2663,0,0,0
+7/16/20,Kosovo,5369,118,2545,2706,132,6,83
 7/16/20,Kuwait,57668,402,47545,9721,791,3,648
 7/16/20,Kyrgyzstan,12498,167,3735,8596,216,2,23
 7/16/20,Laos,19,0,19,0,0,0,0
@@ -31863,7 +31863,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/17/20,Kazakhstan,68703,375,40256,28072,1808,0,0
 7/17/20,Kenya,12062,222,3983,7857,389,5,345
 7/17/20,"Korea, South",13711,294,12519,898,39,1,59
-7/17/20,Kosovo,5472,124,2640,2708,235,12,178
+7/17/20,Kosovo,5472,124,2640,2708,103,6,95
 7/17/20,Kuwait,58221,404,48381,9436,553,2,836
 7/17/20,Kyrgyzstan,13101,173,3821,9107,603,6,86
 7/17/20,Laos,19,0,19,0,0,0,0
@@ -32427,7 +32427,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/2/20,Kazakhstan,42574,188,14777,27609,0,-187,-28252
 7/2/20,Kenya,6941,152,2109,4680,0,-82,-3013
 7/2/20,"Korea, South",12967,282,11759,926,0,-14,-813
-7/2/20,Kosovo,3064,55,1707,1302,0,-80,-1261
+7/2/20,Kosovo,2991,54,1644,1293,0,-81,-1324
 7/2/20,Kuwait,47859,359,38390,9110,0,-49,-11297
 7/2/20,Kyrgyzstan,6767,76,2655,4036,0,-961,-10454
 7/2/20,Laos,19,0,19,0,0,0,0
@@ -32615,7 +32615,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/20/20,Kazakhstan,73468,585,43401,29482,30894,397,28624
 7/20/20,Kenya,13771,238,5616,7917,6830,86,3507
 7/20/20,"Korea, South",13816,296,12643,877,849,14,884
-7/20/20,Kosovo,5877,139,3069,2669,2813,84,1362
+7/20/20,Kosovo,5877,139,3069,2669,2886,85,1425
 7/20/20,Kuwait,59763,408,50339,9016,11904,49,11949
 7/20/20,Kyrgyzstan,27143,1037,13109,12997,20376,961,10454
 7/20/20,Laos,19,0,19,0,0,0,0
@@ -32803,7 +32803,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/21/20,Kazakhstan,75153,585,46790,27778,1685,0,3389
 7/21/20,Kenya,14168,250,6258,7660,397,12,642
 7/21/20,"Korea, South",13879,297,12698,884,63,1,55
-7/21/20,Kosovo,5877,139,3069,2669,0,0,0
+7/21/20,Kosovo,6045,144,3226,2675,168,5,157
 7/21/20,Kuwait,60434,412,50919,9103,671,4,580
 7/21/20,Kyrgyzstan,28251,1079,14776,12396,1108,42,1667
 7/21/20,Laos,19,0,19,0,0,0,0
@@ -32991,7 +32991,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/22/20,Kazakhstan,75153,585,46790,27778,0,0,0
 7/22/20,Kenya,14805,260,6757,7788,637,10,499
 7/22/20,"Korea, South",13938,297,12758,883,59,0,60
-7/22/20,Kosovo,6286,150,3369,2767,409,11,300
+7/22/20,Kosovo,6286,150,3369,2767,241,6,143
 7/22/20,Kuwait,61185,417,51520,9248,751,5,601
 7/22/20,Kyrgyzstan,28980,1111,15536,12333,729,32,760
 7/22/20,Laos,19,0,19,0,0,0,0
@@ -33743,7 +33743,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/26/20,Kazakhstan,83122,585,52571,29966,1402,0,748
 7/26/20,Kenya,17603,280,7743,9580,960,2,169
 7/26/20,"Korea, South",14175,299,12905,971,25,1,15
-7/26/20,Kosovo,6917,169,3753,2995,0,0,0
+7/26/20,Kosovo,7137,177,3874,3086,220,8,121
 7/26/20,Kuwait,63773,433,54373,8967,464,4,766
 7/26/20,Kyrgyzstan,32813,1277,20388,11148,689,28,1185
 7/26/20,Laos,20,0,19,1,0,0,0
@@ -33931,7 +33931,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/27/20,Kazakhstan,84648,585,54404,29659,1526,0,1833
 7/27/20,Kenya,17975,285,7833,9857,372,5,90
 7/27/20,"Korea, South",14203,300,13007,896,28,1,102
-7/27/20,Kosovo,7413,185,4027,3201,496,16,274
+7/27/20,Kosovo,7413,185,4027,3201,276,8,153
 7/27/20,Kuwait,64379,438,55057,8884,606,5,684
 7/27/20,Kyrgyzstan,33296,1301,21205,10790,483,24,817
 7/27/20,Laos,20,0,19,1,0,0,0
@@ -33997,7 +33997,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/27/20,Somalia,3196,93,1543,1560,18,0,22
 7/27/20,South Africa,452529,7067,274925,170537,7096,298,9848
 7/27/20,South Sudan,2305,46,1175,1084,43,1,0
-7/27/20,Spain,272421,28432,150376,93613,0,0,0
+7/27/20,Spain,278782,28434,150376,99972,6361,2,0
 7/27/20,Sri Lanka,2805,11,2121,673,23,0,15
 7/27/20,Sudan,11424,720,5939,4765,39,3,49
 7/27/20,Suriname,1483,24,925,534,44,1,35
@@ -34013,7 +34013,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/27/20,Trinidad and Tobago,148,8,128,12,1,0,0
 7/27/20,Tunisia,1455,50,1157,248,3,0,15
 7/27/20,Turkey,227019,5630,210469,10920,919,17,982
-7/27/20,US,4290259,148011,1325804,2816444,56336,1076,27941
+7/27/20,US,4290337,148012,1325804,2816521,56414,1077,27941
 7/27/20,Uganda,1128,2,986,140,13,0,4
 7/27/20,Ukraine,67096,1636,37202,28258,835,11,317
 7/27/20,United Arab Emirates,59177,345,52510,6322,264,1,328
@@ -34027,194 +34027,382 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/27/20,Yemen,1691,483,833,375,10,4,36
 7/27/20,Zambia,4552,140,2815,1597,71,1,465
 7/27/20,Zimbabwe,2704,36,542,2126,192,2,24
-7/3/20,Afghanistan,32324,819,17331,14174,0,-450,-7867
-7/3/20,Albania,2752,72,1592,1088,0,-72,-1153
-7/3/20,Algeria,15070,937,10832,3301,0,-226,-8005
+7/28/20,Afghanistan,36368,1270,25358,9740,105,1,160
+7/28/20,Albania,4997,148,2789,2060,117,4,44
+7/28/20,Algeria,28615,1174,19233,8208,642,11,396
+7/28/20,Andorra,907,52,803,52,0,0,0
+7/28/20,Angola,1000,47,266,687,50,6,24
+7/28/20,Antigua and Barbuda,86,3,65,18,0,0,0
+7/28/20,Argentina,173355,3179,75083,95093,5939,120,2508
+7/28/20,Armenia,37629,719,27357,9553,239,8,692
+7/28/20,Australia,15582,176,9617,5789,279,9,306
+7/28/20,Austria,20677,713,18379,1585,119,0,133
+7/28/20,Azerbaijan,30858,430,23873,6555,412,7,631
+7/28/20,Bahamas,447,11,91,345,65,0,0
+7/28/20,Bahrain,39921,141,36531,3249,439,0,421
+7/28/20,Bangladesh,229185,3000,127414,98771,2960,35,1731
+7/28/20,Barbados,110,7,94,9,0,0,0
+7/28/20,Belarus,67366,543,60669,6154,115,5,177
+7/28/20,Belgium,66662,9833,17476,39353,234,11,24
+7/28/20,Belize,48,2,27,19,0,0,1
+7/28/20,Benin,1770,35,1036,699,0,0,0
+7/28/20,Bhutan,99,0,86,13,0,0,0
+7/28/20,Bolivia,72327,2720,21971,47636,1146,73,493
+7/28/20,Bosnia and Herzegovina,10766,297,5220,5249,268,3,290
+7/28/20,Botswana,739,2,63,674,0,0,0
+7/28/20,Brazil,2483191,88539,1868749,525903,40816,921,22108
+7/28/20,Brunei,141,3,138,0,0,0,0
+7/28/20,Bulgaria,10871,355,5766,4750,250,8,181
+7/28/20,Burkina Faso,1105,53,926,126,5,0,0
+7/28/20,Burma,351,6,293,52,1,0,1
+7/28/20,Burundi,378,1,301,76,0,0,0
+7/28/20,Cabo Verde,2354,22,1616,716,26,0,66
+7/28/20,Cambodia,226,0,147,79,0,0,0
+7/28/20,Cameroon,17179,391,14539,2249,69,0,0
+7/28/20,Canada,116871,8957,101686,6228,400,12,239
+7/28/20,Central African Republic,4599,59,1546,2994,0,0,0
+7/28/20,Chad,926,75,810,41,4,0,0
+7/28/20,Chile,349800,9240,322332,18228,1877,53,2378
+7/28/20,China,86990,4657,80517,1816,207,1,51
+7/28/20,Colombia,267385,9074,136690,121621,10284,297,5529
+7/28/20,Comoros,354,7,328,19,0,0,0
+7/28/20,Congo (Brazzaville),3200,54,829,2317,0,0,0
+7/28/20,Congo (Kinshasa),8873,208,5930,2735,29,0,230
+7/28/20,Costa Rica,16344,125,3920,12299,503,10,96
+7/28/20,Cote d'Ivoire,15713,98,10537,5078,58,2,176
+7/28/20,Croatia,4923,140,4034,749,42,1,98
+7/28/20,Cuba,2555,87,2352,116,23,0,1
+7/28/20,Cyprus,1067,19,852,196,7,0,0
+7/28/20,Czechia,15799,374,11428,3997,283,1,0
+7/28/20,Denmark,13811,613,12652,546,36,0,34
+7/28/20,Diamond Princess,712,13,651,48,0,0,0
+7/28/20,Djibouti,5068,58,4992,18,9,0,15
+7/28/20,Dominica,18,0,18,0,0,0,0
+7/28/20,Dominican Republic,64690,1101,32014,31575,534,18,1810
+7/28/20,Ecuador,82279,5584,35283,41412,1118,52,387
+7/28/20,Egypt,92947,4691,35959,52297,465,39,1121
+7/28/20,El Salvador,15446,417,7903,7126,411,9,125
+7/28/20,Equatorial Guinea,3071,51,842,2178,0,0,0
+7/28/20,Eritrea,265,0,191,74,0,0,0
+7/28/20,Estonia,2038,69,1924,45,4,0,1
+7/28/20,Eswatini,2404,39,1025,1340,88,5,0
+7/28/20,Ethiopia,15200,239,6526,8435,653,11,140
+7/28/20,Fiji,27,0,18,9,0,0,0
+7/28/20,Finland,7404,329,6920,155,6,0,0
+7/28/20,France,221077,30226,81441,109410,725,14,229
+7/28/20,Gabon,7189,49,4682,2458,0,0,0
+7/28/20,Gambia,326,8,66,252,0,0,0
+7/28/20,Georgia,1145,16,927,202,8,0,5
+7/28/20,Germany,207707,9131,190711,7865,595,6,397
+7/28/20,Ghana,34406,168,30621,3617,782,0,820
+7/28/20,Greece,4279,203,1374,2702,52,1,0
+7/28/20,Grenada,23,0,23,0,0,0,0
+7/28/20,Guatemala,46451,1782,33494,11175,1142,21,1039
+7/28/20,Guinea,7126,46,6312,768,71,1,55
+7/28/20,Guinea-Bissau,1954,26,803,1125,0,0,0
+7/28/20,Guyana,396,20,181,195,7,0,0
+7/28/20,Haiti,7340,158,4365,2817,0,0,0
+7/28/20,Holy See,12,0,12,0,0,0,0
+7/28/20,Honduras,40460,1214,5103,34143,719,48,64
+7/28/20,Hungary,4456,596,3331,529,8,0,2
+7/28/20,Iceland,1857,10,1823,24,3,0,0
+7/28/20,India,1483156,33425,952743,496988,3083,17,1577
+7/28/20,Indonesia,102051,4901,60539,36611,1748,63,2366
+7/28/20,Iran,296273,16147,257019,23107,2667,235,1875
+7/28/20,Iraq,115332,4535,81062,29735,2747,77,3918
+7/28/20,Ireland,25929,1764,23364,801,37,0,0
+7/28/20,Israel,66293,486,32182,33625,2308,12,5049
+7/28/20,Italy,246488,35123,198756,12609,202,11,163
+7/28/20,Jamaica,855,10,724,121,2,0,10
+7/28/20,Japan,32116,1001,22636,8479,974,3,666
+7/28/20,Jordan,1182,11,1042,129,6,0,1
+7/28/20,Kazakhstan,86192,793,56638,28761,1544,208,2234
+7/28/20,Kenya,18581,299,7908,10374,606,14,75
+7/28/20,"Korea, South",14251,300,13069,882,48,0,62
+7/28/20,Kosovo,7652,192,4129,3331,239,7,102
+7/28/20,Kuwait,65149,442,55681,9026,770,4,624
+7/28/20,Kyrgyzstan,33844,1329,22296,10219,548,28,1091
+7/28/20,Laos,20,0,19,1,0,0,0
+7/28/20,Latvia,1220,31,1052,137,1,0,7
+7/28/20,Lebanon,4023,54,1710,2259,141,3,1
+7/28/20,Lesotho,505,12,128,365,0,0,0
+7/28/20,Liberia,1177,72,646,459,10,0,0
+7/28/20,Libya,3017,67,579,2371,190,3,2
+7/28/20,Liechtenstein,87,1,81,5,1,0,0
+7/28/20,Lithuania,2027,80,1623,324,8,0,3
+7/28/20,Luxembourg,6375,113,4855,1407,54,1,30
+7/28/20,MS Zaandam,9,2,0,7,0,0,0
+7/28/20,Madagascar,10104,93,6613,3398,414,2,353
+7/28/20,Malawi,3709,103,1667,1939,45,4,22
+7/28/20,Malaysia,8943,124,8607,212,39,0,6
+7/28/20,Maldives,3506,15,2547,944,137,0,0
+7/28/20,Mali,2520,124,1919,477,7,0,6
+7/28/20,Malta,708,9,665,34,7,0,0
+7/28/20,Mauritania,6249,156,4683,1410,41,0,30
+7/28/20,Mauritius,344,10,332,2,0,0,0
+7/28/20,Mexico,402697,44876,308142,49679,7208,854,4332
+7/28/20,Moldova,23521,753,16462,6306,367,5,308
+7/28/20,Monaco,117,4,104,9,1,0,0
+7/28/20,Mongolia,291,0,225,66,2,0,3
+7/28/20,Montenegro,2949,45,839,2065,56,0,30
+7/28/20,Morocco,21387,327,17066,3994,500,11,513
+7/28/20,Mozambique,1720,11,602,1107,19,0,6
+7/28/20,Namibia,1917,8,104,1805,74,0,3
+7/28/20,Nepal,19063,49,13875,5139,311,1,121
+7/28/20,Netherlands,53647,6164,196,47287,223,4,0
+7/28/20,New Zealand,1559,22,1514,23,2,0,0
+7/28/20,Nicaragua,3672,116,2492,1064,233,8,0
+7/28/20,Niger,1132,69,1027,36,0,0,0
+7/28/20,Nigeria,41804,868,18764,22172,624,8,561
+7/28/20,North Macedonia,10315,471,5663,4181,102,5,99
+7/28/20,Norway,9150,255,8752,143,18,0,0
+7/28/20,Oman,77904,402,58587,18915,846,9,1559
+7/28/20,Pakistan,275225,5865,242436,26924,936,23,1410
+7/28/20,Panama,62223,1349,36181,24693,781,27,1095
+7/28/20,Papua New Guinea,63,0,11,52,1,0,0
+7/28/20,Paraguay,4674,45,3039,1590,126,2,134
+7/28/20,Peru,389717,18418,276452,94847,0,0,3905
+7/28/20,Philippines,83673,1947,26617,55109,1633,2,171
+7/28/20,Poland,43904,1682,33043,9179,502,6,187
+7/28/20,Portugal,50410,1722,35626,13062,111,3,251
+7/28/20,Qatar,109880,167,106603,3110,283,2,275
+7/28/20,Romania,47053,2239,26128,18686,1151,33,334
+7/28/20,Russia,822060,13483,611109,197468,5380,149,8860
+7/28/20,Rwanda,1926,5,1005,916,47,0,30
+7/28/20,Saint Kitts and Nevis,17,0,15,2,0,0,0
+7/28/20,Saint Lucia,24,0,22,2,0,0,0
+7/28/20,Saint Vincent and the Grenadines,52,0,39,13,0,0,0
+7/28/20,San Marino,699,42,657,0,0,0,0
+7/28/20,Sao Tome and Principe,867,14,759,94,2,0,25
+7/28/20,Saudi Arabia,270831,2789,225624,42418,1897,29,2688
+7/28/20,Senegal,9805,198,6591,3016,41,4,114
+7/28/20,Serbia,24520,551,0,23969,379,8,0
+7/28/20,Seychelles,114,0,39,75,0,0,0
+7/28/20,Sierra Leone,1786,66,1336,384,3,0,19
+7/28/20,Singapore,51197,27,45893,5277,359,0,201
+7/28/20,Slovakia,2204,28,1644,532,23,0,28
+7/28/20,Slovenia,2101,117,1742,242,14,1,9
+7/28/20,Somalia,3212,93,1562,1557,16,0,19
+7/28/20,South Africa,459761,7257,287313,165191,7232,190,12388
+7/28/20,South Sudan,2305,46,1175,1084,0,0,0
+7/28/20,Spain,280610,28436,150376,101798,1828,2,0
+7/28/20,Sri Lanka,2810,11,2296,503,5,0,175
+7/28/20,Sudan,11496,725,6001,4770,72,5,62
+7/28/20,Suriname,1510,24,965,521,27,0,40
+7/28/20,Sweden,79494,5702,0,73792,99,2,0
+7/28/20,Switzerland,34609,1978,31000,1631,132,0,100
+7/28/20,Syria,694,40,220,434,20,0,10
+7/28/20,Taiwan*,467,7,440,20,5,0,0
+7/28/20,Tajikistan,7276,60,6065,1151,41,0,37
+7/28/20,Tanzania,509,21,183,305,0,0,0
+7/28/20,Thailand,3297,58,3111,128,0,0,0
+7/28/20,Timor-Leste,24,0,24,0,0,0,0
+7/28/20,Togo,896,18,612,266,22,0,5
+7/28/20,Trinidad and Tobago,153,8,128,17,5,0,0
+7/28/20,Tunisia,1468,50,1168,250,13,0,11
+7/28/20,Turkey,227982,5645,211561,10776,963,15,1092
+7/28/20,US,4351997,149256,1355363,2847378,61660,1244,29559
+7/28/20,Uganda,1135,2,989,144,7,0,3
+7/28/20,Ukraine,68030,1650,37852,28528,934,14,650
+7/28/20,United Arab Emirates,59546,347,52905,6294,369,2,395
+7/28/20,United Kingdom,302261,45963,1438,254860,553,119,1
+7/28/20,Uruguay,1218,35,958,225,16,0,7
+7/28/20,Uzbekistan,21699,124,12026,9549,490,3,352
+7/28/20,Venezuela,16571,151,10195,6225,583,5,236
+7/28/20,Vietnam,446,0,369,77,15,0,4
+7/28/20,West Bank and Gaza,10938,79,3752,7107,317,1,0
+7/28/20,Western Sahara,10,1,8,1,0,0,0
+7/28/20,Yemen,1703,484,840,379,12,1,7
+7/28/20,Zambia,5002,142,3195,1665,450,2,380
+7/28/20,Zimbabwe,2817,40,604,2173,113,4,62
+7/3/20,Afghanistan,32324,819,17331,14174,0,-451,-8027
+7/3/20,Albania,2752,72,1592,1088,0,-76,-1197
+7/3/20,Algeria,15070,937,10832,3301,0,-237,-8401
 7/3/20,Andorra,855,52,800,3,0,0,-3
-7/3/20,Angola,328,18,107,203,0,-23,-135
+7/3/20,Angola,328,18,107,203,0,-29,-159
 7/3/20,Antigua and Barbuda,68,3,23,42,0,0,-42
-7/3/20,Argentina,72786,1437,25224,46125,0,-1622,-47351
-7/3/20,Armenia,27320,469,15484,11367,0,-242,-11181
-7/3/20,Australia,8260,104,7319,837,0,-63,-1992
-7/3/20,Austria,18050,705,16558,787,0,-8,-1688
-7/3/20,Azerbaijan,19267,235,10820,8212,0,-188,-12422
+7/3/20,Argentina,72786,1437,25224,46125,0,-1742,-49859
+7/3/20,Armenia,27320,469,15484,11367,0,-250,-11873
+7/3/20,Australia,8260,104,7319,837,0,-72,-2298
+7/3/20,Austria,18050,705,16558,787,0,-8,-1821
+7/3/20,Azerbaijan,19267,235,10820,8212,0,-195,-13053
 7/3/20,Bahamas,104,11,89,4,0,0,-2
-7/3/20,Bahrain,28410,95,23318,4997,0,-46,-12792
-7/3/20,Bangladesh,156391,1968,68048,86375,0,-997,-57635
+7/3/20,Bahrain,28410,95,23318,4997,0,-46,-13213
+7/3/20,Bangladesh,156391,1968,68048,86375,0,-1032,-59366
 7/3/20,Barbados,97,7,90,0,0,0,-4
-7/3/20,Belarus,62997,412,49909,12676,0,-126,-10583
-7/3/20,Belgium,61727,9765,17073,34889,0,-57,-379
-7/3/20,Belize,30,2,19,9,0,0,-7
+7/3/20,Belarus,62997,412,49909,12676,0,-131,-10760
+7/3/20,Belgium,61727,9765,17073,34889,0,-68,-403
+7/3/20,Belize,30,2,19,9,0,0,-8
 7/3/20,Benin,1199,21,333,845,0,-14,-703
 7/3/20,Bhutan,77,0,50,27,0,0,-36
-7/3/20,Bolivia,36818,1320,10766,24732,0,-1327,-10712
-7/3/20,Bosnia and Herzegovina,4962,191,2550,2221,0,-103,-2380
+7/3/20,Bolivia,36818,1320,10766,24732,0,-1400,-11205
+7/3/20,Bosnia and Herzegovina,4962,191,2550,2221,0,-106,-2670
 7/3/20,Botswana,277,1,29,247,0,-1,-34
-7/3/20,Brazil,1539081,63174,984615,491292,0,-24444,-862026
+7/3/20,Brazil,1539081,63174,984615,491292,0,-25365,-884134
 7/3/20,Brunei,141,3,138,0,0,0,0
-7/3/20,Bulgaria,5497,239,2892,2366,0,-108,-2693
+7/3/20,Bulgaria,5497,239,2892,2366,0,-116,-2874
 7/3/20,Burkina Faso,980,53,852,75,0,0,-74
-7/3/20,Burma,306,6,237,63,0,0,-55
+7/3/20,Burma,306,6,237,63,0,0,-56
 7/3/20,Burundi,191,1,118,72,0,0,-183
-7/3/20,Cabo Verde,1382,15,629,738,0,-7,-921
+7/3/20,Cabo Verde,1382,15,629,738,0,-7,-987
 7/3/20,Cambodia,141,0,131,10,0,0,-16
 7/3/20,Cameroon,12592,313,10100,2179,0,-78,-4439
-7/3/20,Canada,106962,8722,70232,28008,0,-223,-31215
+7/3/20,Canada,106962,8722,70232,28008,0,-235,-31454
 7/3/20,Central African Republic,3918,48,859,3011,0,-11,-687
 7/3/20,Chad,871,74,786,11,0,-1,-24
-7/3/20,Chile,288089,6051,253343,28695,0,-3136,-66611
-7/3/20,China,84838,4641,79680,517,0,-15,-786
-7/3/20,Colombia,109505,3777,44606,61122,0,-5000,-86555
+7/3/20,Chile,288089,6051,253343,28695,0,-3189,-68989
+7/3/20,China,84838,4641,79680,517,0,-16,-837
+7/3/20,Colombia,109505,3777,44606,61122,0,-5297,-92084
 7/3/20,Comoros,309,7,241,61,0,0,-87
 7/3/20,Congo (Brazzaville),1557,44,501,1012,0,-10,-328
-7/3/20,Congo (Kinshasa),7311,179,2684,4448,0,-29,-3016
-7/3/20,Costa Rica,4311,18,1657,2636,0,-97,-2167
-7/3/20,Cote d'Ivoire,10244,70,4726,5448,0,-26,-5635
-7/3/20,Croatia,3008,112,2168,728,0,-27,-1768
-7/3/20,Cuba,2361,86,2224,51,0,-1,-127
+7/3/20,Congo (Kinshasa),7311,179,2684,4448,0,-29,-3246
+7/3/20,Costa Rica,4311,18,1657,2636,0,-107,-2263
+7/3/20,Cote d'Ivoire,10244,70,4726,5448,0,-28,-5811
+7/3/20,Croatia,3008,112,2168,728,0,-28,-1866
+7/3/20,Cuba,2361,86,2224,51,0,-1,-128
 7/3/20,Cyprus,999,19,839,141,0,0,-13
-7/3/20,Czechia,12319,353,7848,4118,0,-20,-3580
-7/3/20,Denmark,13032,606,12017,409,0,-7,-601
+7/3/20,Czechia,12319,353,7848,4118,0,-21,-3580
+7/3/20,Denmark,13032,606,12017,409,0,-7,-635
 7/3/20,Diamond Princess,712,13,651,48,0,0,0
-7/3/20,Djibouti,4736,55,4580,101,0,-3,-397
+7/3/20,Djibouti,4736,55,4580,101,0,-3,-412
 7/3/20,Dominica,18,0,18,0,0,0,0
-7/3/20,Dominican Republic,35148,775,18392,15981,0,-308,-11812
-7/3/20,Ecuador,60657,4700,28391,27566,0,-832,-6505
-7/3/20,Egypt,72711,3201,19690,49820,0,-1451,-15148
-7/3/20,El Salvador,7267,202,4268,2797,0,-206,-3510
+7/3/20,Dominican Republic,35148,775,18392,15981,0,-326,-13622
+7/3/20,Ecuador,60657,4700,28391,27566,0,-884,-6892
+7/3/20,Egypt,72711,3201,19690,49820,0,-1490,-16269
+7/3/20,El Salvador,7267,202,4268,2797,0,-215,-3635
 7/3/20,Equatorial Guinea,3071,51,842,2178,0,0,0
 7/3/20,Eritrea,215,0,56,159,0,0,-135
-7/3/20,Estonia,1991,69,1859,63,0,0,-64
-7/3/20,Eswatini,909,13,515,381,0,-21,-510
-7/3/20,Ethiopia,5846,103,2430,3313,0,-125,-3956
+7/3/20,Estonia,1991,69,1859,63,0,0,-65
+7/3/20,Eswatini,909,13,515,381,0,-26,-510
+7/3/20,Ethiopia,5846,103,2430,3313,0,-136,-4096
 7/3/20,Fiji,18,0,18,0,0,0,0
 7/3/20,Finland,7242,329,6700,213,0,0,-220
-7/3/20,France,204222,29896,77185,97141,0,-316,-4027
+7/3/20,France,204222,29896,77185,97141,0,-330,-4256
 7/3/20,Gabon,5620,44,2555,3021,0,-5,-2127
 7/3/20,Gambia,55,2,27,26,0,-6,-39
-7/3/20,Georgia,943,15,821,107,0,-1,-101
-7/3/20,Germany,196780,9010,180300,7470,0,-115,-10014
-7/3/20,Ghana,19388,117,14330,4941,0,-51,-15471
-7/3/20,Greece,3486,192,1374,1920,0,-10,0
+7/3/20,Georgia,943,15,821,107,0,-1,-106
+7/3/20,Germany,196780,9010,180300,7470,0,-121,-10411
+7/3/20,Ghana,19388,117,14330,4941,0,-51,-16291
+7/3/20,Greece,3486,192,1374,1920,0,-11,0
 7/3/20,Grenada,23,0,23,0,0,0,0
-7/3/20,Guatemala,21293,880,3315,17098,0,-881,-29140
-7/3/20,Guinea,5521,33,4446,1042,0,-12,-1811
+7/3/20,Guatemala,21293,880,3315,17098,0,-902,-30179
+7/3/20,Guinea,5521,33,4446,1042,0,-13,-1866
 7/3/20,Guinea-Bissau,1765,25,676,1064,0,-1,-127
 7/3/20,Guyana,256,14,117,125,0,-6,-64
 7/3/20,Haiti,6230,110,1286,4834,0,-48,-3079
 7/3/20,Holy See,12,0,12,0,0,0,0
-7/3/20,Honduras,22116,605,2250,19261,0,-561,-2789
-7/3/20,Hungary,4172,588,2752,832,0,-8,-577
+7/3/20,Honduras,22116,605,2250,19261,0,-609,-2853
+7/3/20,Hungary,4172,588,2752,832,0,-8,-579
 7/3/20,Iceland,1830,10,1803,17,0,0,-20
-7/3/20,India,648315,18655,394227,235433,0,-14753,-556939
-7/3/20,Indonesia,60695,3036,27568,30091,0,-1802,-30605
-7/3/20,Iran,235429,11260,196446,27723,0,-4652,-58698
-7/3/20,Iraq,56020,2262,29600,24158,0,-2196,-47544
+7/3/20,India,648315,18655,394227,235433,0,-14770,-558516
+7/3/20,Indonesia,60695,3036,27568,30091,0,-1865,-32971
+7/3/20,Iran,235429,11260,196446,27723,0,-4887,-60573
+7/3/20,Iraq,56020,2262,29600,24158,0,-2273,-51462
 7/3/20,Ireland,25498,1740,23364,394,0,-24,0
-7/3/20,Israel,28055,326,17669,10060,0,-148,-9464
-7/3/20,Italy,241184,34833,191467,14884,0,-279,-7126
-7/3/20,Jamaica,721,10,565,146,0,0,-149
-7/3/20,Japan,19185,977,16721,1487,0,-21,-5249
-7/3/20,Jordan,1147,10,897,240,0,-1,-144
-7/3/20,Kazakhstan,45719,188,15276,30255,0,-397,-39128
-7/3/20,Kenya,7188,154,2148,4886,0,-131,-5685
-7/3/20,"Korea, South",13030,283,11811,936,0,-17,-1196
-7/3/20,Kosovo,3064,55,1707,1302,0,-130,-2320
-7/3/20,Kuwait,48672,360,39276,9036,0,-78,-15781
-7/3/20,Kyrgyzstan,6878,76,2671,4131,0,-1225,-18534
+7/3/20,Israel,28055,326,17669,10060,0,-160,-14513
+7/3/20,Italy,241184,34833,191467,14884,0,-290,-7289
+7/3/20,Jamaica,721,10,565,146,0,0,-159
+7/3/20,Japan,19185,977,16721,1487,0,-24,-5915
+7/3/20,Jordan,1147,10,897,240,0,-1,-145
+7/3/20,Kazakhstan,45719,188,15276,30255,0,-605,-41362
+7/3/20,Kenya,7188,154,2148,4886,0,-145,-5760
+7/3/20,"Korea, South",13030,283,11811,936,0,-17,-1258
+7/3/20,Kosovo,3064,55,1707,1302,0,-137,-2422
+7/3/20,Kuwait,48672,360,39276,9036,0,-82,-16405
+7/3/20,Kyrgyzstan,6878,76,2671,4131,0,-1253,-19625
 7/3/20,Laos,19,0,19,0,0,0,0
-7/3/20,Latvia,1122,30,997,95,0,-1,-48
-7/3/20,Lebanon,1830,35,1292,503,0,-16,-417
+7/3/20,Latvia,1122,30,997,95,0,-1,-55
+7/3/20,Lebanon,1830,35,1292,503,0,-19,-418
 7/3/20,Lesotho,35,0,11,24,0,-12,-117
 7/3/20,Liberia,833,37,346,450,0,-35,-300
-7/3/20,Libya,918,27,230,661,0,-37,-347
+7/3/20,Libya,918,27,230,661,0,-40,-349
 7/3/20,Liechtenstein,83,1,81,1,0,0,0
-7/3/20,Lithuania,1828,79,1539,210,0,-1,-81
-7/3/20,Luxembourg,4447,110,4016,321,0,-2,-809
+7/3/20,Lithuania,1828,79,1539,210,0,-1,-84
+7/3/20,Luxembourg,4447,110,4016,321,0,-3,-839
 7/3/20,MS Zaandam,9,2,0,7,0,0,0
-7/3/20,Madagascar,2512,26,1057,1429,0,-65,-5203
-7/3/20,Malawi,1498,16,317,1165,0,-83,-1328
-7/3/20,Malaysia,8648,121,8446,81,0,-3,-155
+7/3/20,Madagascar,2512,26,1057,1429,0,-67,-5556
+7/3/20,Malawi,1498,16,317,1165,0,-87,-1350
+7/3/20,Malaysia,8648,121,8446,81,0,-3,-161
 7/3/20,Maldives,2410,10,1976,424,0,-5,-571
-7/3/20,Mali,2285,117,1507,661,0,-7,-406
+7/3/20,Mali,2285,117,1507,661,0,-7,-412
 7/3/20,Malta,672,9,650,13,0,0,-15
-7/3/20,Mauritania,4705,129,1765,2811,0,-27,-2888
+7/3/20,Mauritania,4705,129,1765,2811,0,-27,-2918
 7/3/20,Mauritius,341,10,330,1,0,0,-2
-7/3/20,Mexico,245251,29843,189345,26063,0,-14179,-114465
-7/3/20,Moldova,17445,572,10093,6780,0,-176,-6061
+7/3/20,Mexico,245251,29843,189345,26063,0,-15033,-118797
+7/3/20,Moldova,17445,572,10093,6780,0,-181,-6369
 7/3/20,Monaco,106,4,95,7,0,0,-9
-7/3/20,Mongolia,220,0,183,37,0,0,-39
-7/3/20,Montenegro,663,13,315,335,0,-32,-494
-7/3/20,Morocco,13288,230,9160,3898,0,-86,-7393
-7/3/20,Mozambique,939,6,249,684,0,-5,-347
-7/3/20,Namibia,350,0,25,325,0,-8,-76
-7/3/20,Nepal,15259,32,6143,9084,0,-16,-7611
-7/3/20,Netherlands,50698,6139,186,44373,0,-21,-10
+7/3/20,Mongolia,220,0,183,37,0,0,-42
+7/3/20,Montenegro,663,13,315,335,0,-32,-524
+7/3/20,Morocco,13288,230,9160,3898,0,-97,-7906
+7/3/20,Mozambique,939,6,249,684,0,-5,-353
+7/3/20,Namibia,350,0,25,325,0,-8,-79
+7/3/20,Nepal,15259,32,6143,9084,0,-17,-7732
+7/3/20,Netherlands,50698,6139,186,44373,0,-25,-10
 7/3/20,New Zealand,1530,22,1490,18,0,0,-24
-7/3/20,Nicaragua,2519,83,1238,1198,0,-25,-1254
+7/3/20,Nicaragua,2519,83,1238,1198,0,-33,-1254
 7/3/20,Niger,1082,68,963,51,0,-1,-64
-7/3/20,Nigeria,27564,628,11069,15867,0,-232,-7134
-7/3/20,North Macedonia,6787,328,2876,3583,0,-138,-2688
+7/3/20,Nigeria,27564,628,11069,15867,0,-240,-7695
+7/3/20,North Macedonia,6787,328,2876,3583,0,-143,-2787
 7/3/20,Norway,8921,251,8138,532,0,-4,-614
-7/3/20,Oman,43929,193,26169,17567,0,-200,-30859
-7/3/20,Pakistan,221896,4551,113623,103722,0,-1291,-127403
-7/3/20,Panama,35995,698,16945,18352,0,-624,-18141
+7/3/20,Oman,43929,193,26169,17567,0,-209,-32418
+7/3/20,Pakistan,221896,4551,113623,103722,0,-1314,-128813
+7/3/20,Panama,35995,698,16945,18352,0,-651,-19236
 7/3/20,Papua New Guinea,11,0,8,3,0,0,-3
-7/3/20,Paraguay,2349,19,1113,1217,0,-24,-1792
-7/3/20,Peru,295599,10226,185852,99521,0,-8192,-86695
-7/3/20,Philippines,40336,1280,11073,27983,0,-665,-15373
-7/3/20,Poland,35405,1507,22651,11247,0,-169,-10205
-7/3/20,Portugal,43156,1598,28424,13134,0,-121,-6951
-7/3/20,Qatar,98653,121,88583,9949,0,-44,-17745
-7/3/20,Romania,28166,1708,19545,6913,0,-498,-6249
-7/3/20,Russia,666941,9844,437155,219942,0,-3490,-165094
-7/3/20,Rwanda,1081,3,512,566,0,-2,-463
+7/3/20,Paraguay,2349,19,1113,1217,0,-26,-1926
+7/3/20,Peru,295599,10226,185852,99521,0,-8192,-90600
+7/3/20,Philippines,40336,1280,11073,27983,0,-667,-15544
+7/3/20,Poland,35405,1507,22651,11247,0,-175,-10392
+7/3/20,Portugal,43156,1598,28424,13134,0,-124,-7202
+7/3/20,Qatar,98653,121,88583,9949,0,-46,-18020
+7/3/20,Romania,28166,1708,19545,6913,0,-531,-6583
+7/3/20,Russia,666941,9844,437155,219942,0,-3639,-173954
+7/3/20,Rwanda,1081,3,512,566,0,-2,-493
 7/3/20,Saint Kitts and Nevis,15,0,15,0,0,0,0
 7/3/20,Saint Lucia,22,0,19,3,0,0,-3
 7/3/20,Saint Vincent and the Grenadines,29,0,29,0,0,0,-10
 7/3/20,San Marino,698,42,656,0,0,0,-1
-7/3/20,Sao Tome and Principe,719,13,267,439,0,-1,-467
-7/3/20,Saudi Arabia,201801,1802,140614,59385,0,-958,-82322
-7/3/20,Senegal,7164,125,4666,2373,0,-69,-1811
-7/3/20,Serbia,15504,298,13064,2142,0,-245,13064
+7/3/20,Sao Tome and Principe,719,13,267,439,0,-1,-492
+7/3/20,Saudi Arabia,201801,1802,140614,59385,0,-987,-85010
+7/3/20,Senegal,7164,125,4666,2373,0,-73,-1925
+7/3/20,Serbia,15504,298,13064,2142,0,-253,13064
 7/3/20,Seychelles,81,0,11,70,0,0,-28
-7/3/20,Sierra Leone,1524,62,1042,420,0,-4,-275
-7/3/20,Singapore,44479,26,39769,4684,0,-1,-5923
-7/3/20,Slovakia,1720,28,1466,226,0,0,-150
-7/3/20,Slovenia,1650,111,1384,155,0,-5,-349
-7/3/20,Somalia,2944,90,951,1903,0,-3,-592
-7/3/20,South Africa,177124,2952,86298,87874,0,-4115,-188627
+7/3/20,Sierra Leone,1524,62,1042,420,0,-4,-294
+7/3/20,Singapore,44479,26,39769,4684,0,-1,-6124
+7/3/20,Slovakia,1720,28,1466,226,0,0,-178
+7/3/20,Slovenia,1650,111,1384,155,0,-6,-358
+7/3/20,Somalia,2944,90,951,1903,0,-3,-611
+7/3/20,South Africa,177124,2952,86298,87874,0,-4305,-201015
 7/3/20,South Sudan,2021,38,333,1650,0,-8,-842
-7/3/20,Spain,250545,28385,150376,71784,0,-47,0
-7/3/20,Sri Lanka,2069,11,1863,195,0,0,-258
-7/3/20,Sudan,9663,604,4624,4435,0,-116,-1315
-7/3/20,Suriname,561,13,267,281,0,-11,-658
-7/3/20,Sweden,71419,5420,0,65999,0,-280,0
-7/3/20,Switzerland,32101,1965,29200,936,0,-13,-1700
-7/3/20,Syria,328,10,123,195,0,-30,-87
+7/3/20,Spain,250545,28385,150376,71784,0,-51,0
+7/3/20,Sri Lanka,2069,11,1863,195,0,0,-433
+7/3/20,Sudan,9663,604,4624,4435,0,-121,-1377
+7/3/20,Suriname,561,13,267,281,0,-11,-698
+7/3/20,Sweden,71419,5420,0,65999,0,-282,0
+7/3/20,Switzerland,32101,1965,29200,936,0,-13,-1800
+7/3/20,Syria,328,10,123,195,0,-30,-97
 7/3/20,Taiwan*,449,7,438,4,0,0,-2
-7/3/20,Tajikistan,6058,52,4690,1316,0,-8,-1338
+7/3/20,Tajikistan,6058,52,4690,1316,0,-8,-1375
 7/3/20,Tanzania,509,21,183,305,0,0,0
 7/3/20,Thailand,3180,58,3066,56,0,0,-45
 7/3/20,Timor-Leste,24,0,24,0,0,0,0
-7/3/20,Togo,671,14,424,233,0,-4,-183
+7/3/20,Togo,671,14,424,233,0,-4,-188
 7/3/20,Trinidad and Tobago,130,8,115,7,0,0,-13
-7/3/20,Tunisia,1181,50,1045,86,0,0,-112
-7/3/20,Turkey,203456,5186,178278,19992,0,-444,-32191
-7/3/20,US,2795361,129442,790404,1875515,0,-18569,-535400
-7/3/20,Uganda,911,0,849,62,0,-2,-137
-7/3/20,Ukraine,47705,1227,21296,25182,0,-409,-15906
-7/3/20,United Arab Emirates,50141,318,39153,10670,0,-27,-13357
-7/3/20,United Kingdom,285787,44216,1375,240196,0,-1628,-62
-7/3/20,Uruguay,952,28,837,87,0,-7,-114
-7/3/20,Uzbekistan,9396,29,6251,3116,0,-92,-5423
-7/3/20,Venezuela,6537,59,2100,4378,0,-87,-7859
-7/3/20,Vietnam,355,0,340,15,0,0,-25
-7/3/20,West Bank and Gaza,3334,11,463,2860,0,-67,-3289
+7/3/20,Tunisia,1181,50,1045,86,0,0,-123
+7/3/20,Turkey,203456,5186,178278,19992,0,-459,-33283
+7/3/20,US,2795361,129442,790404,1875515,0,-19814,-564959
+7/3/20,Uganda,911,0,849,62,0,-2,-140
+7/3/20,Ukraine,47705,1227,21296,25182,0,-423,-16556
+7/3/20,United Arab Emirates,50141,318,39153,10670,0,-29,-13752
+7/3/20,United Kingdom,285787,44216,1375,240196,0,-1747,-63
+7/3/20,Uruguay,952,28,837,87,0,-7,-121
+7/3/20,Uzbekistan,9396,29,6251,3116,0,-95,-5775
+7/3/20,Venezuela,6537,59,2100,4378,0,-92,-8095
+7/3/20,Vietnam,355,0,340,15,0,0,-29
+7/3/20,West Bank and Gaza,3334,11,463,2860,0,-68,-3289
 7/3/20,Western Sahara,10,1,8,1,0,0,0
-7/3/20,Yemen,1240,335,536,369,0,-148,-297
-7/3/20,Zambia,1632,30,1348,254,0,-110,-1467
-7/3/20,Zimbabwe,625,7,176,442,0,-29,-366
+7/3/20,Yemen,1240,335,536,369,0,-149,-304
+7/3/20,Zambia,1632,30,1348,254,0,-112,-1847
+7/3/20,Zimbabwe,625,7,176,442,0,-33,-428
 7/4/20,Afghanistan,32672,826,19164,12682,348,7,1833
 7/4/20,Albania,2819,74,1637,1108,67,2,45
 7/4/20,Algeria,15500,946,11181,3373,430,9,349
@@ -34307,7 +34495,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/4/20,Kazakhstan,47171,188,15556,31427,1452,0,280
 7/4/20,Kenya,7577,159,2236,5182,389,5,88
 7/4/20,"Korea, South",13091,283,11832,976,61,0,21
-7/4/20,Kosovo,3064,55,1707,1302,0,0,0
+7/4/20,Kosovo,3178,58,1824,1296,114,3,117
 7/4/20,Kuwait,49303,365,39943,8995,631,5,667
 7/4/20,Kyrgyzstan,7094,78,2714,4302,216,2,43
 7/4/20,Laos,19,0,19,0,0,0,0
@@ -34495,7 +34683,7 @@ Date,Country,Confirmed,Deaths,Recovered,Active,New Cases,New Deaths,New Recovere
 7/5/20,Kazakhstan,48574,188,15860,32526,1403,0,304
 7/5/20,Kenya,7886,160,2287,5439,309,1,51
 7/5/20,"Korea, South",13137,284,11848,1005,46,1,16
-7/5/20,Kosovo,3356,66,1874,1416,292,11,167
+7/5/20,Kosovo,3356,66,1874,1416,178,8,50
 7/5/20,Kuwait,49941,368,40463,9110,638,3,520
 7/5/20,Kyrgyzstan,7377,88,2802,4487,283,10,88
 7/5/20,Laos,19,0,19,0,0,0,0
