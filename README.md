@@ -17,6 +17,34 @@ This dataset includes time series data tracking the number of people affected by
 This is sample code by using you can get started working with this dataset.
 
 ```
+# import
+# imports
+import plotly.express as px
+import plotly.graph_objects as go
+import plotly.figure_factory as ff
+from plotly.subplots import make_subplots
+
+import folium
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+import math
+import random
+from datetime import timedelta
+import warnings
+warnings.filterwarnings('ignore')
+
+#color pallette
+cnf = '#393e46'
+dth = '#ff2e63'
+rec = '#21bf73'
+act = '#fe9801'
+```
+
+Let's code
+```
 # load the dataset
 df = pd.read_csv('Covid-19-Preprocessed-Dataset/preprocessed/covid_19_data_cleaned.csv', parse_dates=['Date'])
 
@@ -40,31 +68,7 @@ fig.add_trace(go.Scatter(x = deaths['Date'], y = deaths['Deaths'], mode = 'lines
 fig.update_layout(title = 'Worldwide Covid-19 Cases', xaxis_tickfont_size = 14, yaxis = dict(title = 'Number of Cases'))
 
 fig.show()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
 
 ## Data
 
